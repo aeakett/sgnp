@@ -1,7 +1,7 @@
 ﻿UNITED KINGDOM
 Compiled by Mischa D. Krilov and Jason Morningstar
 SCOTTISH MALE
-<li>John</li>
+<ol><li>John</li>
 <li>James</li>
 <li>William</li>
 <li>Robert</li>
@@ -20,9 +20,9 @@ SCOTTISH MALE
 <li>Samuel</li>
 <li>Daniel</li>
 <li>Francis</li>
-<li>Edward</li>
+<li>Edward</li></ol>
 SCOTTISH FEMALE
-<li>Mary</li>
+<ol><li>Mary</li>
 <li>Margaret</li>
 <li>Elizabeth</li>
 <li>Jean</li>
@@ -41,9 +41,9 @@ SCOTTISH FEMALE
 <li>Barbara</li>
 <li>Bridget</li>
 <li>Lily</li>
-<li>Johanna</li>
+<li>Johanna</li></ol>
 SCOTTISH SURNAMES
-<li>Smith </li>
+<ol><li>Smith </li>
 <li>Marshall </li>
 <li>Brown </li>
 <li>Stevenson </li>
@@ -62,9 +62,9 @@ SCOTTISH SURNAMES
 <li>Macdonald </li>
 <li>Jones </li>
 <li>Scott </li>
-<li>Burns</li>
+<li>Burns</li></ol>
 WELSH MALE
-<li>Andrew</li>
+<ol><li>Andrew</li>
 <li>Arthur</li>
 <li>Brian</li>
 <li>Daniel</li>
@@ -83,9 +83,9 @@ WELSH MALE
 <li>Richard</li>
 <li>Stephen</li>
 <li>Christopher</li>
-<li>Francis</li>
+<li>Francis</li></ol>
 WELSH FEMALE
-<li>Charlotte</li>
+<ol><li>Charlotte</li>
 <li>Deborah</li>
 <li>Doris</li>
 <li>Dorothy</li>
@@ -104,9 +104,9 @@ WELSH FEMALE
 <li>Megan</li>
 <li>Patricia</li>
 <li>Rebecca</li>
-<li>Susan</li>
+<li>Susan</li></ol>
 WELSH SURNAME 1
-<li>Jones                     </li>
+<ol><li>Jones                     </li>
 <li>Williams                     </li>
 <li>Davies                     </li>
 <li>Evans                     </li>
@@ -125,9 +125,9 @@ WELSH SURNAME 1
 <li>Pritchard                     </li>
 <li>Rogers                     </li>
 <li>Matthews                     </li>
-<li>Rowlands  </li>
+<li>Rowlands  </li></ol>
 WELSH SURNAME 2       
-<li>Edwards                     </li>
+<ol><li>Edwards                     </li>
 <li>Owen                     </li>
 <li>James                     </li>
 <li>Morris                     </li>
@@ -146,9 +146,9 @@ WELSH SURNAME 2
 <li>Bennett                     </li>
 <li>Bevan                     </li>
 <li>Pearse                     </li>
-<li>Adams                     </li>
+<li>Adams                     </li></ol>
 BRITISH MALE
-<li>Alexander</li>
+<ol><li>Alexander</li>
 <li>Charles</li>
 <li>Daniel</li>
 <li>David</li>
@@ -167,9 +167,9 @@ BRITISH MALE
 <li>Robert</li>
 <li>Samuel</li>
 <li>Thomas</li>
-<li>William</li>
+<li>William</li></ol>
 BRITISH FEMALE
-<li>Alice</li>
+<ol><li>Alice</li>
 <li>Jennifer</li>
 <li>Elizabeth</li>
 <li>Rachel</li>
@@ -188,9 +188,9 @@ BRITISH FEMALE
 <li>Rebecca</li>
 <li>Lauren</li>
 <li>Tracy</li>
-<li>Jane</li>
+<li>Jane</li></ol>
 BRITISH SURNAMES
-<li>Smith</li>
+<ol><li>Smith</li>
 <li>Jones </li>
 <li>Williams</li>
 <li>Taylor </li>
@@ -209,10 +209,10 @@ BRITISH SURNAMES
 <li>Edwards</li>
 <li>Hughes </li>
 <li>Green</li>
-<li>Hall</li>
+<li>Hall</li></ol>
 NICKNAMES
 In England and Australia, first names whose first syllable ends in R (Sarah, Jeremy, Charles, etc) are sometimes reduced to nicknames ending in "-zza" or sometimes just "-z." (Sazza, Jez, Chaz) This can happen for both men an women, and is particularly common in the press as applied to media figures. For more information, see:  http://en.wikipedia.org/wiki/Zza_nicknames
-<li>Gaz</li>
+<ol><li>Gaz</li>
 <li>Baz</li>
 <li>Boz</li>
 <li>Moz</li>
@@ -231,4 +231,4 @@ In England and Australia, first names whose first syllable ends in R (Sarah, Jer
 <li>Jez</li>
 <li>Riz</li>
 <li>Saz</li>
-<li>Kaz</li>
+<li>Kaz</li></ol>

@@ -3,7 +3,7 @@ Compiled by Joshua BishopRoby
 NOTES
 Sindarin names from: Noel, Ruth S. and Tolkien, J.R.R., Languages of Tolkien's Middle Earth.  Houghton-Mifflin, Boston, Massachusetts. 1980.  
 MALE
-<li>Ehtyarion / Spear Carrier</li>
+<ol><li>Ehtyarion / Spear Carrier</li>
 <li>Mithrennon / Grey</li>
 <li>Barathion  / Eager</li>
 <li>Rilien / Brilliant</li>
@@ -22,9 +22,9 @@ MALE
 <li>Valdaglerion / Worthy</li>
 <li>Bregolien / Fierce</li>
 <li>Calanon / Light</li>
-<li>Idhrenion / Wise</li>
+<li>Idhrenion / Wise</li></ol>
 FEMALE
-<li>Silivrenniel / White</li>
+<ol><li>Silivrenniel / White</li>
 <li>Bellethiel / Strong</li>
 <li>Gwilwilethel / Butterfly</li>
 <li>Tirananniel  / Far-Seeing</li>
@@ -43,4 +43,4 @@ FEMALE
 <li>Alassiel / Joyful</li>
 <li>Valadhiel / Angelic</li>
 <li>Vanlanthiriel  / beautiful waterfall</li>
-<li>Faelwen / Justice</li>
+<li>Faelwen / Justice</li></ol>

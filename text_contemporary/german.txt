@@ -1,6 +1,6 @@
 ﻿GERMAN Compiled by Harald Wagener and Moyra Turkington
 REALISTIC MALE
-<li>Jürgen</li>
+<ol><li>Jürgen</li>
 <li>Ingo</li>
 <li>Carsten</li>
 <li>Thomas</li>
@@ -19,9 +19,9 @@ REALISTIC MALE
 <li>Matthias</li>
 <li>Achim</li>
 <li>Kai</li>
-<li>Andreas</li>
+<li>Andreas</li></ol>
 REALISTIC FEMALE
-<li>Christina</li>
+<ol><li>Christina</li>
 <li>Jana</li>
 <li>Sabine</li>
 <li>Kathrin</li>
@@ -40,9 +40,9 @@ REALISTIC FEMALE
 <li>Katja</li>
 <li>Martina</li>
 <li>Anja</li>
-<li>Simone</li>
+<li>Simone</li></ol>
 REALISTIC SURNAMES
-<li>Meyer</li>
+<ol><li>Meyer</li>
 <li>Schultz</li>
 <li>Förster</li>
 <li>Behrens</li>
@@ -61,9 +61,9 @@ REALISTIC SURNAMES
 <li>Fischer</li>
 <li>Köhler</li>
 <li>Melzer</li>
-<li>Schreiber</li>
+<li>Schreiber</li></ol>
 COLORFUL MALE
-<li>Curt</li>
+<ol><li>Curt</li>
 <li>Achim</li>
 <li>Dietlieb</li>
 <li>Bernhard</li>
@@ -82,9 +82,9 @@ COLORFUL MALE
 <li>Nikolaus</li>
 <li>Gunter</li>
 <li>Weikhard</li>
-<li>Falko</li>
+<li>Falko</li></ol>
 COLORFUL FEMALE
-<li>Fieke</li>
+<ol><li>Fieke</li>
 <li>Asta</li>
 <li>Svenja</li>
 <li>Brigitta</li>
@@ -103,9 +103,9 @@ COLORFUL FEMALE
 <li>Hanna</li>
 <li>Elke</li>
 <li>Geraldine</li>
-<li>Sieglinde</li>
+<li>Sieglinde</li></ol>
 COLORFUL SURNAMES 1
-<li>Schmidt</li>
+<ol><li>Schmidt</li>
 <li>Heilemann</li>
 <li>Bullwinkel</li>
 <li>KleinAdler</li>
@@ -124,9 +124,9 @@ COLORFUL SURNAMES 1
 <li>Erzberger</li>
 <li>Zumwald</li>
 <li>Oswald</li>
-<li>Rotbart</li>
+<li>Rotbart</li></ol>
 COLORFUL SURNAMES 2
-<li>Breuer</li>
+<ol><li>Breuer</li>
 <li>Schroeder</li>
 <li>Pfrommer</li>
 <li>Schleusingen</li>
@@ -145,4 +145,4 @@ COLORFUL SURNAMES 2
 <li>Artz</li>
 <li>Hagen</li>
 <li>Lichtermann</li>
-<li>Cullen</li>
+<li>Cullen</li></ol>

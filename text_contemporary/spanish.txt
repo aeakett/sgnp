@@ -70,7 +70,7 @@ e.g.
 NOTE 2
 All the names in the following lists marked with an asterisk are either no longer frequent among young people, or somehow restricted to a region of Spain. Some of them are also quite old-fashioned.
 MALE 1
-<li>Abelino *</li>
+<ol><li>Abelino *</li>
 <li>Alejandro</li>
 <li>Felipe</li>
 <li>Bonifacio *</li>
@@ -89,9 +89,9 @@ MALE 1
 <li>Valentín</li>
 <li>Rufo * / Rufino</li>
 <li>Samuel</li>
-<li>Porfirio *</li>
+<li>Porfirio *</li></ol>
 FEMALE 1
-<li>Ángeles (María de los) / Mari-ángeles / Nines</li>
+<ol><li>Ángeles (María de los) / Mari-ángeles / Nines</li>
 <li>Cecilia</li>
 <li>Julia</li>
 <li>Coral</li>
@@ -109,9 +109,9 @@ FEMALE 1
 <li>Mariana</li>
 <li>Dora *</li>
 <li>Almudena</li>
-<li>Consolación (María de la) / Consuelo</li>
+<li>Consolación (María de la) / Consuelo</li></ol>
 MALE 2
-<li>Rafael</li>
+<ol><li>Rafael</li>
 <li>Moro</li>
 <li>Nemesio *</li>
 <li>Diego</li>
@@ -130,9 +130,9 @@ MALE 2
 <li>Gerardo</li>
 <li>Enrique / Quique</li>
 <li>Néstor</li>
-<li>Ramiro</li>
+<li>Ramiro</li></ol>
 FEMALE 2
-<li>Elisa</li>
+<ol><li>Elisa</li>
 <li>Blanca</li>
 <li>Rosalía</li>
 <li>Camila *</li>
@@ -151,9 +151,9 @@ FEMALE 2
 <li>Margarita</li>
 <li>Pilar (María del) / Pili</li>
 <li>Sara</li>
-<li>Concepción  (María de la) / Concha</li>
+<li>Concepción  (María de la) / Concha</li></ol>
 MALE 3
-<li>Santiago / Santi</li>
+<ol><li>Santiago / Santi</li>
 <li>Vicente</li>
 <li>Leoncio *</li>
 <li>Andrés</li>
@@ -172,9 +172,9 @@ MALE 3
 <li>Isidoro *</li>
 <li>José / Pepe</li>
 <li>Juán</li>
-<li>Marco</li>
+<li>Marco</li></ol>
 FEMALE 3
-<li>Elvira</li>
+<ol><li>Elvira</li>
 <li>Raquél</li>
 <li>Sandra</li>
 <li>Alma *</li>
@@ -193,9 +193,9 @@ FEMALE 3
 <li>Tatiana</li>
 <li>Nieves (María de las)</li>
 <li>Miriam</li>
-<li>Esperanza (María de la)</li>
+<li>Esperanza (María de la)</li></ol>
 MALE 4
-<li>Jorge</li>
+<ol><li>Jorge</li>
 <li>Benito</li>
 <li>Casiano *</li>
 <li>Félix</li>
@@ -214,9 +214,9 @@ MALE 4
 <li>Lorenzo</li>
 <li>Luís</li>
 <li>Manuel</li>
-<li>Rodrigo</li>
+<li>Rodrigo</li></ol>
 FEMALE 4
-<li>Amparo (María del)</li>
+<ol><li>Amparo (María del)</li>
 <li>Celia</li>
 <li>Emilia *</li>
 <li>Luisa</li>
@@ -235,9 +235,9 @@ FEMALE 4
 <li>Carolina</li>
 <li>Ángela</li>
 <li>Inmaculada (María) / Inma</li>
-<li>Eugenia</li>
+<li>Eugenia</li></ol>
 MALE 5
-<li>Tomás</li>
+<ol><li>Tomás</li>
 <li>Víctor</li>
 <li>Rubén</li>
 <li>Sergio</li>
@@ -256,9 +256,9 @@ MALE 5
 <li>Ángel</li>
 <li>Esteban</li>
 <li>Fidel</li>
-<li>Germán</li>
+<li>Germán</li></ol>
 FEMALE 5
-<li>Eva</li>
+<ol><li>Eva</li>
 <li>Felisa</li>
 <li>Genma</li>
 <li>Aurora</li>
@@ -278,9 +278,9 @@ FEMALE 5
 <li>Judit</li>
 <li>Sonia</li>
 <li>Soraya</li>
-<li>Veronica / Vero</li>
+<li>Veronica / Vero</li></ol>
 MALE 6
-<li>Antonio / Toño / Toñín</li>
+<ol><li>Antonio / Toño / Toñín</li>
 <li>Constantino / Tino</li>
 <li>Daniel</li>
 <li>Aquilino *</li>
@@ -299,9 +299,9 @@ MALE 6
 <li>Ramón</li>
 <li>Teodoro</li>
 <li>Virgilio *</li>
-<li>Zacarías *</li>
+<li>Zacarías *</li></ol>
 SURNAMES 1 
-<li>Moreno</li>
+<ol><li>Moreno</li>
 <li>Rodríguez</li>
 <li>Serrano</li>
 <li>Soto</li>
@@ -320,9 +320,9 @@ SURNAMES 1
 <li>Castro</li>
 <li>Arribas</li>
 <li>Cela</li>
-<li>Cortés</li>
+<li>Cortés</li></ol>
 SURNAMES 2
-<li>Duque</li>
+<ol><li>Duque</li>
 <li>Escudero</li>
 <li>Fernández</li>
 <li>Garza</li>
@@ -341,9 +341,9 @@ SURNAMES 2
 <li>Santamaría</li>
 <li>Bueno</li>
 <li>Abad</li>
-<li>Flores</li>
+<li>Flores</li></ol>
 SURNAMES 3
-<li>Galán</li>
+<ol><li>Galán</li>
 <li>Torres</li>
 <li>Vargas</li>
 <li>Santos</li>
@@ -362,9 +362,9 @@ SURNAMES 3
 <li>Delgado</li>
 <li>Medina</li>
 <li>Gómez</li>
-<li>Merino</li>
+<li>Merino</li></ol>
 SURNAMES 4
-<li>Ávila</li>
+<ol><li>Ávila</li>
 <li>Barragán</li>
 <li>Díaz</li>
 <li>Gil</li>
@@ -383,9 +383,9 @@ SURNAMES 4
 <li>Carrión</li>
 <li>Aragón</li>
 <li>Ferreiro</li>
-<li>Domínguez</li>
+<li>Domínguez</li></ol>
 SURNAMES 5
-<li>Galván</li>
+<ol><li>Galván</li>
 <li>Arias</li>
 <li>Blanco</li>
 <li>del Arco</li>
@@ -404,4 +404,4 @@ SURNAMES 5
 <li>del Bosque</li>
 <li>Alonso</li>
 <li>Calvo</li>
-<li>Segundo</li>
+<li>Segundo</li></ol>

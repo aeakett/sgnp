@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 These are wonderfully evocative common terms in Quechua.  You could easily use them for South American natives or an invented culture.  
 MALE 1
-<li>Ñuqa</li>
+<ol><li>Ñuqa</li>
 <li>Qam</li>
 <li>Kinkin </li>
 <li>Ñuqanchik</li>
@@ -22,9 +22,9 @@ MALE 1
 <li>Paña</li>
 <li>Lluqi</li>
 <li>Manapiqa</li>
-<li>Suti</li>
+<li>Suti</li></ol>
 FEMALE 1
-<li>Aysay</li>
+<ol><li>Aysay</li>
 <li>Tanqay</li>
 <li>Wichuy</li>
 <li>Chanqay</li>
@@ -43,9 +43,9 @@ FEMALE 1
 <li>Yupay</li>
 <li>Niy</li>
 <li>Takiy</li>
-<li>Pukllay</li>
+<li>Pukllay</li></ol>
 MALE 2
-<li>Suni</li>
+<ol><li>Suni</li>
 <li>Luqu</li>
 <li>Raku</li>
 <li>Llasa</li>
@@ -64,9 +64,9 @@ MALE 2
 <li>Tiyu</li>
 <li>Jallp'a</li>
 <li>Allpa</li>
-<li>Runa</li>
+<li>Runa</li></ol>
 FEMALE 2
-<li>Irqi</li>
+<ol><li>Irqi</li>
 <li>Warmi</li>
 <li>Qusa</li>
 <li>Mama</li>
@@ -85,9 +85,9 @@ FEMALE 2
 <li>Wañuchiy</li>
 <li>Awqay</li>
 <li>Kasachiy</li>
-<li>Maqay</li>
+<li>Maqay</li></ol>
 MALE 3
-<li>Usa</li>
+<ol><li>Usa</li>
 <li>Katari</li>
 <li>Amaru</li>
 <li>Kuru</li>
@@ -106,9 +106,9 @@ MALE 3
 <li>Aycha</li>
 <li>Yawar</li>
 <li>Tullu</li>
-<li>Wira</li>
+<li>Wira</li></ol>
 FEMALE 3
-<li>Tuntu</li>
+<ol><li>Tuntu</li>
 <li>Waqra</li>
 <li>Chupa</li>
 <li>Puru</li>
@@ -127,9 +127,9 @@ FEMALE 3
 <li>Sunqu</li>
 <li>Qoru</li>
 <li>Kiwcha</li>
-<li>Ujyay</li>
+<li>Ujyay</li></ol>
 MALE 4
-<li>Musuq</li>
+<ol><li>Musuq</li>
 <li>Machu</li>
 <li>Tanta</li>
 <li>Kusa</li>
@@ -148,9 +148,9 @@ MALE 4
 <li>Asiy</li>
 <li>Rikuy</li>
 <li>Uyariy</li>
-<li>Yachay</li>
+<li>Yachay</li></ol>
 FEMALE 4
-<li>Puyu</li>
+<ol><li>Puyu</li>
 <li>Phuya</li>
 <li>Hawa</li>
 <li>Wayra</li>
@@ -169,4 +169,4 @@ FEMALE 4
 <li>Wata</li>
 <li>Illi</li>
 <li>Chiri</li>
-<li>Juntu</li>
+<li>Juntu</li></ol>

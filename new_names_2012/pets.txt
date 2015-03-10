@@ -2,7 +2,7 @@
 Compiled by Rachel E.S. Walton
 
 DOGS
-<li>Batu</li>
+<ol><li>Batu</li>
 <li>Brisco</li>
 <li>Cerro</li>
 <li>Chewie</li>
@@ -21,10 +21,10 @@ DOGS
 <li>Ripley</li>
 <li>Ruffles</li>
 <li>Skittles</li>
-<li>Timbits</li>
+<li>Timbits</li></ol>
 
 CATS
-<li>Aristocat</li>
+<ol><li>Aristocat</li>
 <li>Artemis</li>
 <li>Beasty Boy</li>
 <li>Bojangles</li>
@@ -43,10 +43,10 @@ CATS
 <li>Snowball</li>
 <li>Squeaky</li>
 <li>Sylvester</li>
-<li>Willow</li>
+<li>Willow</li></ol>
 
 DOG BREEDS (and origins)
-<li>Afghan Hound (Afghanistan)</li>
+<ol><li>Afghan Hound (Afghanistan)</li>
 <li>Akita Inu (Japan)</li>
 <li>American Pit Bull Terrier (United States)</li>
 <li>Basset Hound (France)</li>
@@ -65,10 +65,10 @@ DOG BREEDS (and origins)
 <li>Pug (China)</li>
 <li>Rhodesian Ridgeback (Zimbabwe)</li>
 <li>Siberian Husky (Russia)</li>
-<li>St. Bernard (Italy, Switzerland)</li>
+<li>St. Bernard (Italy, Switzerland)</li></ol>
 
 POCKET PETS
-<li>Betta Fish</li>
+<ol><li>Betta Fish</li>
 <li>Chinchilla</li>
 <li>Ferret</li>
 <li>Frog</li>
@@ -87,7 +87,7 @@ POCKET PETS
 <li>Snake</li>
 <li>Squirrel Monkey</li>
 <li>Stick Insect</li>
-<li>Tarantula</li>
+<li>Tarantula</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA
 

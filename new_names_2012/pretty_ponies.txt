@@ -2,7 +2,7 @@
 Complied by Rachel E.S. Walton
 
 COLTS
-<li>4-Speed</li>
+<ol><li>4-Speed</li>
 <li>Ace</li>
 <li>Big Macintosh</li>
 <li>Braeburn</li>
@@ -21,10 +21,10 @@ COLTS
 <li>Snails</li>
 <li>Snips</li>
 <li>Star Swirl the Bearded</li>
-<li>Tex</li>
+<li>Tex</li></ol>
 
 FILLIES
-<li>Amberlocks</li>
+<ol><li>Amberlocks</li>
 <li>Applejack</li>
 <li>Bright Eyes</li>
 <li>Cheerilee</li>
@@ -43,10 +43,10 @@ FILLIES
 <li>Princess Primrose</li>
 <li>Sunny Daze</li>
 <li>Triple Treat</li>
-<li>Wavedancer</li>
+<li>Wavedancer</li></ol>
 
 MAGICAL PLACES
-<li>Baltimare</li>
+<ol><li>Baltimare</li>
 <li>Butterfly Island</li>
 <li>Canterlot</li>
 <li>Carosel Boutique</li>
@@ -65,6 +65,6 @@ MAGICAL PLACES
 <li>Royal City of Unicornia</li>
 <li>Sugarcube Corner Confectionary</li>
 <li>Trottingham</li>
-<li>Whitetale Wood</li>
+<li>Whitetale Wood</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA

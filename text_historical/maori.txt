@@ -3,7 +3,7 @@ Compiled by Moyra Turkington
 NOTES
 The following Maori names are chosen from an unpublished manuscript compiled about 1925 by the missionary Rev. Henry James Fletcher (1868-1933). Thanks to the university of Waikato for making it available online. In this era, (the late 1800's - early 1900's) surnames were only beginning to be introduced among the Maori. The surname taken would generally be the first name of the person's father.
 MALE
-<li>Ahi Kaiata</li>
+<ol><li>Ahi Kaiata</li>
 <li>Hau Kopake</li>
 <li>Otakehoke</li>
 <li>Taka I Waho</li>
@@ -21,9 +21,9 @@ MALE
 <li>Taare Wetere Te Kahu</li>
 <li>Hakaraia</li>
 <li>Warawara Kau</li>
-<li>Tawake Tara</li>
+<li>Tawake Tara</li></ol>
 FEMALE
-<li>Ahiahi A Tau</li>
+<ol><li>Ahiahi A Tau</li>
 <li>Kainga Rua</li>
 <li>Ira Whaki</li>
 <li>Nga Pera</li>
@@ -42,4 +42,4 @@ FEMALE
 <li>Neke Papa</li>
 <li>Hakiri Maurea</li>
 <li>Taurango</li>
-<li>Whaitiri O Te Rangi</li>
+<li>Whaitiri O Te Rangi</li></ol>

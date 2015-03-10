@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 These names all have a vaguely English feel to them, but they are not quite right - perfect for the nobility of a distant star empire, or an alternate history, or whatever.  
 MALE NAMES ONE 
-<li>Caul       </li>
+<ol><li>Caul       </li>
 <li>Aleand   </li>
 <li>Ratclip                                                                              </li>
 <li>Stand                       </li>
@@ -22,9 +22,9 @@ MALE NAMES ONE
 <li>Vine                         </li>
 <li>Wardius                </li>
 <li>Brance     </li>
-<li>Brutlas </li>
+<li>Brutlas </li></ol>
 MALE NAMES TWO
-<li>Canter   </li>
+<ol><li>Canter   </li>
 <li>Vaunt                                                   </li>
 <li>Card                            </li>
 <li>Clance      </li>
@@ -43,9 +43,9 @@ MALE NAMES TWO
 <li>Daunt                  </li>
 <li>Nord               </li>
 <li>Octague  </li>
-<li>Wortio </li>
+<li>Wortio </li></ol>
 MALE NAMES THREE
-<li>Orlence                                   </li>
+<ol><li>Orlence                                   </li>
 <li>Petemith       </li>
 <li>Fastio  </li>
 <li>Bount </li>
@@ -64,9 +64,9 @@ MALE NAMES THREE
 <li>Franter                                                  </li>
 <li>Gard      </li>
 <li>Lazardus  </li>
-<li>Mardius   </li>
+<li>Mardius   </li></ol>
 FEMALE NAMES ONE
-<li>Line               </li>
+<ol><li>Line               </li>
 <li>Montess  </li>
 <li>Verbela            </li>
 <li>Peth                       </li>
@@ -85,9 +85,9 @@ FEMALE NAMES ONE
 <li>Somer                       </li>
 <li>Vauphria    </li>
 <li>Orset            </li>
-<li>Ducell</li>
+<li>Ducell</li></ol>
 FEMALE NAMES TWO
-<li>Arcy  </li>
+<ol><li>Arcy  </li>
 <li>Quess              </li>
 <li>Robeth</li>
 <li>Brus   </li>
@@ -106,9 +106,9 @@ FEMALE NAMES TWO
 <li>Counds            </li>
 <li>Dorsal              </li>
 <li>Dount              </li>
-<li>Carda</li>
+<li>Carda</li></ol>
 FEMALE NAMES THREE
-<li>Hencess       </li>
+<ol><li>Hencess       </li>
 <li>Dulse      </li>
 <li>Fria                                   </li>
 <li>Guile   </li>
@@ -127,9 +127,9 @@ FEMALE NAMES THREE
 <li>Isabert   </li>
 <li>Perleand                                          </li>
 <li>Lepinna</li>
-<li>Regess  </li>
+<li>Regess  </li></ol>
 SURNAMES ONE			
-<li>Anterset   </li>
+<ol><li>Anterset   </li>
 <li>Sufidius           </li>
 <li>Talifford     </li>
 <li>Antgone   </li>
@@ -148,9 +148,9 @@ SURNAMES ONE
 <li>Aufford                     </li>
 <li>Bastaff  </li>
 <li>Gurner                         </li>
-<li>Henbury</li>
+<li>Henbury</li></ol>
 SURNAMES TWO
-<li>Coucham  </li>
+<ol><li>Coucham  </li>
 <li>Brackenberry           </li>
 <li>Bount                          </li>
 <li>Colk                      </li>
@@ -169,9 +169,9 @@ SURNAMES TWO
 <li>Solk                </li>
 <li>Franter   </li>
 <li>Pernenbury          </li>
-<li>Sand   </li>
+<li>Sand   </li></ol>
 INTERESTING PLACES
-<li>Duchmond Town           </li>
+<ol><li>Duchmond Town           </li>
 <li>Erpidge Meadows            </li>
 <li>Faster Downs                            </li>
 <li>Bishomer's Folly </li>
@@ -190,4 +190,4 @@ INTERESTING PLACES
 <li>Bragonville          </li>
 <li>Stalton-Dacks                  </li>
 <li>Gobertham                                      </li>
-<li>Colk Corner</li>
+<li>Colk Corner</li></ol>

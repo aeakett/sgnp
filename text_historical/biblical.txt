@@ -3,7 +3,7 @@ Compiled by Meguey Baker
 NOTES
 Apparently, there are 188 named women in the Christian Bible, and 1,181 men. Go figure. This site has them all: http://www.christiananswers.net/dictionary/women.html
 COMMON MALE 
-<li>Joseph</li>
+<ol><li>Joseph</li>
 <li>John</li>
 <li>Paul</li>
 <li>Adam</li>
@@ -22,9 +22,9 @@ COMMON MALE
 <li>Cain</li>
 <li>Benjamin</li>
 <li>Samson</li>
-<li>Judas</li>
+<li>Judas</li></ol>
 COMMON FEMALE
-<li>Mary</li>
+<ol><li>Mary</li>
 <li>Sarah</li>
 <li>Ruth</li>
 <li>Esther</li>
@@ -43,9 +43,9 @@ COMMON FEMALE
 <li>Abigail</li>
 <li>Delilah</li>
 <li>Martha</li>
-<li>Deborah</li>
+<li>Deborah</li></ol>
 LESS COMMON MALE
-<li>Peter</li>
+<ol><li>Peter</li>
 <li>Solomon</li>
 <li>Abraham</li>
 <li>Issac</li>
@@ -64,9 +64,9 @@ LESS COMMON MALE
 <li>Caleb</li>
 <li>Zachariah</li>
 <li>Timothy</li>
-<li>Marcus</li>
+<li>Marcus</li></ol>
 LESS COMMON FEMALE
-<li>Rhoda</li>
+<ol><li>Rhoda</li>
 <li>Jemima</li>
 <li>Anna</li>
 <li>Dorcas</li>
@@ -85,9 +85,9 @@ LESS COMMON FEMALE
 <li>Priscilla</li>
 <li>Diana</li>
 <li>Susanna</li>
-<li>Drusilla</li>
+<li>Drusilla</li></ol>
 UNUSUAL MALE
-<li>Nebuchanezer</li>
+<ol><li>Nebuchanezer</li>
 <li>Almodad</li>
 <li>Jephunneh</li>
 <li>Shimrath</li>
@@ -106,9 +106,9 @@ UNUSUAL MALE
 <li>Jesher</li>
 <li>Dumah</li>
 <li>Perida</li>
-<li>Zoheth</li>
+<li>Zoheth</li></ol>
 UNUSUAL FEMALE
-<li>Hagar</li>
+<ol><li>Hagar</li>
 <li>Jezebel</li>
 <li>Hephzibah</li>
 <li>Zilpah</li>
@@ -127,4 +127,4 @@ UNUSUAL FEMALE
 <li>Gomer</li>
 <li>Sherah</li>
 <li>Mahalath</li>
-<li>Asenath</li>
+<li>Asenath</li></ol>

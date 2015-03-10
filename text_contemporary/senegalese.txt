@@ -1,7 +1,7 @@
 ﻿SENEGALESE
 Compiled by Moyra Turkington
 MALE
-<li>Thiemo</li>
+<ol><li>Thiemo</li>
 <li>Djubril</li>
 <li>Tidiane</li>
 <li>Ousseynou</li>
@@ -20,9 +20,9 @@ MALE
 <li>Tapha</li>
 <li>Ablaye</li>
 <li>Moustapha</li>
-<li>Samba</li>
+<li>Samba</li></ol>
 FEMALE
-<li>Aissatou</li>
+<ol><li>Aissatou</li>
 <li>Aicha</li>
 <li>Fatou</li>
 <li>Khady</li>
@@ -41,9 +41,9 @@ FEMALE
 <li>Ndeye</li>
 <li>Zeyna</li>
 <li>Nabou</li>
-<li>Maimouna</li>
+<li>Maimouna</li></ol>
 SURNAMES
-<li>Drame</li>
+<ol><li>Drame</li>
 <li>Sako</li>
 <li>Gbodossou</li>
 <li>Biteye</li>
@@ -62,4 +62,4 @@ SURNAMES
 <li>Dial</li>
 <li>Ndiaye</li>
 <li>Faye</li>
-<li>Kuti</li>
+<li>Kuti</li></ol>

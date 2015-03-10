@@ -3,7 +3,7 @@ Compiled by Shreyas Sampat
 NOTES
 The tattooed land is so-called because it marks its people; a family who is settled there acquires an earthmark, some brand that can't be washed away or displaced. The land becomes a part of them. Priests in the tattooed land, much like some sects of Buddhist monks, take religious names; they refer to virtuous or terrible things, to remind the faithful of what to fear or emulate. Religious names are unisex, even when they appear not to be (Yellow King, for instance).  The sound of these names is patterned after Turkish and Mongolian. They're also appropriate for Torchbearer.
 MALE
-<li>Harud / forest</li>
+<ol><li>Harud / forest</li>
 <li>Kágubizg / horse rider</li>
 <li>Kothás / dagger</li>
 <li>Vinid / warrior</li>
@@ -22,9 +22,9 @@ MALE
 <li>Dhár / strong</li>
 <li>Kathkár / hardened heart</li>
 <li>Hosor / weaver</li>
-<li>Nawar / strength of youth</li>
+<li>Nawar / strength of youth</li></ol>
 FEMALE 
-<li>Luyun / blue</li>
+<ol><li>Luyun / blue</li>
 <li>Kúlul / bee</li>
 <li>Kálan / goose</li>
 <li>Nilázem / hawk</li>
@@ -43,9 +43,9 @@ FEMALE
 <li>Thesel / lychee</li>
 <li>Payusyem / duck</li>
 <li>Kásif / white</li>
-<li>Nuíyal / crane</li>
+<li>Nuíyal / crane</li></ol>
 PRIESTS
-<li>Deeper-and-Deeper-Water</li>
+<ol><li>Deeper-and-Deeper-Water</li>
 <li>Crippled Deer</li>
 <li>Desolate Vessel</li>
 <li>Sparrow Brand</li>
@@ -64,9 +64,9 @@ PRIESTS
 <li>Patience</li>
 <li>Darkened Moon</li>
 <li>Black Flower</li>
-<li>Scattered Spider</li>
+<li>Scattered Spider</li></ol>
 EARTHMARKS
-<li>Fingers leave frost trails on surfaces</li>
+<ol><li>Fingers leave frost trails on surfaces</li>
 <li>Clothes caked with mud</li>
 <li>Moss grows on right side</li>
 <li>Chewing a stalk of ripe wheat</li>
@@ -85,3 +85,4 @@ EARTHMARKS
 <li>Understands the language of birds</li>
 <li>Face powdered with gold dust</li>
 <li>Feet purple from crushing grapes</li>
+</ol>

@@ -1,7 +1,7 @@
 ﻿AZTEC/NAHUATL
 Compiled by Jason Morningstar
 NOBLE, PRIEST AND JAGUAR KNIGHT
-<li>Cuetzpalli / lizard</li>
+<ol><li>Cuetzpalli / lizard</li>
 <li>Cipactli / crocodile</li>
 <li>Xochipepe / flower-gatherer</li>
 <li>Cuixtli / kite</li>
@@ -20,9 +20,9 @@ NOBLE, PRIEST AND JAGUAR KNIGHT
 <li>Itz / obsidian </li>
 <li>Miquiztli / death </li>
 <li>Yayauhqui / black smoking mirror</li>
-<li>Xipil / noble of the fire</li>
+<li>Xipil / noble of the fire</li></ol>
 LADY, PRIESTESS, AND SORCERESS
-<li>Cihuaton / little woman</li>
+<ol><li>Cihuaton / little woman</li>
 <li>Xochicotzin / little necklace </li>
 <li>Coaxoch / serpent flower</li>
 <li>Quetzalxochitl / precious flower</li>
@@ -41,9 +41,9 @@ LADY, PRIESTESS, AND SORCERESS
 <li>Quiauhxochitl / rain flower </li>
 <li>Tziquetzalpoztectzin / broken plume </li>
 <li>Mizquixaual / mesquite face paint</li>
-<li>Citlalmina / female hero</li>
+<li>Citlalmina / female hero</li></ol>
 POCHTECA AND MACEHUALLI
-<li>Moquihuix / drunkard</li>
+<ol><li>Moquihuix / drunkard</li>
 <li>Xocoyotl / youngest child</li>
 <li>Malinalxochitl / grass flower</li>
 <li>Nezahualcoyotl / hungry coyote</li>
@@ -62,9 +62,9 @@ POCHTECA AND MACEHUALLI
 <li>Itzcuintli / dog </li>
 <li>Tlantli / teeth  </li>
 <li>Ixcatzin / like cotton</li>
-<li>Malinalli / grass </li>
+<li>Malinalli / grass </li></ol>
 FEMALE COMMONER
-<li>Teyacapan / first born</li>
+<ol><li>Teyacapan / first born</li>
 <li>Xoco / youngest sister</li>
 <li>Tlaco / middle-born</li>
 <li>Teicuih / younger sister</li>
@@ -83,9 +83,9 @@ FEMALE COMMONER
 <li>Eleuia / wish</li>
 <li>Nenetl / doll</li>
 <li>Noxochicoztli / necklace of flowers</li>
-<li>Papan / flag</li>
+<li>Papan / flag</li></ol>
 GENERIC NAMES 1
-<li>Achcauhtli / leader </li>
+<ol><li>Achcauhtli / leader </li>
 <li>Ahuiliztli / joy</li>
 <li>Cualli / good</li>
 <li>Etalpalli / wing</li>
@@ -104,9 +104,9 @@ GENERIC NAMES 1
 <li>Mahuizoh / glorious person</li>
 <li>Manauia / defend</li>
 <li>Mecatl / glorious lineage</li>
-<li>Meztli / moon</li>
+<li>Meztli / moon</li></ol>
 GENERIC NAMES 2
-<li>Momoztli / altar</li>
+<ol><li>Momoztli / altar</li>
 <li>Moyolehuani / enamored one</li>
 <li>Nahuatl / four waters  </li>
 <li>Nelli / truth</li>
@@ -125,9 +125,9 @@ GENERIC NAMES 2
 <li>Xiuhtonal / precious light</li>
 <li>Yoltzin / small heart</li>
 <li>Cozcaquauhtli / vulture </li>
-<li>Ehecatl / wind </li>
+<li>Ehecatl / wind </li></ol>
 FOOD AND DRINK
-<li>Bean and squash stew with chili and tomato</li>
+<ol><li>Bean and squash stew with chili and tomato</li>
 <li>Acocils, small and abundant shrimp of Lake Texcoco</li>
 <li>Cakes of spirulina algae</li>
 <li>Maguey, agave nectar and liquor</li>
@@ -146,4 +146,4 @@ FOOD AND DRINK
 <li>Mushrooms, wild greens, sweet potato and tubers of all sorts</li>
 <li>Ants, grasshoppers, crickets and grubs eaten raw or cooked</li>
 <li>Sweet and delicious lake fish, as well as ocean fish</li>
-<li>Salamanders, shrimps, frogs, water snakes, and larvae</li>
+<li>Salamanders, shrimps, frogs, water snakes, and larvae</li></ol>

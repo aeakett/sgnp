@@ -4,7 +4,7 @@ Compiled by Marshall Burns
 NOTES
 I made these lists to randomly generate names for ghouls for a computer game I ended up not finishing. Roll twice on any combination of lists (even the same one twice) for two words to stick together for a very nasty kind of name for a very nasty kind of person. In addition to ghouls, it's pretty good for the sort of demon names found in CS Lewis' The Screwtape Letters.
 
-<li>crust(ed)</li>
+<ol><li>crust(ed)</li>
 <li>scrape(d)</li>
 <li>carp</li>
 <li>wheeze(ing)</li>
@@ -23,9 +23,9 @@ I made these lists to randomly generate names for ghouls for a computer game I e
 <li>shank</li>
 <li>shunt</li>
 <li>rip</li>
-<li>torn</li>
+<li>torn</li></ol>
 
-<li>haze</li>
+<ol><li>haze</li>
 <li>bile</li>
 <li>lint</li>
 <li>mite</li>
@@ -44,9 +44,9 @@ I made these lists to randomly generate names for ghouls for a computer game I e
 <li>worm</li>
 <li>tape</li>
 <li>tack</li>
-<li>snap</li>
+<li>snap</li></ol>
 
-<li>snatch(ed)</li>
+<ol><li>snatch(ed)</li>
 <li>catch</li>
 <li>toss(ed)</li>
 <li>loss</li>
@@ -65,9 +65,9 @@ I made these lists to randomly generate names for ghouls for a computer game I e
 <li>shard</li>
 <li>pin</li>
 <li>dull(ed)</li>
-<li>saw(ed)</li>
+<li>saw(ed)</li></ol>
 
-<li>tooth</li>
+<ol><li>tooth</li>
 <li>scald(ed)</li>
 <li>drown(ed)</li>
 <li>brine</li>
@@ -86,9 +86,9 @@ I made these lists to randomly generate names for ghouls for a computer game I e
 <li>sleeve</li>
 <li>rag</li>
 <li>raw</li>
-<li>bone(s)</li>
+<li>bone(s)</li></ol>
 
-<li>scalp</li>
+<ol><li>scalp</li>
 <li>squelch</li>
 <li>stifle(d)</li>
 <li>spleen</li>
@@ -107,9 +107,9 @@ I made these lists to randomly generate names for ghouls for a computer game I e
 <li>spent</li>
 <li>stitch(ed)</li>
 <li>seethe(ing/s)</li>
-<li>slither(ing/s)</li>
+<li>slither(ing/s)</li></ol>
 
-<li>slack</li>
+<ol><li>slack</li>
 <li>jaw</li>
 <li>wax</li>
 <li>wane</li>
@@ -128,9 +128,9 @@ I made these lists to randomly generate names for ghouls for a computer game I e
 <li>stain(ed)</li>
 <li>louse/lice</li>
 <li>rat</li>
-<li>spawn(ed)</li>
+<li>spawn(ed)</li></ol>
 
-<li>grain</li>
+<ol><li>grain</li>
 <li>pulse(d)</li>
 <li>lash(ed/ing)</li>
 <li>spoil(ed)</li>
@@ -149,9 +149,9 @@ I made these lists to randomly generate names for ghouls for a computer game I e
 <li>drip(ped/ping)</li>
 <li>grief/grieve</li>
 <li>vile</li>
-<li>rot</li>
+<li>rot</li></ol>
 
-<li>moulder(ed/ing)</li>
+<ol><li>moulder(ed/ing)</li>
 <li>spore</li>
 <li>claim(ed)</li>
 <li>choke(d)</li>
@@ -169,9 +169,9 @@ I made these lists to randomly generate names for ghouls for a computer game I e
 <li>splay(ed)</li>
 <li>howl(ing)</li>
 <li>fawn(ing)</li>
-<li>roach</li>
+<li>roach</li></ol>
 
-<li>age</li>
+<ol><li>age</li>
 <li>ague</li>
 <li>fit</li>
 <li>fade(d)</li>
@@ -190,9 +190,9 @@ I made these lists to randomly generate names for ghouls for a computer game I e
 <li>gripe</li>
 <li>reek</li>
 <li>caul</li>
-<li>shovel(ed)</li>
+<li>shovel(ed)</li></ol>
 
-<li>gravel</li>
+<ol><li>gravel</li>
 <li>shred(ded)</li>
 <li>meat</li>
 <li>crawl(ing/ed)</li>
@@ -211,6 +211,6 @@ I made these lists to randomly generate names for ghouls for a computer game I e
 <li>stunt(ed)</li>
 <li>flint</li>
 <li>string</li>
-<li>bag</li>
+<li>bag</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

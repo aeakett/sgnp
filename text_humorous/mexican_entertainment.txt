@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 Actually Mexican wrestling-horror-science fiction movies.  All the personal names refer to real people, and yes, Boris Karloff did appear in La Muerta Viviente!
 MOVIE TITLES
-<li>Hercules versus Nostradamus, genie of darkness!</li>
+<ol><li>Hercules versus Nostradamus, genie of darkness!</li>
 <li>Neutron and the curse of the crying woman!</li>
 <li>Inspector Marconi and the 100 cries of terror!</li>
 <li>The monster demolisher versus the gorilla!</li>
@@ -22,9 +22,9 @@ MOVIE TITLES
 <li>Captain Guiterrez and the witches mirror!</li>
 <li>The Blue Mummy and the return of the 100 cries of terror!</li>
 <li>Lord Werewolf and the coffin machine!</li>
-<li>Cortez versus Brainiac!</li>
+<li>Cortez versus Brainiac!</li></ol>
 ACTORS
-<li>Ignacio Lopez Tarso</li>
+<ol><li>Ignacio Lopez Tarso</li>
 <li>Abel Salazar</li>
 <li>German Robles</li>
 <li>Armando Silvestre</li>
@@ -43,9 +43,9 @@ ACTORS
 <li>George Martinez</li>
 <li>Joaquin Vargas</li>
 <li>Raul Meraz</li>
-<li>Jose Jiminez</li>
+<li>Jose Jiminez</li></ol>
 ACTRESSES
-<li>Rosita Arenas</li>
+<ol><li>Rosita Arenas</li>
 <li>Ana Luisa Peluffo</li>
 <li>Gina Romand</li>
 <li>Maria San Martin</li>
@@ -64,9 +64,9 @@ ACTRESSES
 <li>Alicia Del Lago</li>
 <li>Dolores Camarillo</li>
 <li>Isabel Sarli</li>
-<li>Eliza Kashi</li>
+<li>Eliza Kashi</li></ol>
 LUCHADORES
-<li>El Santo</li>
+<ol><li>El Santo</li>
 <li>The Black Shadow</li>
 <li>Dorrell, the Zombie Wrestler</li>
 <li>The King of Crime</li>
@@ -85,9 +85,9 @@ LUCHADORES
 <li>Fishman</li>
 <li>Tarzan Lopez</li>
 <li>Robo Negro</li>
-<li>Jack O'Brien</li>
+<li>Jack O'Brien</li></ol>
 BIT PARTS
-<li>The Kid</li>
+<ol><li>The Kid</li>
 <li>El Barracho</li>
 <li>Old Gordo</li>
 <li>The Contortionist</li>
@@ -106,9 +106,9 @@ BIT PARTS
 <li>Queen of the Vampires</li>
 <li>Inspector Carlos</li>
 <li>Dancer</li>
-<li>Freddy</li>
+<li>Freddy</li></ol>
 WRITERS AND DIRECTORS
-<li>Federico Curiel</li>
+<ol><li>Federico Curiel</li>
 <li>Jerry Warren</li>
 <li>Rafael Portillo</li>
 <li>Alfredo B. Crevenna</li>
@@ -127,4 +127,4 @@ WRITERS AND DIRECTORS
 <li>Alfredo Torres Portillo</li>
 <li>Jose Maria Fernandez Unsain</li>
 <li>Rafael Garcia Travesi</li>
-<li>Alfonso Corona Blake</li>
+<li>Alfonso Corona Blake</li></ol>

@@ -6,7 +6,7 @@ http://www.20000-names.com/
 http://www.2arnes.si/~eusmith/Romany/ 
 http://www.en.wikipedia.org/wiki/Roma_(people) 
 MALE 1 
-<li>Boldo / wise man</li>
+<ol><li>Boldo / wise man</li>
 <li>Djordji / farmer </li>
 <li>Gudada / supreme </li>
 <li>Simionce / hearkening</li>
@@ -25,9 +25,9 @@ MALE 1
 <li>Hanzi / the lord is gracious </li>
 <li>Fonso / noble</li>
 <li>Guaril / victor</li>
-<li>Harman / soldier </li>
+<li>Harman / soldier </li></ol>
 MALE 2
-<li>Ion / john</li>
+<ol><li>Ion / john</li>
 <li>Yoska / god increases </li>
 <li>loiza / renowned warrior </li>
 <li>Luca / light </li>
@@ -46,9 +46,9 @@ MALE 2
 <li>Tshilaba / seeker of knowledge </li>
 <li>Pulika / little</li>
 <li>Punka / rock</li>
-<li>Shandor / proud</li>
+<li>Shandor / proud</li></ol>
 MORE MALE
-<li>Lel</li>
+<ol><li>Lel</li>
 <li>Gagino</li>
 <li>Danor</li>
 <li>Sindel</li>
@@ -67,9 +67,9 @@ MORE MALE
 <li>Othi</li>
 <li>Cappi</li>
 <li>Dederich</li>
-<li>Chik</li>
+<li>Chik</li></ol>
 FEMALE
-<li>Aishe / woman </li>
+<ol><li>Aishe / woman </li>
 <li>Donka / beyond price </li>
 <li>Drina / "from Hadria"</li>
 <li>Esmeralda / emerald</li>
@@ -88,9 +88,9 @@ FEMALE
 <li>Talaitha / young girl </li>
 <li>Tsuritsa / dawn</li>
 <li>Vadoma / rule with peace </li>
-<li>Violca / violet</li>
+<li>Violca / violet</li></ol>
 MORE FEMALE
-<li>Chaili</li>
+<ol><li>Chaili</li>
 <li>Talaitha</li>
 <li>Everilda</li>
 <li>Katari</li>
@@ -109,9 +109,9 @@ MORE FEMALE
 <li>Truffeni</li>
 <li>Darklis</li>
 <li>Devlesa</li>
-<li>Amari</li>
+<li>Amari</li></ol>
 SURNAMES
-<li>Bakos</li>
+<ol><li>Bakos</li>
 <li>Yorstoun</li>
 <li>Kotorara</li>
 <li>Boromi</li>
@@ -130,4 +130,4 @@ SURNAMES
 <li>Hatseygow</li>
 <li>Tinka</li>
 <li>Cooper</li>
-<li>Donea</li>
+<li>Donea</li></ol>

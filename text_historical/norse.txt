@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTE
 Eth and thorn characters (ð, Ð, þ, Þ) are common in Anglo-Saxon, old Scandinavian, and modern Icelandic and Faroese.  They look really exotic and cool.  Pronounce them like "th" and don't worry about it.  
 MALE NAMES ONE
-<li>Aðalbjörn</li>
+<ol><li>Aðalbjörn</li>
 <li>Arnar</li>
 <li>Lárus</li>
 <li>Magni</li>
@@ -22,9 +22,9 @@ MALE NAMES ONE
 <li>Skíði</li>
 <li>Valberg</li>
 <li>Skjöldur</li>
-<li>Brimi</li>
+<li>Brimi</li></ol>
 MALE NAMES TWO
-<li>Böðvar</li>
+<ol><li>Böðvar</li>
 <li>Drengur</li>
 <li>Sören</li>
 <li>Ægir</li>
@@ -43,9 +43,9 @@ MALE NAMES TWO
 <li>Ormur</li>
 <li>Óli</li>
 <li>Páll</li>
-<li>Rafnar</li>
+<li>Rafnar</li></ol>
 MALE NAMES THREE
-<li>Þorsteinn</li>
+<ol><li>Þorsteinn</li>
 <li>Reynar</li>
 <li>Gnúpur</li>
 <li>Vörður</li>
@@ -64,9 +64,9 @@ MALE NAMES THREE
 <li>Þeyr</li>
 <li>Kormákur</li>
 <li>Þór</li>
-<li>Örvar</li>
+<li>Örvar</li></ol>
 FEMALE NAMES ONE
-<li>Aðalfríður</li>
+<ol><li>Aðalfríður</li>
 <li>Yrsa</li>
 <li>Þura</li>
 <li>Árdís</li>
@@ -85,9 +85,9 @@ FEMALE NAMES ONE
 <li>Róshildur</li>
 <li>Úlfdís</li>
 <li>Rut</li>
-<li>Fjóla</li>
+<li>Fjóla</li></ol>
 FEMALE NAMES TWO
-<li>Glódís</li>
+<ol><li>Glódís</li>
 <li>Ardís</li>
 <li>Hilda</li>
 <li>Fura</li>
@@ -106,9 +106,9 @@ FEMALE NAMES TWO
 <li>Greta</li>
 <li>Oddrún</li>
 <li>Ormhildur</li>
-<li>Árlaug</li>
+<li>Árlaug</li></ol>
 FEMALE NAMES THREE
-<li>Lífdís</li>
+<ol><li>Lífdís</li>
 <li>Mardís</li>
 <li>Rúna</li>
 <li>Selka</li>
@@ -127,11 +127,11 @@ FEMALE NAMES THREE
 <li>Dís</li>
 <li>Æsa</li>
 <li>Ölrún</li>
-<li>Guðfríður</li>
+<li>Guðfríður</li></ol>
 SURNAMES
 Create surnames by adding "-son" or "-dottir" to a parent's name.  Thus, Rúnar son of Berg, becomes Rúnar Bergsson and Fjóla, daughter of Brigitta, becomes Fjóla Brigittasdottir.  
 INTERESTING PLACES ONE
-<li>Ætlanvik:  Conception inlet</li>
+<ol><li>Ætlanvik:  Conception inlet</li>
 <li>Stormasamurhvass:  Windy corner</li>
 <li>Tonnhofn:  Tooth harbor</li>
 <li>Valrskagi:  The "Field of Corpses" peninsula</li>
@@ -150,9 +150,9 @@ INTERESTING PLACES ONE
 <li>Sleða-bakki:  "Sledge" ford</li>
 <li>Geirnefurskagi:  Gar-fish peninsula</li>
 <li>Skogurhörmulegur:  Dismal forest  </li>
-<li>Eplivatn:  Apple lake</li>
+<li>Eplivatn:  Apple lake</li></ol>
 INTERESTING PLACES TWO
-<li>Rauðrfold:  Red valley</li>
+<ol><li>Rauðrfold:  Red valley</li>
 <li>Graswegur:  The grass road</li>
 <li>Maurmyri:  Ant marsh</li>
 <li>Stóraviðass:  Windward rock</li>
@@ -171,9 +171,9 @@ INTERESTING PLACES TWO
 <li>Svarturvigi:  The black fortress</li>
 <li>Tonnbrekka:  Tooth hill </li>
 <li>Veiðimaðrfingur:  Huntsman's finger, a landmark</li>
-<li>Arfloi: Oar bay</li>
+<li>Arfloi: Oar bay</li></ol>
 DISTRICTS AND CLAN TERRITORIES
-<li>Barnasveit:  Rookery island district </li>
+<ol><li>Barnasveit:  Rookery island district </li>
 <li>Rauðrfoldisveit:  Red valley district</li>
 <li>Beinahusið:  Charnel House Valley</li>
 <li>Ætlanviksveit:  Conception inlet district</li>
@@ -192,9 +192,9 @@ DISTRICTS AND CLAN TERRITORIES
 <li>Austurskorðasveit:  Eastern shore district </li>
 <li>Mjolkvatnsveit:  Milkwater lake district</li>
 <li>Grarjarpursveit:  Grey bay district</li>
-<li>Hvalurviksveit:  Whale cove district</li>
+<li>Hvalurviksveit:  Whale cove district</li></ol>
 INSULTS AND CURSES
-<li>Blatonn:  Black tooth!</li>
+<ol><li>Blatonn:  Black tooth!</li>
 <li>Brusi:  He-goat!</li>
 <li>Gaugbrojotr:  Grave-robber!</li>
 <li>Haensa:  Chicken! (literal)</li>
@@ -213,4 +213,4 @@ INSULTS AND CURSES
 <li>Meyla:  Little girl!</li>
 <li>Sipill:  Pot-licker!</li>
 <li>Tik:  Bitch! (literal)</li>
-<li>Skreyja:  Incompetent!</li>
+<li>Skreyja:  Incompetent!</li></ol>

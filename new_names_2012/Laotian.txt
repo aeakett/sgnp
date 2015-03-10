@@ -2,7 +2,7 @@
 Compiled by Jason Morningstar
 
 SURNAME
-<li>Khamsaly</li>
+<ol><li>Khamsaly</li>
 <li>Phommaseng</li>
 <li>Sayavong</li>
 <li>Nuanthasing</li>
@@ -21,10 +21,10 @@ SURNAME
 <li>Phrasavath</li>
 <li>Phanchone</li>
 <li>Aphay</li>
-<li>Xayavongchanh</li>
+<li>Xayavongchanh</li></ol>
 
 MALE 1
-<li>Savankhone</li>
+<ol><li>Savankhone</li>
 <li>Thongsavath</li>
 <li>Thonglor</li>
 <li>Manichanh</li>
@@ -43,10 +43,10 @@ MALE 1
 <li>Khenthong</li>
 <li>Sisomsouk</li>
 <li>Khamminh</li>
-<li>Houava</li>
+<li>Houava</li></ol>
 
 MALE 1
-<li>Hyato</li>
+<ol><li>Hyato</li>
 <li>Khamphong</li>
 <li>Somsack</li>
 <li>Sonalin</li>
@@ -65,10 +65,10 @@ MALE 1
 <li>Souriya</li>
 <li>Veomany</li>
 <li>Thavisouk</li>
-<li>Xay</li>
+<li>Xay</li></ol>
 
 FEMALE 1
-<li>Mayphone</li>
+<ol><li>Mayphone</li>
 <li>Boutsaba</li>
 <li>Chaola</li>
 <li>Chitpasong</li>
@@ -87,10 +87,10 @@ FEMALE 1
 <li>Manivanh</li>
 <li>Meay</li>
 <li>Sengchanh</li>
-<li>Mithsa</li>
+<li>Mithsa</li></ol>
 
 FEMALE 2
-<li>Moui</li>
+<ol><li>Moui</li>
 <li>Noi</li>
 <li>Syphay</li>
 <li>Thiemta</li>
@@ -109,6 +109,6 @@ FEMALE 2
 <li>Sakkal</li>
 <li>Soudavanh</li>
 <li>Outhoumchanh</li>
-<li>Phayvanh</li>
+<li>Phayvanh</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

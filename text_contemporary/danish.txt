@@ -1,76 +1,92 @@
 ﻿DANISH
 Compiled by Jason Morningstar
 MALE NAMES 1
-Magnus                                                                                                
-Oliver                                                                                                                                                                                                                        Frederik                                                                                                                                                                                                               Emil                                                                                                                                                                                                                          Mikkel                                                                                                                                                                                                              Tobias                                                                                                                                                                                                                         Nikolaj                                                                                                                                                                                                                                    Victor                                                                                                                                                                                                                                                         Sebastian                                                                                                                                                                                                                                                          Mads                                                                                                                                                                                                                                               Christian                                                                                                                                                                                                                                                        Rasmus                                                                                                                                                                                                                                                Jakob                                                                                                                                                                                                                                                           Jonas                                                                                                                                                                                                                                                           Marcus                                                                                                                                                                                                                                                         Kasper                                                                                                                                                                                                                                                          Andreas                                                                                                                                                                                                                                                           Simon    
-Lucas         
-Mathias                                                                                                                                                                                           
+<ol><li>Magnus</li>
+<li>Oliver</li>
+<li>Frederik</li>
+<li>Emil</li>
+<li>Mikkel</li>
+<li>Tobias</li>
+<li>Nikolaj</li>
+<li>Victor</li>
+<li>Sebastian</li>
+<li>Mads</li>
+<li>Christian</li>
+<li>Rasmus</li>
+<li>Jakob</li>
+<li>Jonas</li>
+<li>Marcus</li>
+<li>Kasper</li>
+<li>Andreas</li>
+<li>Simon</li>
+<li>Lucas</li>
+<li>Mathias</li></ol>
 FEMALE NAMES 1
-Mathilde
-Emma  
-Laura   
-Sofie   
-Freja   
-Caroline 
-Ida 
-Sara  
-Julie  
-Anna  
-Josefine   
-Maja  
-Cecilie  
-Clara    
-Katrine 
-Amalie 
-Victoria  
-Emilie 
-Lærke   
-Signe 
+<ol><li>Mathilde</li>
+<li>Emma</li>
+<li>Laura</li>
+<li>Sofie</li>
+<li>Freja</li>
+<li>Caroline</li>
+<li>Ida</li>
+<li>Sara</li>
+<li>Julie</li>
+<li>Anna</li>
+<li>Josefine</li>
+<li>Maja</li>
+<li>Cecilie</li>
+<li>Clara</li>
+<li>Katrine</li>
+<li>Amalie</li>
+<li>Victoria</li>
+<li>Emilie</li>
+<li>Lærke</li>
+<li>Signe</li></ol>
 MALE NAMES 2
-Noah 
-Nicklas 
-Lasse 
-Jeppe 
-Valdemar 
-Gustav 
-William
-Alexander 
-Malthe 
-Daniel 
-Benjamin
-Philip
-Christoffer 
-Anders 
-Anton
-Jonathan 
-Carl 
-Adam
-Silas 
-Marius 
+<ol><li>Noah</li>
+<li>Nicklas</li>
+<li>Lasse</li>
+<li>Jeppe</li>
+<li>Valdemar</li>
+<li>Gustav</li>
+<li>William</li>
+<li>Alexander</li>
+<li>Malthe</li>
+<li>Daniel</li>
+<li>Benjamin</li>
+<li>Philip</li>
+<li>Christoffer</li>
+<li>Anders</li>
+<li>Anton</li>
+<li>Jonathan</li>
+<li>Carl</li>
+<li>Adam</li>
+<li>Silas</li>
+<li>Marius</li></ol>
 FEMALE NAMES 2
-Anne 
-Jasmin 
-Nicoline 
-Frederikke 
-Mille 
-Sofia 
-Camilla         
-Maria 
-Alberte
-Frida  
-Marie 
-Isabella 
-Nanna 
-Liva 
-Louise 
-Andrea 
-Thea 
-Line 
-Rebecca 
-Johanne 
-Tille
+<ol><li>Anne</li>
+<li>Jasmin</li>
+<li>Nicoline</li>
+<li>Frederikke</li>
+<li>Mille</li>
+<li>Sofia</li>
+<li>Camilla</li>
+<li>Maria</li>
+<li>Alberte</li>
+<li>Frida</li>
+<li>Marie</li>
+<li>Isabella</li>
+<li>Nanna</li>
+<li>Liva</li>
+<li>Louise</li>
+<li>Andrea</li>
+<li>Thea</li>
+<li>Line</li>
+<li>Rebecca</li>
+<li>Johanne</li>
+<li>Tille</li></ol>
 SURNAMES
-<li>Jensen </li>
+<ol><li>Jensen </li>
 <li>Nielsen </li>
 <li>Hansen </li>
 <li>Pedersen </li>
@@ -89,4 +105,4 @@ SURNAMES
 <li>Poulsen</li>
 <li>Johansen </li>
 <li>Knudsen </li>
-<li>Mortensen </li>
+<li>Mortensen </li></ol>

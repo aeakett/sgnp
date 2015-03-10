@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTE
 The names are all taken from middle Welsh.  Ap- is the prefix used to denote son of, as in Baden ap Wynn
 MALE 1                                                        
-<li>Bradwr / traitor</li>
+<ol><li>Bradwr / traitor</li>
 <li>Collen / hazel tree</li>
 <li>Pedr / rock </li>
 <li>Ieuan /  God is gracious       </li>
@@ -22,9 +22,9 @@ MALE 1
 <li>Hywel / eminent                           </li>
 <li>Alwyn / friend of all            </li>
 <li>Idris / eager lord   </li>
-<li>Adwr / coward  </li>
+<li>Adwr / coward  </li></ol>
 FEMALE 1   
-<li>Derwen / oak tree          </li>
+<ol><li>Derwen / oak tree          </li>
 <li>Efa / life                   </li>
 <li>Goleuddydd / bright day              </li>
 <li>Maelona/  divine princess               </li>
@@ -43,9 +43,9 @@ FEMALE 1
 <li>Annwyl / beloved           </li>
 <li>Branwen / white bosomed</li>
 <li>Cadwyn / bright chain  </li>
-<li>Gwenhwyfar / holy light   </li>
+<li>Gwenhwyfar / holy light   </li></ol>
 MALE 2               
-<li>Peredur / hard spear</li>
+<ol><li>Peredur / hard spear</li>
 <li>Teryrnon / divine prince                                   </li>
 <li>Gwyn / white and shining                   </li>
 <li>Hafgan / summer song           </li>
@@ -64,9 +64,9 @@ MALE 2
 <li>Mordwywr / sailor             </li>
 <li>Rhobert / brilliant                     </li>
 <li>Sayer / carpenter                          </li>
-<li>Twrgadarn / tower of strength   </li>
+<li>Twrgadarn / tower of strength   </li></ol>
 FEMALE 2
-<li>Delyth / pretty</li>
+<ol><li>Delyth / pretty</li>
 <li>Arglwyddes / lady               </li>
 <li>Bethan / consecrated to God</li>
 <li>Vanora / white wave    </li>
@@ -85,9 +85,9 @@ FEMALE 2
 <li>Blodwen / flower</li>
 <li>Arthes / she-bear</li>
 <li>Banon / queen   </li>
-<li>Sioned / simple   </li>
+<li>Sioned / simple   </li></ol>
 MALE 3                                                     
-<li>Wynn / fair one                    </li>
+<ol><li>Wynn / fair one                    </li>
 <li>Prydwen / handsome                               </li>
 <li>Rhain / spear                             </li>
 <li>Llywelyn / leader                </li>
@@ -106,9 +106,9 @@ MALE 3
 <li>Eoin / young warrior                     </li>
 <li>Fyrsil / bears the staff                </li>
 <li>Gerwin / fair love               </li>
-<li>Ardwyad / protector   </li>
+<li>Ardwyad / protector   </li></ol>
 FEMALE 3     
-<li>Tegwen / radiant beauty                      </li>
+<ol><li>Tegwen / radiant beauty                      </li>
 <li>Vala / chosen                      </li>
 <li>Creirwy / beautiful maid          </li>
 <li>Cymreiges / woman of the land                       </li>
@@ -127,9 +127,9 @@ FEMALE 3
 <li>Adara / bird-catcher  </li>
 <li>Rhonwen / bright spear          </li>
 <li>Saeth / arrow                                       </li>
-<li>Ysbail / consecrated to God         </li>
+<li>Ysbail / consecrated to God         </li></ol>
 MALE 4                       
-<li>Meurig / dark skinned    </li>
+<ol><li>Meurig / dark skinned    </li>
 <li>Gower / pure                      </li>
 <li>Padrig / noble                </li>
 <li>Heddwyn / shining peace           </li>
@@ -148,4 +148,4 @@ MALE 4
 <li>Tarrant / thunder      </li>
 <li>Arian / silver               </li>
 <li>Emlyn / waterfall                                      </li>
-<li>Maelgwn / prince of the hounds </li>
+<li>Maelgwn / prince of the hounds </li></ol>

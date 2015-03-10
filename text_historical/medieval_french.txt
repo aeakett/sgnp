@@ -3,7 +3,7 @@ Compiled by Shreyas Sampat
 NOTES
 These are Norman and Occitan French names. When the Normans invaded Britain they brought their language with them, so this could also be suitable for a game set there; use French names for the gentry and Germanic names for the common people.
 MALE NAMES 1
-<li>Theobald</li>
+<ol><li>Theobald</li>
 <li>Lijart</li>
 <li>Isembard</li>
 <li>Guillemaque</li>
@@ -22,9 +22,9 @@ MALE NAMES 1
 <li>Guimond</li>
 <li>Alfonzenc</li>
 <li>Rainautz</li>
-<li>Imbart</li>
+<li>Imbart</li></ol>
 MALE NAMES 2
-<li>Batsuen</li>
+<ol><li>Batsuen</li>
 <li>Gylbarde</li>
 <li>Oudin</li>
 <li>Ancelmes</li>
@@ -43,9 +43,9 @@ MALE NAMES 2
 <li>Enricx</li>
 <li>Ferand</li>
 <li>Gilmyn</li>
-<li>Serlon</li>
+<li>Serlon</li></ol>
 FEMALE NAMES 1
-<li>Carelia</li>
+<ol><li>Carelia</li>
 <li>Rechemay</li>
 <li>Brunissende</li>
 <li>Hermengart</li>
@@ -64,9 +64,9 @@ FEMALE NAMES 1
 <li>Edelina</li>
 <li>Leocadia</li>
 <li>Calliste</li>
-<li>Richildis</li>
+<li>Richildis</li></ol>
 FEMALE NAMES 2
-<li>Rohesia</li>
+<ol><li>Rohesia</li>
 <li>Arlette</li>
 <li>Liaze</li>
 <li>Elisot</li>
@@ -85,4 +85,4 @@ FEMALE NAMES 2
 <li>Bethilie</li>
 <li>Ursanne</li>
 <li>Griseldis</li>
-<li>Aliz</li>
+<li>Aliz</li></ol>

@@ -3,7 +3,7 @@ Compiled by Jason Morningstar and Meguey Baker
 NOTES
 These lists include all the unusual names suggested in Dogs in the Vineyard; most include the general meaning of the name in case you are into allegory.  The surname lists are common mid-nineteenth-century surnames with some specific ones culled from a single county in Utah.  Meg put together the personalized town stuff.
 MALE NAMES 1 
-<li>Boaz 'swift' </li>
+<ol><li>Boaz 'swift' </li>
 <li>Cain 'craftsman' </li>
 <li>August</li>
 <li>Cleophus </li>
@@ -22,9 +22,9 @@ MALE NAMES 1
 <li>Zephaniah 'hidden by God' </li>
 <li>Eli 'high' </li>
 <li>Solomon 'peaceful'</li>
-<li>Josiah 'God heals' </li>
+<li>Josiah 'God heals' </li></ol>
 FEMALE NAMES 1
-<li>Prudence</li>
+<ol><li>Prudence</li>
 <li>Rachel 'ewe'</li>
 <li>Delilah 'delicate'</li>
 <li>Mehetabel</li>
@@ -43,9 +43,9 @@ FEMALE NAMES 1
 <li>Jemima 'dove' </li>
 <li>Leah 'gazelle' </li>
 <li>Jezebel 'wicked'</li>
-<li>Ruth 'companion' </li>
+<li>Ruth 'companion' </li></ol>
 MALE NAMES 2
-<li>Stephen 'crown'  </li>
+<ol><li>Stephen 'crown'  </li>
 <li>Tabor 'misfortune' </li>
 <li>Simeon 'obedient'</li>
 <li>Elias 'God is mighty </li>
@@ -64,9 +64,9 @@ MALE NAMES 2
 <li>Virgil</li>
 <li>Zachary 'God remembers'</li>
 <li>Enoch 'dedicated' </li>
-<li>Abijah</li>
+<li>Abijah</li></ol>
 FEMALE NAMES 2
-<li>Abigail 'father is rejoicing'</li>
+<ol><li>Abigail 'father is rejoicing'</li>
 <li>Samantha 'listener'</li>
 <li>Abiah 'God is my father'</li>
 <li>Kezia 'cassia tree' </li>
@@ -85,9 +85,9 @@ FEMALE NAMES 2
 <li>Tamara 'date palm' </li>
 <li>Mahalia 'marrow'</li>
 <li>Hope</li>
-<li>Jael 'mountain goat' </li>
+<li>Jael 'mountain goat' </li></ol>
 MALE NAMES 3
-<li>Ephraim 'very fruitful' </li>
+<ol><li>Ephraim 'very fruitful' </li>
 <li>Abraham 'father of many' </li>
 <li>Benjamin 'son of the south'</li>
 <li>Asher 'blessed' </li>
@@ -106,9 +106,9 @@ MALE NAMES 3
 <li>Newton</li>
 <li>Zebedee 'God has bestowed'</li>
 <li>Job 'afflicted' </li>
-<li>Joel 'Jehovah is God' </li>
+<li>Joel 'Jehovah is God' </li></ol>
 FEMALE NAMES 3
-<li>Louvina</li>
+<ol><li>Louvina</li>
 <li>Madeleine 'of Magdala' </li>
 <li>Esther 'star'</li>
 <li>Tryphosia</li>
@@ -127,9 +127,9 @@ FEMALE NAMES 3
 <li>Permelia</li>
 <li>Azubah</li>
 <li>Hester</li>
-<li>Honora</li>
+<li>Honora</li></ol>
 MALE NAMES 4
-<li>Zechariah 'remembrance of God'</li>
+<ol><li>Zechariah 'remembrance of God'</li>
 <li>Nicodemus 'victory people' </li>
 <li>Noah 'long-lived' </li>
 <li>Obadiah 'servant of God' </li>
@@ -148,9 +148,9 @@ MALE NAMES 4
 <li>Jabez 'born in pain'  </li>
 <li>Jacob 'seizing by the heel'</li>
 <li>Jonah 'dove' </li>
-<li>Jairus 'God enlightens' </li>
+<li>Jairus 'God enlightens' </li></ol>
 FEMALE NAMES 4
-<li>Bathsheba 'an oath' </li>
+<ol><li>Bathsheba 'an oath' </li>
 <li>Candace 'white'</li>
 <li>Dinah 'judged'</li>
 <li>Edwina</li>
@@ -169,9 +169,9 @@ FEMALE NAMES 4
 <li>Clementine</li>
 <li>Anne 'favored' </li>
 <li>Adah 'adornment' </li>
-<li>Tirzah 'acceptance' </li>
+<li>Tirzah 'acceptance' </li></ol>
 MALE NAMES 5
-<li>Adam 'red earth' </li>
+<ol><li>Adam 'red earth' </li>
 <li>Jackson</li>
 <li>Luke 'light' </li>
 <li>Malachi 'my messenger' </li>
@@ -190,9 +190,9 @@ MALE NAMES 5
 <li>John 'God is gracious' </li>
 <li>Balthazar 'Baal protect the king' </li>
 <li>Timothy 'honored by God' </li>
-<li>Tobias 'God is good' </li>
+<li>Tobias 'God is good' </li></ol>
 FEMALE NAMES 5
-<li>Miriam 'beloved'</li>
+<ol><li>Miriam 'beloved'</li>
 <li>Naomi 'my joy/delight' </li>
 <li>Obedience</li>
 <li>Alice</li>
@@ -211,9 +211,9 @@ FEMALE NAMES 5
 <li>Marianne 'rejoice'</li>
 <li>Temperance</li>
 <li>Sharon 'a plain' </li>
-<li>Constance</li>
+<li>Constance</li></ol>
 MORE MALE NAMES 1
-<li>Uriah 'God is light' </li>
+<ol><li>Uriah 'God is light' </li>
 <li>Jude 'praised' </li>
 <li>Lazarus 'God is my helper'</li>
 <li>Levi 'joined/pledged' </li>
@@ -232,9 +232,9 @@ MORE MALE NAMES 1
 <li>Matthew 'gift of God'</li>
 <li>Jesse 'gift' </li>
 <li>Matthias 'gift of God'</li>
-<li>Zebediah 'God has bestowed' </li>
+<li>Zebediah 'God has bestowed' </li></ol>
 MORE MALE NAMES 2
-<li>Thomas 'twin' </li>
+<ol><li>Thomas 'twin' </li>
 <li>Jared 'descendant' </li>
 <li>Mitchell 'Godly'</li>
 <li>Moses 'drawn out of the water'</li>
@@ -253,9 +253,9 @@ MORE MALE NAMES 2
 <li>Absalom 'father of peace' </li>
 <li>Silas 'asked for' </li>
 <li>Joshua 'God is salvation' </li>
-<li>Simon 'obedient' </li>
+<li>Simon 'obedient' </li></ol>
 MALE OUTSIDERS AND CONVERTS
-<li>John</li>
+<ol><li>John</li>
 <li>William</li>
 <li>James</li>
 <li>George</li>
@@ -274,9 +274,9 @@ MALE OUTSIDERS AND CONVERTS
 <li>Paul</li>
 <li>Clarence</li>
 <li>Fred</li>
-<li>Carl </li>
+<li>Carl </li></ol>
 FEMALE OUTSIDERS AND CONVERTS
-<li>Mary</li>
+<ol><li>Mary</li>
 <li>Helen</li>
 <li>Margaret</li>
 <li>Anna</li>
@@ -295,9 +295,9 @@ FEMALE OUTSIDERS AND CONVERTS
 <li>Edna</li>
 <li>Grace</li>
 <li>Catherine</li>
-<li>Hazel </li>
+<li>Hazel </li></ol>
 SURNAMES 1
-<li>Winthrop              </li>
+<ol><li>Winthrop              </li>
 <li>Turner </li>
 <li>White             </li>
 <li>Howard </li>
@@ -316,9 +316,9 @@ SURNAMES 1
 <li>Griffiths </li>
 <li>Bennett </li>
 <li>Hall</li>
-<li>Hodgkiss     </li>
+<li>Hodgkiss     </li></ol>
 SURNAMES 2
-<li>Blake         </li>
+<ol><li>Blake         </li>
 <li>Holmes        </li>
 <li>Cook</li>
 <li>McFarland     </li>
@@ -337,9 +337,9 @@ SURNAMES 2
 <li>Combs</li>
 <li>Peterson</li>
 <li>Bagley        </li>
-<li>Cooper </li>
+<li>Cooper </li></ol>
 SURNAMES 3
-<li>Bell       </li>
+<ol><li>Bell       </li>
 <li>Miller</li>
 <li>Brown         </li>
 <li>Milton        </li>
@@ -358,9 +358,9 @@ SURNAMES 3
 <li>Sprague       </li>
 <li>Burkey        </li>
 <li>Stephens   </li>
-<li>Martin </li>
+<li>Martin </li></ol>
 SURNAMES 4
-<li>McAlmond      </li>
+<ol><li>McAlmond      </li>
 <li>Lawrence      </li>
 <li>Howell        </li>
 <li>Hughes </li>
@@ -379,9 +379,9 @@ SURNAMES 4
 <li>Barry </li>
 <li>Chambers      </li>
 <li>Cobley      </li>
-<li>Doughty  </li>
+<li>Doughty  </li></ol>
 SURNAMES 5   
-<li>Ryder         </li>
+<ol><li>Ryder         </li>
 <li>Sampson       </li>
 <li>Tucker       </li>
 <li>Windsor     </li>
@@ -400,9 +400,9 @@ SURNAMES 5
 <li>Hilderband    </li>
 <li>Frazier       </li>
 <li>Garnett       </li>
-<li>Dunn    </li>
+<li>Dunn    </li></ol>
 SURNAMES 6    
-<li>Clark </li>
+<ol><li>Clark </li>
 <li>Bailey </li>
 <li>Clifford      </li>
 <li>Anderson </li>
@@ -421,9 +421,9 @@ SURNAMES 6
 <li>Scott </li>
 <li>Thomas </li>
 <li>Ward </li>
-<li>Young </li>
+<li>Young </li></ol>
 TOWN NAME BITS:  BIBLICAL
-<li>Enoch</li>
+<ol><li>Enoch</li>
 <li>Ephraim</li>
 <li>Goshen</li>
 <li>Jordan</li>
@@ -442,9 +442,9 @@ TOWN NAME BITS:  BIBLICAL
 <li>Reuben</li>
 <li>Galilee</li>
 <li>Palestine</li>
-<li>Lebanon</li>
+<li>Lebanon</li></ol>
 TOWN NAME BITS:  HABITATION
-<li>Fort</li>
+<ol><li>Fort</li>
 <li>Station</li>
 <li>Outpost</li>
 <li>Mine</li>
@@ -463,9 +463,9 @@ TOWN NAME BITS:  HABITATION
 <li>Patch</li>
 <li>Well</li>
 <li>Corner</li>
-<li>Village</li>
+<li>Village</li></ol>
 TOWN NAME BITS:  ANIMAL
-<li>Eagle</li>
+<ol><li>Eagle</li>
 <li>Crow</li>
 <li>Woodpecker</li>
 <li>Pigeon</li>
@@ -484,9 +484,9 @@ TOWN NAME BITS:  ANIMAL
 <li>Trout</li>
 <li>Mosquito</li>
 <li>Elephant</li>
-<li>Alligator</li>
+<li>Alligator</li></ol>
 TOWN NAME BITS:  VEGETABLE
-<li>Box elder</li>
+<ol><li>Box elder</li>
 <li>Greasewood</li>
 <li>Pickleweed</li>
 <li>Saltbush</li>
@@ -505,9 +505,9 @@ TOWN NAME BITS:  VEGETABLE
 <li>Hay</li>
 <li>Sorghum</li>
 <li>Barley</li>
-<li>Honey</li>
+<li>Honey</li></ol>
 TOWN NAME BITS:  TOPOGRAPHY
-<li>Canyon</li>
+<ol><li>Canyon</li>
 <li>Gulch</li>
 <li>Wash</li>
 <li>Valley</li>
@@ -526,9 +526,9 @@ TOWN NAME BITS:  TOPOGRAPHY
 <li>Bend</li>
 <li>Crossing</li>
 <li>Lake</li>
-<li>Spring</li>
+<li>Spring</li></ol>
 TOWN NAME BITS:  STUFF
-<li>Arrowhead</li>
+<ol><li>Arrowhead</li>
 <li>Whiskey</li>
 <li>Horseshoe</li>
 <li>Rifle</li>
@@ -547,9 +547,9 @@ TOWN NAME BITS:  STUFF
 <li>Anvil</li>
 <li>Prayer book</li>
 <li>King-of-life</li>
-<li>Corn crib</li>
+<li>Corn crib</li></ol>
 TOWN NAME BITS:  DESCRIPTION
-<li>Roaring</li>
+<ol><li>Roaring</li>
 <li>Windy</li>
 <li>North</li>
 <li>Icy</li>
@@ -568,10 +568,10 @@ TOWN NAME BITS:  DESCRIPTION
 <li>Silver</li>
 <li>Big</li>
 <li>Little</li>
-<li>South</li>
+<li>South</li></ol>
 SHOPS
 Mid-to-low tech cities and towns. This list would work for a Dogs in the Vineyard town of reasonable size.  Occupational stereotyping is intentional; change it if you want.
-<li>Hall's General Store</li>
+<ol><li>Hall's General Store</li>
 <li>Olsen's Dry Goods</li>
 <li>Jerico's Blacksmithing</li>
 <li>Miss Pringle's Millinery for Ladies</li>
@@ -590,10 +590,10 @@ Mid-to-low tech cities and towns. This list would work for a Dogs in the Vineyar
 <li>Gambini's Butchery - Fresh cuts and farm visits</li>
 <li>Mattley's Mill and Bakery</li>
 <li>Oscar's Pottery</li>
-<li>Lashway Lumber </li>
+<li>Lashway Lumber </li></ol>
 PLACES AROUND TOWN
 Not a shop, tavern, or personal home, but still important parts of town.
-<li>Schoolyard - trees, some big stones, maybe a few tree-swings</li>
+<ol><li>Schoolyard - trees, some big stones, maybe a few tree-swings</li>
 <li>Empty lot behind the feed store - sometimes there are horses here</li>
 <li>Berry field north of town</li>
 <li>Church/School/Town Hall - all the same building, perhaps</li>
@@ -612,4 +612,4 @@ Not a shop, tavern, or personal home, but still important parts of town.
 <li>Stagger's Mine - abandoned for years</li>
 <li>The room over the millinery shop - smoking and gambling for men</li>
 <li>Hermit's lean-to - three-sided cabin used by hunters etc., left provisioned for whoever comes next</li>
-<li>Saunder's rock quarry </li>
+<li>Saunder's rock quarry </li></ol>

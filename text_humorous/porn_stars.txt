@@ -1,7 +1,7 @@
 ﻿PORN STARS
 Compiled by Team Story-Games
 MALE 1 
-<li>Edmonton Masasoit</li>
+<ol><li>Edmonton Masasoit</li>
 <li>Ezekiel Dakin</li>
 <li>Charcoal Guilford</li>
 <li>Aaron Divine</li>
@@ -20,9 +20,9 @@ MALE 1
 <li>Flash Frazier</li>
 <li>Duke Brower </li>
 <li>Elvis Emerald </li>
-<li>Buddy Forge</li>
+<li>Buddy Forge</li></ol>
 FEMALE 1
-<li>Britty Winchester</li>
+<ol><li>Britty Winchester</li>
 <li>Muffin, Heidi, Big Kitty and Little Kitty Sunrise</li>
 <li>Taffy White </li>
 <li>Snowball Nashville </li>
@@ -41,9 +41,9 @@ FEMALE 1
 <li>Candy Wood</li>
 <li>Coco Blueball</li>
 <li>Duchess Drake</li>
-<li>Dorian Sylvanwood</li>
+<li>Dorian Sylvanwood</li></ol>
 MALE 2
-<li>Midnight J</li>
+<ol><li>Midnight J</li>
 <li>Bucky Oneida</li>
 <li>Anubis Broadway</li>
 <li>Zapruder Lawnmont</li>
@@ -62,9 +62,9 @@ MALE 2
 <li>'Curious' George Galloway</li>
 <li>Moby Ravenscroft</li>
 <li>Drake Duchess</li>
-<li>Oliver Bodemann</li>
+<li>Oliver Bodemann</li></ol>
 FEMALE 2
-<li>Megan Honeywell</li>
+<ol><li>Megan Honeywell</li>
 <li>Kitty Oneida</li>
 <li>Hobeaux Fourteener</li>
 <li>Samantha Power</li>
@@ -83,9 +83,9 @@ FEMALE 2
 <li>Bambi Winchester</li>
 <li>Sasha Sugar</li>
 <li>Heddy Good</li>
-<li>Lorraine Murrayhill</li>
+<li>Lorraine Murrayhill</li></ol>
 SHOOTING LOCATIONS
-<li>A tiger cage mock-up at SERE school at Camp Mackall.</li>
+<ol><li>A tiger cage mock-up at SERE school at Camp Mackall.</li>
 <li>The Unit Two reactor at the Dukovany power station, Czech Republic</li>
 <li>A cell in an abbey. The church bells are ringing.</li>
 <li>A monkey-covered Conquistador's raft adrift on the Amazon.</li>
@@ -104,4 +104,4 @@ SHOOTING LOCATIONS
 <li>BASE jumping off Mount Rushmore</li>
 <li>Gen Con</li>
 <li>Under the speaker's podium at a shareholder's meeting</li>
-<li>A zombie-infested shopping mall in Pittsburgh</li>
+<li>A zombie-infested shopping mall in Pittsburgh</li></ol>

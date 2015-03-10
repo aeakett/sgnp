@@ -2,7 +2,7 @@
 Compiled by Rachel E.S. Walton
 
 MALE NAMES 1
-<li>Alexsandar</li>
+<ol><li>Alexsandar</li>
 <li>Ambrose</li>
 <li>Artemus</li>
 <li>Augustus</li>
@@ -21,10 +21,10 @@ MALE NAMES 1
 <li>Horace</li>
 <li>Jacob</li>
 <li>Jeremiah</li>
-<li>Jules</li>
+<li>Jules</li></ol>
 
 MALE NAMES 2
-<li>Lafayette</li>
+<ol><li>Lafayette</li>
 <li>Lancelot</li>
 <li>Langdon</li>
 <li>Lawrence</li>
@@ -43,10 +43,10 @@ MALE NAMES 2
 <li>Tobias</li>
 <li>Valentine</li>
 <li>Vash</li>
-<li>Zeke</li>
+<li>Zeke</li></ol>
 
 FEMALE NAMES 1
-<li>Agatha</li>
+<ol><li>Agatha</li>
 <li>Agnes</li>
 <li>Alethea</li>
 <li>Alexia</li>
@@ -65,10 +65,10 @@ FEMALE NAMES 1
 <li>Eudora</li>
 <li>Eulalia</li>
 <li>Evangeline</li>
-<li>Genevieve</li>
+<li>Genevieve</li></ol>
 
 FEMALE NAMES 2
-<li>Gwendolyn</li>
+<ol><li>Gwendolyn</li>
 <li>Hattie</li>
 <li>Jessamine</li>
 <li>Lavinia</li>
@@ -87,10 +87,10 @@ FEMALE NAMES 2
 <li>Sophronia</li>
 <li>Theodosia</li>
 <li>Violetta</li>
-<li>Zylpha</li>
+<li>Zylpha</li></ol>
 
 MIDDLE NAMES AND SURNAMES 1
-<li>Arronax</li>
+<ol><li>Arronax</li>
 <li>Ashby</li>
 <li>Bastable</li>
 <li>Beckford</li>
@@ -109,10 +109,10 @@ MIDDLE NAMES AND SURNAMES 1
 <li>Fogg</li>
 <li>Gordon</li>
 <li>Granville</li>
-<li>Greypartridge</li>
+<li>Greypartridge</li></ol>
 
 MIDDLE NAMES AND SURNAMES 2
-<li>Hawkshaw</li>
+<ol><li>Hawkshaw</li>
 <li>Holloway</li>
 <li>Heterodyne</li>
 <li>Jeter</li>
@@ -131,10 +131,10 @@ MIDDLE NAMES AND SURNAMES 2
 <li>St. Ives</li>
 <li>Verne</li>
 <li>West</li>
-<li>Whipple</li>
+<li>Whipple</li></ol>
 
 EMPORIUM OF QUALITY INVENTORY
-<li>Brass, leather-wrapped telescope</li>
+<ol><li>Brass, leather-wrapped telescope</li>
 <li>Gilded hardwood hourglass</li>
 <li>Gold-plated pocket compass</li>
 <li>Silver clip-on magnifying loupe</li>
@@ -153,6 +153,6 @@ EMPORIUM OF QUALITY INVENTORY
 <li>Ivory cameo pin</li>
 <li>Charm necklace with locket and skeleton key</li>
 <li>Crystal hand mirror</li>
-<li>Perfume vial</li>
+<li>Perfume vial</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA  

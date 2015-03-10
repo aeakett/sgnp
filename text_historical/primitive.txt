@@ -3,7 +3,7 @@ Compiled by Joshua BishopRoby
 NOTES
 This is a set of two lists that are meant to go together.  Pick an element from the first list and one from the second list and mash 'em together.  If you get excited, use more than one from a list.  This particular set works for primitive cultures close to the natural world.  
 FIRST LIST
-<li>Green</li>
+<ol><li>Green</li>
 <li>Red</li>
 <li>Black</li>
 <li>Brown</li>
@@ -22,9 +22,9 @@ FIRST LIST
 <li>Bright</li>
 <li>Crippled</li>
 <li>Serene</li>
-<li>(None; skip this column)</li>
+<li>(None; skip this column)</li></ol>
 SECOND LIST
-<li>Dawn</li>
+<ol><li>Dawn</li>
 <li>Tree</li>
 <li>Bear</li>
 <li>Brook</li>
@@ -43,4 +43,4 @@ SECOND LIST
 <li>Leaf</li>
 <li>Sky</li>
 <li>Moon</li>
-<li>(None; skip this column)</li>
+<li>(None; skip this column)</li></ol>

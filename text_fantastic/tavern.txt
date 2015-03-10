@@ -3,7 +3,7 @@ Compiled by Brendan Adkins and Meguey Baker
 NOTES
 Combine Regulars and Surnames lists, or chain Epithet + Wench + Surname.  Add a brawl and some shady information about the Dangerous Place Just Outside of Town and viola!  Instant adventure.  
 TAVERN REGULARS
-<li>Arp</li>
+<ol><li>Arp</li>
 <li>Bailey</li>
 <li>Binko</li>
 <li>Catgut</li>
@@ -22,9 +22,9 @@ TAVERN REGULARS
 <li>Soldier</li>
 <li>Thar</li>
 <li>Uncle</li>
-<li>Whiskey</li>
+<li>Whiskey</li></ol>
 ANGLO-GERMANIC-ISH SURNAMES
-<li>Appelbaun</li>
+<ol><li>Appelbaun</li>
 <li>Brunshaus</li>
 <li>Dooley</li>
 <li>Dogskin</li>
@@ -43,9 +43,9 @@ ANGLO-GERMANIC-ISH SURNAMES
 <li>Smith</li>
 <li>Thewsday</li>
 <li>Wossiface</li>
-<li>Call-'Em-(roll or choose from epithets table)</li>
+<li>Call-'Em-(roll or choose from epithets table)</li></ol>
 TAVERN WENCH EPITHETS
-<li>Big</li>
+<ol><li>Big</li>
 <li>Black-Eyed</li>
 <li>Blousy</li>
 <li>Dour</li>
@@ -64,9 +64,9 @@ TAVERN WENCH EPITHETS
 <li>Slippery</li>
 <li>Sly</li>
 <li>Sneezing</li>
-<li>Three-Beer</li>
+<li>Three-Beer</li></ol>
 TAVERN WENCHES
-<li>Aubra</li>
+<ol><li>Aubra</li>
 <li>Beaulinda</li>
 <li>Brenna</li>
 <li>Cherry</li>
@@ -85,11 +85,11 @@ TAVERN WENCHES
 <li>Poppine</li>
 <li>Sally</li>
 <li>Violet</li>
-<li>Winnie</li>
+<li>Winnie</li></ol>
 TAVERNS
 Any time, any place. Take one from column A and one from column B. Nearly all of these could have 'The' before them.
 COLUMN A
-<li>Dancing </li>
+<ol><li>Dancing </li>
 <li>Harp and</li>
 <li>Vixen's </li>
 <li>Odd</li>
@@ -108,9 +108,9 @@ COLUMN A
 <li>King Phillip's </li>
 <li>Clover and </li>
 <li>Dusty </li>
-<li>Golden </li>
+<li>Golden </li></ol>
 COLUMN B
-<li>Dove </li>
+<ol><li>Dove </li>
 <li>Den</li>
 <li>Bucks</li>
 <li>Unicorn</li>
@@ -129,9 +129,9 @@ COLUMN B
 <li>Griffin</li>
 <li>Leaf</li>
 <li>Bull</li>
-<li>Stones</li>
+<li>Stones</li></ol>
 DANGEROUS PLACES JUST OUTSIDE TOWN
-<li>Ashen Way</li>
+<ol><li>Ashen Way</li>
 <li>Barrymore's Hole</li>
 <li>Cobblefall</li>
 <li>Cold Riley Holler</li>
@@ -150,4 +150,4 @@ DANGEROUS PLACES JUST OUTSIDE TOWN
 <li>Switchback Tumble</li>
 <li>Tall Man's Shadow</li>
 <li>The Empty</li>
-<li>The Glow</li>
+<li>The Glow</li></ol>

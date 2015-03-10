@@ -5,7 +5,7 @@ Catalonia, a territory of Spain falling between Valencia to the South, Aragon to
 Catalan is a language with much common to both French and Spanish, and sounds a little like a less lyrical Italian. Like French, J and G are both soft, and C can be also; however, the words do not end silently and the emphasis / pacing of the words is similar to Spanish.
 Modern Catalan employs the combination of paternal and maternal names (in that order) seen also in Spanish, separated by a y. However, it may be that this practise was imported from Spanish tradition and law as I have not found any medieval names that follow this pattern.
 MALE FORENAMES (15th Century)
-<li>Francesc</li>
+<ol><li>Francesc</li>
 <li>Bernat</li>
 <li>Joan</li>
 <li>Carles</li>
@@ -24,9 +24,9 @@ MALE FORENAMES (15th Century)
 <li>Martí</li>
 <li>Miquel</li>
 <li>Nicolau</li>
-<li>Celdoni</li>
+<li>Celdoni</li></ol>
 MALE FORENAMES (12th Century)
-<li>Alfons </li>
+<ol><li>Alfons </li>
 <li>Arnau </li>
 <li>Berenguer </li>
 <li>Bertran </li>
@@ -45,9 +45,9 @@ MALE FORENAMES (12th Century)
 <li>Ponç </li>
 <li>Ricart </li>
 <li>Seguinus </li>
-<li>Vidal </li>
+<li>Vidal </li></ol>
 FEMALE FORENAMES 
-<li>Tecla</li>
+<ol><li>Tecla</li>
 <li>Beatriu*</li>
 <li>Geralla*</li>
 <li>Anglesa*</li>
@@ -66,10 +66,10 @@ FEMALE FORENAMES
 <li>Maria</li>
 <li>Miquela</li>
 <li>Samuela</li>
-<li>Segimona</li>
+<li>Segimona</li></ol>
 *NB These are 12th Century names, the rest are 15th - female names are underdocumented in the historical record.
 SURNAMES (12th Century)
-<li>Amalric</li>
+<ol><li>Amalric</li>
 <li>Berenguer</li>
 <li>de Villagut</li>
 <li>d'Eures</li>
@@ -88,9 +88,9 @@ SURNAMES (12th Century)
 <li>Foget</li>
 <li>de Montrodon</li>
 <li>Guifre </li>
-<li>Sumar</li>
+<li>Sumar</li></ol>
 SURNAMES (15th Century) 1
-<li>Fisnerola</li>
+<ol><li>Fisnerola</li>
 <li>Queralt</li>
 <li>Colom</li>
 <li>Dardarich</li>
@@ -109,9 +109,9 @@ SURNAMES (15th Century) 1
 <li>Vilagrassa</li>
 <li>Muntargull</li>
 <li>Obradors</li>
-<li>Nabet</li>
+<li>Nabet</li></ol>
 SURNAMES (15th Century) 2
-<li>Rofreo</li>
+<ol><li>Rofreo</li>
 <li>Roca</li>
 <li>Paguer</li>
 <li>Pariquet</li>
@@ -130,9 +130,9 @@ SURNAMES (15th Century) 2
 <li>Barberà</li>
 <li>Goscemps</li>
 <li>Reguera</li>
-<li>Roca</li>
+<li>Roca</li></ol>
 12TH CENTURY PLACE NAMES
-<li>Balsareny</li>
+<ol><li>Balsareny</li>
 <li>Burgos</li>
 <li>Collo de Infurcatos</li>
 <li>Enrens</li>
@@ -151,9 +151,9 @@ SURNAMES (15th Century) 2
 <li>Sala Cugulada</li>
 <li>Serra</li>
 <li>Tarragona</li>
-<li>Valle	</li>
+<li>Valle	</li></ol>
 COUNTS OF BARCELONA
-<li>Berà (801-820)</li>
+<ol><li>Berà (801-820)</li>
 <li>Rampó (820-826)</li>
 <li>Bernat (826-832)</li>
 <li>Berenguer (832-835)</li>
@@ -172,4 +172,4 @@ COUNTS OF BARCELONA
 <li>Ramon Berenguer I el Vell (the Old) (1035-1076)</li>
 <li>Ramon Berenguer II el Cap d'Estopes (the Towhead) (1076-1082)</li>
 <li>Berenguer Ramon II el Fratricida (the Fratricide) (1076-1097)</li>
-<li>Ramon Berenguer III (I of Provence) el Gran (the Great) (1082-1131)</li>
+<li>Ramon Berenguer III (I of Provence) el Gran (the Great) (1082-1131)</li></ol>

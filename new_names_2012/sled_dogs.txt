@@ -5,7 +5,7 @@ NOTES
 From Ernest Shackleton's disastrous attempt to cross Antarctica, 1914-1917. 8 additional dogs had no name.
 
 SLEDGE DOGS 1
-<li>Rugby</li>
+<ol><li>Rugby</li>
 <li>Upton</li>
 <li>Bristol</li>
 <li>Millhill</li>
@@ -24,10 +24,10 @@ SLEDGE DOGS 1
 <li>Sub</li>
 <li>Ulysses</li>
 <li>Spotty</li>
-<li>Boson</li>
+<li>Boson</li></ol>
 
 SLEDGE DOGS 2
-<li>Slobbers</li>
+<ol><li>Slobbers</li>
 <li>Sadie</li>
 <li>Sut</li>
 <li>Sally</li>
@@ -46,10 +46,10 @@ SLEDGE DOGS 2
 <li>Bob</li>
 <li>Snowball</li>
 <li>Jerry</li>
-<li>Judge</li>
+<li>Judge</li></ol>
 
 SLEDGE DOGS 3
-<li>Sooty</li>
+<ol><li>Sooty</li>
 <li>Rufus</li>
 <li>Sidelights</li>
 <li>Simeon</li>
@@ -68,6 +68,6 @@ SLEDGE DOGS 3
 <li>Smuts</li>
 <li>Lupoid</li>
 <li>Spider</li>
-<li>Sailor</li>
+<li>Sailor</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

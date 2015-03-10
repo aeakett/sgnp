@@ -8,7 +8,7 @@ All names here are listed in their masculine forms.  Names are feminized by repl
 To create a male Roman name, choose one praenomen, one nomen, and one cognomen.  For example: Gaius Julius Caesar. 
 To create a female Roman name, choose and feminize one nomen and one optional cognomen.  Girls were often numbered instead of being given actual cognomens.  For example: Flavia Tertia. 
 PRAENOMEN LIST
-<li>Gaius</li>
+<ol><li>Gaius</li>
 <li>Lucius</li>
 <li>Marcus</li>
 <li>Publius</li>
@@ -27,9 +27,9 @@ PRAENOMEN LIST
 <li>Appius</li>
 <li>Numerius</li>
 <li>Vibius</li>
-<li>Primus</li>
+<li>Primus</li></ol>
 NOMEN LIST 1
-<li>Aelius</li>
+<ol><li>Aelius</li>
 <li>Calpurius</li>
 <li>Moravius</li>
 <li>Naevius</li>
@@ -48,9 +48,9 @@ NOMEN LIST 1
 <li>Domitius</li>
 <li>Fannius</li>
 <li>Cordius</li>
-<li>Larcius</li>
+<li>Larcius</li></ol>
 NOMEN LIST 2
-<li>Albius</li>
+<ol><li>Albius</li>
 <li>Amatius</li>
 <li>Cornelius</li>
 <li>Laelius</li>
@@ -69,9 +69,9 @@ NOMEN LIST 2
 <li>Marcius</li>
 <li>Labenius</li>
 <li>Seius</li>
-<li>Luventius</li>
+<li>Luventius</li></ol>
 NOMEN LIST 3
-<li>Ambrosius</li>
+<ol><li>Ambrosius</li>
 <li>Memmius</li>
 <li>Lulius</li>
 <li>Sertorious</li>
@@ -90,9 +90,9 @@ NOMEN LIST 3
 <li>Licinius</li>
 <li>Scribonius</li>
 <li>Lunius</li>
-<li>Ovidius</li>
+<li>Ovidius</li></ol>
 NOMEN LIST 4
-<li>Antonius</li>
+<ol><li>Antonius</li>
 <li>Papirius</li>
 <li>Sentius</li>
 <li>Minius</li>
@@ -111,9 +111,9 @@ NOMEN LIST 4
 <li>Salvius</li>
 <li>Ursius</li>
 <li>Quintius</li>
-<li>Servilius</li>
+<li>Servilius</li></ol>
 NOMEN LIST 5
-<li>Servius</li>
+<ol><li>Servius</li>
 <li>Arrius</li>
 <li>Claudius</li>
 <li>Silvius</li>
@@ -132,7 +132,7 @@ NOMEN LIST 5
 <li>Vergilius</li>
 <li>Gratius</li>
 <li>Herennius</li>
-<li>Vitruvius</li>
+<li>Vitruvius</li></ol>
 COGNOMEN
 There are several special types of cognomena that may also be appropriate.  While there are not twenty of them, the other types are listed here:
 - Geographical: the city, region or tribe you are from.  For example, "Sabinus" means "Man of the Sabine tribe."
@@ -141,7 +141,7 @@ There are several special types of cognomena that may also be appropriate.  Whil
 - Non-Roman: if you are not Roman, you may keep a Romanized version of your name when you become a citizen.  For example, "Idir" is a Berber name which could be used as a cognomen.
 - Adoptive: if you are adopted, you take the cognomen of your adoptive father, but you keep your original cognomen as a second cognomen.  The adoption is indicated by replacing the "-ius" ending with an "-ianus" ending in your original cognomen.
 COGNOMEN LIST 1
-<li>Aculeo (prickly)</li>
+<ol><li>Aculeo (prickly)</li>
 <li>Salinator (salt-harvester)</li>
 <li>Vetus (old)</li>
 <li>Vatia (awkward)</li>
@@ -160,9 +160,9 @@ COGNOMEN LIST 1
 <li>Bibulus (drunkard)</li>
 <li>Celsus (tall)</li>
 <li>Cicero (chick pea)</li>
-<li>Blaesus (stammerer)</li>
+<li>Blaesus (stammerer)</li></ol>
 COGNOMEN LIST 2
-<li>Brutus (dumb)</li>
+<ol><li>Brutus (dumb)</li>
 <li>Ahala (armpit)</li>
 <li>Calidus (hot-headed)</li>
 <li>Agrippa (born feet first)</li>
@@ -181,9 +181,9 @@ COGNOMEN LIST 2
 <li>Crassus (fat)</li>
 <li>Pulcher/Pulchra (attractive)</li>
 <li>Quadratus (stocky)</li>
-<li>Rullus (boorish)</li>
+<li>Rullus (boorish)</li></ol>
 COGNOMEN LIST 3
-<li>Crispus (curly-haired)</li>
+<ol><li>Crispus (curly-haired)</li>
 <li>Bulbus (onion)</li>
 <li>Cursor (runner)</li>
 <li>Bucco (dolt)</li>
@@ -202,9 +202,9 @@ COGNOMEN LIST 3
 <li>Ralla (fine fabric)</li>
 <li>Naso (big-nosed)</li>
 <li>Priscus (ancient)</li>
-<li>Natta (artisan)</li>
+<li>Natta (artisan)</li></ol>
 COGNOMEN LIST 4
-<li>Lentulus (slow)</li>
+<ol><li>Lentulus (slow)</li>
 <li>Camillus (priestly child)</li>
 <li>Lepidus (charming)</li>
 <li>Dolabella (hatchet)</li>
@@ -223,9 +223,9 @@ COGNOMEN LIST 4
 <li>Malleolus (hammer)</li>
 <li>Murena (eel)</li>
 <li>Imperiosus (domineering)</li>
-<li>Novellus (new-fangled)</li>
+<li>Novellus (new-fangled)</li></ol>
 COGNOMEN LIST 5
-<li>Ocella (small-eyed)</li>
+<ol><li>Ocella (small-eyed)</li>
 <li>Dentatus (toothy)</li>
 <li>Fimbria (fringes)</li>
 <li>Paterculus (little father)</li>
@@ -244,9 +244,9 @@ COGNOMEN LIST 5
 <li>Regulus (prince)</li>
 <li>Laenas (cloaked)</li>
 <li>Habitus (in good shape)</li>
-<li>Fullo (launderer)</li>
+<li>Fullo (launderer)</li></ol>
 COGNOMEN LIST 6
-<li>Plancus (flat-footed)</li>
+<ol><li>Plancus (flat-footed)</li>
 <li>Scipio (staff)</li>
 <li>Postumus (born posthumously)</li>
 <li>Mergus (sea-gull)</li>
@@ -265,10 +265,10 @@ COGNOMEN LIST 6
 <li>Paullus (small)</li>
 <li>Cornutus (horned; also, cuckolded)</li>
 <li>Galeo (helmet)</li>
-<li>Cordus (born late)</li>
+<li>Cordus (born late)</li></ol>
 TRADE GOODS
 The Romans traded in nearly anything you can imagine, both within the empire and with external trading partners such as India and China.  However, the following were some of the largest trade industries in the ancient world.
-<li>Grain</li>
+<ol><li>Grain</li>
 <li>Jewelry</li>
 <li>Coral</li>
 <li>Amber</li>
@@ -287,10 +287,10 @@ The Romans traded in nearly anything you can imagine, both within the empire and
 <li>Glass</li>
 <li>Lead</li>
 <li>Horses/mules</li>
-<li>Slaves</li>
+<li>Slaves</li></ol>
 TOWN STRUCTURES
 The following are buildings you might find in a Roman town.  All buildings are listed as singular/plural when the name is in Latin.
-<li>Forum/Fora (town square and meeting place)</li>
+<ol><li>Forum/Fora (town square and meeting place)</li>
 <li>Cryptoporticus/Cryptoportica (underground, colonnaded market)</li>
 <li>Cisterns (water storage)</li>
 <li>Aqueducts (channels to bring water into the city)</li>
@@ -309,10 +309,10 @@ The following are buildings you might find in a Roman town.  All buildings are l
 <li>Stadium/Stadia (public athletic facilities)</li>
 <li>Domus/Doma (single-family houses built around an atrium)</li>
 <li>Insula/Insulae (apartment buildings which could be as tall as eight stories high)</li>
-<li>Villas (luxurious country houses, often built on small farms)</li>
+<li>Villas (luxurious country houses, often built on small farms)</li></ol>
 GOVERNMENTAL POSITIONS
 Romans loved bureaucracy and titles.  These positions give a sampling of the government jobs available to up-and-coming Roman citizens.  The priesthoods were often politically appointed, and so those jobs are also included here.
-<li>Tribune Plebis (representative of the plebians)</li>
+<ol><li>Tribune Plebis (representative of the plebians)</li>
 <li>Quaestor (paymasters and accountants)</li>
 <li>Augur (priests legally permitted to read and interpret the auspices, signs from the gods)</li>
 <li>Aedile (maintainers of public buildings and commercial law)</li>
@@ -331,10 +331,10 @@ Romans loved bureaucracy and titles.  These positions give a sampling of the gov
 <li>Flamen (priest appointed to the service of a particular god or goddess)</li>
 <li>Arval Priest (priest who accepts sacrifices for the fertility of the fields)</li>
 <li>Praefectus (bureaucrat in charge of some trade good, such as grain)</li>
-<li>Legate (can be military or civil; receives the power to act on behalf of any non-religious appointment listed here)</li>
+<li>Legate (can be military or civil; receives the power to act on behalf of any non-religious appointment listed here)</li></ol>
 LEGION NAMES
 Combine any of these titles with a number from I to XXX to get an authentic-sounding legion name.  For example: III Parthica.
-<li>Adiutrix</li>
+<ol><li>Adiutrix</li>
 <li>Germanica</li>
 <li>Italica</li>
 <li>Macrinia</li>
@@ -353,10 +353,10 @@ Combine any of these titles with a number from I to XXX to get an authentic-soun
 <li>Gemina</li>
 <li>Hispana</li>
 <li>Fulminata</li>
-<li>Primigenia</li>
+<li>Primigenia</li></ol>
 MAJOR DEITIES
 While some of these deities may be familiar, the Romans also considered some apparently minor deities (such as Flora) to be seriously important. 
-<li>Ceres</li>
+<ol><li>Ceres</li>
 <li>Jupiter</li>
 <li>Juno</li>
 <li>Flora</li>
@@ -375,11 +375,11 @@ While some of these deities may be familiar, the Romans also considered some app
 <li>Fortuna</li>
 <li>Quirinus</li>
 <li>Dis</li>
-<li>Janus</li>
+<li>Janus</li></ol>
 MINOR DEITIES
 The Romans absorbed deities from many cultures.  Here are some of the minor or borrowed deities of Rome, along with their areas of influence.
 MINOR DEITIES 1
-<li>Aericura (mother-goddess of the underworld)</li>
+<ol><li>Aericura (mother-goddess of the underworld)</li>
 <li>Andraste (victory)</li>
 <li>Angerona (silence and secrecy)</li>
 <li>Anna Perenna (the new year)</li>
@@ -398,9 +398,9 @@ MINOR DEITIES 1
 <li>Epona (Celtic horse goddess)</li>
 <li>Faunus (also known as Pan)</li>
 <li>Felicitas (goddess of good luck)</li>
-<li>Feronia (spring flowers)</li>
+<li>Feronia (spring flowers)</li></ol>
 MINOR DEITIES 2
-<li>Fides (goddess of verbal contracts)</li>
+<ol><li>Fides (goddess of verbal contracts)</li>
 <li>Forculus (god of doors)</li>
 <li>Fornax (goddess of preventing grain from burning while drying.  really.)</li>
 <li>Gaia (earth goddess)</li>
@@ -419,9 +419,9 @@ MINOR DEITIES 2
 <li>Oceanus (god of the oceans)</li>
 <li>Pales (shepherds and sheep)</li>
 <li>Patelana (corn)</li>
-<li>Pax (peace)</li>
+<li>Pax (peace)</li></ol>
 MINOR DEITIES 3
-<li>Picus (prophetic god)</li>
+<ol><li>Picus (prophetic god)</li>
 <li>Portunus (protector of harbors)</li>
 <li>Priapus (sheep and goats)</li>
 <li>Proserpina (germinating seeds and the underworld)</li>
@@ -440,4 +440,4 @@ MINOR DEITIES 3
 <li>Tempestates (trio of weather goddesses)</li>
 <li>Terminus (state god of boundary stones)</li>
 <li>Victoria (goddess of victory)</li>
-<li>Virtus (physical and moral excellence)</li>
+<li>Virtus (physical and moral excellence)</li></ol>

@@ -2,7 +2,7 @@
 Compiled by Rachel E.S. Walton
 
 RACE HORSE COLTS & STALLIONS
-<li>Assault</li>
+<ol><li>Assault</li>
 <li>Atswhatimtalknbout</li>
 <li>Carbine</li>
 <li>Citation</li>
@@ -21,10 +21,10 @@ RACE HORSE COLTS & STALLIONS
 <li>Silky Sullivan</li>
 <li>Stephen Got Even</li>
 <li>Sunday Silence</li>
-<li>Whirlaway</li>
+<li>Whirlaway</li></ol>
 
 RACE HORSE FILLIES & MARES
-<li>Aspidistra</li>
+<ol><li>Aspidistra</li>
 <li>Benediction</li>
 <li>Colwyn Bay</li>
 <li>Geisha</li>
@@ -43,10 +43,10 @@ RACE HORSE FILLIES & MARES
 <li>Solar Slew</li>
 <li>Somethingroyal</li>
 <li>Wheat Germ</li>
-<li>Zenyatta</li>
+<li>Zenyatta</li></ol>
 
 HORSES FROM FICTION
-<li>Argo</li>
+<ol><li>Argo</li>
 <li>Artax</li>
 <li>Asfaloth</li>
 <li>Bad Horse</li>
@@ -65,10 +65,10 @@ HORSES FROM FICTION
 <li>Pokey</li>
 <li>Rocinante</li>
 <li>Snowmane</li>
-<li>Trigger</li>
+<li>Trigger</li></ol>
 
 HORSE ANATOMY
-<li>Back</li>
+<ol><li>Back</li>
 <li>Barrel</li>
 <li>Cannon</li>
 <li>Cheek</li>
@@ -87,7 +87,7 @@ HORSE ANATOMY
 <li>Pastern</li>
 <li>Shoulder</li>
 <li>Thigh</li>
-<li>Withers</li>
+<li>Withers</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA
 

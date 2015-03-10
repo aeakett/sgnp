@@ -3,7 +3,7 @@ Compiled by D. Vincent Baker
 NOTES
 Canadian Privateers during the American Revolution - men and ships.  Compiled from http://www.chebucto.ns.ca/~jacktar/privateering.html
 MALE 1
-<li>Perkins, Zebulon</li>
+<ol><li>Perkins, Zebulon</li>
 <li>Kitchen, Henry</li>
 <li>Harrington, Lodowick</li>
 <li>Doaty, Mores</li>
@@ -22,9 +22,9 @@ MALE 1
 <li>Mcleod, John</li>
 <li>Barret, Robert</li>
 <li>Power, Michael</li>
-<li>Hemmion, William</li>
+<li>Hemmion, William</li></ol>
 MALE 2
-<li>Lane, John</li>
+<ol><li>Lane, John</li>
 <li>Butler, Lewis</li>
 <li>McNutt, Joseph</li>
 <li>Hartshorne, Lawrence</li>
@@ -43,9 +43,9 @@ MALE 2
 <li>Marlow, Patrick</li>
 <li>Hines, John</li>
 <li>Crofford, John</li>
-<li>Knowles, Cornelius</li>
+<li>Knowles, Cornelius</li></ol>
 MALE 3
-<li>Littlejohn, Charles</li>
+<ol><li>Littlejohn, Charles</li>
 <li>Collins, Andrew</li>
 <li>Parker, Thomas</li>
 <li>Ely, Joseph</li>
@@ -64,11 +64,11 @@ MALE 3
 <li>Etter, Benjamin</li>
 <li>Johnson, David</li>
 <li>Foster, Robert</li>
-<li>Freeman, Elkanah</li>
+<li>Freeman, Elkanah</li></ol>
 FEMALE
 Choose a male name. Add "young" to the front: young Zeb Perkins, young Hank Kitchen.  Rub soot and dirt on your face. Learn to swagger. Keep to yourself.
 RANKS AND POSITIONS ABOARD SHIP
-<li>Forecastleman</li>
+<ol><li>Forecastleman</li>
 <li>Carpenter</li>
 <li>Steward</li>
 <li>Armourer</li>
@@ -87,9 +87,9 @@ RANKS AND POSITIONS ABOARD SHIP
 <li>Lieutenant (or 1st Lieutenant, 2nd Lieutenant, 3rd Lieutenant)</li>
 <li>Surgeon</li>
 <li>Captain's Clerk</li>
-<li>X's Mate (eg Boatswain's Mate, Carpenter's Mate, Cook's Mate)</li>
+<li>X's Mate (eg Boatswain's Mate, Carpenter's Mate, Cook's Mate)</li></ol>
 PROVISIONS ABOARD SHIP
-<li>salt beef</li>
+<ol><li>salt beef</li>
 <li>salt pork</li>
 <li>salt cod</li>
 <li>sardines</li>
@@ -108,9 +108,9 @@ PROVISIONS ABOARD SHIP
 <li>raisins</li>
 <li>vinegar</li>
 <li>fresh fish caught, when possible</li>
-<li>fresh meat etc. from shore, when possible</li>
+<li>fresh meat etc. from shore, when possible</li></ol>
 VESSELS 1
-<li>The Liverpool 1778 Liverpool, UK</li>
+<ol><li>The Liverpool 1778 Liverpool, UK</li>
 <li>The Dispatch 1778 Liverpool, NS</li>
 <li>The Hibernia 1782 Halifax</li>
 <li>The Betsey 1778 Halifax</li>
@@ -129,9 +129,9 @@ VESSELS 1
 <li>The Lively 1782 Halifax</li>
 <li>The Polly 1778 Gt. Britain</li>
 <li>The Delight 1778 Liverpool, NS</li>
-<li>The Jack 1781 Quebec</li>
+<li>The Jack 1781 Quebec</li></ol>
 VESSELS 2
-<li>The Belcour 1778 Liverpool, UK</li>
+<ol><li>The Belcour 1778 Liverpool, UK</li>
 <li>The Diamond 1782 Penobscot</li>
 <li>The Aurora 1782 Glasgow</li>
 <li>The Hope 1779 Halifax</li>
@@ -150,4 +150,4 @@ VESSELS 2
 <li>The Venus 1781 Halifax</li>
 <li>The Howe 1781 Halifax</li>
 <li>The Argyle 1778 London</li>
-<li>The Campbelton 1781 Penobscot</li>
+<li>The Campbelton 1781 Penobscot</li></ol>

@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 These names are taken from the 1818 Chickasaw nation census.  They might be useful for any group of partially-assimilated Native Americans, or maybe isolated space colonists or something.  
 SURNAMES 1
-<li>Allen</li>
+<ol><li>Allen</li>
 <li>Gilchrist</li>
 <li>Bell</li>
 <li>McCoy</li>
@@ -22,9 +22,9 @@ SURNAMES 1
 <li>McGee</li>
 <li>Jefferson</li>
 <li>Love</li>
-<li>Colbert</li>
+<li>Colbert</li></ol>
 SURNAMES 2
-<li>Macintosh</li>
+<ol><li>Macintosh</li>
 <li>James</li>
 <li>McTavish</li>
 <li>Steward</li>
@@ -43,9 +43,9 @@ SURNAMES 2
 <li>Ligh</li>
 <li>Brown</li>
 <li>Cammell</li>
-<li>Fraser</li>
+<li>Fraser</li></ol>
 MALE 1
-<li>Adam</li>
+<ol><li>Adam</li>
 <li>Ishtonnarhay </li>
 <li>Jack</li>
 <li>Winchester</li>
@@ -64,9 +64,9 @@ MALE 1
 <li>Immarhollochetubby </li>
 <li>Chappaychar 			</li>
 <li>Ishtemartley </li>
-<li>Eensharkay 	</li>
+<li>Eensharkay 	</li></ol>
 FEMALE 1
-<li>Amanda 	</li>
+<ol><li>Amanda 	</li>
 <li>Sussy</li>
 <li>Tonarhay 			</li>
 <li>Vina 			</li>
@@ -85,9 +85,9 @@ FEMALE 1
 <li>Polly 	</li>
 <li>Missy</li>
 <li>Neely 	</li>
-<li>Liley 	</li>
+<li>Liley 	</li></ol>
 MALE 2	
-<li>George</li>
+<ol><li>George</li>
 <li>Josiah</li>
 <li>Nacknitubby </li>
 <li>Samuel</li>
@@ -106,9 +106,9 @@ MALE 2
 <li>Jamison </li>
 <li>Warsh</li>
 <li>John</li>
-<li>Maitubby 	</li>
+<li>Maitubby 	</li></ol>
 FEMALE 2
-<li>Dolly</li>
+<ol><li>Dolly</li>
 <li>Anna</li>
 <li>Becca 				</li>
 <li>Catharine </li>
@@ -127,9 +127,9 @@ FEMALE 2
 <li>Silay 	</li>
 <li>Hetty </li>
 <li>Jennett 	</li>
-<li>Chomocktay </li>
+<li>Chomocktay </li></ol>
 MALE 3
-<li>Benjamin  		</li>
+<ol><li>Benjamin  		</li>
 <li>James 			</li>
 <li>Wilson 		</li>
 <li>Temullaiekay 		</li>
@@ -148,9 +148,9 @@ MALE 3
 <li>Onnarhoketay 		</li>
 <li>Marshemay 			</li>
 <li>Rueben 		</li>
-<li>Martin</li>
+<li>Martin</li></ol>
 FEMALE 3
-<li>Arnohoye 		</li>
+<ol><li>Arnohoye 		</li>
 <li>Asa 	</li>
 <li>Barney </li>
 <li>Carsey 	</li>
@@ -169,9 +169,9 @@ FEMALE 3
 <li>Chinnumbee </li>
 <li>Kersey</li>
 <li>Sibbee 	</li>
-<li>Lotty</li>
+<li>Lotty</li></ol>
 MALE 4
-<li>Meharchubby </li>
+<ol><li>Meharchubby </li>
 <li>Molsey</li>
 <li>Nossaecachubby </li>
 <li>Ooklarcochubby 		</li>
@@ -190,9 +190,9 @@ MALE 4
 <li>Thomas 			</li>
 <li>Jacky</li>
 <li>Apalartubby </li>
-<li>Stephen</li>
+<li>Stephen</li></ol>
 FEMALE 4
-<li>Sinia </li>
+<ol><li>Sinia </li>
 <li>Meely 			</li>
 <li>Mintahoyo</li>
 <li>Kinnay</li>
@@ -211,4 +211,4 @@ FEMALE 4
 <li>Sinai </li>
 <li>Tina 		</li>
 <li>Visa</li>
-<li>Amelia </li>
+<li>Amelia </li></ol>

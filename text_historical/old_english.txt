@@ -3,7 +3,7 @@ Compiled by James Holloway
 NOTES
 These high-status Old English names come from late Saxon wills and other legal documents. To create more, simply mix and match. Anglo-Saxon families occasionally gave all their children similar names; the sons of Eadmund might be Eadwulf and Eadric, for instance, and a daughter might be Eadgifu. 
 MALE
-<li>Ælfred</li>
+<ol><li>Ælfred</li>
 <li>Ecghelm</li>
 <li>Ordnoth</li>
 <li>Æthelgar</li>
@@ -22,9 +22,9 @@ MALE
 <li>Osmær</li>
 <li>Wulfric</li>
 <li>Æthelwold</li>
-<li>Eadred</li>
+<li>Eadred</li></ol>
 FEMALE
-<li>Ælfgifu</li>
+<ol><li>Ælfgifu</li>
 <li>Wynflæd</li>
 <li>Wulfwaru</li>
 <li>Ealdgyth</li>
@@ -43,9 +43,9 @@ FEMALE
 <li>Beorngyth</li>
 <li>Mildthryth</li>
 <li>Heahburh</li>
-<li>Sæthryth</li>
+<li>Sæthryth</li></ol>
 MAKE YOUR OWN, FIRST PART:
-<li>Ælf-</li>
+<ol><li>Ælf-</li>
 <li>Æthel-</li>
 <li>Wulf-</li>
 <li>Ecg-</li>
@@ -64,9 +64,9 @@ MAKE YOUR OWN, FIRST PART:
 <li>Burg-</li>
 <li>Si-</li>
 <li>Beorn-</li>
-<li>Ealh-</li>
+<li>Ealh-</li></ol>
 SECOND PART (MALE):
-<li>ric</li>
+<ol><li>ric</li>
 <li>ræd/red</li>
 <li>wulf</li>
 <li>helm</li>
@@ -85,9 +85,9 @@ SECOND PART (MALE):
 <li>wine</li>
 <li>sige </li>
 <li>frid</li>
-<li>hard</li>
+<li>hard</li></ol>
 SECOND PART (FEMALE):
-<li>flæd</li>
+<ol><li>flæd</li>
 <li>gifu</li>
 <li>swith</li>
 <li>gyth</li>
@@ -106,5 +106,5 @@ SECOND PART (FEMALE):
 <li>Lufe*</li>
 <li>Hilde*</li>
 <li>Gode*</li>
-<li>Emma*</li>
+<li>Emma*</li></ol>
 NOTE: Starred names appear by themselves, with no first part. 

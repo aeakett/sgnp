@@ -3,7 +3,7 @@ Compiled by Graham Walmsley
 NOTES
 Florid, literary late Victorian/Edwardian England, clue-hunting or otherwise.  
 MALE
-<li>George</li>
+<ol><li>George</li>
 <li>James</li>
 <li>John</li>
 <li>Fairdale</li>
@@ -22,9 +22,9 @@ MALE
 <li>Grimesby </li>
 <li>Robert</li>
 <li>Harry</li>
-<li>Aloysius</li>
+<li>Aloysius</li></ol>
 FEMALE
-<li>Patience</li>
+<ol><li>Patience</li>
 <li>Violet</li>
 <li>Kitty</li>
 <li>Hatty</li>
@@ -43,9 +43,9 @@ FEMALE
 <li>Alice</li>
 <li>Helen</li>
 <li>Susan</li>
-<li>Irene</li>
+<li>Irene</li></ol>
 SURNAME
-<li>Pycroft</li>
+<ol><li>Pycroft</li>
 <li>McCarthy</li>
 <li>Brunton</li>
 <li>Musgrave</li>
@@ -64,4 +64,4 @@ SURNAME
 <li>Backwater</li>
 <li>St Simon</li>
 <li>Doran</li>
-<li>Soames</li>
+<li>Soames</li></ol>

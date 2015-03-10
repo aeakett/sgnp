@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 These are interesting because they are from a transitional time, so many names have a familiar sound to them but are not entirely modern.  Some of the surnames are not surnames at all; if you don't like "of Udsta", just make Udsta the surname.  Source: Donaldson, Gordon, ed. The Court Book of Shetland 1602-1604.  Edinburgh: J. Skinner & Co. Ltd., 1954.
 MALE 1
-<li>Magnús</li>
+<ol><li>Magnús</li>
 <li>Androw</li>
 <li>Ollaw / Óláfr</li>
 <li>William</li>
@@ -22,9 +22,9 @@ MALE 1
 <li>Cristopher</li>
 <li>Frances</li>
 <li>George</li>
-<li>Lowrence</li>
+<li>Lowrence</li></ol>
 FEMALE
-<li>Mareoun</li>
+<ol><li>Mareoun</li>
 <li>Mairgrete / Margret</li>
 <li>Anne / Annie</li>
 <li>Elizabethe / Elspet</li>
@@ -43,9 +43,9 @@ FEMALE
 <li>Bryd</li>
 <li>Elene</li>
 <li>Lillies</li>
-<li>Ursula</li>
+<li>Ursula</li></ol>
 MALE 2
-<li>Binnie</li>
+<ol><li>Binnie</li>
 <li>Cristane</li>
 <li>Eaner</li>
 <li>Piter</li>
@@ -64,9 +64,9 @@ MALE 2
 <li>Symoine / Symond</li>
 <li>Antoun</li>
 <li>Mark</li>
-<li>Arthour</li>
+<li>Arthour</li></ol>
 SURNAMES 1
-<li>Knycht</li>
+<ol><li>Knycht</li>
 <li>Lauder</li>
 <li>"of Sandis"</li>
 <li>Blance</li>
@@ -85,9 +85,9 @@ SURNAMES 1
 <li>Keilo</li>
 <li>"of Buthdoun"</li>
 <li>Sinclair</li>
-<li>"of Vaulsgarthe"</li>
+<li>"of Vaulsgarthe"</li></ol>
 SURNAMES 2
-<li>"of Westerhous"</li>
+<ol><li>"of Westerhous"</li>
 <li>Strang</li>
 <li>"of Newhouse"</li>
 <li>Boynd</li>
@@ -106,9 +106,9 @@ SURNAMES 2
 <li>"of Kirkatoun"</li>
 <li>Leslie</li>
 <li>"of Ordaill"</li>
-<li>Piters</li>
+<li>Piters</li></ol>
 SURNAMES 3
-<li>Porteous</li>
+<ol><li>Porteous</li>
 <li>"of Quoyis"</li>
 <li>Rattray</li>
 <li>Summervaile</li>
@@ -127,9 +127,9 @@ SURNAMES 3
 <li>"of Fluagair"</li>
 <li>Forbes</li>
 <li>Kirkhous</li>
-<li>Skeller</li>
+<li>Skeller</li></ol>
 SURNAMES 4
-<li>Cheine</li>
+<ol><li>Cheine</li>
 <li>Forrett</li>
 <li>"of Hamme"</li>
 <li>Couckas</li>
@@ -148,9 +148,9 @@ SURNAMES 4
 <li>"of Hagirsetter"</li>
 <li>Hawik</li>
 <li>Foster</li>
-<li>Cromertie</li>
+<li>Cromertie</li></ol>
 SURNAMES 5
-<li>"of Corsbuster"</li>
+<ol><li>"of Corsbuster"</li>
 <li>Smyth</li>
 <li>MacRitchie</li>
 <li>"of Mainland"</li>
@@ -169,9 +169,9 @@ SURNAMES 5
 <li>"of Southdaile"</li>
 <li>Spens</li>
 <li>Giffair</li>
-<li>"of Gilbrek"</li>
+<li>"of Gilbrek"</li></ol>
 SURNAMES 6
-<li>Gray</li>
+<ol><li>Gray</li>
 <li>Hekfuird</li>
 <li>Clowstaine</li>
 <li>"of Scrawall"</li>
@@ -190,4 +190,4 @@ SURNAMES 6
 <li>Fouller</li>
 <li>"of Lunay"</li>
 <li>Still</li>
-<li>Clipagarthe</li>
+<li>Clipagarthe</li></ol>

@@ -4,7 +4,7 @@ NOTES
 The male and female names and surnames are both common and culturally significant in modern day Lisbon, Portugal, and are probably representative of the rest of the country as well. By the same token, virtually all of them were in use during the maritime expansion era (15th-17th centuries), which will probably be more significant.
 Additionally, we've included a short list of male and female names that were way more common back then than they are now.
 MALE 1
-<li>Alberto </li>
+<ol><li>Alberto </li>
 <li>José </li>
 <li>Mário </li>
 <li>Miguel </li>
@@ -23,9 +23,9 @@ MALE 1
 <li>Frederico </li>
 <li>Gabriel </li>
 <li>César </li>
-<li>Daniel </li>
+<li>Daniel </li></ol>
 FEMALE 1 
-<li>Amélia </li>
+<ol><li>Amélia </li>
 <li>Cristina </li>
 <li>Diana </li>
 <li>Fernanda </li>
@@ -44,9 +44,9 @@ FEMALE 1
 <li>Raquel </li>
 <li>Vera </li>
 <li>Mariana </li>
-<li>Lúcia </li>
+<li>Lúcia </li></ol>
 MALE 2
-<li>Simão </li>
+<ol><li>Simão </li>
 <li>Nuno </li>
 <li>Óscar</li>
 <li>Paulo </li>
@@ -65,9 +65,9 @@ MALE 2
 <li>Fernando </li>
 <li>Rodrigo </li>
 <li>Alexandre</li>
-<li>António</li>
+<li>António</li></ol>
 FEMALE 2
-<li>Matilde </li>
+<ol><li>Matilde </li>
 <li>Rita </li>
 <li>Rosa </li>
 <li>Marta </li>
@@ -86,9 +86,9 @@ FEMALE 2
 <li>Célia </li>
 <li>Conceição </li>
 <li>Beatriz </li>
-<li>Carla </li>
+<li>Carla </li></ol>
 MALE 3
-<li>Duarte </li>
+<ol><li>Duarte </li>
 <li>Alfredo </li>
 <li>Filipe</li>
 <li>Bruno </li>
@@ -107,9 +107,9 @@ MALE 3
 <li>Francisco </li>
 <li>Guilherme </li>
 <li>Jorge </li>
-<li>Rogério </li>
+<li>Rogério </li></ol>
 FEMALE 3
-<li>Carolina </li>
+<ol><li>Carolina </li>
 <li>Margarida </li>
 <li>Graça </li>
 <li>Helena </li>
@@ -128,9 +128,9 @@ FEMALE 3
 <li>Sandra </li>
 <li>Sara </li>
 <li>Sofia </li>
-<li>Violeta </li>
+<li>Violeta </li></ol>
 OLD MALE 
-<li>Teodoro</li>
+<ol><li>Teodoro</li>
 <li>Ubaldo</li>
 <li>Bartolomeu</li>
 <li>Egas</li>
@@ -149,9 +149,9 @@ OLD MALE
 <li>Elias</li>
 <li>Fernão</li>
 <li>Urbano</li>
-<li>Viriato</li>
+<li>Viriato</li></ol>
 OLD FEMALE
-<li>Afonsa</li>
+<ol><li>Afonsa</li>
 <li>Epifânia</li>
 <li>Patronilha</li>
 <li>Sancha</li>
@@ -170,9 +170,9 @@ OLD FEMALE
 <li>Constança</li>
 <li>Genoveva</li>
 <li>Luzia</li>
-<li>Mécia</li>
+<li>Mécia</li></ol>
 SURNAMES 1
-<li>Álvares</li>
+<ol><li>Álvares</li>
 <li>Guerreiro</li>
 <li>Pereira</li>
 <li>Sousa</li>
@@ -191,9 +191,9 @@ SURNAMES 1
 <li>Soares</li>
 <li>Andrade</li>
 <li>Antunes</li>
-<li>Fernandes</li>
+<li>Fernandes</li></ol>
 SURNAMES 2
-<li>Ferreira</li>
+<ol><li>Ferreira</li>
 <li>Morais</li>
 <li>Castro</li>
 <li>Correia</li>
@@ -212,9 +212,9 @@ SURNAMES 2
 <li>Barata</li>
 <li>Bastos</li>
 <li>Cunha</li>
-<li>Dias</li>
+<li>Dias</li></ol>
 SURNAMES 3
-<li>Cavaco</li>
+<ol><li>Cavaco</li>
 <li>Gonçalves</li>
 <li>Melo</li>
 <li>Martins</li>
@@ -233,9 +233,9 @@ SURNAMES 3
 <li>Carvalho</li>
 <li>Oliveira</li>
 <li>Pacheco</li>
-<li>Nogueira</li>
+<li>Nogueira</li></ol>
 SURNAMES 4
-<li>Serra</li>
+<ol><li>Serra</li>
 <li>Tavares</li>
 <li>Fonseca</li>
 <li>Gama</li>
@@ -254,4 +254,4 @@ SURNAMES 4
 <li>Santos</li>
 <li>Teixeira</li>
 <li>Teles</li>
-<li>Vieira</li>
+<li>Vieira</li></ol>

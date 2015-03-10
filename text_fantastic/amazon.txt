@@ -1,7 +1,7 @@
 ﻿AMAZONS
 Compiled by Moyra Turkington
 FEMALE 
-Mitylene / hornless moon
+<ol>Mitylene / hornless moon
 Lysuppe / she who lets loose the horses
 Andromache / man fighter
 Aello / whirlwind
@@ -20,4 +20,4 @@ Penthesilea / compelling men to mourn
 Molpadia / death song
 Charope / brilliant confrontation
 Cyrene / sovereign mistress of the bridle
-Synope / moon face
+Synope / moon face</ol>

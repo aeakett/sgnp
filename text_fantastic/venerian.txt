@@ -3,7 +3,7 @@ Compiled by Shreyas Sampat
 NOTES
 These Venerian names are mythological names, Frenchified. You can supplement it with ancient Greek and modern or medieval French! There are not a lot of male names, because men are from Mars.
 FEMALE 1
-<li>Thalia</li>
+<ol><li>Thalia</li>
 <li>Medée</li>
 <li>Pandarée</li>
 <li>Danaë</li>
@@ -22,9 +22,9 @@ FEMALE 1
 <li>Colette</li>
 <li>Pasiphaë</li>
 <li>Polyzène</li>
-<li>Andromède</li>
+<li>Andromède</li></ol>
 MALE
-<li>Erasmé</li>
+<ol><li>Erasmé</li>
 <li>Pollux</li>
 <li>Pierroc</li>
 <li>Épiers</li>
@@ -43,9 +43,9 @@ MALE
 <li>Icare</li>
 <li>Perdix</li>
 <li>Cerçon</li>
-<li>Chrysothème</li>
+<li>Chrysothème</li></ol>
 FEMALE 2
-<li>Nausicaa</li>
+<ol><li>Nausicaa</li>
 <li>Selene</li>
 <li>Lakmé</li>
 <li>Ïambe</li>
@@ -64,4 +64,4 @@ FEMALE 2
 <li>Thaïs</li>
 <li>Aradie</li>
 <li>Perivie</li>
-<li>Kore</li>
+<li>Kore</li></ol>

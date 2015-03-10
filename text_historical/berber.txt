@@ -3,7 +3,7 @@ Compiled by Jessica Hammer
 NOTES
 If using these names in a medieval setting, the appropriate form for a last name is an Arab-style patronymic.  Men have names like Iken ibn Tariq, and women names like Geduda bint Amina.  Names of the form al- are also perfectly reasonable.  The greatest heroine of the Berber people, for example, is Dihya al-Kahina.  In a more modern setting, last names are appropriate.  
 FEMALE NAMES 1
-<li>Amina </li>
+<ol><li>Amina </li>
 <li>Bakka </li>
 <li>Dihya </li>
 <li>Silya </li>
@@ -22,9 +22,9 @@ FEMALE NAMES 1
 <li>Riuza </li>
 <li>Tamilla </li>
 <li>Mernissa </li>
-<li>Tannina </li>
+<li>Tannina </li></ol>
 MALE NAMES 1
-<li>Abayghur </li>
+<ol><li>Abayghur </li>
 <li>Alwas </li>
 <li>Mennac </li>
 <li>Atissi </li>
@@ -43,9 +43,9 @@ MALE NAMES 1
 <li>Madidu </li>
 <li>Yaghmurasen </li>
 <li>Masmud </li>
-<li>Zerwal </li>
+<li>Zerwal </li></ol>
 FEMALE NAMES 2
-<li>Sekura </li>
+<ol><li>Sekura </li>
 <li>Rula </li>
 <li>Darifa </li>
 <li>Susa </li>
@@ -64,9 +64,9 @@ FEMALE NAMES 2
 <li>Tisent </li>
 <li>Wrina </li>
 <li>Zamra </li>
-<li>Zunagha </li>
+<li>Zunagha </li></ol>
 MALE NAMES 2
-<li>Mejdan </li>
+<ol><li>Mejdan </li>
 <li>Firhun </li>
 <li>Abazza </li>
 <li>Mezwar </li>
@@ -85,9 +85,9 @@ MALE NAMES 2
 <li>Yeften </li>
 <li>Yunes </li>
 <li>Zayar</li>
-<li>Kenan  </li>
+<li>Kenan  </li></ol>
 SURNAMES
-<li>Aknin </li>
+<ol><li>Aknin </li>
 <li>Hamuy </li>
 <li>Ohana </li>
 <li>Mammeri </li>
@@ -106,10 +106,10 @@ SURNAMES
 <li>Feraoun </li>
 <li>Djaout </li>
 <li>Zidane </li>
-<li>Hasnaoui </li>
+<li>Hasnaoui </li></ol>
 SYMBOLS AND THEIR MEANINGS 
 Amazigh culture (the Berber word for the Berber - it means "the people") is based on a strongly nomadic, shamanistic ancestry.  For that reason, their arts are mostly the portable and useful kind, such as weaving rugs and baskets.  However, the symbology put into their works has mystical significance within the culture.  The meaning of a work is equally as important as its skill.  The following are twenty common symbols found in Berber culture, along with their meanings. 
-<li>Lion's Paw (protection through strength) </li>
+<ol><li>Lion's Paw (protection through strength) </li>
 <li>Barley (fertility) </li>
 <li>Partridge Eyes (beauty and femininity) </li>
 <li>Chessboard (religious trance) </li>
@@ -128,4 +128,4 @@ Amazigh culture (the Berber word for the Berber - it means "the people") is base
 <li>Gold (evil) </li>
 <li>Hen (a good wife) </li>
 <li>Seeds (hope for children) </li>
-<li>Saw (active defense against evil spirits)</li>
+<li>Saw (active defense against evil spirits)</li></ol>

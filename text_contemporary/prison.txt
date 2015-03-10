@@ -3,7 +3,7 @@ Compiled by Meguey Baker
 NOTES
 Some of these are actual nicknames of current inmates, some are what I remember from television, some are made-up. Most of the time, prisoners just wind up being known by their last name. 
 MALE NAMES 
-<li>Doc</li>
+<ol><li>Doc</li>
 <li>Greedy</li>
 <li>Chambers</li>
 <li>Hoss</li>
@@ -22,9 +22,9 @@ MALE NAMES
 <li>N.G. (Not Guilty)</li>
 <li>Ghost</li>
 <li>Bug</li>
-<li>Caveman</li>
+<li>Caveman</li></ol>
 FEMALE NAMES 
-<li>Left-eye</li>
+<ol><li>Left-eye</li>
 <li>B.C.</li>
 <li>Mama</li>
 <li>Big (name)</li>
@@ -43,4 +43,4 @@ FEMALE NAMES
 <li>Brooklyn</li>
 <li>Rank</li>
 <li>Cleopatra (Queen of Denial)</li>
-<li>Squeak</li>
+<li>Squeak</li></ol>

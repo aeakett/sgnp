@@ -5,7 +5,7 @@ The bulk of these names are ones you might hear walking around in Mumbai in the 
 Naming practices vary immensely by language and region. In the vicinity of Mumbai, people often follow the English practice of taking a first name and a family name, inherited down the male line; this family name is frequently a caste term. Middle names are frequently the father or husband's first name. Another common practice is to take the father's name as a family name; for instance, Vikranth Sumanjit (abbreviated S. Vikranth) is the son of D. Sumanjit, and so on.
 The list has a Hindu bias. Muslims use these names as well, although they also use Arabic names and surnames. Some of the family names, all in SURNAMES 1, are Hindu religious names; Muslims are unlikely to have these. The folkloric lists are also filled with religious names.
 FEMALE 1
-<li>Apoorva</li>
+<ol><li>Apoorva</li>
 <li>Malini</li>
 <li>Nisha</li>
 <li>Megha</li>
@@ -24,9 +24,9 @@ FEMALE 1
 <li>Sejal</li>
 <li>Hema</li>
 <li>Sapna</li>
-<li>Kanchana</li>
+<li>Kanchana</li></ol>
 MALE 1
-<li>Sahil</li>
+<ol><li>Sahil</li>
 <li>Vasant</li>
 <li>Indraneel</li>
 <li>Pankaj</li>
@@ -45,9 +45,9 @@ MALE 1
 <li>Salman</li>
 <li>Pronob</li>
 <li>Rahul</li>
-<li>Vikranth</li>
+<li>Vikranth</li></ol>
 FEMALE 2
-<li>Naina</li>
+<ol><li>Naina</li>
 <li>Gayatri</li>
 <li>Priya</li>
 <li>Jyoti</li>
@@ -66,9 +66,9 @@ FEMALE 2
 <li>Deepti</li>
 <li>Divya</li>
 <li>Swati</li>
-<li>Amrita</li>
+<li>Amrita</li></ol>
 MALE 2
-<li>Hemal</li>
+<ol><li>Hemal</li>
 <li>Ravi</li>
 <li>Gehaan</li>
 <li>Aniruddha</li>
@@ -87,9 +87,9 @@ MALE 2
 <li>Abhijit</li>
 <li>Anupam</li>
 <li>Yash</li>
-<li>Gopal</li>
-<li>FEMALE 3</li>
-<li>Farah</li>
+<li>Gopal</li></ol>
+FEMALE 3
+<ol><li>Farah</li>
 <li>Vandna</li>
 <li>Rina</li>
 <li>Supriya</li>
@@ -108,9 +108,9 @@ MALE 2
 <li>Namita</li>
 <li>Sharadha</li>
 <li>Shefali</li>
-<li>Gomati</li>
+<li>Gomati</li></ol>
 MALE 3
-<li>Vibhav</li>
+<ol><li>Vibhav</li>
 <li>Sachin</li>
 <li>Sandeep</li>
 <li>Bharat</li>
@@ -129,9 +129,9 @@ MALE 3
 <li>Dilip</li>
 <li>Ajay</li>
 <li>Virendra</li>
-<li>Santosh</li>
+<li>Santosh</li></ol>
 FEMALE 4
-<li>Rohini</li>
+<ol><li>Rohini</li>
 <li>Yamuna</li>
 <li>Uma</li>
 <li>Anjali</li>
@@ -150,9 +150,9 @@ FEMALE 4
 <li>Himali</li>
 <li>Anita</li>
 <li>Sandhya</li>
-<li>Sowmya</li>
+<li>Sowmya</li></ol>
 MALE 4
-<li>Chetan</li>
+<ol><li>Chetan</li>
 <li>Sridhar</li>
 <li>Dhuliji</li>
 <li>Palani</li>
@@ -171,9 +171,9 @@ MALE 4
 <li>Prabhakar</li>
 <li>Hidhan</li>
 <li>Ajeet</li>
-<li>Bhargav</li>
+<li>Bhargav</li></ol>
 FEMALE 5
-<li>Rehnuma</li>
+<ol><li>Rehnuma</li>
 <li>Ajeet</li>
 <li>Dipali</li>
 <li>Sabala</li>
@@ -192,9 +192,9 @@ FEMALE 5
 <li>Taradevi</li>
 <li>Kamala</li>
 <li>Pragya</li>
-<li>Ravathi</li>
+<li>Ravathi</li></ol>
 MALE 5
-<li>Vinayak</li>
+<ol><li>Vinayak</li>
 <li>Shanmuguan</li>
 <li>Mohapatral</li>
 <li>Ranga</li>
@@ -213,9 +213,9 @@ MALE 5
 <li>Ravinder</li>
 <li>Gopi</li>
 <li>Thambi</li>
-<li>Munshi</li>
+<li>Munshi</li></ol>
 FOLKLORIC FEMALE NAMES
-<li>Kankamanjari</li>
+<ol><li>Kankamanjari</li>
 <li>Jagrati</li>
 <li>Madhumati</li>
 <li>Pushpa</li>
@@ -234,9 +234,9 @@ FOLKLORIC FEMALE NAMES
 <li>Aradhana</li>
 <li>Devaki</li>
 <li>Rekha</li>
-<li>Ekabhakti</li>
+<li>Ekabhakti</li></ol>
 FOLKLORIC MALE NAMES
-<li>Lakshman</li>
+<ol><li>Lakshman</li>
 <li>Birchandra</li>
 <li>Thakur</li>
 <li>Balram</li>
@@ -255,9 +255,9 @@ FOLKLORIC MALE NAMES
 <li>Brindaban</li>
 <li>Sumanjit</li>
 <li>Venkatesh</li>
-<li>Kalankura</li>
+<li>Kalankura</li></ol>
 SURNAMES 1
-<li>Bhoot</li>
+<ol><li>Bhoot</li>
 <li>Kumar</li>
 <li>Jerath</li>
 <li>Pattrawala</li>
@@ -276,9 +276,9 @@ SURNAMES 1
 <li>Vedi</li>
 <li>Shiva</li>
 <li>Motiwala</li>
-<li>Ghosh</li>
+<li>Ghosh</li></ol>
 SURNAMES 2
-<li>Menon</li>
+<ol><li>Menon</li>
 <li>Kansara</li>
 <li>Khanna</li>
 <li>Vakharia</li>
@@ -297,9 +297,9 @@ SURNAMES 2
 <li>Parikh</li>
 <li>Jasani</li>
 <li>Komarneni</li>
-<li>Malik</li>
+<li>Malik</li></ol>
 SURNAMES 3
-<li>Seth</li>
+<ol><li>Seth</li>
 <li>Varadan</li>
 <li>Sen</li>
 <li>Mehta</li>
@@ -318,11 +318,11 @@ SURNAMES 3
 <li>Nayar</li>
 <li>Chaudhry</li>
 <li>Nigam</li>
-<li>Sidhu</li>
+<li>Sidhu</li></ol>
 FOOD NOTES
 On the subject of food, in north India, meals generally consist of a grain - rice or various sorts of flat breads - served alongside a dal - a dish made with legumes or some kind - and optionally, various meat or vegetable dishes and small condiments - pickled things and sauces. Sweets are served with the meal, rather than after it as a dessert. Much like the names, these come from a patchwork of sources.
 GRAIN DISHES
-<li>Kachori, a wrap surrounding a stuffing of spiced dal or peas.</li>
+<ol><li>Kachori, a wrap surrounding a stuffing of spiced dal or peas.</li>
 <li>Matar pullao, white rice spiced with coriander and saffron and studded with green peas</li>
 <li>Chapati, a flaky flatbread made with a mixture of white and whole flours</li>
 <li>Yellow rice, coloured with turmeric</li>
@@ -341,9 +341,9 @@ GRAIN DISHES
 <li>Puranpoli, a flatbread filled with sweet cardamom porridge</li>
 <li>Bhopali pullao, a ginger and cumin-flavored rice with carrots and onions</li>
 <li>Poori, tiny, oily, saucer-shaped brown flatbreads, always served in large quantities</li>
-<li>Shirmal, a sweet baked flatbread flavored with saffron milk</li>
+<li>Shirmal, a sweet baked flatbread flavored with saffron milk</li></ol>
 DALS AND ACCOMPANIMENTS
-<li>Chhundo, pickled sweet-and-sour mango</li>
+<ol><li>Chhundo, pickled sweet-and-sour mango</li>
 <li>Mullagatanni, the dal that every cook has her own recipe for, usually tangy and peppery</li>
 <li>Meethi chatni, literally "sweet chatni", a smooth sweet-and-sour tamarind sauce</li>
 <li>Leela Mirch, pickled green peppercorns</li>
@@ -362,9 +362,9 @@ DALS AND ACCOMPANIMENTS
 <li>Gobhi moong, a chunky stew with cauliflower and yellow moong dal</li>
 <li>Badaam barfi, a fudgey almond sweet</li>
 <li>Kache piaz, onion and red chile relish</li>
-<li>Karhi, a tangy white soup thickened with chickpea flour</li>
+<li>Karhi, a tangy white soup thickened with chickpea flour</li></ol>
 MEATS AND VEGETABLES
-<li>Shahjehani raan, leg of lamb in a cream sauce with nuts and dried fruits</li>
+<ol><li>Shahjehani raan, leg of lamb in a cream sauce with nuts and dried fruits</li>
 <li>Baigan bharat, smoky mashed eggplant</li>
 <li>Tali vekti, a native fish deep-fried in chickpea batter</li>
 <li>Seekh kebab, minced lamb kebabs, served with crescents of grilled onion</li>
@@ -383,9 +383,9 @@ MEATS AND VEGETABLES
 <li>Bhona gosht, roasted minty lamb</li>
 <li>Panchrangi korma, five-coloured vegetables in creamy yogurt gravy</li>
 <li>Tandoori murgh, chicken barbecued in the /tandoor/</li>
-<li>Parsi ande, boiled whole eggs served in a golden coconut gravy</li>
+<li>Parsi ande, boiled whole eggs served in a golden coconut gravy</li></ol>
 CLOTHING
-<li>Sari - A long, unstitched piece of cloth, wrapped around the body to form an ankle-length skirt, and then around the upper body and over the shoulder. In modern times, worn with a choli.</li>
+<ol><li>Sari - A long, unstitched piece of cloth, wrapped around the body to form an ankle-length skirt, and then around the upper body and over the shoulder. In modern times, worn with a choli.</li>
 <li>Lehenga - A pleated skirt worn with a choli.</li>
 <li>Choli - A stitched and fitted short sleeved or sleeveless blouse.</li>
 <li>Kameez - A long loose tunic top or dress. Worn with a dupatta.</li>
@@ -404,5 +404,5 @@ CLOTHING
 <li>Dhatu / thipu - A square piece of cloth used to cover the head</li>
 <li>Pullas - Hemp slippers woven with colored threads.</li>
 <li>Sherwani - A formal, fitted, button-down, long coat with a high striaight collar.</li>
-<li>Phulkari - An ornately embroidered shawl.</li>
+<li>Phulkari - An ornately embroidered shawl.</li></ol>
 Story-Games Names Project

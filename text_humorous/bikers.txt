@@ -1,7 +1,7 @@
 ﻿BIKERS
 Compiled by Graham Walmsley
 MALE
-<li>Mad Dog</li>
+<ol><li>Mad Dog</li>
 <li>Goose</li>
 <li>Red Tex</li>
 <li>Chainsaw</li>
@@ -20,9 +20,9 @@ MALE
 <li>Pretty Boy Pete</li>
 <li>Chip</li>
 <li>Bear</li>
-<li>Ratty</li>
+<li>Ratty</li></ol>
 FEMALE
-<li>Dirty Jen</li>
+<ol><li>Dirty Jen</li>
 <li>Mama</li>
 <li>Cosmo</li>
 <li>Fox</li>
@@ -41,4 +41,4 @@ FEMALE
 <li>Diva</li>
 <li>Scarlet</li>
 <li>Red Mag</li>
-<li>Blackie</li>
+<li>Blackie</li></ol>

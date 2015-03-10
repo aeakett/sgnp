@@ -3,7 +3,7 @@ Compiled by Brand Robins, Mischa D. Krilov and Jason Morningstar
 NOTES
 Call it 1925, somewhere in New England.  Somewhere unwholesome... The ancient and dead languages are perfect for your Curious Volumes of Forbidden Lore.
 MALE PROFESSORS
-<li>Underwood Mayfield-Carter</li>
+<ol><li>Underwood Mayfield-Carter</li>
 <li>Juan Santiago Ramos-Torres</li>
 <li>Ward Younghusband</li>
 <li>Archibald Woolidge</li>
@@ -22,9 +22,9 @@ MALE PROFESSORS
 <li>Franklin Oglethorpe-Waite</li>
 <li>Maynard Creasy III</li>
 <li>Benedict Willard-Makepeace</li>
-<li>Manchester Clematis-Frost</li>
+<li>Manchester Clematis-Frost</li></ol>
 FEMALE PROFESSORS
-<li>Augusta Monck</li>
+<ol><li>Augusta Monck</li>
 <li>Gertje Hoogduytscher </li>
 <li>Dorothy Thorton Shaw</li>
 <li>Marie Venable</li>
@@ -43,9 +43,9 @@ FEMALE PROFESSORS
 <li>Edith Fogg</li>
 <li>Eudora Bryngel </li>
 <li>Zlatka Moulton-Gardner</li>
-<li>Bernadette Eulalia Peterson</li>
+<li>Bernadette Eulalia Peterson</li></ol>
 MALE STUDENTS 
-<li>Winthrop "Winnie" Chaplin-Brown</li>
+<ol><li>Winthrop "Winnie" Chaplin-Brown</li>
 <li>King "King" Burkey</li>
 <li>Courtney "Butterball" Craybeck</li>
 <li>Phillip "Poncey" Burns, Jr.  </li>
@@ -64,9 +64,9 @@ MALE STUDENTS
 <li>Karl "Hamburger" Deitrich</li>
 <li>Edward "Popsy" Olsen</li>
 <li>Joseph "Sour-Blood" Cutter, Jr.</li>
-<li>Liam "Toad" McIvey</li>
+<li>Liam "Toad" McIvey</li></ol>
 FEMALE STUDENTS
-<li>Lottie Anne Werther</li>
+<ol><li>Lottie Anne Werther</li>
 <li>Clementine Dupree</li>
 <li>Hester Hollingsworth</li>
 <li>Edwina Cobb</li>
@@ -85,9 +85,9 @@ FEMALE STUDENTS
 <li>Loretta Potts</li>
 <li>Alice Bamberton-Willy</li>
 <li>Susan Peach</li>
-<li>Delia Wannamaker Levy</li>
+<li>Delia Wannamaker Levy</li></ol>
 CAMPUS LOCATIONS 
-<li>The ruins of the Old Rectory</li>
+<ol><li>The ruins of the Old Rectory</li>
 <li>Scadwell auditorium </li>
 <li>Watkin-Tench conservatory of music</li>
 <li>Manders library and annex</li>
@@ -106,9 +106,9 @@ CAMPUS LOCATIONS
 <li>"The green acre" quadrangle</li>
 <li>The Old Oak</li>
 <li>The statue of "Old Incorrigible" </li>
-<li>Passion Point above Sexton lake</li>
+<li>Passion Point above Sexton lake</li></ol>
 ANCIENT AND DEAD LANGUAGES 1
-<li>Latin (Rome, Latin alphabet) </li>
+<ol><li>Latin (Rome, Latin alphabet) </li>
 <li>Mycenaean  (Ancient Greece, Linear B) </li>
 <li>Eteocretan (Ancient Minoan Crete, Linear A, non translated) </li>
 <li>Classical and Hellenistic Greece (Classical Greece, Hellenistic Greece, Greek alphabet) </li>
@@ -127,9 +127,9 @@ ANCIENT AND DEAD LANGUAGES 1
 <li>Classic Maya (Mayans, Maya hieroglyphics)</li>
 <li>Phoenician (Phoenicians, Phoenician alphabet)</li>
 <li>Ancient Egyptian (Ancient Egypt, Egyptian hieroglyphic)</li>
-<li>Demotic Egyptian (Classical Egypt, Demotic script)</li>
+<li>Demotic Egyptian (Classical Egypt, Demotic script)</li></ol>
 ANCIENT AND DEAD LANGUAGES 2
-<li>Coptic (Medieval Egypt, Coptic alphabet) </li>
+<ol><li>Coptic (Medieval Egypt, Coptic alphabet) </li>
 <li>Ge'ez (Classical Ethiopia, Ge'ez abugida script) </li>
 <li>Ammonite (Ancient Jordan, Canaanite alphabet)</li>
 <li>Edomite (Ancient Jordan, Canaanite alphabet)</li>
@@ -148,9 +148,9 @@ ANCIENT AND DEAD LANGUAGES 2
 <li>Etruscan (Pre-Roman Italy, Etruscan alphabet, dubious translation only) </li>
 <li>Lusitanian (Ancient Portugal, Latin alphabet)</li>
 <li>Scythian (Ancient Central Asia and Near East, very dubious, Hieroglyphic Hittite) </li>
-<li>Jurchen (Ancient China/Manchuria/Central Asia, Jurchen script) </li>
+<li>Jurchen (Ancient China/Manchuria/Central Asia, Jurchen script) </li></ol>
 REAL MAGICAL TEXTS 1
-<li>Sworn Book of Honorius</li>
+<ol><li>Sworn Book of Honorius</li>
 <li>Mishkat al-anwar</li>
 <li>Fama Fraternitatis Rosae Crucis</li>
 <li>Datttreya</li>
@@ -169,9 +169,9 @@ REAL MAGICAL TEXTS 1
 <li>Mahanirvana Tantra</li>
 <li>The Divine Pymander</li>
 <li>The Book of the Sacred Magic of Abra-Melin the Mage</li>
-<li>Guhyasamja Tantra</li>
+<li>Guhyasamja Tantra</li></ol>
 REAL MAGICAL TEXTS 2
-<li>Yog'c'bh'mi</li>
+<ol><li>Yog'c'bh'mi</li>
 <li>Tabaqat al-Awliya</li>
 <li>The Black Pullet</li>
 <li>Bodhicaryvatra</li>
@@ -190,9 +190,9 @@ REAL MAGICAL TEXTS 2
 <li>Markandeya Purana</li>
 <li>Secrets of the Jade Chamber</li>
 <li>Shivastotravali</li>
-<li>Orus Apollo</li>
+<li>Orus Apollo</li></ol>
 IMAGINARY MAGICAL TEXTS
-<li>Dazhdbog's Garden </li>
+<ol><li>Dazhdbog's Garden </li>
 <li>Scrolls of Skelos </li>
 <li>The Necronomicon</li>
 <li>Black Tome of Alsophocus</li>
@@ -211,11 +211,11 @@ IMAGINARY MAGICAL TEXTS
 <li>Prassidia Finium </li>
 <li>Faded Librum of His Hunters</li>
 <li>Catechism of the Wild Swan</li>
-<li>De Senectutae </li>
+<li>De Senectutae </li></ol>
 WEIRD BOOK MATERIALS
 This is an adaptation/homage of Garry Stahl's Generating Books article from Roleplaying Tips Weekly #314. See the full article here: http://www.roleplayingtips.com/readissue.php?number=314
 PAGES
-<li>Human skin</li>
+<ol><li>Human skin</li>
 <li>Precious metal, engraved</li>
 <li>Rice paper</li>
 <li>Ivory</li>
@@ -234,9 +234,9 @@ PAGES
 <li>Cloth</li>
 <li>Precious metal, embossed</li>
 <li>Glass (stained)</li>
-<li>Common wood pulp paper</li>
+<li>Common wood pulp paper</li></ol>
 BINDINGS
-<li>Wood, carved</li>
+<ol><li>Wood, carved</li>
 <li>Metal, semiprecious</li>
 <li>Plastic</li>
 <li>Metal, precious</li>
@@ -255,4 +255,4 @@ BINDINGS
 <li>Ivory</li>
 <li>Rebound, falsely</li>
 <li>Bare</li>
-<li>Artificial (Naugahyde, plastic, etc)</li>
+<li>Artificial (Naugahyde, plastic, etc)</li></ol>

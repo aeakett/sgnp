@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 Nhirrpi is a language once spoken in the Stony Country of the northeastern corner of south Australia.
 MALE 1
-<li>Darrapanthila	</li>
+<ol><li>Darrapanthila	</li>
 <li>Kirriyari</li>
 <li>Malkirri	</li>
 <li>Mandri			</li>
@@ -22,9 +22,9 @@ MALE 1
 <li>Padni	</li>
 <li>Drityi	</li>
 <li>Ilanggi	</li>
-<li>Paku	</li>
+<li>Paku	</li></ol>
 FEMALE 1
-<li>Pandi	</li>
+<ol><li>Pandi	</li>
 <li>Darra		</li>
 <li>Thili				</li>
 <li>Yuwa</li>
@@ -43,9 +43,9 @@ FEMALE 1
 <li>Pani				</li>
 <li>Ngatyi	</li>
 <li>Karna	</li>
-<li>Mundya	</li>
+<li>Mundya	</li></ol>
 MALE 2
-<li>Makaari	daringa	</li>
+<ol><li>Makaari	daringa	</li>
 <li>Marripathi	</li>
 <li>Ngampa			</li>
 <li>Kula</li>
@@ -64,9 +64,9 @@ MALE 2
 <li>Pampu-patyi	</li>
 <li>Thakur				</li>
 <li>Thayi	</li>
-<li>Wandhidigidiginga</li>
+<li>Wandhidigidiginga</li></ol>
 FEMALE 2
-<li>Warlkapandhina-nhunu	</li>
+<ol><li>Warlkapandhina-nhunu	</li>
 <li>Matha	</li>
 <li>Kaparra		</li>
 <li>Patyi	</li>
@@ -85,9 +85,9 @@ FEMALE 2
 <li>Ngathu-parnrdri		</li>
 <li>Kari		</li>
 <li>Ngunyi-nhana	</li>
-<li>Ngura	</li>
+<li>Ngura	</li></ol>
 MALE 3
-<li>Thanayi				</li>
+<ol><li>Thanayi				</li>
 <li>Thawadhalkinga-pakuthikinga	</li>
 <li>Ngandyini-yari	</li>
 <li>Thayila</li>
@@ -106,9 +106,9 @@ MALE 3
 <li>Pundraki-nhana	</li>
 <li>Wantha-nhulu	</li>
 <li>Thurbu-kaparra</li>
-<li>Thurwari</li>
+<li>Thurwari</li></ol>
 FEMALE 3	
-<li>Minha	</li>
+<ol><li>Minha	</li>
 <li>Inha	</li>
 <li>Nhana		</li>
 <li>Nunhawiri			</li>
@@ -127,4 +127,4 @@ FEMALE 3
 <li>Yina	</li>
 <li>Yunhu	</li>
 <li>Pika				</li>
-<li>Thuryi			</li>
+<li>Thuryi			</li></ol>

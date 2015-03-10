@@ -3,7 +3,7 @@ Compiled by Moyra Turkington
 NOTES
 The Doukhobors ("spirit wrestlers") were a Russian Christian sect who refused when Tsar Nicolas II demanded an oath of allegiance, refused mandatory service in the military and emigrated en masse to Canada (mostly to Saskatchewan and British Columbia) in the early 1900's.  Some Doukhobor families had two names - an official surname and an unofficial family nickname which sometimes became the family surname within generations. Included are  first names, their Canadianized equivalents and some of the most lasting Dukhobor surnames. Thanks to doukhobor.org for making Doukhobor geneaology research online.
 MALE
-<li>Arkady / Archie</li>
+<ol><li>Arkady / Archie</li>
 <li>Ivan / Ewan</li>
 <li>Gerasim / Harry</li>
 <li>Feodor / Theodore</li>
@@ -22,9 +22,9 @@ MALE
 <li>Lukian / Lewis</li>
 <li>Filat / Phillip</li>
 <li>Efin / Eugene</li>
-<li>Moisei / Massey</li>
+<li>Moisei / Massey</li></ol>
 FEMALE
-<li>Uliana / Julie</li>
+<ol><li>Uliana / Julie</li>
 <li>Agafia / Hattie</li>
 <li>Serafima / Sarah</li>
 <li>Matrona / Martha</li>
@@ -43,9 +43,9 @@ FEMALE
 <li>Avdotia / Dora</li>
 <li>Praskovia / Pearl</li>
 <li>Tatiana / Tina</li>
-<li>Elizaveta / Elizabeth</li>
+<li>Elizaveta / Elizabeth</li></ol>
 SURNAMES
-<li>Verigin</li>
+<ol><li>Verigin</li>
 <li>Zeabin</li>
 <li>Postnikov</li>
 <li>Konkin</li>
@@ -64,4 +64,4 @@ SURNAMES
 <li>Kazakov</li>
 <li>Stuchnov</li>
 <li>Tarasov</li>
-<li>Uverenniy</li>
+<li>Uverenniy</li></ol>

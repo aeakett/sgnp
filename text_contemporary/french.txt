@@ -2,7 +2,7 @@
 NOTES
 French names consist of one or more given names followed by a surname. Names of saints are particularly favoured. Surnames are most often occupational, descriptive, patronymic or geographical. Sometimes, an alias surname is adopted to distinguish individuals with particularly common names. When this is done, the alias is either used on its own or presented following the actual surname with the prefixed preposition "dit" (de) (E.g. "Vioget dit Galliard") or is used all on it's own.
 MALE
-<li>Eteinne</li>
+<ol><li>Eteinne</li>
 <li>Guillaume</li>
 <li>Pascal</li>
 <li>Rémy</li>
@@ -21,9 +21,9 @@ MALE
 <li>Aimé</li>
 <li>Jaques</li>
 <li>François</li>
-<li>Pierre</li>
+<li>Pierre</li></ol>
 FEMALE
-<li>Manon</li>
+<ol><li>Manon</li>
 <li>Camille</li>
 <li>Marguerite</li>
 <li>Josette</li>
@@ -42,9 +42,9 @@ FEMALE
 <li>Madeline</li>
 <li>Capucine</li>
 <li>Geneviève</li>
-<li>Noémi</li>
+<li>Noémi</li></ol>
 SURNAMES 1
-<li>Vioget</li>
+<ol><li>Vioget</li>
 <li>Charbonneau</li>
 <li>Pichette</li>
 <li>Gasquet</li>
@@ -63,9 +63,9 @@ SURNAMES 1
 <li>Boulanger</li>
 <li>Chevalier</li>
 <li>Artaud</li>
-<li>Badeau</li>
+<li>Badeau</li></ol>
 SURNAMES 2
-<li>Galliard</li>
+<ol><li>Galliard</li>
 <li>Rochefort</li>
 <li>Reynauld</li>
 <li>Perrault</li>
@@ -84,4 +84,4 @@ SURNAMES 2
 <li>Guillot</li>
 <li>Marchand</li>
 <li>Pelletier</li>
-<li>Trudeau</li>
+<li>Trudeau</li></ol>

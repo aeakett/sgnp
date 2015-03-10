@@ -1,7 +1,7 @@
 ﻿ORCISH
 Compiled by Brendan Adkins
 MALE
-<li>Azbag</li>
+<ol><li>Azbag</li>
 <li>Bogbar</li>
 <li>Golagash</li>
 <li>Golgrek</li>
@@ -20,9 +20,9 @@ MALE
 <li>Bulfimbok</li>
 <li>Roshanakh</li>
 <li>Sharbukh</li>
-<li>Mozbag</li>
+<li>Mozbag</li></ol>
 FEMALE
-<li>Gabza</li>
+<ol><li>Gabza</li>
 <li>Rabgob</li>
 <li>Shagalo</li>
 <li>Krglgk</li>
@@ -41,9 +41,9 @@ FEMALE
 <li>Kobmifuz</li>
 <li>Granasho</li>
 <li>Khubrash</li>
-<li>Gabzom</li>
+<li>Gabzom</li></ol>
 20 LEGENDARY ORC WEAPONS
-<li>@&%#!</li>
+<ol><li>@&%#!</li>
 <li>Bag Of Infinite Rocks</li>
 <li>Demihumansbane</li>
 <li>Dude, Axe-Chuks</li>
@@ -62,4 +62,4 @@ FEMALE
 <li>The Biggest Stick</li>
 <li>Ugly Dog the Facehitting</li>
 <li>Youbastard</li>
-<li>Zugrukh's Bat With a Nail In It</li>
+<li>Zugrukh's Bat With a Nail In It</li></ol>

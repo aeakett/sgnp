@@ -3,7 +3,7 @@ Compiled by Brendan Adkins
 NOTES
 Since Gnollish society is matriarchal, female names are given a -sh suffix to indicate deference.  (Or something.)
 MALE
-<li>Grangir</li>
+<ol><li>Grangir</li>
 <li>Heenen</li>
 <li>Krachak</li>
 <li>Brangah</li>
@@ -22,9 +22,9 @@ MALE
 <li>Jinjar</li>
 <li>Rachagah</li>
 <li>Shrisheb</li>
-<li>Zugo</li>
+<li>Zugo</li></ol>
 FEMALE
-<li>Dotigash</li>
+<ol><li>Dotigash</li>
 <li>Hagesh</li>
 <li>Jinkush</li>
 <li>Shriegash</li>
@@ -43,9 +43,9 @@ FEMALE
 <li>Tirigash</li>
 <li>Kikigesh</li>
 <li>Shangesh</li>
-<li>Rinkush</li>
+<li>Rinkush</li></ol>
 AMUSING GAMES OF THE GNOLLS
-<li>Beat the Halfling</li>
+<ol><li>Beat the Halfling</li>
 <li>How Long Will It Take That Bite To Fester, Wagers Here Please</li>
 <li>On-Fire Tag</li>
 <li>Will Your Arm Or My Jaw Break First, Oh Wait, It Was Your Arm</li>
@@ -64,4 +64,4 @@ AMUSING GAMES OF THE GNOLLS
 <li>You Are Stupid</li>
 <li>Poker</li>
 <li>Tetherdog</li>
-<li>Guess Whether I'm Beating You Into Unconsciousness Or Death</li>
+<li>Guess Whether I'm Beating You Into Unconsciousness Or Death</li></ol>

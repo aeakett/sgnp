@@ -1,7 +1,7 @@
 ﻿BARBARIANS AND ENCHANTRESSES
 Compiled by Jason Morningstar
 BARBARIAN GIVEN NAMES
-<li>Grimdar </li>
+<ol><li>Grimdar </li>
 <li>Fertag </li>
 <li>Thingfar </li>
 <li>Lordwig </li>
@@ -20,9 +20,9 @@ BARBARIAN GIVEN NAMES
 <li>Warmar </li>
 <li>Northstarr </li>
 <li>Darkthag </li>
-<li>Korgoth</li>
+<li>Korgoth</li></ol>
 ENCHANTRESS GIVEN NAMES
-<li>Talltree </li>
+<ol><li>Talltree </li>
 <li>Shortblade </li>
 <li>Spiritsinger </li>
 <li>Proudcat </li>
@@ -41,9 +41,9 @@ ENCHANTRESS GIVEN NAMES
 <li>Redblade </li>
 <li>Magykka</li>
 <li>Rainshadow </li>
-<li>Ravenwillow </li>
+<li>Ravenwillow </li></ol>
 BARBARIAN SURNAMES
-<li>Wolfskin</li>
+<ol><li>Wolfskin</li>
 <li>Fireblaster </li>
 <li>Warslayer </li>
 <li>Spearfist </li>
@@ -62,9 +62,9 @@ BARBARIAN SURNAMES
 <li>Dragonfist </li>
 <li>Peaceleaf </li>
 <li>Darkhelm </li>
-<li>Threndarsson</li>
+<li>Threndarsson</li></ol>
 ENCHANTRESS SURNAMES
-<li>Lightsong </li>
+<ol><li>Lightsong </li>
 <li>Spell-sparrow</li>
 <li>Copernicus</li>
 <li>Beastmane</li>
@@ -83,4 +83,4 @@ ENCHANTRESS SURNAMES
 <li>Dawnchild </li>
 <li>Dragonwalker </li>
 <li>Elf-rider</li>
-<li> (Too badass for a surname)</li>
+<li> (Too badass for a surname)</li></ol>

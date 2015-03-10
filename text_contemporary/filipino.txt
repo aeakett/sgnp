@@ -10,7 +10,7 @@ Use one syllable and repeat it
 Start from a desired nickname and pick a real name to go with it 
 Finally, as a bonus, I've included some Filipino meals and snack or party foods. 
 MALE 1
-<li>Boboy </li>
+<ol><li>Boboy </li>
 <li>Aprodicio </li>
 <li>Earvin </li>
 <li>Eadgee </li>
@@ -29,9 +29,9 @@ MALE 1
 <li>Acy </li>
 <li>Ahvic </li>
 <li>Dondon </li>
-<li>Eliutaro </li>
+<li>Eliutaro </li></ol>
 FEMALE 1
-<li>Cherry Pie </li>
+<ol><li>Cherry Pie </li>
 <li>Apples </li>
 <li>Diday </li>
 <li>Maritess </li>
@@ -50,9 +50,9 @@ FEMALE 1
 <li>Ditsi </li>
 <li>Maricel </li>
 <li>KitKat </li>
-<li>Zsuzsanna </li>
+<li>Zsuzsanna </li></ol>
 MALE 2
-<li>Ronron </li>
+<ol><li>Ronron </li>
 <li>Adonis </li>
 <li>Tootsie </li>
 <li>Rhob </li>
@@ -71,9 +71,9 @@ MALE 2
 <li>Baldo </li>
 <li>Titoy </li>
 <li>Gutsy </li>
-<li>Rommel </li>
+<li>Rommel </li></ol>
 FEMALE 2
-<li>Nice </li>
+<ol><li>Nice </li>
 <li>Aphro(dite) </li>
 <li>Mhel </li>
 <li>Starlet </li>
@@ -92,9 +92,9 @@ FEMALE 2
 <li>Bingbing </li>
 <li>Melenaida </li>
 <li>Jomari </li>
-<li>Jejomar </li>
+<li>Jejomar </li></ol>
 NEUTRAL/AMBIGUOUS 1
-<li>Buhay </li>
+<ol><li>Buhay </li>
 <li>Bekbek </li>
 <li>Suplay </li>
 <li>Sanorjo </li>
@@ -113,9 +113,9 @@ NEUTRAL/AMBIGUOUS 1
 <li>Orange </li>
 <li>Patat </li>
 <li>Coke </li>
-<li>Volks </li>
+<li>Volks </li></ol>
 NEUTRAL/AMBIGUOUS 2
-<li>Frumen </li>
+<ol><li>Frumen </li>
 <li>Bacon </li>
 <li>Merry Christmas </li>
 <li>Porsche </li>
@@ -134,9 +134,9 @@ NEUTRAL/AMBIGUOUS 2
 <li>Bonbon </li>
 <li>Ciriaca </li>
 <li>Chabeng </li>
-<li>Bathaluman </li>
+<li>Bathaluman </li></ol>
 SPANISH SURNAMES 
-<li>Arroyo </li>
+<ol><li>Arroyo </li>
 <li>Reyes </li>
 <li>Santiago </li>
 <li>Fernandez </li>
@@ -155,9 +155,9 @@ SPANISH SURNAMES
 <li>Cruz </li>
 <li>Dolorfino </li>
 <li>Bautista </li>
-<li>De Jesus </li>
+<li>De Jesus </li></ol>
 CHINESE-DESCENT SURNAMES 
-<li>Yap </li>
+<ol><li>Yap </li>
 <li>Cojuangco </li>
 <li>Tan </li>
 <li>Songcuya </li>
@@ -176,9 +176,9 @@ CHINESE-DESCENT SURNAMES
 <li>Ongpin </li>
 <li>Mapua </li>
 <li>Benzon </li>
-<li>Quimpo </li>
+<li>Quimpo </li></ol>
 INDIGENOUS ORIGIN SURNAMES 
-<li>Magsaysay </li>
+<ol><li>Magsaysay </li>
 <li>Ongoy </li>
 <li>Inding </li>
 <li>Ysip </li>
@@ -197,9 +197,9 @@ INDIGENOUS ORIGIN SURNAMES
 <li>Manlangit </li>
 <li>Nakpil </li>
 <li>Katapang </li>
-<li>Carandang </li>
+<li>Carandang </li></ol>
 MIXED SURNAMES 
-<li>Anonuevo </li>
+<ol><li>Anonuevo </li>
 <li>Portero </li>
 <li>Dagdag </li>
 <li>Suero </li>
@@ -218,9 +218,9 @@ MIXED SURNAMES
 <li>Natividad </li>
 <li>Tampipi </li>
 <li>Fruto </li>
-<li>Ignacio </li>
+<li>Ignacio </li></ol>
 SILLY FULL NAMES 
-<li>Mercedes Benzon </li>
+<ol><li>Mercedes Benzon </li>
 <li>Maki Comida </li>
 <li>Spice Arabia </li>
 <li>Volks Baagen </li>
@@ -239,9 +239,9 @@ SILLY FULL NAMES
 <li>Rhaydz Ng Bayan </li>
 <li>Edgar Allan Pe </li>
 <li>Sushi Sy </li>
-<li>Michael Jord Ang</li>
+<li>Michael Jord Ang</li></ol>
 MEALS 
-<li>Kalderetang Kambing - goat stew </li>
+<ol><li>Kalderetang Kambing - goat stew </li>
 <li>Bistek - beef stir-fried in soy sauce and lemon </li>
 <li>Lechon Kawali - roasted pig </li>
 <li>Inihaw ni Liempo - grilled pork belly </li>
@@ -260,9 +260,9 @@ MEALS
 <li>Rellenong Bangus - stuffed smoked milkfish </li>
 <li>Adobong Manok - chicken cooked in vinegar </li>
 <li>Nilaga Baka - broth with beef and root vegetables </li>
-<li>(Sizzling) Sisig - fried pig ear </li>
+<li>(Sizzling) Sisig - fried pig ear </li></ol>
 SNACKS/PARTY FOODS 
-<li>Halo-Halo - mixed sweet things over ice with milk </li>
+<ol><li>Halo-Halo - mixed sweet things over ice with milk </li>
 <li>Ginataa - coconut milk fruit soup </li>
 <li>Bibingka - rice cake with brown sugar, shredded coconut, cheese, or egg</li>
 <li>Champorado - chocolate rice porridge </li>
@@ -281,4 +281,4 @@ SNACKS/PARTY FOODS
 <li>Matamis na Saging - chilled banana in syrup </li>
 <li>Puto - steamed rice cake </li>
 <li>Turon - fried banana in wonton wrapper </li>
-<li> Some other form of pancit</li>
+<li> Some other form of pancit</li></ol>

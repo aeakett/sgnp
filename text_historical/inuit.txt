@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 These personal names were randomly generated from Inuit-esque phonemes.
 MALE NAMES 
-<li>Pukivik </li>
+<ol><li>Pukivik </li>
 <li>Noagunegak </li>
 <li>Tooaarvik</li>
 <li>Teqkuagguk</li>
@@ -22,9 +22,9 @@ MALE NAMES
 <li>Tulutvu</li>
 <li>Atuqulk </li>
 <li>Aukuagcheeak</li>
-<li>Toomingchuk </li>
+<li>Toomingchuk </li></ol>
 FEMALE NAMES
-<li>Alutta</li>
+<ol><li>Alutta</li>
 <li>Aklavu</li>
 <li>Kupalunek </li>
 <li>Sausuak </li>
@@ -43,9 +43,9 @@ FEMALE NAMES
 <li>Aludvik </li>
 <li>Millutkap</li>
 <li>Kituqanak</li>
-<li>Noasaqanak</li>
+<li>Noasaqanak</li></ol>
 SORCERERS, SPIRITS, AND OUTSIDERS
-<li>Alaraq </li>
+<ol><li>Alaraq </li>
 <li>Akalaaq</li>
 <li>Aukuagmaq</li>
 <li>Aqigaq</li>
@@ -64,9 +64,9 @@ SORCERERS, SPIRITS, AND OUTSIDERS
 <li>Paguchaq</li>
 <li>Akvuvigaq</li>
 <li>Aksaggaq</li>
-<li>Tsenaaq</li>
+<li>Tsenaaq</li></ol>
 NORTHERN BEASTS
-<li>Ptarmigan / aqisseq</li>
+<ol><li>Ptarmigan / aqisseq</li>
 <li>Shark / eqalussuaq</li>
 <li>Bear / nanoq</li>
 <li>Seal / natsiq</li>
@@ -85,9 +85,9 @@ NORTHERN BEASTS
 <li>Walking corpse / timiviniq</li>
 <li>Killer whale / aarluk</li>
 <li>Wolf / amaruq</li>
-<li>Weasel / tiriaq</li>
+<li>Weasel / tiriaq</li></ol>
 LOCATIONS
-<li>Akuliakat / point of land between two bays</li>
+<ol><li>Akuliakat / point of land between two bays</li>
 <li>Ammituq / the narrows</li>
 <li>Ikerasak / the channel</li>
 <li>Innuksuk / the cairn</li>
@@ -106,4 +106,4 @@ LOCATIONS
 <li>Qulliq / place of the stone lamp</li>
 <li>Tupiq / skin tent place</li>
 <li>Untqiagvik / place where snowy owls rest</li>
-<li>Kakivak / place of the spear</li>
+<li>Kakivak / place of the spear</li></ol>

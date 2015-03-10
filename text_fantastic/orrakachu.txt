@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES 
 Unfamiliar, foreign-sounding names for a far-off space colony or distant land.  Generated using Lexgen:  http://tmt.sourceforge.net/lexgen/ 
 MALE 1 
-<li>Honondu </li>
+<ol><li>Honondu </li>
 <li>Surrezu </li>
 <li>Mosun </li>
 <li>Udsucho </li>
@@ -22,9 +22,9 @@ MALE 1
 <li>Kame </li>
 <li>Jessu </li>
 <li>Henmu </li>
-<li>Atapun </li>
+<li>Atapun </li></ol>
 FEMALE 1 
-<li>Aza </li>
+<ol><li>Aza </li>
 <li>Tudsa </li>
 <li>Gejuna </li>
 <li>Rugeja </li>
@@ -43,9 +43,9 @@ FEMALE 1
 <li>Pua </li>
 <li>Josa </li>
 <li>Puaka </li>
-<li>Sesanupa </li>
+<li>Sesanupa </li></ol>
 MALE 2 
-<li>Gu </li>
+<ol><li>Gu </li>
 <li>Kurro </li>
 <li>Kedsu </li>
 <li>Tu </li>
@@ -64,9 +64,9 @@ MALE 2
 <li>Hau </li>
 <li>Kagutu </li>
 <li>Punu </li>
-<li>Kajapu </li>
+<li>Kajapu </li></ol>
 FEMALE 2 
-<li>Paa </li>
+<ol><li>Paa </li>
 <li>Matana </li>
 <li>Hararoa </li>
 <li>Garona </li>
@@ -85,9 +85,9 @@ FEMALE 2
 <li>Padsekura </li>
 <li>Pajakea </li>
 <li>Raudma </li>
-<li>Sakaa </li>
+<li>Sakaa </li></ol>
 SURNAME 1 
-<li>Aasu </li>
+<ol><li>Aasu </li>
 <li>Zaepaeju </li>
 <li>Phadsa </li>
 <li>Ocheedsu </li>
@@ -106,9 +106,9 @@ SURNAME 1
 <li>Ehae </li>
 <li>Horapae </li>
 <li>Aa </li>
-<li>Paegaja </li>
+<li>Paegaja </li></ol>
 SURNAME 2 
-<li>Desanae </li>
+<ol><li>Desanae </li>
 <li>Ekaa </li>
 <li>Moa </li>
 <li>Gauesu </li>
@@ -127,9 +127,9 @@ SURNAME 2
 <li>Dsamo </li>
 <li>Takopa </li>
 <li>Ea </li>
-<li>Sogee </li>
+<li>Sogee </li></ol>
 WEIRD HONORIFIC 
-<li>Thread-bearer </li>
+<ol><li>Thread-bearer </li>
 <li>Burner </li>
 <li>Dampener </li>
 <li>Macerator </li>
@@ -148,4 +148,4 @@ WEIRD HONORIFIC
 <li>Panderer </li>
 <li>Love-taker </li>
 <li>Caller </li>
-<li>Barterer</li>
+<li>Barterer</li></ol>

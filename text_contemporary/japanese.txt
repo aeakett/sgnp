@@ -7,7 +7,7 @@ NOTES
 Surnames and Business: All of these names can be companies, organizations or businesses as well; simply add the business type to the name and it looks like an official Japanese business. "Kogure Heavy Industries", "Mizutani Realty", "Murata Sushi", etc.
 Surnames and Titles: Teachers, Instructors (from martial arts to origami), Published writers and medical doctors are all called "-Sensei": Kojima-sensei, etc. People with a doctorate degree in any academic field are called "-Hakase". Lords, nobles, and people who are socially way over your head are called "-Dono" (including adult servants to a noble/wealthy family child). Someone over your head but not way over your head are called "-Sama", but this is rarely used in modern times.
 SURNAMES 1
-<li>Takeda</li>
+<ol><li>Takeda</li>
 <li>Soma</li>
 <li>Suwa</li>
 <li>Suzuki</li>
@@ -26,9 +26,9 @@ SURNAMES 1
 <li>Maebashi</li>
 <li>Tani</li>
 <li>Torimoto</li>
-<li>Togawa</li>
+<li>Togawa</li></ol>
 SURNAMES 2
-<li>Oshima</li>
+<ol><li>Oshima</li>
 <li>Kojima</li>
 <li>Otani</li>
 <li>Ota</li>
@@ -47,9 +47,9 @@ SURNAMES 2
 <li>Watanabe</li>
 <li>Mizuno</li>
 <li>Kajiwara</li>
-<li>Maenaka</li>
+<li>Maenaka</li></ol>
 SURNAMES 3
-<li>Yamamoto</li>
+<ol><li>Yamamoto</li>
 <li>Murata</li>
 <li>Nakayama</li>
 <li>Nagai</li>
@@ -68,9 +68,9 @@ SURNAMES 3
 <li>Hasegawa</li>
 <li>Hori</li>
 <li>Izumi</li>
-<li>Kamei</li>
+<li>Kamei</li></ol>
 SURNAMES 4
-<li>Aeba</li>
+<ol><li>Aeba</li>
 <li>Chiba</li>
 <li>Endo</li>
 <li>Ando</li>
@@ -89,9 +89,9 @@ SURNAMES 4
 <li>Sugita</li>
 <li>Uehara</li>
 <li>Yamazaki</li>
-<li>Ueda</li>
+<li>Ueda</li></ol>
 SURNAMES 5
-<li>Otani</li>
+<ol><li>Otani</li>
 <li>Yasukawa</li>
 <li>Shizuma</li>
 <li>Takabe</li>
@@ -110,9 +110,9 @@ SURNAMES 5
 <li>Nanami</li>
 <li>Koyanagi</li>
 <li>Komiya</li>
-<li>Kanegawa</li>
+<li>Kanegawa</li></ol>
 SURNAMES 6
-<li>Ishimura</li>
+<ol><li>Ishimura</li>
 <li>Isesaki</li>
 <li>Ishikawa</li>
 <li>Hirano</li>
@@ -131,9 +131,9 @@ SURNAMES 6
 <li>Asanuma</li>
 <li>Fukuoka</li>
 <li>Enoki</li>
-<li>Funaki</li>
+<li>Funaki</li></ol>
 SAMURAI-ERA BUSHI SURNAMES
-<li>Mori</li>
+<ol><li>Mori</li>
 <li>Ashikaga</li>
 <li>Date</li>
 <li>Hosokawa</li>
@@ -152,9 +152,9 @@ SAMURAI-ERA BUSHI SURNAMES
 <li>Otani</li>
 <li>Sakakibara</li>
 <li>Shimazu</li>
-<li>Yamanouchi</li>
+<li>Yamanouchi</li></ol>
 HEIAN AND SAMURAI-ERA NOBLE (KUGE/KIZOKU) SURNAMES
-<li>Konoe (one of the "Big Five")</li>
+<ol><li>Konoe (one of the "Big Five")</li>
 <li>Kujo (one of the "Big Five")</li>
 <li>Ichijo (one of the "Big Five")</li>
 <li>Takatsukasa (one of the "Big Five")</li>
@@ -173,12 +173,12 @@ HEIAN AND SAMURAI-ERA NOBLE (KUGE/KIZOKU) SURNAMES
 <li>Saionji</li>
 <li>Sanjo</li>
 <li>Imaidegawa</li>
-<li>Tokudaiji</li>
+<li>Tokudaiji</li></ol>
 FIRST NAMES
 NOTES
 First names are pretty much just for show. In most cases, even between friends, people call each other by their last names.  Younger people and close friends use first names between each other, but for the most part in your games no matter which time period you'll be using last names almost all the time.
 MALE NAMES 1
-<li>Saburo</li>
+<ol><li>Saburo</li>
 <li>Yuske</li>
 <li>Seiji</li>
 <li>Ken/Kentaro</li>
@@ -197,9 +197,9 @@ MALE NAMES 1
 <li>Shigure</li>
 <li>Kei</li>
 <li>Satoshi</li>
-<li>Naoto</li>
+<li>Naoto</li></ol>
 FEMALE NAMES 1
-<li>Ayu</li>
+<ol><li>Ayu</li>
 <li>Kumie/Kumiko</li>
 <li>Norie/Noriko</li>
 <li>Yuu</li>
@@ -218,9 +218,9 @@ FEMALE NAMES 1
 <li>Rika/Rikako</li>
 <li>Keiko</li>
 <li>Rie</li>
-<li>Hidemi</li>
+<li>Hidemi</li></ol>
 MALE NAMES 2
-<li>Akira</li>
+<ol><li>Akira</li>
 <li>Keishi</li>
 <li>Kuniaki</li>
 <li>Keisuke</li>
@@ -239,9 +239,9 @@ MALE NAMES 2
 <li>Noriaki/Noriyuki</li>
 <li>Hitoshi</li>
 <li>Fumiya/Fumiaki</li>
-<li>Masaki/Masa-aki</li>
+<li>Masaki/Masa-aki</li></ol>
 FEMALE NAMES 2
-<li>Sakura/Sakuya</li>
+<ol><li>Sakura/Sakuya</li>
 <li>Karin</li>
 <li>Saori</li>
 <li>Sayuri</li>
@@ -260,9 +260,9 @@ FEMALE NAMES 2
 <li>Rei/Reiko</li>
 <li>Machi/Machiko</li>
 <li>Sachi.Sachie/Sachiko</li>
-<li>Nami/Namie</li>
+<li>Nami/Namie</li></ol>
 MALE NAMES 3
-<li>Masayuki/Masahiro</li>
+<ol><li>Masayuki/Masahiro</li>
 <li>Mitsutaka/Mitsuhide</li>
 <li>Motoki</li>
 <li>Morihiro</li>
@@ -281,9 +281,9 @@ MALE NAMES 3
 <li>Takeru</li>
 <li>Ryo/Ryoske</li>
 <li>Ryu/Ryuske</li>
-<li>Shun</li>
+<li>Shun</li></ol>
 FEMALE NAMES 3
-<li>Eri/Erika/Eriko</li>
+<ol><li>Eri/Erika/Eriko</li>
 <li>Chihiro</li>
 <li>Wakaba</li>
 <li>Nanako</li>
@@ -302,5 +302,5 @@ FEMALE NAMES 3
 <li>Yomi/Yomiko</li>
 <li>Taeko</li>
 <li>Sadako</li>
-<li>Saya/Sayaka</li>
+<li>Saya/Sayaka</li></ol>
 

@@ -4,7 +4,7 @@ Compiled by Jason Morningstar
 From the records of Isaac Parker, Judge for the U.S. District Court for the Western District of Arkansas during that period. Presiding from Fort Smith, Parker’s jurisdiction included Indian Territory, present-day Oklahoma. The Indian names below would represent Choctaw, Chickasaw, Cherokee, Seminole and Creek.
 
 INDIAN MURDERERS
-<li>Simpson McClish</li>
+<ol><li>Simpson McClish</li>
 <li>S.M. Killer</li>
 <li>Sam Fooy</li>
 <li>Ishtanubbee</li>
@@ -23,10 +23,10 @@ INDIAN MURDERERS
 <li>Kit Ross</li>
 <li>Isaacs Webber</li>
 <li>Sam Sampson</li>
-<li>Maoma July</li>
+<li>Maoma July</li></ol>
 
 ANGLO MURDERERS
-<li>J. Valley</li>
+<ol><li>J. Valley</li>
 <li>“Colorado” Bill</li>
 <li>Dr. H. Stewart</li>
 <li>G. W. Padgett</li>
@@ -45,10 +45,10 @@ ANGLO MURDERERS
 <li>T.L. Thompson</li>
 <li>William Phillips</li>
 <li>George Pierce</li>
-<li>L. Sprole</li>
+<li>L. Sprole</li></ol>
 
 BLACK MURDERERS
-<li>J. Arcene</li>
+<ol><li>J. Arcene</li>
 <li>Luckey Davis</li>
 <li>E. Campbell</li>
 <li>Sam Peters</li>
@@ -67,10 +67,10 @@ BLACK MURDERERS
 <li>Robert Massey</li>
 <li>W. H. Finch</li>
 <li>Bully Joseph</li>
-<li>Thomas Elliott</li>
+<li>Thomas Elliott</li></ol>
 
 VICTIMS 1
-<li>Zachariah W. Thatch</li>
+<ol><li>Zachariah W. Thatch</li>
 <li>William Vandever</li>
 <li>M.P. Cushing</li>
 <li>Ernest Melton</li>
@@ -89,10 +89,10 @@ VICTIMS 1
 <li>J. Wadkins</li>
 <li>J.E. Neff</li>
 <li>Dr. J.B. Jones</li>
-<li>T.W. Pringle</li>
+<li>T.W. Pringle</li></ol>
 
 VICTIMS 2
-<li>J. Davis</li>
+<ol><li>J. Davis</li>
 <li>Alex Clark</li>
 <li>B.F. Clark</li>
 <li>Tony Love</li>
@@ -111,10 +111,10 @@ VICTIMS 2
 <li>J. Stewart</li>
 <li>Ellis McVay</li>
 <li>S.M. Morgan</li>
-<li>Viney Hill</li>
+<li>Viney Hill</li></ol>
 
 LADY VICTIMS
-<li>Edwina Mason</li>
+<ol><li>Edwina Mason</li>
 <li>Rozetta Hasson</li>
 <li>Annie Carr</li>
 <li>Laura Moynier</li>
@@ -123,6 +123,6 @@ LADY VICTIMS
 <li>Molly Stansbury</li>
 <li>Julietta Ingley</li>
 <li>Henrietta Joyce</li>
-<li>Ida Richmond</li>
+<li>Ida Richmond</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

@@ -3,7 +3,7 @@ Compiled by Mischa D. Krilov
 NOTES
 These are cool names drawn from various Celtic peoples of the U.K., such as Scotland, Wales, and Ireland. Historically accurate Celtic surname pose a problem, since as a preliterate culture, they didn't take helpful censuses. If you need a surname, simply pull a geographically appropriate one form elsewhere in this book.
 MALE
-<li>Aiden</li>
+<ol><li>Aiden</li>
 <li>Teague</li>
 <li>Efnisien</li>
 <li>Hoel</li>
@@ -22,9 +22,9 @@ MALE
 <li>Tegid</li>
 <li>Duffy</li>
 <li>Edan</li>
-<li>Fiacre</li>
+<li>Fiacre</li></ol>
 FEMALE
-<li>Brigit</li>
+<ol><li>Brigit</li>
 <li>Nantosuelta</li>
 <li>Isolde</li>
 <li>Fingula</li>
@@ -43,4 +43,4 @@ FEMALE
 <li>Adsaluta</li>
 <li>Epona</li>
 <li>Daghda</li>
-<li>Gitta</li>
+<li>Gitta</li></ol>

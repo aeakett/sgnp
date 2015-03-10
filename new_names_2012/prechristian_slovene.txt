@@ -1,9 +1,8 @@
 ﻿PRE CHRISTIAN SLOVENE NAMES AND SUPERNATURAL BEINGS
 Compiled by Gregor Vuga
 
-
 MALE NAMES
-<li>Belobor</li>
+<ol><li>Belobor</li>
 <li>Bogomil</li>
 <li>Črt</li>
 <li>Dragomir</li>
@@ -22,10 +21,10 @@ MALE NAMES
 <li>Tugomir</li>
 <li>Valhun</li>
 <li>Valuk</li>
-<li>Žoltin</li>
+<li>Žoltin</li></ol>
 
 FEMALE NAMES
-<li>Breda</li>
+<ol><li>Breda</li>
 <li>Cvetka</li>
 <li>Dobroslava</li>
 <li>Grozdana</li>
@@ -44,10 +43,10 @@ FEMALE NAMES
 <li>Vesna</li>
 <li>Volkonja</li>
 <li>Vida</li>
-<li>Zora</li>
+<li>Zora</li></ol>
 
 GODS, SPIRITS and BEASTS
-<li>Triglav (Three-Headed One)</li>
+<ol><li>Triglav (Three-Headed One)</li>
 <li>Svarog (sky god)</li>
 <li>Kresnik (fire god)</li>
 <li>Kurent (a trickster and Dyonisus-like figure)</li>
@@ -66,7 +65,7 @@ GODS, SPIRITS and BEASTS
 <li>hostnik (forest man, shapeshifter)</li>
 <li>torklja (female spirit that kills women that won't stop spinning wool after hours)</li>
 <li>ajd (giant or troll)</li>
-<li>Sojenice (three sisters that manage fate)</li>
+<li>Sojenice (three sisters that manage fate)</li></ol>
 
 
 There are no surnames, instead people are often introduced as son of (sin) or daughter of (hči). To indicate posession, male names gain the suffix -a and female gain the suffix -e, replacing a vowel if the name ends in one. For example Rastislava hči Volkonje.

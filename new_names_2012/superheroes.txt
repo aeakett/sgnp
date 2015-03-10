@@ -4,7 +4,7 @@ Compiled by Nick Wedig
 (taken from http://pdsh.wikia.com/wiki/)
 
 MALE
-<li>Mr. Magic</li>
+<ol><li>Mr. Magic</li>
 <li>Mirror Man</li>
 <li>The Puzzler</li>
 <li>The Black Terror</li>
@@ -23,10 +23,10 @@ MALE
 <li>Cavalier</li>
 <li>Ibis the Invincible</li>
 <li>Mastermind</li>
-<li>Skyrocket Steele</li>
+<li>Skyrocket Steele</li></ol>
 
 FEMALE
-<li>Iron Maiden</li>
+<ol><li>Iron Maiden</li>
 <li>Jenny Everywhere</li>
 <li>Tiger Woman</li>
 <li>Neptina, queen of the fishmen</li>
@@ -45,10 +45,10 @@ FEMALE
 <li>Madame Strange</li>
 <li>Wildfire</li>
 <li>Valkyrie</li>
-<li>Octobriana</li>
+<li>Octobriana</li></ol>
 
 VILLAINS
-<li>Beggar King</li>
+<ol><li>Beggar King</li>
 <li>The Faceless Phantom</li>
 <li>The Fleshless Ones</li>
 <li>Gorilla with a Human Brain</li>
@@ -67,6 +67,6 @@ VILLAINS
 <li>Dr. Bio and his Spider-men</li>
 <li>The Inquisitor</li>
 <li>Morto, the Spirit of Murder</li>
-<li>Baba Yaga</li>
+<li>Baba Yaga</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

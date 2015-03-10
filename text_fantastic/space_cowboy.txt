@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 Tell 'em I 'aint comin' back...
 MALE NAMES 1 
-<li>Chung-Oh</li>
+<ol><li>Chung-Oh</li>
 <li>Cornelius</li>
 <li>Dash </li>
 <li>Eli </li>
@@ -22,9 +22,9 @@ MALE NAMES 1
 <li>Malachi </li>
 <li>Moses </li>
 <li>Nahum </li>
-<li>Napthali </li>
+<li>Napthali </li></ol>
 MALE NAMES 2
-<li>Paul</li>
+<ol><li>Paul</li>
 <li>Peter </li>
 <li>Qian-ying </li>
 <li>Raphael </li>
@@ -43,9 +43,9 @@ MALE NAMES 2
 <li>Levi </li>
 <li>Lian-hsi</li>
 <li>Manassah </li>
-<li>Marcus </li>
+<li>Marcus </li></ol>
 MALE NAMES 3
-<li>Jared </li>
+<ol><li>Jared </li>
 <li>Ghazan</li>
 <li>Chua-guo</li>
 <li>Boots</li>
@@ -64,9 +64,9 @@ MALE NAMES 3
 <li>Nehemiah </li>
 <li>Newton</li>
 <li>Noah </li>
-<li>Obadiah  </li>
+<li>Obadiah  </li></ol>
 MALE NAMES 4
-<li>Paul </li>
+<ol><li>Paul </li>
 <li>Mitchell </li>
 <li>Lian-xiang</li>
 <li>Jung-Bok</li>
@@ -85,9 +85,9 @@ MALE NAMES 4
 <li>Caleb </li>
 <li>Carl </li>
 <li>Shin-Ying</li>
-<li>Silas</li>
+<li>Silas</li></ol>
 MALE NAMES 5
-<li>Thaddeus </li>
+<ol><li>Thaddeus </li>
 <li>Thushyarsha</li>
 <li>Timothy </li>
 <li>Shan-zu </li>
@@ -106,9 +106,9 @@ MALE NAMES 5
 <li>Edwin</li>
 <li>Feng-zu</li>
 <li>Frank</li>
-<li>George</li>
+<li>George</li></ol>
 MALE NAMES 6
-<li>Philip </li>
+<ol><li>Philip </li>
 <li>Phineas </li>
 <li>Reuben </li>
 <li>Simon </li>
@@ -127,9 +127,9 @@ MALE NAMES 6
 <li>Seun-Kong</li>
 <li>Albert </li>
 <li>Artemis</li>
-<li>Chang-Sang </li>
+<li>Chang-Sang </li></ol>
 MALE NAMES 7
-<li>Gershom </li>
+<ol><li>Gershom </li>
 <li>Hanan </li>
 <li>Adam </li>
 <li>Benjamin</li>
@@ -148,9 +148,9 @@ MALE NAMES 7
 <li>Chinua </li>
 <li>Jim</li>
 <li>Jing-lin </li>
-<li>Joachim </li>
+<li>Joachim </li></ol>
 MALE NAMES 8
-<li>Xiao</li>
+<ol><li>Xiao</li>
 <li>Henry</li>
 <li>Joong-Huan</li>
 <li>Hosea </li>
@@ -169,9 +169,9 @@ MALE NAMES 8
 <li>Nathan </li>
 <li>Shin-Jun  </li>
 <li>Joseph </li>
-<li>Micah </li>
+<li>Micah </li></ol>
 FEMALE NAMES 1
-<li>Rong-yan</li>
+<ol><li>Rong-yan</li>
 <li>Margaret</li>
 <li>Kezia </li>
 <li>Jezebel </li>
@@ -190,9 +190,9 @@ FEMALE NAMES 1
 <li>Marie</li>
 <li>Yong-Mi</li>
 <li>Rosabel </li>
-<li>Adah </li>
+<li>Adah </li></ol>
 FEMALE NAMES 2
-<li>Tsao-yi</li>
+<ol><li>Tsao-yi</li>
 <li>Lady</li>
 <li>Abigail </li>
 <li>Xiao-chen</li>
@@ -211,9 +211,9 @@ FEMALE NAMES 2
 <li>Fidelia</li>
 <li>Florence</li>
 <li>Jing-lin</li>
-<li>Soo-Jung  </li>
+<li>Soo-Jung  </li></ol>
 FEMALE NAMES 3
-<li>Khaidu</li>
+<ol><li>Khaidu</li>
 <li>Maria </li>
 <li>Sally</li>
 <li>Bitsy </li>
@@ -232,9 +232,9 @@ FEMALE NAMES 3
 <li>Bridey</li>
 <li>Candace </li>
 <li>Samantha </li>
-<li>Rose</li>
+<li>Rose</li></ol>
 FEMALE NAMES 4
-<li>Ruth</li>
+<ol><li>Ruth</li>
 <li>Sapor</li>
 <li>Sarah  </li>
 <li>Abiah </li>
@@ -253,9 +253,9 @@ FEMALE NAMES 4
 <li>Hannah </li>
 <li>Helen</li>
 <li>Hwa-Sook</li>
-<li>Betsy </li>
+<li>Betsy </li></ol>
 FEMALE NAMES 5
-<li>Chiu</li>
+<ol><li>Chiu</li>
 <li>Isabella  </li>
 <li>Jaran </li>
 <li>Belle </li>
@@ -274,9 +274,9 @@ FEMALE NAMES 5
 <li>Bessie  </li>
 <li>Edwina</li>
 <li>Juchi</li>
-<li>Hester</li>
+<li>Hester</li></ol>
 FEMALE NAMES 6
-<li>Muhuli</li>
+<ol><li>Muhuli</li>
 <li>Hong </li>
 <li>Ethel</li>
 <li>Phielia</li>
@@ -295,9 +295,9 @@ FEMALE NAMES 6
 <li>Kassar</li>
 <li>Hwa-Jung</li>
 <li>Sung-Oh  </li>
-<li>Sybrina</li>
+<li>Sybrina</li></ol>
 FEMALE NAMES 7
-<li>Judith </li>
+<ol><li>Judith </li>
 <li>Jung-Sook</li>
 <li>Temperance</li>
 <li>Kashtaritu</li>
@@ -316,9 +316,9 @@ FEMALE NAMES 7
 <li>Carmel </li>
 <li>Chan-Min</li>
 <li>Marah </li>
-<li>Marianne </li>
+<li>Marianne </li></ol>
 FEMALE NAMES 8
-<li>Relief</li>
+<ol><li>Relief</li>
 <li>Daris</li>
 <li>Rong-kui</li>
 <li>Content</li>
@@ -337,9 +337,9 @@ FEMALE NAMES 8
 <li>Song-hua</li>
 <li>Bethany </li>
 <li>Chiu-hua</li>
-<li>Constance      </li>
+<li>Constance      </li></ol>
 SURNAMES 1  
-<li>Ang</li>
+<ol><li>Ang</li>
 <li>Washington  </li>
 <li>Tenagon     </li>
 <li>Faison              </li>
@@ -358,9 +358,9 @@ SURNAMES 1
 <li>Meekmok    </li>
 <li>Bell                         </li>
 <li>Niu </li>
-<li>Spencer      </li>
+<li>Spencer      </li></ol>
 SURNAMES 2
-<li>Gordon         </li>
+<ol><li>Gordon         </li>
 <li>Torkelson</li>
 <li>Rodgers       </li>
 <li>Roe           </li>
@@ -379,9 +379,9 @@ SURNAMES 2
 <li>Bogan          </li>
 <li>Boswell       </li>
 <li>Wilson        </li>
-<li>Campbell </li>
+<li>Campbell </li></ol>
 SURNAMES  3
-<li>Cape </li>
+<ol><li>Cape </li>
 <li>Wei </li>
 <li>Arban </li>
 <li>Carpenter      </li>
@@ -400,9 +400,9 @@ SURNAMES  3
 <li>Chun           </li>
 <li>Marshall              </li>
 <li>Church        </li>
-<li>Nichols      </li>
+<li>Nichols      </li></ol>
 SURNAMES 4
-<li>Clark                 </li>
+<ol><li>Clark                 </li>
 <li>Murphy                          </li>
 <li>Wheeler        </li>
 <li>Colby                 </li>
@@ -421,9 +421,9 @@ SURNAMES 4
 <li>Dash </li>
 <li>Davies       </li>
 <li>Lee            </li>
-<li>Martinez  </li>
+<li>Martinez  </li></ol>
 SURNAMES 5  
-<li>Fain           </li>
+<ol><li>Fain           </li>
 <li>Fields         </li>
 <li>Muhuli</li>
 <li>Fisher                  </li>
@@ -442,9 +442,9 @@ SURNAMES 5
 <li>Gushtasp</li>
 <li>Ness           </li>
 <li>Gutierrez             </li>
-<li>Hodgkiss     </li>
+<li>Hodgkiss     </li></ol>
 SURNAMES  6
-<li>Howell                 </li>
+<ol><li>Howell                 </li>
 <li>Irvine         </li>
 <li>Isuke               </li>
 <li>Wells             </li>
@@ -463,9 +463,9 @@ SURNAMES  6
 <li>Mei</li>
 <li>Miller                 </li>
 <li>Sun</li>
-<li>Lorde</li>
+<li>Lorde</li></ol>
 SURNAMES  7
-<li>Nelson         </li>
+<ol><li>Nelson         </li>
 <li>Trice          </li>
 <li>Obrien                </li>
 <li>Olson          </li>
@@ -484,9 +484,9 @@ SURNAMES  7
 <li>Rivera               </li>
 <li>Croswell      </li>
 <li>Cooper              </li>
-<li>Rodriguez      </li>
+<li>Rodriguez      </li></ol>
 SURNAMES  8
-<li>Rogers         </li>
+<ol><li>Rogers         </li>
 <li>Borchu </li>
 <li>Anh</li>
 <li>Gomez          </li>
@@ -505,4 +505,4 @@ SURNAMES  8
 <li>West           </li>
 <li>Xue      </li>
 <li>Young </li>
-<li>Sigurdsson</li>
+<li>Sigurdsson</li></ol>

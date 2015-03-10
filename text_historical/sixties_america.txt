@@ -1,7 +1,7 @@
 ﻿1960'S AMERICA
 Compiled by Nathan Paoletta and Jason Morningstar
 MALE
-<li>James   </li>
+<ol><li>James   </li>
 <li>William   </li>
 <li>Robert  </li>
 <li>John   </li>
@@ -20,9 +20,9 @@ MALE
 <li>Paul   </li>
 <li>Edward   </li>
 <li>Jerry   </li>
-<li>Dennis   </li>
+<li>Dennis   </li></ol>
 FEMALE
-<li>Mary    </li>
+<ol><li>Mary    </li>
 <li>Linda    </li>
 <li>Barbara    </li>
 <li>Patricia    </li>
@@ -41,9 +41,9 @@ FEMALE
 <li>Donna    </li>
 <li>Kathleen    </li>
 <li>Joyce    </li>
-<li>Dorothy  </li>
+<li>Dorothy  </li></ol>
 SURNAMES 1
-<li>Smith  </li>
+<ol><li>Smith  </li>
 <li>Anderson  </li>
 <li>Clark  </li>
 <li>Wright  </li>
@@ -62,9 +62,9 @@ SURNAMES 1
 <li>White  </li>
 <li>Lee  </li>
 <li>Scott  </li>
-<li>Turner </li>
+<li>Turner </li></ol>
 SURNAMES 2
-<li>Brown  </li>
+<ol><li>Brown  </li>
 <li>Harris  </li>
 <li>Walker  </li>
 <li>Green  </li>
@@ -83,9 +83,9 @@ SURNAMES 2
 <li>Garcia  </li>
 <li>Young  </li>
 <li>Gonzalez  </li>
-<li>Evans </li>
+<li>Evans </li></ol>
 SURF GUITAR BANDS
-<li>The Fabulous Playboys</li>
+<ol><li>The Fabulous Playboys</li>
 <li>P.J. & Artie</li>
 <li>The Challengers</li>
 <li>The Progressives </li>
@@ -104,9 +104,9 @@ SURF GUITAR BANDS
 <li>The Ebb Tides</li>
 <li>The Tandems</li>
 <li>Steve and the Emperors</li>
-<li>The Chandelles</li>
+<li>The Chandelles</li></ol>
 U.S. ARMY UNITS FROM THE 4TH INFANTRY DIVISION IN THE VIETNAM WAR
-<li>2nd Battalion 8th Infantry - Mechanized Panthers</li>
+<ol><li>2nd Battalion 8th Infantry - Mechanized Panthers</li>
 <li>1st Battalion 8th Infantry "Bullets"</li>
 <li>4th Battalion 42nd Artillery (105mm) "Black Jacks"</li>
 <li>1st Battalion 22nd Infantry "Regulars" </li>
@@ -125,9 +125,9 @@ U.S. ARMY UNITS FROM THE 4TH INFANTRY DIVISION IN THE VIETNAM WAR
 <li>3rd Battalion 22nd Infantry "Red Dragoons"</li>
 <li>2nd Battalion 35th Infantry "Cacti Blue" </li>
 <li>5th Battalion 16th Artillery (155mm & 8-inch Self Propelled Howitzer)</li>
-<li>4th Military Intelligence Company, Motto: First to Know</li>
+<li>4th Military Intelligence Company, Motto: First to Know</li></ol>
 STEREOTYPICAL SOLDIER NICKNAMES
-<li>Deuce</li>
+<ol><li>Deuce</li>
 <li>Cowboy</li>
 <li>Snowball</li>
 <li>Joker</li>
@@ -146,9 +146,9 @@ STEREOTYPICAL SOLDIER NICKNAMES
 <li>Rocky</li>
 <li>Cherry</li>
 <li>Cobra</li>
-<li>Geronimo</li>
+<li>Geronimo</li></ol>
 100 GENERIC WAR SCENES. Roll once on each table.
-<li>A civilian...							</li>
+<ol><li>A civilian...							</li>
 <li>Your commanding officer...				</li>
 <li>Your best buddy...						 </li>
 <li>Your lover....									</li>
@@ -167,4 +167,4 @@ STEREOTYPICAL SOLDIER NICKNAMES
 <li>...is lying dead at your feet.</li>
 <li>...is blackmailing you.</li>
 <li>...rapes a civilian, who comes to you for help.</li>
-<li>...takes aim at you in the middle of a firefight.</li>
+<li>...takes aim at you in the middle of a firefight.</li></ol>

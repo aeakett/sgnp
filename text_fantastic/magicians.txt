@@ -3,7 +3,7 @@ Compiled by Meguey Baker
 NOTES
 These are all taken from the 6 year long Ars Magica home-brew game I played with Emily Care Boss and Vincent Baker. Enjoy.
 MALE 
-<li>Apis Malefica</li>
+<ol><li>Apis Malefica</li>
 <li>Labecula</li>
 <li>Quintus </li>
 <li>Lachesis Mutus</li>
@@ -22,9 +22,9 @@ MALE
 <li>Vassili Mercere</li>
 <li>Ardesco Tremere</li>
 <li>Badger of Bjornaer</li>
-<li>Nikolas Abelafia</li>
+<li>Nikolas Abelafia</li></ol>
 FEMALE 
-<li>Murinus Mus</li>
+<ol><li>Murinus Mus</li>
 <li>Soraya filia Tytalus</li>
 <li>Damvild filia Eki</li>
 <li>Pax Triumphia</li>
@@ -43,10 +43,10 @@ FEMALE
 <li>Clementia</li>
 <li>Joslynn, the Merinita</li>
 <li>Lillian Wright</li>
-<li>Ernestina the Rabbit</li>
+<li>Ernestina the Rabbit</li></ol>
 SIGILS OF MAGIC
 These are the tell-tale signs of a mage's magic, and will be involved somehow in all magic worked by that wizard. Long term magical works carry this mark, much like an artist's signature.
-<li>Extremely tangled hair</li>
+<ol><li>Extremely tangled hair</li>
 <li>Sickening blue miasma</li>
 <li>Scent of honey</li>
 <li>Sound of crows calling</li>
@@ -65,4 +65,4 @@ These are the tell-tale signs of a mage's magic, and will be involved somehow in
 <li>A certain number </li>
 <li>Geometric patterns</li>
 <li>Glowing</li>
-<li>Sound of wind</li>
+<li>Sound of wind</li></ol>

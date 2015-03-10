@@ -3,7 +3,7 @@ Compiled by D. Vincent Baker
 NOTES
 From http://en.wikipedia.org/wiki/List_of_Persian_given_names
 FEMALE 1
-<li>Zari </li>
+<ol><li>Zari </li>
 <li>Darya </li>
 <li>Shadi </li>
 <li>Alaaleh </li>
@@ -22,9 +22,9 @@ FEMALE 1
 <li>Sahra </li>
 <li>Tahmineh </li>
 <li>Tajie </li>
-<li>Shahla </li>
+<li>Shahla </li></ol>
 MALE 1
-<li>Mirza </li>
+<ol><li>Mirza </li>
 <li>Bahmanyar </li>
 <li>Farrokh </li>
 <li>Farnian </li>
@@ -43,9 +43,9 @@ MALE 1
 <li>Sahand </li>
 <li>Shaahin </li>
 <li>Kamraan </li>
-<li>Isatvastra </li>
+<li>Isatvastra </li></ol>
 FEMALE 2
-<li>Daanaa </li>
+<ol><li>Daanaa </li>
 <li>Gulshan </li>
 <li>Jila </li>
 <li>Mehrzad </li>
@@ -64,9 +64,9 @@ FEMALE 2
 <li>Atosa </li>
 <li>Erfanieh </li>
 <li>Nika </li>
-<li>Peyvand </li>
+<li>Peyvand </li></ol>
 MALE 2
-<li>Adar </li>
+<ol><li>Adar </li>
 <li>Saba</li>
 <li>Aram </li>
 <li>Dariush </li>
@@ -85,9 +85,9 @@ MALE 2
 <li>Ramak </li>
 <li>Hamun, Hamoon </li>
 <li>Arash </li>
-<li>Mehrshad </li>
+<li>Mehrshad </li></ol>
 FEMALE 3
-<li>Jaleh </li>
+<ol><li>Jaleh </li>
 <li>Farideh </li>
 <li>Mozhgan </li>
 <li>Fereshteh </li>
@@ -106,9 +106,9 @@ FEMALE 3
 <li>Setareh </li>
 <li>Nava </li>
 <li>Azadeh </li>
-<li>Ramesh </li>
+<li>Ramesh </li></ol>
 MALE 3
-<li>Fardin </li>
+<ol><li>Fardin </li>
 <li>Aryo </li>
 <li>Siavash </li>
 <li>Suhail</li>
@@ -127,4 +127,4 @@ MALE 3
 <li>Jahangir </li>
 <li>Babak </li>
 <li>Navid </li>
-<li>Arion</li>
+<li>Arion</li></ol>

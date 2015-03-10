@@ -1,7 +1,7 @@
 ﻿THAI 
 Compiled by Mischa D. Krilov
 MALE 
-<li>Anand</li>
+<ol><li>Anand</li>
 <li>Sunyarik</li>
 <li>Kamol</li>
 <li>Chaowalit</li>
@@ -20,9 +20,9 @@ MALE
 <li>Manukid</li>
 <li>Prapun</li>
 <li>Somchoi</li>
-<li>Sirote</li>
+<li>Sirote</li></ol>
 FEMALE 
-<li>Rasamee</li>
+<ol.<li>Rasamee</li>
 <li>Wilasa</li>
 <li>Sompong</li>
 <li>Jubiang</li>
@@ -41,9 +41,9 @@ FEMALE
 <li>Thanya</li>
 <li>Pranee</li>
 <li>Jiraporn</li>
-<li>Sirintara</li>
+<li>Sirintara</li></ol>
 SURNAMES 1
-<li>Aphairacha</li>
+<ol><li>Aphairacha</li>
 <li>Manuspiva</li>
 <li>Bholsithi</li>
 <li>Karikanan</li>
@@ -62,9 +62,9 @@ SURNAMES 1
 <li>Nilpani</li>
 <li>Chanprasit</li>
 <li>Chaipakdee</li>
-<li>Amnajan</li>
+<li>Amnajan</li></ol>
 SURNAMES 2
-<li>Sukchinda</li>
+<ol><li>Sukchinda</li>
 <li>Chakkapak</li>
 <li>Keolatsami</li>
 <li>Yuthtrai</li>
@@ -83,4 +83,4 @@ SURNAMES 2
 <li>Prasertkul</li>
 <li>Thongsari</li>
 <li>Sathirakul</li>
-<li>Skultanaga</li>
+<li>Skultanaga</li></ol>

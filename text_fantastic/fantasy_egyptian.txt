@@ -6,7 +6,7 @@ These are for mostly for fantasy use, as they're pulled indiscriminately from ju
 
 
 MALE 1
-<li>Chafulumisa </li>
+<ol><li>Chafulumisa </li>
 <li>Lateef </li>
 <li>Donkor</li>
 <li>Chigaru</li>
@@ -25,10 +25,10 @@ MALE 1
 <li>Hakizimana </li>
 <li>Kamuzu </li>
 <li>Khnemu </li>
-<li>Lisimba </li>
+<li>Lisimba </li></ol>
 
 FEMALE 1
-<li>Bennu </li>
+<ol><li>Bennu </li>
 <li>Fukayna </li>
 <li>Habibah </li>
 <li>Theoris </li>
@@ -47,10 +47,10 @@ FEMALE 1
 <li>Kakra </li>
 <li>Lapis </li>
 <li>Maibe </li>
-<li>Zaliki </li>
+<li>Zaliki </li></ol>
 
 MALE 2
-<li>Nourbese</li>
+<ol><li>Nourbese</li>
 <li>Hanif </li>
 <li>Agymah</li>
 <li>Sefu</li>
@@ -69,10 +69,10 @@ MALE 2
 <li>Jibade</li>
 <li>Akhenaten</li>
 <li>Idogbe </li>
-<li>Onuris </li>
+<li>Onuris </li></ol>
 
 FEMALE 2
-<li>Muminah </li>
+<ol><li>Muminah </li>
 <li>Sharifa </li>
 <li>Olabisi</li>
 <li>Nathifa </li>
@@ -91,106 +91,106 @@ FEMALE 2
 <li>Chione</li>
 <li>Mafuane </li>
 <li>Pili </li>
-<li>Salihah</li>
+<li>Salihah</li></ol>
 
   
 
 
 ANCIENT MALE 1
-<li>Menetnasht</li>é
-<li>Anok Sab</li>é
+<ol><li>Menetnasht</li>?
+<li>Anok Sab</li>?
 <li>Buikhu</li>
-<li>H</li>êtshepsu
+<li>H</li>?tshepsu
 <li>Mkalbuti</li>
-<li>Fant</li>é
+<li>Fant</li>?
 <li>Mdjai</li>
 <li>Kamenwati</li>
 <li>Wakhakwi</li>
-<li>Nif</li>é-en-Ankh
+<li>Nif</li>?-en-Ankh
 <li>Mtidja</li>
 <li>Wakhashem</li>
-<li>Benip</li>é
+<li>Benip</li>?
 <li>Semni</li>
 <li>Udjai</li>
 <li>Kemosiri</li>
 <li>Nebibi</li>
 <li>Suten Hamu</li>
 <li>Alu</li>
-<li>Itaf</li>é
+<li>Itaf</li>?</ol>
 ANCIENT FEMALE 1
-<li>DjaDja </li>
-<li>Betuk</li>é
+<ol><li>DjaDja </li>
+<li>Betuk</li>?
 <li>Afrikaisi</li>
 <li>Djabenusiri</li>
 <li>Kemreit</li>
-<li>Ekib</li>é
-<li>H</li>êtshepsit
+<li>Ekib</li>?
+<li>H</li>?tshepsit
 <li>Nubiti</li>
 <li>Boki</li>
 <li>Hebony</li>
 <li>Irisi</li>
-<li>Amenitr</li>é
+<li>Amenitr</li>?
 <li>Mehnit</li>
-<li>S</li>êshafi
+<li>S</li>?shafi
 <li>Mkitiris</li>
-<li>Emuish</li>éré
+<li>Emuish</li>?r?
 <li>Woserit</li>
 <li>Kebi</li>
 <li>Djeserit</li>
-<li>Nafr</li>é
+<li>Nafr</li>?</ol>
 
 
 
 ANCIENT MALE 2
-<li>Amaht</li>é
+<ol><li>Amaht</li>?
 <li>Djadao</li>
-<li>Ursh</li>é
+<li>Ursh</li>?
 <li>Suten Anu</li>
 <li>Sokkwi</li>
 <li>Baraka</li>
 <li>Shushu</li>
 <li>Muntuhotep</li>
 <li>Kahotep</li>
-<li>Sinuh</li>é
+<li>Sinuh</li>?
 <li>Panahasi</li>
-<li>Top Betuk</li>é
+<li>Top Betuk</li>?
 <li>Adjo</li>
-<li>Ibenr</li>é
+<li>Ibenr</li>?
 <li>Khenti</li>
 <li>Anhuri</li>
 <li>Kemnebi</li>
 <li>Rasui</li>
 <li>Nomti</li>
-<li>Remmao</li>
+<li>Remmao</li></ol>
 
 ANCIENT FEMALE 2
-<li>Meskenit</li>
+<ol><li>Meskenit</li>
 <li>Paniwi</li>
-<li>Kems</li>ê
+<li>Kems</li>?
 <li>Kepi</li>
-<li>Shamis</li>é
+<li>Shamis</li>?
 <li>Mnoti</li>
 <li>Tinubiti</li>
 <li>Banafrit</li>
-<li>Suten Him</li>é
+<li>Suten Him</li>?
 <li>Shai-nefer</li>
 <li>Kemamonit</li>
 <li>Kemisi</li>
 <li>Tiankhit</li>
 <li>AnkhesenAmen</li>
-<li>Har</li>éré
-<li>Shantefeir</li>é
+<li>Har</li>?r?
+<li>Shantefeir</li>?
 <li>Tanafriti</li>
 <li>Oshairana</li>
 <li>Kiwu</li>
-<li>Salidji</li>
+<li>Salidji</li></ol>
 
 
 
 
 
 ANCIENT MALE 3
-<li>Ahmose</li>
+<ol><li>Ahmose</li>
 <li>Medhu</li>
 <li>Akhenaton</li>
 <li>Seti</li>
@@ -209,10 +209,10 @@ ANCIENT MALE 3
 <li>Horemheb</li>
 <li>Imhotep</li>
 <li>Senh</li>
-<li>Taw</li>
+<li>Taw</li></ol>
 
 ANCIENT FEMALE 3
-<li>Ahhotep</li>
+<ol><li>Ahhotep</li>
 <li>Ashayt</li>
 <li>Bameket</li>
 <li>Khety</li>
@@ -231,10 +231,10 @@ ANCIENT FEMALE 3
 <li>Ipwet</li>
 <li>Henhenet</li>
 <li>Isis</li>
-<li>Itakayt</li>
+<li>Itakayt</li></ol>
 
 ANCIENT MALE 4
-<li>Iteti</li>
+<ol><li>Iteti</li>
 <li>Khafre</li>
 <li>Yuya</li>
 <li>Amenhotep</li>
@@ -253,10 +253,10 @@ ANCIENT MALE 4
 <li>Iurudef</li>
 <li>Paneb</li>
 <li>Ramose</li>
-<li>Sabestet</li>
+<li>Sabestet</li></ol>
 
 ANCIENT FEMALE 4
-<li>Kawit</li>
+<ol><li>Kawit</li>
 <li>Khamaat</li>
 <li>Tia</li>
 <li>Meritates</li>
@@ -275,13 +275,13 @@ ANCIENT FEMALE 4
 <li>Rwut</li>
 <li>Sadeh</li>
 <li>Samenkhet</li>
-<li>Bunefer</li>
+<li>Bunefer</li></ol>
 
 
 
 
 PHAROAHS 1
-<li>Hor-Aha </li>
+<ol><li>Hor-Aha </li>
 <li>Merneith </li>
 <li>Djet </li>
 <li>Anedjib </li>
@@ -300,10 +300,10 @@ PHAROAHS 1
 <li>Huni</li>
 <li>Sneferu </li>
 <li>Khufu </li>
-<li>Djedefra</li>
+<li>Djedefra</li></ol>
  
 PHAROAHS 2
-<li>Khafra</li>
+<ol><li>Khafra</li>
 <li>Sobeknefru (Queen) </li>
 <li>Shepseskaf</li>
 <li>Neferkara Khendu	</li>
@@ -322,10 +322,10 @@ PHAROAHS 2
 <li>Merneptah Siptah</li>
 <li>Twosret (Queen) </li>
 <li>Sobekhotep</li>
-<li>Imyremeshaw</li>
+<li>Imyremeshaw</li></ol>
 
 GODS
-<li>Amun</li>
+<ol><li>Amun</li>
 <li>Maahes</li>
 <li>Heryshaf</li>
 <li>Khepri</li>
@@ -344,10 +344,10 @@ GODS
 <li>Nehebkau</li>
 <li>Geb</li>
 <li>Djehuty</li>
-<li>Anhur</li>
+<li>Anhur</li></ol>
 
 GODDESSES
-<li>Neith</li>
+<ol><li>Neith</li>
 <li>Shai</li>
 <li>Renenutet</li>
 <li>Satis</li>
@@ -366,12 +366,12 @@ GODDESSES
 <li>Nuit</li>
 <li>Meskhenet</li>
 <li>Hathor</li>
-<li>Renpet</li>
+<li>Renpet</li></ol>
 
 
 
 EGYPTIAN CONCEPTS
-<li>Nome, also Sepat - A province of Egypt, administered by a Nomarch.</li>
+<ol><li>Nome, also Sepat - A province of Egypt, administered by a Nomarch.</li>
 <li>Sensen - The lotus, a flower that is a powerful symbol of life and the dawn</li>
 <li>Amenta - The Underworld</li>
 <li>Cartouche - Heiroglyphs surrounded by the oval/circular line for protection</li>
@@ -390,7 +390,7 @@ EGYPTIAN CONCEPTS
 <li>Ka - A duplicate of your soul that lives on after your body dies</li>
 <li>Maat - Truth, justice, and the universe being "in right order"</li>
 <li>Menhed - A palette that scribes use (black and red colors). Used with brush and water</li>
-<li>Nebu - The egyptian word for "gold"</li>
+<li>Nebu - The egyptian word for "gold"</li></ol>
 Story-Games Names Project
 
 The Story-Games Name Project uses the Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License.

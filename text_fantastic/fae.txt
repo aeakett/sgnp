@@ -4,7 +4,7 @@ NOTES
 With inspirations by Roger Zelazny's Lord Demon
 Immortal Fae do not give out their names, so they take artistic syllables that are suggestive riddles and clues to who they really are (if you know a hundred languages and dozens of cultures you might see the clues.) Three syllables are usually used for the beauty of the asymmetry in a formal naming; the last two syllables are not a clan/blood/family name.  No signature syllable like fae, fey, fai, or such is used at all. These sounds mean 'power' and refer to the entire race.
 MALE FIRST SYLLABLE
-<li>Mal</li>
+<ol><li>Mal</li>
 <li>Grix</li>
 <li>Mu</li>
 <li>Go</li>
@@ -23,9 +23,9 @@ MALE FIRST SYLLABLE
 <li>Jin</li>
 <li>Kai</li>
 <li>Dun</li>
-<li>Jai</li>
+<li>Jai</li></ol>
 FEMALE FIRST SYLLABLE
-<li>Xhi</li>
+<ol><li>Xhi</li>
 <li>Shi</li>
 <li>Ayl</li>
 <li>Uyl</li>
@@ -44,9 +44,9 @@ FEMALE FIRST SYLLABLE
 <li>Mu</li>
 <li>Tu</li>
 <li>Ti</li>
-<li>Tyl</li>
+<li>Tyl</li></ol>
 MID SYLLABLE
-<li>Wren</li>
+<ol><li>Wren</li>
 <li>Wei</li>
 <li>Wux</li>
 <li>Lo</li>
@@ -65,9 +65,9 @@ MID SYLLABLE
 <li>Nik</li>
 <li>Chu</li>
 <li>Chei</li>
-<li>Chin</li>
+<li>Chin</li></ol>
 FINAL SYLLABLE
-<li>Shu</li>
+<ol><li>Shu</li>
 <li>Jing</li>
 <li>Ming</li>
 <li>Sing</li>
@@ -86,10 +86,10 @@ FINAL SYLLABLE
 <li>Sow</li>
 <li>Ho</li>
 <li>Hing</li>
-<li>Mal</li>
+<li>Mal</li></ol>
 TITLES
 There are elegant and mysterious titles that attach themselves to Fae over time and are not explained. They follow the formal name, as in Kai Wren Hu of the Thousand Boxes. These titles are rare since acknowledging them across clans is a historical honor and requires significant events in the immortal perspective (such as maiming a god.)
-<li>Who Must Be Obeyed</li>
+<ol><li>Who Must Be Obeyed</li>
 <li>of the Thousand Boxes</li>
 <li>of the Hundred Eyes</li>
 <li>of Whispered Lightnings</li>
@@ -108,4 +108,4 @@ There are elegant and mysterious titles that attach themselves to Fae over time 
 <li>of the Seven Defeats</li>
 <li>Who Has Risen Once More Than Fallen</li>
 <li>Master of Smoke</li>
-<li>Voice of Khans</li>
+<li>Voice of Khans</li></ol>

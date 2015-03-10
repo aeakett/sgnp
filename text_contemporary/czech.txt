@@ -1,7 +1,7 @@
 ﻿CZECH
 Compiled by Jason Morningstar
 MALE NAMES
-<li>Jan </li>
+<ol><li>Jan </li>
 <li>Jakub </li>
 <li>Tomáš </li>
 <li>Adam </li>
@@ -20,9 +20,9 @@ MALE NAMES
 <li>Miroslav</li>
 <li>Adam</li>
 <li>Patrik</li>
-<li>Dominik</li>
+<li>Dominik</li></ol>
 FEMALE NAMES
-<li>Tereza </li>
+<ol><li>Tereza </li>
 <li>Eliška </li>
 <li>Adéla </li>
 <li>Natálie </li>
@@ -41,9 +41,9 @@ FEMALE NAMES
 <li>Lucie</li>
 <li>Hana</li>
 <li>Monika</li>
-<li>Jitka</li>
+<li>Jitka</li></ol>
 SURNAMES
-<li>Svoboda</li>
+<ol><li>Svoboda</li>
 <li>Novotný</li>
 <li>Dvorák</li>
 <li>Cerný</li>
@@ -62,9 +62,9 @@ SURNAMES
 <li>Beneš </li>
 <li>Fiala </li>
 <li>Sedlácek </li>
-<li>Novák</li>
+<li>Novák</li></ol>
 COOL PLACES IN THE CZECH REPUBLIC
-<li>The beautiful old center of Kutná Hora</li>
+<ol><li>The beautiful old center of Kutná Hora</li>
 <li>CT-1 (Ceská televize) studios in Prague</li>
 <li>A Czech Junák boy scout jamboree</li>
 <li>The Masaryk circuit motorcycle track outside Brno</li>
@@ -83,4 +83,4 @@ COOL PLACES IN THE CZECH REPUBLIC
 <li>Hrazany, a 280-person village in southern Bohemia</li>
 <li>The Charles bridge, spanning the Vltava in Prague</li>
 <li>The Clementinum library in Prague</li>
-<li>Snežka-Sniezka, Snow Mountain, on the Czech-Polish border.</li>
+<li>Snežka-Sniezka, Snow Mountain, on the Czech-Polish border.</li></ol>

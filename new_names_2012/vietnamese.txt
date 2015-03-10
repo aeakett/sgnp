@@ -7,7 +7,7 @@ Vietnamese names are ordered surname – middle name – given name. You refer t
 SURNAMES
 Common names, in descending order of popularity (Nguyễn accounts for 38.4%)
 
-<li>Nguyễn 阮 </li>
+<ol><li>Nguyễn 阮 </li>
 <li>Trần 陳</li>
 <li>Lê 黎</li>
 <li>Phạm 范</li>
@@ -26,10 +26,10 @@ Common names, in descending order of popularity (Nguyễn accounts for 38.4%)
 <li>Lâm 林</li>
 <li>Đinh: 丁</li>
 <li>Nghiêm: 嚴</li>
-<li>Đào: 陶</li>
+<li>Đào: 陶</li></ol>
 
 UNCOMMON SURNAMES
-<li>Vương: 王</li>
+<ol><li>Vương: 王</li>
 <li>Trịnh: 鄭 </li>
 <li>Phùng: 馮</li>
 <li>Chung: 鍾</li>
@@ -48,13 +48,13 @@ UNCOMMON SURNAMES
 <li>Kim: 金</li>
 <li>Thạch: 石</li>
 <li>Lạc: 駱</li>
-<li>Lin: 林</li>
+<li>Lin: 林</li></ol>
 
 Middle name (None, one, or two)
 
 Male
 
-<li>Hữu (means “very much so”, amplifies given name’s meaning)</li>
+<ol><li>Hữu (means “very much so”, amplifies given name’s meaning)</li>
 <li>Đức</li>
 <li>Công</li>
 <li>Quang</li>
@@ -65,15 +65,15 @@ Male
 <li>Manh</li>
 <li>Trong</li>
 <li>Qui</li>
-<li>Thuc</li>
+<li>Thuc</li></ol>
 
 Female
 
-<li>Thi (Almost always)
+<ol><li>Thi (Almost always)</li></ol>
 
 MALE NAMES
 
-<li>Anh </li>
+<ol><li>Anh </li>
 <li>Dung</li>
 <li>Bao (protection)</li>
 <li>Cânh (nature)</li>
@@ -92,11 +92,11 @@ MALE NAMES
 <li>Trung (loyal)</li>
 <li>Son (mountain)</li>
 <li>Phuoc (lucky)</li>
-<li>Minh (bright)</li>
+<li>Minh (bright)</li></ol>
 
 FEMALE NAMES
 
-<li>Cồng: (skillful)</li>
+<ol><li>Cồng: (skillful)</li>
 <li>Dung (beauty)</li>
 <li>Hanh: (decorous)</li>
 <li>Ngồn: (polite)</li>
@@ -115,6 +115,6 @@ FEMALE NAMES
 <li>Lan (orchid)</li>
 <li>Bian (secretive)</li>
 <li>Be (doll)</li>
-<li>Hoa (flower)</li>
+<li>Hoa (flower)</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

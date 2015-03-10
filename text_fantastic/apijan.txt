@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 Loosely based on the Chukotko-Kamchatkan language of Koryak.
 MALE 1
-<li>Erukwyn</li>
+<ol><li>Erukwyn</li>
 <li>Gaegatapijan</li>
 <li>Gilan</li>
 <li>Utlin</li>
@@ -22,9 +22,9 @@ MALE 1
 <li>Awaam</li>
 <li>Ca'ol</li>
 <li>Ponegrin</li>
-<li>Rorgyn</li>
+<li>Rorgyn</li></ol>
 FEMALE 1
-<li>Ahwa</li>
+<ol><li>Ahwa</li>
 <li>Ajqéja</li>
 <li>Imelgra</li>
 <li>Awelqéja</li>
@@ -43,9 +43,9 @@ FEMALE 1
 <li>Ninalana</li>
 <li>Olkana</li>
 <li>Irkanyen</li>
-<li>Jaajwa</li>
+<li>Jaajwa</li></ol>
 MALE 2
-<li>Utwaam</li>
+<ol><li>Utwaam</li>
 <li>Welqulkan</li>
 <li>Ujqilir</li>
 <li>Umjon</li>
@@ -64,9 +64,9 @@ MALE 2
 <li>Olqilir</li>
 <li>Utgran</li>
 <li>Uwelqej</li>
-<li>Wangran</li>
+<li>Wangran</li></ol>
 FEMALE 2
-<li>Kiig</li>
+<ol><li>Kiig</li>
 <li>Irqna</li>
 <li>Ganpijana</li>
 <li>Ayen</li>
@@ -85,4 +85,4 @@ FEMALE 2
 <li>Guqila</li>
 <li>Ikula</li>
 <li>Awa</li>
-<li>Wétin</li>
+<li>Wétin</li></ol>

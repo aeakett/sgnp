@@ -5,7 +5,7 @@ NOTES
 These names are an unholy mashup of Lithuanian, Slovenian and Azeri.
 
 PLACE NAMES
-<li>Kaus</li>
+<ol><li>Kaus</li>
 <li>Vell</li>
 <li>Kaud-Ameni</li>
 <li>Takaan-Dostoi</li>
@@ -24,10 +24,10 @@ PLACE NAMES
 <li>Nelov</li>
 <li>Tarad-Dir</li>
 <li>Kaud-Grugiau</li>
-<li>Laik</li>
+<li>Laik</li></ol>
 
 MALE 1
-<li>Štega</li>
+<ol><li>Štega</li>
 <li>Usen</li>
 <li>Valin</li>
 <li>Gyvan</li>
@@ -46,10 +46,10 @@ MALE 1
 <li>Šelu</li>
 <li>Dosta</li>
 <li>Dirmin</li>
-<li>Razvoje</li>
+<li>Razvoje</li></ol>
 
 MALE 2
-<li>Šten</li>
+<ol><li>Šten</li>
 <li>Velo</li>
 <li>Žival</li>
 <li>Stoj</li>
@@ -68,10 +68,10 @@ MALE 2
 <li>Nahko</li>
 <li>Ežero</li>
 <li>Fomar</li>
-<li>Gegos</li>
+<li>Gegos</li></ol>
 
 MALE 3
-<li>Rugin</li>
+<ol><li>Rugin</li>
 <li>Saur</li>
 <li>Saan</li>
 <li>Gunu</li>
@@ -90,10 +90,10 @@ MALE 3
 <li>Rajos</li>
 <li>Nelovo</li>
 <li>Vellar</li>
-<li>Žival</li>
+<li>Žival</li></ol>
 
 FEMALE 1
-<li>Ajana</li>
+<ol><li>Ajana</li>
 <li>Velja</li>
 <li>Alla</li>
 <li>Baža</li>
@@ -112,10 +112,10 @@ FEMALE 1
 <li>Taita</li>
 <li>Druoda</li>
 <li>Katen</li>
-<li>Šiau</li>
+<li>Šiau</li></ol>
 
 FEMALE 2
-<li>Esina</li>
+<ol><li>Esina</li>
 <li>Katena</li>
 <li>Paraj</li>
 <li>Suoma</li>
@@ -134,10 +134,10 @@ FEMALE 2
 <li>Dažny</li>
 <li>Kara</li>
 <li>Piela</li>
-<li>Dalika</li>
+<li>Dalika</li></ol>
 
 FEMALE 3
-<li>Kateen</li>
+<ol><li>Kateen</li>
 <li>Delja</li>
 <li>Poma</li>
 <li>Tarassa</li>
@@ -156,7 +156,7 @@ FEMALE 3
 <li>Hela</li>
 <li>Istar</li>
 <li>Alkeen</li>
-<li>Sayar</li>
+<li>Sayar</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 

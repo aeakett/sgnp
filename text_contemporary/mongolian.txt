@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 Information on Mongolian is a little thin.  Surnames are a modern conceit, so don't use them if you're in the sixteenth century or something.  These names seem exotic enough to represent a weird future culture, too.  
 MALE NAMES 
-<li>Arban</li>
+<ol><li>Arban</li>
 <li>Oyugun</li>
 <li>Qoyor</li>
 <li>Surtak</li>
@@ -22,9 +22,9 @@ MALE NAMES
 <li>Dorben</li>
 <li>Erdenijn</li>
 <li>Ghazan</li>
-<li>Gombojavyn</li>
+<li>Gombojavyn</li></ol>
 FEMALE NAMES 
-<li>Arikaboke</li>
+<ol><li>Arikaboke</li>
 <li>Mangu</li>
 <li>Muhuli</li>
 <li>Chamuka</li>
@@ -43,9 +43,9 @@ FEMALE NAMES
 <li>Tolui</li>
 <li>Yaba</li>
 <li>Yesukai</li>
-<li>Bora</li>
+<li>Bora</li></ol>
 SURNAMES
-<li>Arbis</li>
+<ol><li>Arbis</li>
 <li>Batmunkh</li>
 <li>Bat-Ul</li>
 <li>Bira</li>
@@ -64,9 +64,9 @@ SURNAMES
 <li>Olzvoi</li>
 <li>Saihan</li>
 <li>Tomor-ochir</li>
-<li>Tsedenbal</li>
+<li>Tsedenbal</li></ol>
 INTERESTING PLACES
-<li>The middle of a freezing "Zud" dust storm.</li>
+<ol><li>The middle of a freezing "Zud" dust storm.</li>
 <li>A camel breeder's camp in the Gobi Desert.</li>
 <li>Nayramadlin Orgil, a 4,374 meter peak in the Altai range.</li>
 <li>Uvs Nuur, a 3,350 km2 lake.</li>
@@ -85,4 +85,4 @@ INTERESTING PLACES
 <li>Enormous sand dunes along the Khongurun river.</li>
 <li>Yoliin Am valley, with high rock walls, waterfalls, and dramatic views.</li>
 <li>An abandoned camp on the Gun-Galuut plains.</li>
-<li>A tough yurt shanty town on the outskirts of Ulaanbaatar.</li>
+<li>A tough yurt shanty town on the outskirts of Ulaanbaatar.</li></ol>

@@ -3,7 +3,7 @@ Compiled by Meguey Baker
 NOTES
 Town busy-bodies, weirdos, hillbillies, and self-important characters. Add a middle initial for extra oddness.
 MALE NAMES 
-<li>Neville</li>
+<ol><li>Neville</li>
 <li>Elmer</li>
 <li>Floyd</li>
 <li>Gunther</li>
@@ -22,9 +22,9 @@ MALE NAMES
 <li>Beaumont</li>
 <li>Harvey</li>
 <li>Walter</li>
-<li>Davis</li>
+<li>Davis</li></ol>
 FEMALE NAMES 
-<li>Ermintrude</li>
+<ol><li>Ermintrude</li>
 <li>Hepsibah</li>
 <li>Mildred</li>
 <li>Elvira</li>
@@ -43,9 +43,9 @@ FEMALE NAMES
 <li>Mavis</li>
 <li>Begood</li>
 <li>Speary</li>
-<li>Lestene</li>
+<li>Lestene</li></ol>
 LAST NAMES
-<li>Holder</li>
+<ol><li>Holder</li>
 <li>Hopkins</li>
 <li>Lepter</li>
 <li>Mevins</li>
@@ -64,4 +64,4 @@ LAST NAMES
 <li>Ratcher</li>
 <li>Longbellow</li>
 <li>Winkle</li>
-<li>Sapperstein</li>
+<li>Sapperstein</li></ol>

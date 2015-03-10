@@ -8,7 +8,7 @@ A second given name is a rarity in Hungary and only used in the formal name, nev
 The formal name of a wife can contain the whole or part of the husband's name. The most common contemporary practice is to add the surname of the husband with the ending -né before the wife's premarital name. For example Fekete Csilla the wife of Németh Sándor, can use the formal name Némethné Fekete Csilla.
 
 MALE COMMON
-<li>Ákos</li>
+<ol><li>Ákos</li>
 <li>Zoltán</li>
 <li>János</li>
 <li>András</li>
@@ -27,10 +27,10 @@ MALE COMMON
 <li>László</li>
 <li>Viktor</li>
 <li>Sándor</li>
-<li>Choose from uncommon!</li>
+<li>Choose from uncommon!</li></ol>
 
 MALE UNCOMMON
-<li>Tibor</li>
+<ol><li>Tibor</li>
 <li>József</li>
 <li>Antal</li>
 <li>Bálint</li>
@@ -49,10 +49,10 @@ MALE UNCOMMON
 <li>Mihály</li>
 <li>Szabolcs</li>
 <li>Géza</li>
-<li>Choose from rare!</li>
+<li>Choose from rare!</li></ol>
 
 MALE RARE
-<li>Tas</li>
+<ol><li>Tas</li>
 <li>Csongor</li>
 <li>Huba</li>
 <li>Dezső</li>
@@ -71,10 +71,10 @@ MALE RARE
 <li>Zsigmond</li>
 <li>Zénó</li>
 <li>Lázár</li>
-<li>Zsombor</li>
+<li>Zsombor</li></ol>
 
 FEMALE COMMON
-<li>Zsuzsa</li>
+<ol><li>Zsuzsa</li>
 <li>Ágnes</li>
 <li>Eszter</li>
 <li>Gyöngyi</li>
@@ -93,10 +93,10 @@ FEMALE COMMON
 <li>Éva</li>
 <li>Tímea</li>
 <li>Judit</li>
-<li>Choose from uncommon!</li>
+<li>Choose from uncommon!</li></ol>
 
 FEMALE UNCOMMOM
-<li>Dorottya</li>
+<ol><li>Dorottya</li>
 <li>Virág</li>
 <li>Magdolna</li>
 <li>Noémi</li>
@@ -115,10 +115,10 @@ FEMALE UNCOMMOM
 <li>Anikó</li>
 <li>Piroska</li>
 <li>Csilla</li>
-<li>Choose from rare!</li>
+<li>Choose from rare!</li></ol>
 
 FEMALE RARE
-<li>Jolán</li>
+<ol><li>Jolán</li>
 <li>Csenge</li>
 <li>Margit</li>
 <li>Zsóka</li>
@@ -137,10 +137,10 @@ FEMALE RARE
 <li>Margaréta</li>
 <li>Hanga</li>
 <li>Luca</li>
-<li>Emőke</li>
+<li>Emőke</li></ol>
 
 SURNAMES I
-<li>Nagy / tall</li>
+<ol><li>Nagy / tall</li>
 <li>Kovács / smith</li>
 <li>Tóth / Slavic</li>
 <li>Szabó / tailor</li>
@@ -159,10 +159,10 @@ SURNAMES I
 <li>Oláh / Vlach</li>
 <li>Fazekas / potter</li>
 <li>Rácz / Serb</li>
-<li>Fekete / black</li>
+<li>Fekete / black</li></ol>
 
 SURNAMES II
-<li>Szűcs / furrier</li>
+<ol><li>Szűcs / furrier</li>
 <li>Hegedűs / fiddler</li>
 <li>Boros / vinous</li>
 <li>Katona / soldier</li>
@@ -181,6 +181,6 @@ SURNAMES II
 <li>Barna / brown</li>
 <li>Deák / student</li>
 <li>Vörös / red</li>
-<li>Choose two and add a hyphen between them!</li>
+<li>Choose two and add a hyphen between them!</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

@@ -9,7 +9,7 @@ In several languages of northern Luzon the word “Ĭg-o-rot′” means “moun
 The people are generally reticent about telling their names; and when they do tell, the name given is usually the one borne in childhood; an old man will generally answer “am-a′-ma,” meaning simply “old man.” 
 
 MALE FORMAL
-<li>Som-kad’</li>
+<ol><li>Som-kad’</li>
 <li>Bûg-ti′</li>
 <li>Mak′-lan</li>
 <li>Ku-lo-ku′-lo</li>
@@ -28,10 +28,10 @@ MALE FORMAL
 <li>Bĭt-e′</li>
 <li>Ag-kus′</li>
 <li>Sa-pang′</li>
-<li>An-ti′-ko</li>
+<li>An-ti′-ko</li></ol>
 
 MALE NICKNAMES
-<li>Ngag cha-pu′ (bad ashes)</li>
+<ol><li>Ngag cha-pu′ (bad ashes)</li>
 <li>An-cho′  ye′-ga (long earthquake)</li>
 <li>A′-ma na-fa′-kûg (killed his father)</li>
 <li>Sang-a-an′ ka-ag′  (lazy monkey)</li>
@@ -50,10 +50,10 @@ MALE NICKNAMES
 <li>Kil-lang′ (little boy)</li>
 <li>Pa-chĕk′ (scarecrow)</li>
 <li>A-lala-sang′ (red warrior ant)</li>
-<li>Ma-mĭng′-san (first man)</li>
+<li>Ma-mĭng′-san (first man)</li></ol>
 
 FEMALE FORMAL
-<li>U-dao′</li>
+<ol><li>U-dao′</li>
 <li>Zag-tag′-an</li>
 <li>Ka-nay′-u</li>
 <li>Lang′-sa</li>
@@ -72,10 +72,10 @@ FEMALE FORMAL
 <li>Kom-lĭng′</li>
 <li>Ta-kay′-yĕng</li>
 <li>Tĕng-ab′</li>
-<li>Ka-wĕng′</li>
+<li>Ka-wĕng′</li></ol>
 
 FEMALE NICKNAMES
-<li>Fĭl-fĭl′-tĭng (cricket)</li>
+<ol><li>Fĭl-fĭl′-tĭng (cricket)</li>
 <li>I′-na (mother)</li>
 <li>Tup-kao′ (camote blossom)</li>
 <li>Tu-muck′-chu (she sits)</li>
@@ -94,6 +94,6 @@ FEMALE NICKNAMES
 <li>Fo-bo-ok′ (false hair)</li>
 <li>Ki′-tĕb (bedbug)</li>
 <li>Ay-ya-wan′ (wild caribao)</li>
-<li>An-an-a-lut′ pang′-a (bad jaw)</li>
+<li>An-an-a-lut′ pang′-a (bad jaw)</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

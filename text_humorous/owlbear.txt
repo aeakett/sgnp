@@ -3,7 +3,7 @@ Compiled by the Story Games Owlbear Fan Club
 NOTES
 Owlbears, perhaps the most enlightened and inclusive culture of red-eyed maniacal predators to grace the planet, embrace a mashup approach to the naming of their chickubs:  A combination of the names of a respected grandparent and a close friend, perhaps, or sometimes simply a juxtaposition of the names of their parents.  Or maybe you're supposed to have two genders in your first name and two cultures in your surname.  Wait, are they hermaphrodites?  Somebody go get the book.
 PAN-GENDER OWLBEAR NAMES
-<li>Stevelyn</li>
+<ol><li>Stevelyn</li>
 <li>Leanndrew</li>
 <li>Edsue</li>
 <li>Jonmarie</li>
@@ -22,9 +22,9 @@ PAN-GENDER OWLBEAR NAMES
 <li>Erina</li>
 <li>Micharity</li>
 <li>Christolivia</li>
-<li>Debian</li>
+<li>Debian</li></ol>
 PAN-CULTURAL OWLBEAR NAMES
-<li>Maksimoto</li>
+<ol><li>Maksimoto</li>
 <li>Qikivan</li>
 <li>Bennissur</li>
 <li>Siobhanaka</li>
@@ -43,9 +43,9 @@ PAN-CULTURAL OWLBEAR NAMES
 <li>Jennifatima</li>
 <li>Verandrea</li>
 <li>Crookaty</li>
-<li>Abeberkan</li>
+<li>Abeberkan</li></ol>
 OWLBEAR CUISINE
-<li>Stewbread</li>
+<ol><li>Stewbread</li>
 <li>Appleroast</li>
 <li>Chocosparagus</li>
 <li>Lemoncreams</li>
@@ -64,9 +64,9 @@ OWLBEAR CUISINE
 <li>Berryfries</li>
 <li>Chilihaggis</li>
 <li>Pastasausage</li>
-<li>Ice Cream</li>
+<li>Ice Cream</li></ol>
 RANDOM THINGS FOUND IN AN OWLBEAR NEST
-<li>A wooden beak pick</li>
+<ol><li>A wooden beak pick</li>
 <li>A honeysalt dispenser</li>
 <li>A wheel of steakmilk cheese</li>
 <li>A clutch of eggs</li>
@@ -85,9 +85,9 @@ RANDOM THINGS FOUND IN AN OWLBEAR NEST
 <li>A jaunty red leather jerkin made from human skin</li>
 <li>Claw trimmings</li>
 <li>Pecan Sandies</li>
-<li>Greasy loose fur stinking of salmon</li>
+<li>Greasy loose fur stinking of salmon</li></ol>
 RANDOM THINGS FOUND IN OWLBEAR PELLETS
-<li>The bones of a dog which had recently eaten the bones of a cat</li>
+<ol><li>The bones of a dog which had recently eaten the bones of a cat</li>
 <li>Perfectly preserved mummy's hand, bedecked with rings</li>
 <li>Cask of Amontillado</li>
 <li>Six pounds of carpenter's nails</li>
@@ -106,9 +106,9 @@ RANDOM THINGS FOUND IN OWLBEAR PELLETS
 <li>One of those bent-nail puzzle thingies</li>
 <li>Hairshirt, men's large</li>
 <li>The rest of the Antikythera mechanism</li>
-<li>I don't know, but it's still moving</li>
+<li>I don't know, but it's still moving</li></ol>
 WAYS OWLBEARS SPEND AN EVENING
-<li>Romantic Evening Eviscerating other Sentients</li>
+<ol><li>Romantic Evening Eviscerating other Sentients</li>
 <li>Playing Baskethockey</li>
 <li>Watching Operahorror</li>
 <li>Attending Churchbath</li>
@@ -127,4 +127,4 @@ WAYS OWLBEARS SPEND AN EVENING
 <li>Networking</li>
 <li>Browing through Bookmeat Stores</li>
 <li>Playing Junta</li>
-<li>Posting Endless Jokes About Humans on the Internet</li>
+<li>Posting Endless Jokes About Humans on the Internet</li></ol>

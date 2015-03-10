@@ -4,7 +4,7 @@ Mauro Mussi
 
 M
 
-<li>Abbondio</li>
+<ol><li>Abbondio</li>
 <li>Abelardo</li>
 <li>Abele</li>
 <li>Aberardo</li>
@@ -23,11 +23,11 @@ M
 <li>Adolfo</li>
 <li>Adone</li>
 <li>Adriano</li>
-<li>Afro</li>
+<li>Afro</li></ol>
 
 F
 
-<li>Abbondanza</li>
+<ol><li>Abbondanza</li>
 <li>Abbondanzia</li>
 <li>Abelarda</li>
 <li>Achilla</li>
@@ -46,11 +46,11 @@ F
 <li>Adelmima</li>
 <li>Adina</li>
 <li>Adriana</li>
-<li>Afra</li>
+<li>Afra</li></ol>
 
 M
 
-<li>Agatino</li>
+<ol><li>Agatino</li>
 <li>Agrippa</li>
 <li>Agrippina</li>
 <li>Aimone</li>
@@ -69,11 +69,11 @@ M
 <li>Aldino</li>
 <li>Aldo</li>
 <li>Aldobrando</li>
-<li>Alessandro</li>
+<li>Alessandro</li></ol>
 
 F
 
-<li>Agata</li>
+<ol><li>Agata</li>
 <li>Agatina</li>
 <li>Agnese</li>
 <li>Aida</li>
@@ -92,11 +92,11 @@ F
 <li>Alfonsa</li>
 <li>Alfonsina</li>
 <li>Alfreda</li>
-<li>Alfredina</li>
+<li>Alfredina</li></ol>
 
 M
 
-<li>Alessio</li>
+<ol><li>Alessio</li>
 <li>Alfonso</li>
 <li>Alfredo</li>
 <li>Alighiero</li>
@@ -115,11 +115,11 @@ M
 <li>Amilcare</li>
 <li>Amintore</li>
 <li>Amodeo</li>
-<li>Anacleto</li>
+<li>Anacleto</li></ol>
 
 F
 
-<li>Alice</li>
+<ol><li>Alice</li>
 <li>Alicia</li>
 <li>Alida</li>
 <li>Alina</li>
@@ -138,11 +138,11 @@ F
 <li>Amanda</li>
 <li>Amandina</li>
 <li>Amaranta</li>
-<li>Amberta</li>
+<li>Amberta</li></ol>
 
 M
 
-<li>Anastasio</li>
+<ol><li>Anastasio</li>
 <li>Andrea</li>
 <li>Angelo</li>
 <li>Angiolino</li>
@@ -161,11 +161,11 @@ M
 <li>Arcibaldo</li>
 <li>Arduino</li>
 <li>Arialdo</li>
-<li>Ariele</li>
+<li>Ariele</li></ol>
 
 F
 
-<li>Ambra</li>
+<ol><li>Ambra</li>
 <li>Ambrogina</li>
 <li>Ambrosina</li>
 <li>Amedea</li>
@@ -184,11 +184,11 @@ F
 <li>Anita</li>
 <li>Anna</li>
 <li>Annalisa</li>
-<li>Annamaria</li>
+<li>Annamaria</li></ol>
 
 M
 
-<li>Aristeo</li>
+<ol><li>Aristeo</li>
 <li>Aristide</li>
 <li>Aristodemo</li>
 <li>Aristotele</li>
@@ -207,11 +207,11 @@ M
 <li>Astrid</li>
 <li>Athos</li>
 <li>Atos</li>
-<li>Attila</li>
+<li>Attila</li></ol>
 
 F
 
-<li>Annapaola</li>
+<ol><li>Annapaola</li>
 <li>Annarita</li>
 <li>Annarosa</li>
 <li>Annetta</li>
@@ -230,11 +230,11 @@ F
 <li>Arialda</li>
 <li>Arianna</li>
 <li>Ariel</li>
-<li>Ariela</li>
+<li>Ariela</li></ol>
 
 M
 
-<li>Attiliano</li>
+<ol><li>Attiliano</li>
 <li>Attilio</li>
 <li>Atto</li>
 <li>Augustino</li>
@@ -253,11 +253,11 @@ M
 <li>Baldassarre</li>
 <li>Baldino</li>
 <li>Baldo</li>
-<li>Baldovino</li>
+<li>Baldovino</li></ol>
 
 F
 
-<li>Aristidina</li>
+<ol><li>Aristidina</li>
 <li>Armanda</li>
 <li>Armida</li>
 <li>Arnalda</li>
@@ -276,11 +276,11 @@ F
 <li>Avelina</li>
 <li>Azelina</li>
 <li>Azzurra</li>
-<li>Baldina</li>
+<li>Baldina</li></ol>
 
 M
 
-<li>Bandino</li>
+<ol><li>Bandino</li>
 <li>Barnaba</li>
 <li>Bartolo</li>
 <li>Bartolomeo</li>
@@ -299,11 +299,11 @@ M
 <li>Bernardino</li>
 <li>Bernardo</li>
 <li>Bettino</li>
-<li>Biagio</li>
+<li>Biagio</li></ol>
 
 F
 
-<li>Baldovina</li>
+<ol><li>Baldovina</li>
 <li>Bambina</li>
 <li>Barbara</li>
 <li>Barbarina</li>
@@ -322,11 +322,11 @@ F
 <li>Beniamina</li>
 <li>Benvenuta</li>
 <li>Berenice</li>
-<li>Bernarda</li>
+<li>Bernarda</li></ol>
 
 M
 
-<li>Bindo</li>
+<ol><li>Bindo</li>
 <li>Bonaventura</li>
 <li>Bonifacio</li>
 <li>Bonifazio</li>
@@ -345,11 +345,11 @@ M
 <li>Carletto</li>
 <li>Carlo</li>
 <li>Carmelino</li>
-<li>Carmelo</li>
+<li>Carmelo</li></ol>
 
 F
 
-<li>Bernardina</li>
+<ol><li>Bernardina</li>
 <li>Betta</li>
 <li>Bettina</li>
 <li>Biagia</li>
@@ -368,11 +368,11 @@ F
 <li>Brunella</li>
 <li>Brunetta</li>
 <li>Brunilde</li>
-<li>Calliope</li>
+<li>Calliope</li></ol>
 
 M
 
-<li>Carmine</li>
+<ol><li>Carmine</li>
 <li>Casimiro</li>
 <li>Cassiano</li>
 <li>Cassio</li>
@@ -391,11 +391,11 @@ M
 <li>Chirico</li>
 <li>Ciccio</li>
 <li>Ciriaco</li>
-<li>Cirillo</li>
+<li>Cirillo</li></ol>
 
 F
 
-<li>Camilla</li>
+<ol><li>Camilla</li>
 <li>Camillina</li>
 <li>Candida</li>
 <li>Carina</li>
@@ -414,11 +414,11 @@ F
 <li>Catalda</li>
 <li>Caterina</li>
 <li>Catterina</li>
-<li>Cecca</li>
+<li>Cecca</li></ol>
 
 M
 
-<li>Cirino</li>
+<ol><li>Cirino</li>
 <li>Ciro</li>
 <li>Claudio</li>
 <li>Clemente</li>
@@ -437,11 +437,11 @@ M
 <li>Cosimo</li>
 <li>Cosmo</li>
 <li>Costante</li>
-<li>Costantino</li>
+<li>Costantino</li></ol>
 
 F
 
-<li>Cecchina</li>
+<ol><li>Cecchina</li>
 <li>Cecilia</li>
 <li>Celeste</li>
 <li>Celestina</li>
@@ -460,11 +460,11 @@ F
 <li>Clara</li>
 <li>Clarissa</li>
 <li>Claudia</li>
-<li>Clea</li>
+<li>Clea</li></ol>
 
 M
 
-<li>Costanzo</li>
+<ol><li>Costanzo</li>
 <li>Crescenzo</li>
 <li>Cristiano</li>
 <li>Cristoforo</li>
@@ -483,11 +483,11 @@ M
 <li>Davide</li>
 <li>Decimo</li>
 <li>Decio</li>
-<li>Delio</li>
+<li>Delio</li></ol>
 
 F
 
-<li>Clelia</li>
+<ol><li>Clelia</li>
 <li>Clementina</li>
 <li>Cleo</li>
 <li>Cleofe</li>
@@ -506,11 +506,11 @@ F
 <li>Colombina</li>
 <li>Concetta</li>
 <li>Concettina</li>
-<li>Consolata</li>
+<li>Consolata</li></ol>
 
 M
 
-<li>Delmino</li>
+<ol><li>Delmino</li>
 <li>Delmo</li>
 <li>Demetrio</li>
 <li>Demo</li>
@@ -529,11 +529,11 @@ M
 <li>Dionigi</li>
 <li>Dionigio</li>
 <li>Dionisio</li>
-<li>Divo</li>
+<li>Divo</li></ol>
 
 F
 
-<li>Consolazione</li>
+<ol><li>Consolazione</li>
 <li>Consolina</li>
 <li>Cora</li>
 <li>Cordelia</li>
@@ -552,11 +552,11 @@ F
 <li>Curzia</li>
 <li>Dafne</li>
 <li>Dafni</li>
-<li>Dalia</li>
+<li>Dalia</li></ol>
 
 M
 
-<li>Domenico</li>
+<ol><li>Domenico</li>
 <li>Domiziano</li>
 <li>Domizio</li>
 <li>Donatello</li>
@@ -575,11 +575,11 @@ M
 <li>Eberardo</li>
 <li>Edilberto</li>
 <li>Edilio</li>
-<li>Edmeo</li>
+<li>Edmeo</li></ol>
 
 F
 
-<li>Dalila</li>
+<ol><li>Dalila</li>
 <li>Dalmazia</li>
 <li>Damiana</li>
 <li>Dania</li>
@@ -598,11 +598,11 @@ F
 <li>Demetra</li>
 <li>Demetria</li>
 <li>Dera</li>
-<li>Derina</li>
+<li>Derina</li></ol>
 
 M
 
-<li>Edmo</li>
+<ol><li>Edmo</li>
 <li>Edmondo</li>
 <li>Edoardo</li>
 <li>Edvino</li>
@@ -621,11 +621,11 @@ M
 <li>Elidio</li>
 <li>Eligio</li>
 <li>Elio</li>
-<li>Eliodoro</li>
+<li>Eliodoro</li></ol>
 
 F
 
-<li>Desdemona</li>
+<ol><li>Desdemona</li>
 <li>Desidera</li>
 <li>Desideria</li>
 <li>Diadora</li>
@@ -644,11 +644,11 @@ F
 <li>Donatella</li>
 <li>Donatilla</li>
 <li>Donatina</li>
-<li>Donna</li>
+<li>Donna</li></ol>
 
 M
 
-<li>Eliseo</li>
+<ol><li>Eliseo</li>
 <li>Elisio</li>
 <li>Elpidio</li>
 <li>Elvidio</li>
@@ -667,11 +667,11 @@ M
 <li>Erardo</li>
 <li>Erasmo</li>
 <li>Erberto</li>
-<li>Ercolano</li>
+<li>Ercolano</li></ol>
 
 F
 
-<li>Dora</li>
+<ol><li>Dora</li>
 <li>Doralice</li>
 <li>Doretta</li>
 <li>Dori</li>
@@ -690,11 +690,11 @@ F
 <li>Edilberta</li>
 <li>Edilia</li>
 <li>Editta</li>
-<li>Edmea</li>
+<li>Edmea</li></ol>
 
 M
 
-<li>Ercole</li>
+<ol><li>Ercole</li>
 <li>Ercolino</li>
 <li>Ermando</li>
 <li>Ermanno</li>
@@ -713,11 +713,11 @@ M
 <li>Euclide</li>
 <li>Eufelio</li>
 <li>Eufemio</li>
-<li>Eugenio</li>
+<li>Eugenio</li></ol>
 
 F
 
-<li>Edmonda</li>
+<ol><li>Edmonda</li>
 <li>Edoarda</li>
 <li>Edra</li>
 <li>Eduarda</li>
@@ -736,11 +736,11 @@ F
 <li>Eleuteria</li>
 <li>Elga</li>
 <li>Eliana</li>
-<li>Eligia</li>
+<li>Eligia</li></ol>
 
 M
 
-<li>Eusebio</li>
+<ol><li>Eusebio</li>
 <li>Eusepio</li>
 <li>Eustachio</li>
 <li>Eutimio</li>
@@ -759,11 +759,11 @@ M
 <li>Fazio</li>
 <li>Febo</li>
 <li>Fedele</li>
-<li>Federico</li>
+<li>Federico</li></ol>
 
 F
 
-<li>Elisa</li>
+<ol><li>Elisa</li>
 <li>Elisabetta</li>
 <li>Elma</li>
 <li>Elpidia</li>
@@ -782,11 +782,11 @@ F
 <li>Enrica</li>
 <li>Enrichetta</li>
 <li>Enza</li>
-<li>Epifania</li>
+<li>Epifania</li></ol>
 
 M
 
-<li>Federigo</li>
+<ol><li>Federigo</li>
 <li>Fedoro</li>
 <li>Felice</li>
 <li>Feliciano</li>
@@ -805,11 +805,11 @@ M
 <li>Fiorello</li>
 <li>Fiorentino</li>
 <li>Fiorenzo</li>
-<li>Fiorino</li>
+<li>Fiorino</li></ol>
 
 F
 
-<li>Eralda</li>
+<ol><li>Eralda</li>
 <li>Ercolina</li>
 <li>Erica</li>
 <li>Ermana</li>
@@ -828,11 +828,11 @@ F
 <li>Estella</li>
 <li>Esterina</li>
 <li>Ettorina</li>
-<li>Eufelia</li>
+<li>Eufelia</li></ol>
 
 M
 
-<li>Firmino</li>
+<ol><li>Firmino</li>
 <li>Firmo</li>
 <li>Flaminio</li>
 <li>Flaviano</li>
@@ -851,11 +851,11 @@ M
 <li>Franco</li>
 <li>Frediano</li>
 <li>Fulgenzio</li>
-<li>Fulviano</li>
+<li>Fulviano</li></ol>
 
 F
 
-<li>Eufemia</li>
+<ol><li>Eufemia</li>
 <li>Eufrasia</li>
 <li>Eugenia</li>
 <li>Eulalia</li>
@@ -874,11 +874,11 @@ F
 <li>Fabiola</li>
 <li>Fabrizia</li>
 <li>Fatima</li>
-<li>Fausta</li>
+<li>Fausta</li></ol>
 
 M
 
-<li>Fulvio</li>
+<ol><li>Fulvio</li>
 <li>Fulvo</li>
 <li>Furio</li>
 <li>Fusco</li>
@@ -897,11 +897,11 @@ M
 <li>Gastone</li>
 <li>Gaudenzio</li>
 <li>Gaudenzo</li>
-<li>Gavino</li>
+<li>Gavino</li></ol>
 
 F
 
-<li>Faustina</li>
+<ol><li>Faustina</li>
 <li>Fazia</li>
 <li>Febe</li>
 <li>Fedelina</li>
@@ -920,11 +920,11 @@ F
 <li>Ferruccia</li>
 <li>Fiamma</li>
 <li>Fiammetta</li>
-<li>Fidelia</li>
+<li>Fidelia</li></ol>
 
 M
 
-<li>Gelardo</li>
+<ol><li>Gelardo</li>
 <li>Gelindo</li>
 <li>Genesio</li>
 <li>Genio</li>
@@ -943,11 +943,11 @@ M
 <li>Gertrude</li>
 <li>Gesuele</li>
 <li>Gherardo</li>
-<li>Giacobbe</li>
+<li>Giacobbe</li></ol>
 
 F
 
-<li>Filadelfia</li>
+<ol><li>Filadelfia</li>
 <li>Filiberta</li>
 <li>Filippa</li>
 <li>Filippina</li>
@@ -966,11 +966,11 @@ F
 <li>Flaminia</li>
 <li>Flavia</li>
 <li>Flaviana</li>
-<li>Flora</li>
+<li>Flora</li></ol>
 
 M
 
-<li>Giacomino</li>
+<ol><li>Giacomino</li>
 <li>Giacomo</li>
 <li>Giambattista</li>
 <li>Giammarco</li>
@@ -989,11 +989,11 @@ M
 <li>Gianluigi</li>
 <li>Gianmarco</li>
 <li>Gianmauro</li>
-<li>Gianni</li>
+<li>Gianni</li></ol>
 
 F
 
-<li>Florenza</li>
+<ol><li>Florenza</li>
 <li>Floria</li>
 <li>Floriana</li>
 <li>Florida</li>
@@ -1012,11 +1012,11 @@ F
 <li>Gabriella</li>
 <li>Gaetana</li>
 <li>Gaetanina</li>
-<li>Gaia</li>
+<li>Gaia</li></ol>
 
 M
 
-<li>Gianpaolo</li>
+<ol><li>Gianpaolo</li>
 <li>Gianpiero</li>
 <li>Giasone</li>
 <li>Giglio</li>
@@ -1035,11 +1035,11 @@ M
 <li>Giordano</li>
 <li>Giorgio</li>
 <li>Giosuè</li>
-<li>Giovanbattista</li>
+<li>Giovanbattista</li></ol>
 
 F
 
-<li>Galdina</li>
+<ol><li>Galdina</li>
 <li>Galilea</li>
 <li>Gaspara</li>
 <li>Gasparina</li>
@@ -1058,11 +1058,11 @@ F
 <li>Gennnarina</li>
 <li>Genoveffa</li>
 <li>Gentilia</li>
-<li>Gentilina</li>
+<li>Gentilina</li></ol>
 
 M
 
-<li>Giovanni</li>
+<ol><li>Giovanni</li>
 <li>Girolamo</li>
 <li>Gisberto</li>
 <li>Giuliano</li>
@@ -1081,11 +1081,11 @@ M
 <li>Guglielmo</li>
 <li>Guido</li>
 <li>Gusmano</li>
-<li>Gustavo</li>
+<li>Gustavo</li></ol>
 
 F
 
-<li>Geraldina</li>
+<ol><li>Geraldina</li>
 <li>Gerardina</li>
 <li>Germana</li>
 <li>Gerolama</li>
@@ -1104,11 +1104,11 @@ F
 <li>Gianna</li>
 <li>Gianpaola</li>
 <li>Gianpiera</li>
-<li>Giglia</li>
+<li>Giglia</li></ol>
 
 M
 
-<li>Iacopo</li>
+<ol><li>Iacopo</li>
 <li>Igino</li>
 <li>Ignazio</li>
 <li>Igninio</li>
@@ -1127,11 +1127,11 @@ M
 <li>Innocenzio</li>
 <li>Innocenzo</li>
 <li>Iolando</li>
-<li>Ionio</li>
+<li>Ionio</li></ol>
 
 F
 
-<li>Gigliola</li>
+<ol><li>Gigliola</li>
 <li>Gilberta</li>
 <li>Gilda</li>
 <li>Gilia</li>
@@ -1150,11 +1150,11 @@ F
 <li>Giovannella</li>
 <li>Giovanpaola</li>
 <li>Girolama</li>
-<li>Gisela</li>
+<li>Gisela</li></ol>
 
 M
 
-<li>Iorio</li>
+<ol><li>Iorio</li>
 <li>Ippolito</li>
 <li>Ireneo</li>
 <li>Ireo</li>
@@ -1173,11 +1173,11 @@ M
 <li>Ivano</li>
 <li>Ivo</li>
 <li>Ladislao</li>
-<li>Laerte</li>
+<li>Laerte</li></ol>
 
 F
 
-<li>Giselda</li>
+<ol><li>Giselda</li>
 <li>Gisella</li>
 <li>Giuditta</li>
 <li>Giuffrida</li>
@@ -1196,11 +1196,11 @@ F
 <li>Grazia</li>
 <li>Graziana</li>
 <li>Graziella</li>
-<li>Gregoria</li>
+<li>Gregoria</li></ol>
 
 M
 
-<li>Laerzio</li>
+<ol><li>Laerzio</li>
 <li>Lamberto</li>
 <li>Lancillotto</li>
 <li>Lanciotto</li>
@@ -1219,11 +1219,11 @@ M
 <li>Lelio</li>
 <li>Leo</li>
 <li>Leonardo</li>
-<li>Leone</li>
+<li>Leone</li></ol>
 
 F
 
-<li>Greta</li>
+<ol><li>Greta</li>
 <li>Gualtiera</li>
 <li>Guenda</li>
 <li>Guendalina</li>
@@ -1242,11 +1242,11 @@ F
 <li>Ildefonsa</li>
 <li>Ildegarda</li>
 <li>Ileana</li>
-<li>Ilenia</li>
+<li>Ilenia</li></ol>
 
 M
 
-<li>Leonello</li>
+<ol><li>Leonello</li>
 <li>Leonetto</li>
 <li>Leonida</li>
 <li>Leonilde</li>
@@ -1265,11 +1265,11 @@ M
 <li>Liliano</li>
 <li>Lindo</li>
 <li>Lino</li>
-<li>Lionello</li>
+<li>Lionello</li></ol>
 
 F
 
-<li>Ilona</li>
+<ol><li>Ilona</li>
 <li>Ilva</li>
 <li>Ilvia</li>
 <li>Ima</li>
@@ -1288,11 +1288,11 @@ F
 <li>Iride</li>
 <li>Irma</li>
 <li>Irmina</li>
-<li>Isa</li>
+<li>Isa</li></ol>
 
 M
 
-<li>Lisandro</li>
+<ol><li>Lisandro</li>
 <li>Liviero</li>
 <li>Livio</li>
 <li>Lodovico</li>
@@ -1311,11 +1311,11 @@ M
 <li>Maggiore</li>
 <li>Maggiorino</li>
 <li>Malvino</li>
-<li>Manfredi</li>
+<li>Manfredi</li></ol>
 
 F
 
-<li>Isabella</li>
+<ol><li>Isabella</li>
 <li>Isida</li>
 <li>Iside</li>
 <li>Isidora</li>
@@ -1334,11 +1334,11 @@ F
 <li>Lanfranca</li>
 <li>Lara</li>
 <li>Larissa</li>
-<li>Laura</li>
+<li>Laura</li></ol>
 
 M
 
-<li>Manfredo</li>
+<ol><li>Manfredo</li>
 <li>Manlio</li>
 <li>Manolo</li>
 <li>Manrico</li>
@@ -1357,11 +1357,11 @@ M
 <li>Marrico</li>
 <li>Marsiglio</li>
 <li>Marsilio</li>
-<li>Martiniano</li>
+<li>Martiniano</li></ol>
 
 F
 
-<li>Laurenza</li>
+<ol><li>Laurenza</li>
 <li>Lauretta</li>
 <li>Lauriana</li>
 <li>Laurina</li>
@@ -1380,11 +1380,11 @@ F
 <li>Leonilda</li>
 <li>Leonora</li>
 <li>Leopolda</li>
-<li>Lepoldina</li>
+<li>Lepoldina</li></ol>
 
 M
 
-<li>Martino</li>
+<ol><li>Martino</li>
 <li>Marziale</li>
 <li>Marziano</li>
 <li>Marzio</li>
@@ -1403,11 +1403,11 @@ M
 <li>Melchiore</li>
 <li>Melchiorre</li>
 <li>Menico</li>
-<li>Metello</li>
+<li>Metello</li></ol>
 
 F
 
-<li>Letizia</li>
+<ol><li>Letizia</li>
 <li>Lia</li>
 <li>Liana</li>
 <li>Libera</li>
@@ -1426,11 +1426,11 @@ F
 <li>Lionella</li>
 <li>Lisa</li>
 <li>Lisetta</li>
-<li>Livia</li>
+<li>Livia</li></ol>
 
 M
 
-<li>Michelangelo</li>
+<ol><li>Michelangelo</li>
 <li>Michele</li>
 <li>Milco</li>
 <li>Mildo</li>
@@ -1449,11 +1449,11 @@ M
 <li>Moreno</li>
 <li>Mosè</li>
 <li>Mòse</li>
-<li>Muzio</li>
+<li>Muzio</li></ol>
 
 F
 
-<li>Liviana</li>
+<ol><li>Liviana</li>
 <li>Lodovica</li>
 <li>Loisia</li>
 <li>Lola</li>
@@ -1472,11 +1472,11 @@ F
 <li>Lucìa</li>
 <li>Lùcia</li>
 <li>Luciana</li>
-<li>Lucietta</li>
+<li>Lucietta</li></ol>
 
 M
 
-<li>Nadio</li>
+<ol><li>Nadio</li>
 <li>Nando</li>
 <li>Nanni</li>
 <li>Napo</li>
@@ -1495,11 +1495,11 @@ M
 <li>Nerone</li>
 <li>Nestore</li>
 <li>Nevio</li>
-<li>Niccodemo</li>
+<li>Niccodemo</li></ol>
 
 F
 
-<li>Lucilla</li>
+<ol><li>Lucilla</li>
 <li>Lucina</li>
 <li>Lucrezia</li>
 <li>Ludmilla</li>
@@ -1518,11 +1518,11 @@ F
 <li>Malina</li>
 <li>Malvina</li>
 <li>Manfreda</li>
-<li>Manfredina</li>
+<li>Manfredina</li></ol>
 
 M
 
-<li>Niccolò</li>
+<ol><li>Niccolò</li>
 <li>Nico</li>
 <li>Nicodemo</li>
 <li>Nicola</li>
@@ -1541,11 +1541,11 @@ M
 <li>Nuto</li>
 <li>Oberto</li>
 <li>Oddo</li>
-<li>Oddone</li>
+<li>Oddone</li></ol>
 
 F
 
-<li>Manlia</li>
+<ol><li>Manlia</li>
 <li>Manola</li>
 <li>Manrica</li>
 <li>Mansueta</li>
@@ -1564,11 +1564,11 @@ F
 <li>Mariachiara</li>
 <li>Mariagiulia</li>
 <li>Mariagrazia</li>
-<li>MariaLucìa</li>
+<li>MariaLucìa</li></ol>
 
 M
 
-<li>Odelio</li>
+<ol><li>Odelio</li>
 <li>Odilio</li>
 <li>Odillo</li>
 <li>Odoardo</li>
@@ -1587,11 +1587,11 @@ M
 <li>Onofrio</li>
 <li>Onorato</li>
 <li>Onorino</li>
-<li>Onorio</li>
+<li>Onorio</li></ol>
 
 F
 
-<li>MariaLuisa</li>
+<ol><li>MariaLuisa</li>
 <li>Mariangela</li>
 <li>Marianna</li>
 <li>Mariannina</li>
@@ -1610,11 +1610,11 @@ F
 <li>Marisca</li>
 <li>Marisella</li>
 <li>Maristella</li>
-<li>Mariù</li>
+<li>Mariù</li></ol>
 
 M
 
-<li>Orazio</li>
+<ol><li>Orazio</li>
 <li>Oreste</li>
 <li>Orfeo</li>
 <li>Oriano</li>
@@ -1633,11 +1633,11 @@ M
 <li>Ottorino</li>
 <li>Ovidio</li>
 <li>Pacifico</li>
-<li>Palmerino</li>
+<li>Palmerino</li></ol>
 
 F
 
-<li>Mariuccia</li>
+<ol><li>Mariuccia</li>
 <li>Marlena</li>
 <li>Marsiglia</li>
 <li>Marsilia</li>
@@ -1656,11 +1656,11 @@ F
 <li>Maura</li>
 <li>Maurizia</li>
 <li>Melania</li>
-<li>Melchiora</li>
+<li>Melchiora</li></ol>
 
 M
 
-<li>Palmiero</li>
+<ol><li>Palmiero</li>
 <li>Palmino</li>
 <li>Palmiro</li>
 <li>Pancrazio</li>
@@ -1679,11 +1679,11 @@ M
 <li>Pierangelo</li>
 <li>Piercarlo</li>
 <li>Piergianni</li>
-<li>Piergiorgio</li>
+<li>Piergiorgio</li></ol>
 
 F
 
-<li>Melchiorra</li>
+<ol><li>Melchiorra</li>
 <li>Melinda</li>
 <li>Melissa</li>
 <li>Melita</li>
@@ -1702,11 +1702,11 @@ F
 <li>Mimma</li>
 <li>Mimosa</li>
 <li>Mina</li>
-<li>Minerva</li>
+<li>Minerva</li></ol>
 
 M
 
-<li>Pierino</li>
+<ol><li>Pierino</li>
 <li>Pierluigi</li>
 <li>Piermaria</li>
 <li>Piermario</li>
@@ -1725,11 +1725,11 @@ M
 <li>Prassede</li>
 <li>Prezioso</li>
 <li>Priamo</li>
-<li>Primino</li>
+<li>Primino</li></ol>
 
 F
 
-<li>Mira</li>
+<ol><li>Mira</li>
 <li>Miralda</li>
 <li>Miranda</li>
 <li>Mirca</li>
@@ -1748,11 +1748,11 @@ F
 <li>Morena</li>
 <li>Morgana</li>
 <li>Nada</li>
-<li>Nadia</li>
+<li>Nadia</li></ol>
 
 M
 
-<li>Primo</li>
+<ol><li>Primo</li>
 <li>Prisco</li>
 <li>Procopio</li>
 <li>Prospero</li>
@@ -1771,11 +1771,11 @@ M
 <li>Raffaele</li>
 <li>Raffaello</li>
 <li>Raimondo</li>
-<li>Rainaldo</li>
+<li>Rainaldo</li></ol>
 
 F
 
-<li>Nadiana</li>
+<ol><li>Nadiana</li>
 <li>Nadina</li>
 <li>Nanda</li>
 <li>Naomi</li>
@@ -1794,11 +1794,11 @@ F
 <li>Nevia</li>
 <li>Nice</li>
 <li>Nicla</li>
-<li>Nicoletta</li>
+<li>Nicoletta</li></ol>
 
 M
 
-<li>Raineri</li>
+<ol><li>Raineri</li>
 <li>Rainero</li>
 <li>Ranieri</li>
 <li>Raniero</li>
@@ -1817,11 +1817,11 @@ M
 <li>Rinaldi</li>
 <li>Rinaldo</li>
 <li>Rizzardo</li>
-<li>Robertino</li>
+<li>Robertino</li></ol>
 
 F
 
-<li>Nicolina</li>
+<ol><li>Nicolina</li>
 <li>Nilda</li>
 <li>Nilde</li>
 <li>Ninfa</li>
@@ -1840,11 +1840,11 @@ F
 <li>Novellina</li>
 <li>Novellino</li>
 <li>Nunzia</li>
-<li>Nunziata</li>
+<li>Nunziata</li></ol>
 
 M
 
-<li>Roberto</li>
+<ol><li>Roberto</li>
 <li>Rocco</li>
 <li>Roderico</li>
 <li>Roderigo</li>
@@ -1863,11 +1863,11 @@ M
 <li>Rossano</li>
 <li>Ruberto</li>
 <li>Ruffillo</li>
-<li>Ruffino</li>
+<li>Ruffino</li></ol>
 
 F
 
-<li>Odelia</li>
+<ol><li>Odelia</li>
 <li>Odetta</li>
 <li>Odilia</li>
 <li>Odilla</li>
@@ -1886,11 +1886,11 @@ F
 <li>Onoria</li>
 <li>Onorina</li>
 <li>Orazia</li>
-<li>Oria</li>
+<li>Oria</li></ol>
 
 M
 
-<li>Rufino</li>
+<ol><li>Rufino</li>
 <li>Rufo</li>
 <li>Ruggeri</li>
 <li>Ruggero</li>
@@ -1909,11 +1909,11 @@ M
 <li>Santi</li>
 <li>Santiago</li>
 <li>Santino</li>
-<li>Santo</li>
+<li>Santo</li></ol>
 
 F
 
-<li>Oriana</li>
+<ol><li>Oriana</li>
 <li>Orianna</li>
 <li>Oriella</li>
 <li>Orietta</li>
@@ -1932,11 +1932,11 @@ F
 <li>Ottorina</li>
 <li>Ovidia</li>
 <li>Pacifica</li>
-<li>Palma</li>
+<li>Palma</li></ol>
 
 M
 
-<li>Sanzio</li>
+<ol><li>Sanzio</li>
 <li>Saro</li>
 <li>Saul</li>
 <li>Saulo</li>
@@ -1955,11 +1955,11 @@ M
 <li>Servio</li>
 <li>Sestilio</li>
 <li>Sestino</li>
-<li>Sesto</li>
+<li>Sesto</li></ol>
 
 F
 
-<li>Palmiera</li>
+<ol><li>Palmiera</li>
 <li>Palmina</li>
 <li>Palmira</li>
 <li>Pamela</li>
@@ -1978,11 +1978,11 @@ F
 <li>Perla</li>
 <li>Perlina</li>
 <li>Perpetua</li>
-<li>Petra</li>
+<li>Petra</li></ol>
 
 M
 
-<li>Severiano</li>
+<ol><li>Severiano</li>
 <li>Severino</li>
 <li>Severio</li>
 <li>Severo</li>
@@ -2001,11 +2001,11 @@ M
 <li>Silvio</li>
 <li>Simeone</li>
 <li>Simone</li>
-<li>Siriano</li>
+<li>Siriano</li></ol>
 
 F
 
-<li>Petronella</li>
+<ol><li>Petronella</li>
 <li>Petronilla</li>
 <li>Pia</li>
 <li>Piera</li>
@@ -2024,11 +2024,11 @@ F
 <li>Pompilia</li>
 <li>Preziosa</li>
 <li>Prima</li>
-<li>Primavera</li>
+<li>Primavera</li></ol>
 
 M
 
-<li>Sirio</li>
+<ol><li>Sirio</li>
 <li>Siro</li>
 <li>Sisto</li>
 <li>Smeraldo</li>
@@ -2047,11 +2047,11 @@ M
 <li>Tarsilio</li>
 <li>Taziano</li>
 <li>Tazio</li>
-<li>Telemaco</li>
+<li>Telemaco</li></ol>
 
 F
 
-<li>Primetta</li>
+<ol><li>Primetta</li>
 <li>Primina</li>
 <li>Prisca</li>
 <li>Priscilla</li>
@@ -2070,11 +2070,11 @@ F
 <li>Rachele</li>
 <li>Raffaela</li>
 <li>Raffaella</li>
-<li>Raimonda</li>
+<li>Raimonda</li></ol>
 
 M
 
-<li>Telmo</li>
+<ol><li>Telmo</li>
 <li>Temistocle</li>
 <li>Teo</li>
 <li>Teodorico</li>
@@ -2093,11 +2093,11 @@ M
 <li>Tiberio</li>
 <li>Tiburzio</li>
 <li>Timoteo</li>
-<li>Titino</li>
+<li>Titino</li></ol>
 
 F
 
-<li>Raimondina</li>
+<ol><li>Raimondina</li>
 <li>Rainalda</li>
 <li>Rebecca</li>
 <li>Regina</li>
@@ -2116,11 +2116,11 @@ F
 <li>Rita</li>
 <li>Roberta</li>
 <li>Robertina</li>
-<li>Rocchetta</li>
+<li>Rocchetta</li></ol>
 
 M
 
-<li>Tito</li>
+<ol><li>Tito</li>
 <li>Tiziano</li>
 <li>Tizio</li>
 <li>Tobia</li>
@@ -2139,11 +2139,11 @@ M
 <li>Turiddu</li>
 <li>Ubaldo</li>
 <li>Uberto</li>
-<li>Uboldo</li>
+<li>Uboldo</li></ol>
 
 F
 
-<li>Rocchina</li>
+<ol><li>Rocchina</li>
 <li>Rodolfa</li>
 <li>Rolanda</li>
 <li>Romana</li>
@@ -2162,11 +2162,11 @@ F
 <li>Rosaria</li>
 <li>Rosella</li>
 <li>Rosellina</li>
-<li>Rosetta</li>
+<li>Rosetta</li></ol>
 
 M
 
-<li>Ugaccione</li>
+<ol><li>Ugaccione</li>
 <li>Ugo</li>
 <li>Ugoberto</li>
 <li>Ugolino</li>
@@ -2185,11 +2185,11 @@ M
 <li>Valente</li>
 <li>Valentino</li>
 <li>Valeriano</li>
-<li>Valerio</li>
+<li>Valerio</li></ol>
 
 F
 
-<li>Rosina</li>
+<ol><li>Rosina</li>
 <li>Rosita</li>
 <li>Rossana</li>
 <li>Rossella</li>
@@ -2208,11 +2208,11 @@ F
 <li>Samuela</li>
 <li>Sandra</li>
 <li>Santa</li>
-<li>Santina</li>
+<li>Santina</li></ol>
 
 M
 
-<li>Valter</li>
+<ol><li>Valter</li>
 <li>Vando</li>
 <li>Vanni</li>
 <li>Varisto</li>
@@ -2231,11 +2231,11 @@ M
 <li>Vido</li>
 <li>Vieri</li>
 <li>Vigilio</li>
-<li>Villelmo</li>
+<li>Villelmo</li></ol>
 
 F
 
-<li>Santuzza</li>
+<ol><li>Santuzza</li>
 <li>Sara</li>
 <li>Saveria</li>
 <li>Saverina</li>
@@ -2254,11 +2254,11 @@ F
 <li>Serenella</li>
 <li>Sergia</li>
 <li>Sergina</li>
-<li>Sesta</li>
+<li>Sesta</li></ol>
 
 M
 
-<li>Vincenzo</li>
+<ol><li>Vincenzo</li>
 <li>Vinceslao</li>
 <li>Vincislao</li>
 <li>Vinicio</li>
@@ -2277,11 +2277,11 @@ M
 <li>Volfango</li>
 <li>Zaccaria</li>
 <li>Zaveria</li>
-<li>Zaverio</li>
+<li>Zaverio</li></ol>
 
 F
 
-<li>Sestilia</li>
+<ol><li>Sestilia</li>
 <li>Sestina</li>
 <li>Severa</li>
 <li>Severiana</li>
@@ -2300,11 +2300,11 @@ F
 <li>Siria</li>
 <li>Siriana</li>
 <li>Sista</li>
-<li>Sistina</li>
+<li>Sistina</li></ol>
 
 M
 
-<li>Zeffirino</li>
+<ol><li>Zeffirino</li>
 <li>Zeffiro</li>
 <li>Zefirino</li>
 <li>Zelindo</li>
@@ -2323,11 +2323,11 @@ F
 <li>Stefania</li>
 <li>Stefanina</li>
 <li>Stella</li>
-<li>Stellina</li>
+<li>Stellina</li></ol>
 <li>Susanna</li>
 <li>Taddea</li>
 <li>Taide</li>
-<li>Tamara</li>
+<ol><li>Tamara</li>
 <li>Tania</li>
 <li>Tarcisia</li>
 <li>Tarquinia</li>
@@ -2346,11 +2346,11 @@ F
 <li>Teodorica</li>
 <li>Teodorina</li>
 <li>Teodosia</li>
-<li>Terenzia</li>
+<li>Terenzia</li></ol>
 <li>Teresa</li>
 <li>Teresina</li>
 <li>Teresita</li>
-<li>Tersilla</li>
+<ol><li>Tersilla</li>
 <li>Terzilia</li>
 <li>Tiberia</li>
 <li>Tiberina</li>
@@ -2369,11 +2369,11 @@ F
 <li>Tommasina</li>
 <li>Tonia</li>
 <li>Tosca</li>
-<li>Tristana</li>
+<li>Tristana</li></ol>
 <li>Tullia</li>
 <li>Ubalda</li>
 <li>Ubaldina</li>
-<li>Uberta</li>
+<ol><li>Uberta</li>
 <li>Ubertina</li>
 <li>Udilia</li>
 <li>Uga</li>
@@ -2392,11 +2392,11 @@ F
 <li>Valdimira</li>
 <li>Valdina</li>
 <li>Valentina</li>
-<li>Valeria</li>
+<li>Valeria</li></ol>
 <li>Valeriana</li>
 <li>Vananzia</li>
 <li>Vanda</li>
-<li>Vanessa</li>
+<ol><li>Vanessa</li>
 <li>Vania</li>
 <li>Vanna</li>
 <li>Venceslava</li>
@@ -2415,11 +2415,11 @@ F
 <li>Viera</li>
 <li>Vigilia</li>
 <li>Villelma</li>
-<li>Vincenza</li>
+<li>Vincenza</li></ol>
 <li>Vincenzina</li>
 <li>Viola</li>
 <li>Violetta</li>
-<li>Virginia</li>
+<ol><li>Virginia</li>
 <li>Vita</li>
 <li>Vitàlia</li>
 <li>Vitaliana</li>
@@ -2438,11 +2438,11 @@ F
 <li>Zeffirina</li>
 <li>Zelda</li>
 <li>Zelina</li>
-<li>Zelinda</li>
+<li>Zelinda</li></ol>
 <li>Zelma</li>
 <li>Zena</li>
 <li>Zenia</li>
-<li>Zilda</li>
+<ol><li>Zilda</li>
 <li>Zilia</li>
 <li>Zita</li>
-<li>Zoe</li>
+<li>Zoe</li></ol>

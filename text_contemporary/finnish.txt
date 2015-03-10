@@ -1,7 +1,7 @@
 ﻿FINNISH
 Compiled by Ian Burton-Oakes
 MALE NAMES 
-<li>Aarre </li>
+<ol><li>Aarre </li>
 <li>Aatos</li>
 <li>Armas</li>
 <li>Auvo </li>
@@ -20,9 +20,9 @@ MALE NAMES
 <li>Niko</li>
 <li>Rauli</li>
 <li>Samu</li>
-<li>Unto</li>
+<li>Unto</li></ol>
 FEMALE NAMES
-<li>Aili</li>
+<ol><li>Aili</li>
 <li>Anna-Liisa</li>
 <li>Eveliina</li>
 <li>Elsi</li>
@@ -41,9 +41,9 @@ FEMALE NAMES
 <li>Olga</li>
 <li>Raili</li>
 <li>Sara</li>
-<li>Ulla</li>
+<li>Ulla</li></ol>
 LAST NAMES
-<li>Ahola</li>
+<ol><li>Ahola</li>
 <li>Eerikainen</li>
 <li>Ekola</li>
 <li>Hannula</li>
@@ -62,4 +62,4 @@ LAST NAMES
 <li>Parras</li>
 <li>Rinne</li>
 <li>Ylinen</li>
-<li>Ylitalo</li>
+<li>Ylitalo</li></ol>

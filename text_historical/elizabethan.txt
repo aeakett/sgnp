@@ -1,7 +1,7 @@
 ﻿ELIZABETHAN ENGLAND
 Compiled by Graham Walmsley
 MALE
-<li>Peter</li>
+<ol><li>Peter</li>
 <li>John</li>
 <li>Gabriel</li>
 <li>Dudley</li>
@@ -20,9 +20,9 @@ MALE
 <li>Thomas</li>
 <li>Francis</li>
 <li>Charles</li>
-<li>Matthew</li>
+<li>Matthew</li></ol>
 FEMALE
-<li>Joan</li>
+<ol><li>Joan</li>
 <li>Elizabeth</li>
 <li>Mary</li>
 <li>Anne</li>
@@ -41,9 +41,9 @@ FEMALE
 <li>Sara</li>
 <li>Katherine</li>
 <li>Beth</li>
-<li>Rosalind</li>
+<li>Rosalind</li></ol>
 SURNAME
-<li>Aubrey</li>
+<ol><li>Aubrey</li>
 <li>Harington</li>
 <li>Goodge</li>
 <li>Kemp</li>
@@ -62,9 +62,9 @@ SURNAME
 <li>Derricke</li>
 <li>Churchyard</li>
 <li>Jaggard</li>
-<li>Clifford</li>
+<li>Clifford</li></ol>
 AREAS OF LONDON
-<li>Westminster</li>
+<ol><li>Westminster</li>
 <li>Charing Cross</li>
 <li>St James' Park</li>
 <li>Lincoln's Inn Fields</li>
@@ -83,4 +83,4 @@ AREAS OF LONDON
 <li>Cripplegate</li>
 <li>Holborn</li>
 <li>Bridewell</li>
-<li>Soho</li>
+<li>Soho</li></ol>

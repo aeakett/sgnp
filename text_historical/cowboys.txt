@@ -1,7 +1,7 @@
 ﻿COWBOYS 
 Compiled by Marc Majcher 
 MALE
-<li>Al </li>
+<ol><li>Al </li>
 <li>Abe </li>
 <li>Bill </li>
 <li>Bob </li>
@@ -20,9 +20,9 @@ MALE
 <li>Sam </li>
 <li>Tom </li>
 <li>Travis </li>
-<li>Zeke </li>
+<li>Zeke </li></ol>
 FEMALE
-<li>Allison </li>
+<ol><li>Allison </li>
 <li>Constance </li>
 <li>Dorothy </li>
 <li>Ellen </li>
@@ -41,9 +41,9 @@ FEMALE
 <li>Rose </li>
 <li>Sally </li>
 <li>Shelley </li>
-<li>Sue </li>
+<li>Sue </li></ol>
 SURNAMES 
-<li>Anderson </li>
+<ol><li>Anderson </li>
 <li>Austin </li>
 <li>Baker </li>
 <li>Banton </li>
@@ -62,9 +62,9 @@ SURNAMES
 <li>Slade </li>
 <li>Stevens </li>
 <li>Thomson </li>
-<li>Wilson </li>
+<li>Wilson </li></ol>
 PREFIXES/NICKNAMES 
-<li>Big </li>
+<ol><li>Big </li>
 <li>Bloody </li>
 <li>Bud </li>
 <li>Casino </li>
@@ -83,9 +83,9 @@ PREFIXES/NICKNAMES
 <li>Tex </li>
 <li>Tuscon </li>
 <li>Whiskey </li>
-<li>Wild </li>
+<li>Wild </li></ol>
 HORSE NAMES 
-<li>Ace </li>
+<ol><li>Ace </li>
 <li>Apache </li>
 <li>Buttermilk </li>
 <li>Blackjack </li>
@@ -104,4 +104,4 @@ HORSE NAMES
 <li>Rusty </li>
 <li>Scout </li>
 <li>Smoky </li>
-<li>Thunder </li>
+<li>Thunder </li></ol>

@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 These come from 19th century tribal rolls.  They were compiled by Indian agents and are of dubious linguistic fidelity.  You could use any of these names as a place name by adding "mesa", "creek", "ridge", etc. to the end of it.
 MALE NAMES ONE
-<li>Bare Bow / NAW-AH-A-MA       </li>
+<ol><li>Bare Bow / NAW-AH-A-MA       </li>
 <li>Left Hand Bull / AH-HO-A-MOW  </li>
 <li>Man Heart / MI-NO-ONI-A             </li>
 <li>Little Bear / NAW-QUIS      	</li>
@@ -22,9 +22,9 @@ MALE NAMES ONE
 <li>Thief  / NO-MOTS-SI-U             	</li>
 <li>White Man / VE-HUE </li>
 <li>Black Wolf / MO-TOW-NA-MA    </li>
-<li>Bob-Tail Wolf / HO-NI-WA-HAS</li>
+<li>Bob-Tail Wolf / HO-NI-WA-HAS</li></ol>
 MALE NAMES TWO
-<li>Bull-Looking-Around / HO-TO-WA      </li>
+<ol><li>Bull-Looking-Around / HO-TO-WA      </li>
 <li>Catching-In-Battle / WAH-AT-TUF            </li>
 <li>Dog Man / WAH-TAM-A-KET          </li>
 <li>Eating Bull / LA-CUM-AN             </li>
@@ -43,13 +43,13 @@ MALE NAMES TWO
 <li>White Buffalo / WAH-IS-TAH           </li>
 <li>Dirty Nose / HIS-SI-E-WA-SA	     </li>
 <li>Elk Standing / MO-NISH                  </li>
-<li>Good Walker / HA-UM-TO-MUS </li>
+<li>Good Walker / HA-UM-TO-MUS </li></ol>
 FEMALE NAMES ONE 
-<li>Crooked Woman / WAH-KE-HI                </li>
+<ol><li>Crooked Woman / WAH-KE-HI                </li>
 <li>Dove / MIS-SO-IH        </li>
 <li>Standing Woman / LA-CAT-ME-AH                          </li>
 <li>Talking Woman / AH-MA-HI          </li>
-<li>Woman-On-The-Hill / MAH-A-YAW                                                                                                                                                                                                                                                                                                                                                                                                              </li>
+<li>Woman-On-The-Hill / MAH-A-YAW</li>
 <li>Turtle / MA-IN-NO    </li>
 <li>Soaring Woman / MOTS-SE-A  </li>
 <li>Weed Woman / NE-E-NOW-E-SAH</li>
@@ -64,9 +64,9 @@ FEMALE NAMES ONE
 <li>Down Woman / TA-NO-SU                 </li>
 <li>Elk Woman / MO-A-HA-AH                                      </li>
 <li>Feather Woman / WAH-TAH-NA  </li>
-<li>Sand Girl / NAH-BA-IS-SA   </li>
+<li>Sand Girl / NAH-BA-IS-SA   </li></ol>
 FEMALE NAMES TWO  
-<li>Wild-Cat-Woman / MUS-KO-VA                </li>
+<ol><li>Wild-Cat-Woman / MUS-KO-VA                </li>
 <li>Woman Standing / AH-CHIS-TAH       </li>
 <li>Shave-Head / AH-NOSTS-SE-E    </li>
 <li>Foreign Woman	 / O-NE-HATCH </li>
@@ -85,9 +85,9 @@ FEMALE NAMES TWO
 <li>Medicine Woman / O-WE-HI 	</li>
 <li>Red-Painting / MI-TO-MO-NI            </li>
 <li>Sage Woman / ONE-HI-YOU </li>
-<li>Woman Afraid / DA-KA-MA-EE   </li>
+<li>Woman Afraid / DA-KA-MA-EE   </li></ol>
 EITHER GENDER 
-<li>Bad Teeth / O-CON-NE-NIC                                                                                </li>
+<ol><li>Bad Teeth / O-CON-NE-NIC                                                                                </li>
 <li>Spotted Bird / VA-GIS-A-WAH-US          	</li>
 <li>Squint Eye  / NO-WA-HY   </li>
 <li>Howling Water / PA-WA-NIS-TA           		            		                           </li>
@@ -106,4 +106,4 @@ EITHER GENDER
 <li>Red Leaf / MI-VA-PA-TAP </li>
 <li>Walking Behind / TACK-SA               	                          	                </li>
 <li>High-Beak Bird / NO-KE-HE-USE       	</li>
-<li>Stone Road / HE-HO-NI-MAH              	              	           	</li>
+<li>Stone Road / HE-HO-NI-MAH              	              	           	</li></ol>

@@ -3,7 +3,7 @@ Compiled by Tom Zito
 NOTES
 Add "Maria" to anyone's name - male or female - for a middle name.  Maria is a very common baptismal name in Sicily.
 MALE 1
-<li>Salvatore (Totò)</li>
+<ol><li>Salvatore (Totò)</li>
 <li>Nuccio</li>
 <li>Carmelo</li>
 <li>Alessandro (Sandro)</li>
@@ -22,9 +22,9 @@ MALE 1
 <li>Giacomo</li>
 <li>Lorenzo (Enzo, Renzo)    </li>
 <li>Luca </li>
-<li>Nicola (Nicolino, Nico)</li>
+<li>Nicola (Nicolino, Nico)</li></ol>
 FEMALE 1
-<li>Liliana</li>
+<ol><li>Liliana</li>
 <li>Adriana</li>
 <li>Alessandra</li>
 <li>Rosaria Maria</li>
@@ -43,9 +43,9 @@ FEMALE 1
 <li>Elda</li>
 <li>Silvana</li>
 <li>Raffaella</li>
-<li>Floriana</li>
-<li>MALE 2</li>
-<li>Michele</li>
+<li>Floriana</li></ol>
+MALE 2
+<ol><li>Michele</li>
 <li>Martino</li>
 <li>Paolo (Paolino)</li>
 <li>Renato</li>
@@ -64,9 +64,9 @@ FEMALE 1
 <li>Sergio</li>
 <li>Domenico</li>
 <li>Massimo</li>
-<li>Onofrio</li>
+<li>Onofrio</li></ol>
 FEMALE 2
-<li>Matilde</li>
+<ol><li>Matilde</li>
 <li>Malena</li>
 <li>Lupetta</li>
 <li>Tiziana</li>
@@ -85,9 +85,9 @@ FEMALE 2
 <li>Carla</li>
 <li>Franca</li>
 <li>Vittoria</li>
-<li>Francesca</li>
+<li>Francesca</li></ol>
 SURNAMES
-<li>Turturici</li>
+<ol><li>Turturici</li>
 <li>Rubino</li>
 <li>Di Vittorio</li>
 <li>Rizzo</li>
@@ -106,4 +106,4 @@ SURNAMES
 <li>Occhipinti</li>
 <li>Di Stefano</li>
 <li>Guastella</li>
-<li>Tumino</li>
+<li>Tumino</li></ol>

@@ -2,7 +2,7 @@
 MACHINIST NAMES
 Complied by Rachel E.S.Walton
 COLD AND GREASY
-<li>Axle</li>
+<ol><li>Axle</li>
 <li>Beamer</li>
 <li>Bolt</li>
 <li>Chassis</li>
@@ -21,9 +21,10 @@ COLD AND GREASY
 <li>Steel</li>
 <li>Throttle</li>
 <li>Torque</li>
-<li>Voltage</li>
+<li>Voltage</li></ol>
+
 LIKE A TRAIN
-<li>Blucher</li>
+<ol><li>Blucher</li>
 <li>Bogie</li>
 <li>Boiler</li>
 <li>Cannonball</li>
@@ -42,7 +43,7 @@ LIKE A TRAIN
 <li>Steamer</li>
 <li>Switcher</li>
 <li>Tank</li>
-<li>Winton</li>
+<li>Winton</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA
 

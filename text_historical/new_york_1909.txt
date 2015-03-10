@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 Only seven of these people are not real.
 FAMOUS PEOPLE YOU MIGHT BUMP INTO AT DELMONICO'S
-<li>William Howard Taft, President of the United States </li>
+<ol><li>William Howard Taft, President of the United States </li>
 <li>Ulrich Von Brockdorff-Rantzau, diplomat </li>
 <li>Franz Josef, Emperor of Austria, King of Hungary </li>
 <li>John Eyre Sloan, high society birdman </li>
@@ -22,9 +22,9 @@ FAMOUS PEOPLE YOU MIGHT BUMP INTO AT DELMONICO'S
 <li>August Belmont, industrialist</li>
 <li>Lt George S. Patton, Jr., cavalry officer, United States Army</li>
 <li>Lincoln Beachey, Daredevil birdman </li>
-<li>Harriet Quimby, Fetching purple-jumpsuited aviatrix </li>
+<li>Harriet Quimby, Fetching purple-jumpsuited aviatrix </li></ol>
 RANDOM INTERESTING PEOPLE YOU MIGHT MEET IN MADISON SQUARE GARDEN
-<li>Dan Ling, Chinese laundryman </li>
+<ol><li>Dan Ling, Chinese laundryman </li>
 <li>Karl Von Brockdorff-Rantzau, scientist </li>
 <li>Dragutan Dimitrijevic, Austro-Hungarian spy</li>
 <li>Charles Becker, NYPD Lieutenant </li>
@@ -43,9 +43,9 @@ RANDOM INTERESTING PEOPLE YOU MIGHT MEET IN MADISON SQUARE GARDEN
 <li>Bill Pickett, champion bulldogger </li>
 <li>John Phillip Holland, submarine builder</li>
 <li>Henry Kaslow Burden, M.D., physician</li>
-<li>Ota Benga, Pygmy</li>
+<li>Ota Benga, Pygmy</li></ol>
 FIVE POINTS YEGGS
-<li>Leonard "Humpty" Jackson, hunchbacked crime lord </li>
+<ol><li>Leonard "Humpty" Jackson, hunchbacked crime lord </li>
 <li>Bradish Johnson II, crooked industrialist</li>
 <li>Harry K. Thaw, millionaire lunatic </li>
 <li>Banjo Pete, crazed hillbilly</li>
@@ -64,9 +64,9 @@ FIVE POINTS YEGGS
 <li>Max Shinburn, forger</li>
 <li>Mad Mike Lloyd, freelance thug</li>
 <li>Piker Ryan, washed-up yegg</li>
-<li>Ignazio "Lupo the Wolf" Lupo, blood-drinking nutjob</li>
+<li>Ignazio "Lupo the Wolf" Lupo, blood-drinking nutjob</li></ol>
 BOWERY YEGGS
-<li>Monk Eastman, king of crime</li>
+<ol><li>Monk Eastman, king of crime</li>
 <li>Gyp The Blood, Eastman lieutenant</li>
 <li>Walford Bodie, Doctor and electrical charlatan </li>
 <li>Owney "the Killer" Madden</li>
@@ -85,4 +85,4 @@ BOWERY YEGGS
 <li>Mary Connoly, jewel thief</li>
 <li>Mother Hubbard, queen of fences</li>
 <li>Frank Cirofici, the opium gunman</li>
-<li>Baboon Connolly, Eastman muscle</li>
+<li>Baboon Connolly, Eastman muscle</li></ol>

@@ -3,7 +3,7 @@ Compiled by Mischa D. Krilov
 NOTES
 These are names culled from actual spam. Good for alien cultures that don't understand humans, artifical intelligences in a cyberpunk setting, bad pseudonyms for obvious clues in a detective story, false passports, or even as sales and marketing,
 MALE 1
-<li>Harold Aragon</li>
+<ol><li>Harold Aragon</li>
 <li>Woods Bank</li>
 <li>Guerra Dharma</li>
 <li>Morton Skaggs</li>
@@ -22,9 +22,9 @@ MALE 1
 <li>Sheldon Dispersal</li>
 <li>Ulysses Ivory</li>
 <li>Mohamed Swenson</li>
-<li>Walden Toccara</li>
+<li>Walden Toccara</li></ol>
 FEMALE 2
-<li>Leola Helms</li>
+<ol><li>Leola Helms</li>
 <li>Arlene Ardell Yuki</li>
 <li>Marcie Houser Tkyles</li>
 <li>Concetta Hickey</li>
@@ -43,9 +43,9 @@ FEMALE 2
 <li>Leonore Alfaro</li>
 <li>Eva V. Hoodia</li>
 <li>Valeria Orr</li>
-<li>Selena Grubbs</li>
+<li>Selena Grubbs</li></ol>
 GENDER-NEUTRAL 1
-<li>Sterling Caudill</li>
+<ol><li>Sterling Caudill</li>
 <li>Lakeisha Utiljip</li>
 <li>Artlover Paris</li>
 <li>Hutchinson Gino</li>
@@ -64,9 +64,9 @@ GENDER-NEUTRAL 1
 <li>Tang Fufuo</li>
 <li>Zavala Perla</li>
 <li>Toronto Legara</li>
-<li>Military Americas</li>
+<li>Military Americas</li></ol>
 MALE 2 
-<li>Jacques Shafter</li>
+<ol><li>Jacques Shafter</li>
 <li>Odilon Hornsby</li>
 <li>Delmer Gaines, Jr</li>
 <li>Jorge Savannah</li>
@@ -85,9 +85,9 @@ MALE 2
 <li>Blake Clarke</li>
 <li>Osvaldo Post</li>
 <li>Blackmon Kerzen</li>
-<li>Cornelius Archery</li>
+<li>Cornelius Archery</li></ol>
 FEMALE 2
-<li>Cinema Hilton</li>
+<ol><li>Cinema Hilton</li>
 <li>Dominique Alonzo</li>
 <li>Charity Pasquale</li>
 <li>Ivey Tovar</li>
@@ -106,9 +106,9 @@ FEMALE 2
 <li>Sosa Mohamed</li>
 <li>Melba Chang Pan</li>
 <li>Jesstess Codec</li>
-<li>Sonata Begay</li>
+<li>Sonata Begay</li></ol>
 GENDER-NEUTRAL 2
-<li>Indented T. Inferiority</li>
+<ol><li>Indented T. Inferiority</li>
 <li>Moyer Katty</li>
 <li>Foresail P. Fining</li>
 <li>Boykin Murillo</li>
@@ -127,4 +127,4 @@ GENDER-NEUTRAL 2
 <li>Arianrhod Seese</li>
 <li>Mull Muslin</li>
 <li>Tarja Picha</li>
-<li>Anelik Super</li>
+<li>Anelik Super</li></ol>

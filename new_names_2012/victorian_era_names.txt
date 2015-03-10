@@ -2,7 +2,7 @@
 Compiled by Rachel E.S. Walton
 
 FEMALE NAMES 1
-<li>Abigail (Abby)</li>
+<ol><li>Abigail (Abby)</li>
 <li>Amelia</li>
 <li>Ann/Annie</li>
 <li>Beatrice</li>
@@ -21,10 +21,10 @@ FEMALE NAMES 1
 <li>Hannah</li>
 <li>Henrietta (Hettie, Etta)</li>
 <li>Hortence</li>
-<li>Isabell/Isabella</li>
+<li>Isabell/Isabella</li></ol>
 
 FEMALE NAMES 2
-<li>Jane</li>
+<ol><li>Jane</li>
 <li>Lucy</li>
 <li>Margaret (Peggy)</li>
 <li>Martha</li>
@@ -43,10 +43,10 @@ FEMALE NAMES 2
 <li>Virginia (Ginny)</li>
 <li>Vivian</li>
 <li>Winnifred (Winnie)</li>
-<li>Zylphia</li>
+<li>Zylphia</li></ol>
 
 MALE NAMES 1
-<li>Albert</li>
+<ol><li>Albert</li>
 <li>Barnabas (Barney)</li>
 <li>Benedict</li>
 <li>Calvin</li>
@@ -65,10 +65,10 @@ MALE NAMES 1
 <li>Hugh</li>
 <li>James (Jim)</li>
 <li>John (Jack)</li>
-<li>Josiah</li>
+<li>Josiah</li></ol>
 
 MALE NAMES 2
-<li>Lewis/Louis (Lew)</li>
+<ol><li>Lewis/Louis (Lew)</li>
 <li>Lucian</li>
 <li>Luther</li>
 <li>Matthew</li>
@@ -87,10 +87,10 @@ MALE NAMES 2
 <li>Walter</li>
 <li>William/Will (Bill, Billy)</li>
 <li>Zachariah</li>
-<li>Zebulon</li>
+<li>Zebulon</li></ol>
 
 SURNAMES 1
-<li>Amory</li>
+<ol><li>Amory</li>
 <li>Applebaum</li>
 <li>Arnsworth</li>
 <li>Arterberry</li>
@@ -109,10 +109,10 @@ SURNAMES 1
 <li>Brubaker</li>
 <li>Cauthorne</li>
 <li>Chattoway</li>
-<li>Cluppert</li>
+<li>Cluppert</li></ol>
 
 SURNAMES 2
-<li>Cornaby</li>
+<ol><li>Cornaby</li>
 <li>Cortwright</li>
 <li>Crickenberger</li>
 <li>Diggory</li>
@@ -131,10 +131,10 @@ SURNAMES 2
 <li>Highmore</li>
 <li>Holmes</li>
 <li>Hopkin</li>
-<li>Hornbeck</li>
+<li>Hornbeck</li></ol>
 
 SURNAMES 3
-<li>Irons</li>
+<ol><li>Irons</li>
 <li>Kemble</li>
 <li>Kenward</li>
 <li>Lathbury</li>
@@ -153,10 +153,10 @@ SURNAMES 3
 <li>Westwick</li>
 <li>Whitlock</li>
 <li>Yearsley</li>
-<li>Zollar</li>
+<li>Zollar</li></ol>
 
 STREET VENDOR FAST FOOD
-<li>baked ‘tatoes</li>
+<ol><li>baked ‘tatoes</li>
 <li>fried fish</li>
 <li>pea soup</li>
 <li>pickled whelks (sea snails)</li>
@@ -175,6 +175,6 @@ STREET VENDOR FAST FOOD
 <li>ice creams</li>
 <li>plum cakes and brandy balls</li>
 <li>ginger beer and elder wine</li>
-<li>peppermint water, lemonade, and rice milk</li>
+<li>peppermint water, lemonade, and rice milk</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA 

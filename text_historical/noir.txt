@@ -1,7 +1,7 @@
 ﻿NOIR
 Compiled by Moyra Turkington, Matt Strickling, and Brendan Adkins
 FEMME FATALE FIRST NAMES
-<li>Alouette</li>
+<ol><li>Alouette</li>
 <li>Amaya</li>
 <li>Angel</li>
 <li>Babylon</li>
@@ -20,9 +20,9 @@ FEMME FATALE FIRST NAMES
 <li>Moira</li>
 <li>Persephone</li>
 <li>Ursula</li>
-<li>Veronica</li>
+<li>Veronica</li></ol>
 FEMME FATALE LAST NAMES
-<li>Beaudoin</li>
+<ol><li>Beaudoin</li>
 <li>Calico</li>
 <li>Dumont</li>
 <li>Esco</li>
@@ -41,9 +41,9 @@ FEMME FATALE LAST NAMES
 <li>Senkinski</li>
 <li>Van Dyne</li>
 <li>Weir</li>
-<li>Roll or choose two and hyphenate</li>
+<li>Roll or choose two and hyphenate</li></ol>
 SERIAL KILLER MEDIA NAMES
-<li>The Alphabet Man</li>
+<ol><li>The Alphabet Man</li>
 <li>The Barfly's Friend</li>
 <li>The Birthday Sniper</li>
 <li>The Countdown Killer</li>
@@ -62,9 +62,9 @@ SERIAL KILLER MEDIA NAMES
 <li>The Slow Stalker</li>
 <li>The Sunshine Thief</li>
 <li>The Town Square Carver</li>
-<li>The Wristwatch Strangler</li>
+<li>The Wristwatch Strangler</li></ol>
 MOBSTERS
-<li>Ralph "the Fish" Castelletti</li>
+<ol><li>Ralph "the Fish" Castelletti</li>
 <li>"Butcher Knife" Giorgio</li>
 <li>Nicky Scarface</li>
 <li>"Violent Vinny" D'Angelo</li>
@@ -83,9 +83,9 @@ MOBSTERS
 <li>Giuseppe "the Bishop" DiMarco</li>
 <li>Crazy Carmine Aiello</li>
 <li>Petey "The Weasel" Amato</li>
-<li>Vito "Meat Fist" Gambino</li>
+<li>Vito "Meat Fist" Gambino</li></ol>
 FAMOUS GUN MOLLS
-<li>Bonnie Parker</li>
+<ol><li>Bonnie Parker</li>
 <li>Blanche Barrow</li>
 <li>Beulah Baird</li>
 <li>Jean Delaney Crompton</li>
@@ -104,10 +104,10 @@ FAMOUS GUN MOLLS
 <li>Vi Matthis</li>
 <li>Ora Shannon</li>
 <li>Kathryn Kelly</li>
-<li>Beth Green</li>
+<li>Beth Green</li></ol>
 NICKNAMES
 Choose one from this list, and add to one first name and surname - maybe from the Italian list.
-<li>Lucky</li>
+<ol><li>Lucky</li>
 <li>Fingers</li>
 <li>The Bull</li>
 <li>Knuckles</li>
@@ -126,9 +126,9 @@ Choose one from this list, and add to one first name and surname - maybe from th
 <li>Mad Dog</li>
 <li>The Enforcer</li>
 <li>Iceman</li>
-<li>Nails</li>
+<li>Nails</li></ol>
 FAMOUS GODFATHERS
-<li>Giuseppe "Clutch Hand" Morello (New York).</li>
+<ol><li>Giuseppe "Clutch Hand" Morello (New York).</li>
 <li>Giuseppe "Joe" Aiello (Chicago)</li>
 <li>Al "Scarface" Capone, (Chicago)</li>
 <li>Steve Ferrigno, (New York).</li>
@@ -147,4 +147,4 @@ FAMOUS GODFATHERS
 <li>Sam "MoMo" Giancana, a.k.a. "Mooney" or "Sammy the Cigar" (Chicago)</li>
 <li>Carlos Marcello (New Orleans)</li>
 <li>Willie Moretti (New Jersey) `</li>
-<li>Santo Trafficante Sr (Miami and Tampa)</li>
+<li>Santo Trafficante Sr (Miami and Tampa)</li></ol>

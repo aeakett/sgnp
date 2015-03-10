@@ -1,7 +1,7 @@
 ﻿IRISH
 Compiled by Moyra Turkington and Jason Morningstar 
 IRISH MALE
-<li>Brendan</li>
+<ol><li>Brendan</li>
 <li>Ryan</li>
 <li>Kyle</li>
 <li>Sean</li>
@@ -20,9 +20,9 @@ IRISH MALE
 <li>Ross</li>
 <li>Rory </li>
 <li>Kelly</li>
-<li>Declan</li>
+<li>Declan</li></ol>
 IRISH FEMALE
-<li>Fiona</li>
+<ol><li>Fiona</li>
 <li>Brianna</li>
 <li>Maura</li>
 <li>Sheila</li>
@@ -41,9 +41,9 @@ IRISH FEMALE
 <li>Kathleen</li>
 <li>Patricia</li>
 <li>Tara</li>
-<li>Bridget</li>
+<li>Bridget</li></ol>
 IRISH SURNAMES
-<li>Murphy</li>
+<ol><li>Murphy</li>
 <li>Kelly</li>
 <li>O'Sullivan</li>
 <li>Walsh</li>
@@ -62,9 +62,9 @@ IRISH SURNAMES
 <li>Lynch</li>
 <li>Murray</li>
 <li>Quinn</li>
-<li>Campbell</li>
+<li>Campbell</li></ol>
 MALE FOLK 
-<li>Bóinn (boe-in)</li>
+<ol><li>Bóinn (boe-in)</li>
 <li>Bóraimhe (boe-riv-eh)</li>
 <li>Céadach (kai-dukh)</li>
 <li>Ciarán (kee-ur-aun)</li>
@@ -83,9 +83,9 @@ MALE FOLK
 <li>Padraig (pau-drig)</li>
 <li>Suibhne (swiv-neh)</li>
 <li>Tighearnmhas (tee-urn-vus)</li>
-<li>Ughaine (oo-in-eh)</li>
+<li>Ughaine (oo-in-eh)</li></ol>
 FEMALE FOLK
-<li>Aoibheall (ee-vul)</li>
+<ol><li>Aoibheall (ee-vul)</li>
 <li>Aoife (ee-fa)</li>
 <li>Brighid (bri-yid)</li>
 <li>Broicseach (bree-ksee-akh)</li>
@@ -104,4 +104,4 @@ FEMALE FOLK
 <li>Rionach (ree-in-ock)</li>
 <li>Sorcha (surk-ha)</li>
 <li>Tailtiu (toll-teu)</li>
-<li>Yseult (ee-solt)</li>
+<li>Yseult (ee-solt)</li></ol>

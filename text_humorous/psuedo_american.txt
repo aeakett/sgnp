@@ -1,7 +1,7 @@
 ﻿PSEUDO-AMERICAN
 Compiled by Graham Walmsley
 MALE
-<li>Yo</li>
+<ol><li>Yo</li>
 <li>The Rock</li>
 <li>Whoah</li>
 <li>Gee</li>
@@ -20,9 +20,9 @@ MALE
 <li>Newt</li>
 <li>Randy</li>
 <li>Will</li>
-<li>Jamie</li>
+<li>Jamie</li></ol>
 FEMALE
-<li>Jenny</li>
+<ol><li>Jenny</li>
 <li>Randy</li>
 <li>Unique</li>
 <li>Brandy</li>
@@ -41,9 +41,9 @@ FEMALE
 <li>Grace</li>
 <li>Martha</li>
 <li>Shelley</li>
-<li>Jamie</li>
+<li>Jamie</li></ol>
 SURNAMES
-<li>McDonald</li>
+<ol><li>McDonald</li>
 <li>Greenspan</li>
 <li>Gingrich</li>
 <li>Gates</li>
@@ -62,10 +62,10 @@ SURNAMES
 <li>Letterman</li>
 <li>Macy</li>
 <li>Gecko</li>
-<li>Reagan</li>
+<li>Reagan</li></ol>
 GENERATOR
 For an authentic-sounding American name, just combine three or four of these parts.
-<li>john-</li>
+<ol><li>john-</li>
 <li>-stein</li>
 <li>elli-</li>
 <li> - the third </li>
@@ -84,4 +84,4 @@ For an authentic-sounding American name, just combine three or four of these par
 <li>-son-</li>
 <li>-sin-</li>
 <li>- junior </li>
-<li>-let-</li>
+<li>-let-</li></ol>

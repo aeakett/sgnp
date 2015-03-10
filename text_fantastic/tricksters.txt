@@ -1,6 +1,6 @@
 ﻿TRICKSTERS
 Compiled by Moyra Turkington
-<li>Anansi, Ashanti mythology</li>
+<ol><li>Anansi, Ashanti mythology</li>
 <li>Exu, Yoruban mythology</li>
 <li>Loki, Norse mythology</li>
 <li>Iktomi Heyoka, Lakota mythology</li>
@@ -19,4 +19,4 @@ Compiled by Moyra Turkington
 <li>Kokopelli, Hopi and Zuni mythology</li>
 <li>Amaguq, Inuit mythology</li>
 <li>Púca, Irish mythology</li>
-<li>Ueuecoyotl, Aztec mythology</li>
+<li>Ueuecoyotl, Aztec mythology</li></ol>

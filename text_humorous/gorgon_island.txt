@@ -3,7 +3,7 @@ Compiled by Team Story-Games
 NOTES
 These names were the result of an informal contest to name the iconic characters appearing with the warrior woman Fyren Cloudfloater in the Drowning and Falling Role-playing Game.  The winners were Gwarl Ovensinger (Dwarfling), Mabel Firewind (Wizard), Silverblade Spellweaver (Elf), and, of course, Jaesyn the Mørnyngstär (Cleric).
 MALE NAMES 
-<li>Galbraith Godhands</li>
+<ol><li>Galbraith Godhands</li>
 <li>Achilles Questar</li>
 <li>Ratic'ss The wary</li>
 <li>Ehe Yore</li>
@@ -22,9 +22,9 @@ MALE NAMES
 <li>Smytar Holinson</li>
 <li>Bangledancer-Who-Descends</li>
 <li>Gwarl Ovensinger</li>
-<li>Nevryn</li>
+<li>Nevryn</li></ol>
 FEMALE NAMES 
-<li>Zwell Neumoonsdattir</li>
+<ol><li>Zwell Neumoonsdattir</li>
 <li>Mathilda Sturmbottom</li>
 <li>Moonbeam Skylight</li>
 <li>Freen the Enchantress</li>
@@ -43,4 +43,4 @@ FEMALE NAMES
 <li>Panta Lune</li>
 <li>C'rylla</li>
 <li>Mystarikka</li>
-<li>Fyren Cloudfloater</li>
+<li>Fyren Cloudfloater</li></ol>

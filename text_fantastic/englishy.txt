@@ -3,7 +3,7 @@ Compiled by Joshua BishopRoby
 NOTES
 The eight lists following the given names are intended to be used together.  The lists contain common parts of names used in England for place names, surnames, noble domains, and occasionally first names.  Names are created by taking two or three (or sometimes four) parts and putting them together.  The name-parts are labeled with hyphens at their ends if they usually begin names, at their beginnings if they usually end names, and at their beginnings and ends if they can be used for either or used in the middle of a name.  When creating a name, you can add an 's' or 'in' between any of your selected parts.  The meaning of each name-part is listed in parentheses.
 MALE NAMES
-<li>John </li>
+<ol><li>John </li>
 <li>Thomas </li>
 <li>William </li>
 <li>Richard </li>
@@ -22,9 +22,9 @@ MALE NAMES
 <li>Edmund </li>
 <li>Ralph </li>
 <li>Peter </li>
-<li>Andrew </li>
+<li>Andrew </li></ol>
 FEMALE NAMES
-<li>Elizabeth </li>
+<ol><li>Elizabeth </li>
 <li>Mary </li>
 <li>Anne </li>
 <li>Margaret </li>
@@ -43,9 +43,9 @@ FEMALE NAMES
 <li>Grace </li>
 <li>Bridget </li>
 <li>Margery </li>
-<li>Martha </li>
+<li>Martha </li></ol>
 ADJECTIVE LIST
-<li>sher-	(bright, clear)</li>
+<ol><li>sher-	(bright, clear)</li>
 <li>cald-	(cold)</li>
 <li>col-	(dark, coal)</li>
 <li>blake-	(extreme)</li>
@@ -64,9 +64,9 @@ ADJECTIVE LIST
 <li>wes(t)-	(western)</li>
 <li>whit-	(white)</li>
 <li>-brad-	(wide)</li>
-<li>g(u)il-	(yellow)</li>
+<li>g(u)il-	(yellow)</li></ol>
 CULTURAL LIST 1
-<li>brew-	(brewery)</li>
+<ol><li>brew-	(brewery)</li>
 <li>-bridg(e)-	(bridge)</li>
 <li>-brig-	(bridge)</li>
 <li>-chester-	(camp)</li>
@@ -85,9 +85,9 @@ CULTURAL LIST 1
 <li>bran(d)-	(fire, burnt)</li>
 <li>brin-	(fire, burnt)</li>
 <li>haw-	(hedge)</li>
-<li>hay-	(hedge)</li>
+<li>hay-	(hedge)</li></ol>
 CULTURAL LIST 2
-<li>-ham	(home)</li>
+<ol><li>-ham	(home)</li>
 <li>king-	(king's)</li>
 <li>mel-	(mill)</li>
 <li>mil-	(mill)</li>
@@ -106,9 +106,9 @@ CULTURAL LIST 2
 <li>wal-	(wall)</li>
 <li>war-	(weir)</li>
 <li>-vell	(well)</li>
-<li>-well-	(well)</li>
+<li>-well-	(well)</li></ol>
 FLORA LIST
-<li>ash-	(ash tree)</li>
+<ol><li>ash-	(ash tree)</li>
 <li>bere-	(barley)</li>
 <li>bark-	(birche tree)</li>
 <li>birk-	(birche tree)</li>
@@ -127,9 +127,9 @@ FLORA LIST
 <li>wil(l)-	(willow tree)</li>
 <li>willough-	(willow tree)</li>
 <li>york-	(yew tree)</li>
-<li>ive-	(yew tree)</li>
+<li>ive-	(yew tree)</li></ol>
 GEOGRAPHY LIST 1
-<li>-et	(area)</li>
+<ol><li>-et	(area)</li>
 <li>-bain-	(bath, water)</li>
 <li>-water-	(body of water)</li>
 <li>-beck-	(brook)</li>
@@ -148,9 +148,9 @@ GEOGRAPHY LIST 1
 <li>law-	(hill)</li>
 <li>hol-	(hollow)</li>
 <li>-ey	(island)</li>
-<li>-key	(island)</li>
+<li>-key	(island)</li></ol>
 GEOGRAPHY LIST 2
-<li>-sey	(island)</li>
+<ol><li>-sey	(island)</li>
 <li>-lake-	(lake)</li>
 <li>-more	(lake, swamp, marsh)</li>
 <li>mar-	(lake, swamp, marsh)</li>
@@ -169,9 +169,9 @@ GEOGRAPHY LIST 2
 <li>-dal(e)-	(valley)</li>
 <li>-del-	(valley)</li>
 <li>-den-	(valley)</li>
-<li>-ell	(valley)</li>
+<li>-ell	(valley)</li></ol>
 FAUNA LIST
-<li>bever-	(beaver)</li>
+<ol><li>bever-	(beaver)</li>
 <li>bor-	(boar)</li>
 <li>ever-	(boar)</li>
 <li>cran-	(cranes)</li>
@@ -190,9 +190,9 @@ FAUNA LIST
 <li>-cok(l)-	(chicken)</li>
 <li>newt-	(newt)</li>
 <li>-fisk-	(fish)</li>
-<li>-hund-	(dog)</li>
+<li>-hund-	(dog)</li></ol>
 PERSONAL / SOCIAL LIST
-<li>ald-	(old)</li>
+<ol><li>ald-	(old)</li>
 <li>-bert	(noble)</li>
 <li>cad-	(warrior)</li>
 <li>ed-	(wealth)</li>
@@ -211,4 +211,4 @@ PERSONAL / SOCIAL LIST
 <li>-ward-	(protector)</li>
 <li>-web	(weaver)</li>
 <li>-win-	(friend)</li>
-<li>-wright	(builder/maker)</li>
+<li>-wright	(builder/maker)</li></ol>

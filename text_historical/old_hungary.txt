@@ -3,7 +3,7 @@ Compiled by Jason Morningstar
 NOTES
 In Hungary, the surname is placed first.  A woman's formal name is constructed from her husband's name by adding a suffix (-ne) to his given name.  So Mr. Molnár Jakab's wife would be Molnár Jakabne in polite company, but perhaps Anna at home.  These lists are from around 1500.  
 MALE
-<li>Ambrus</li>
+<ol><li>Ambrus</li>
 <li>Máté</li>
 <li>Antal</li>
 <li>Bálint</li>
@@ -22,9 +22,9 @@ MALE
 <li>Mihály</li>
 <li>Balázs</li>
 <li>Péter</li>
-<li>Tamás</li>
+<li>Tamás</li></ol>
 FEMALE
-<li>Adel </li>
+<ol><li>Adel </li>
 <li>Krisztina</li>
 <li>Magdolna</li>
 <li>Agáta</li>
@@ -43,9 +43,9 @@ FEMALE
 <li>Fruzsina</li>
 <li>Piroska</li>
 <li>Sára</li>
-<li>Zsófia</li>
+<li>Zsófia</li></ol>
 SURNAMES
-<li>Nagy </li>
+<ol><li>Nagy </li>
 <li>Kovács / smith</li>
 <li>Tóth </li>
 <li>Szabó / tailor</li>
@@ -64,4 +64,4 @@ SURNAMES
 <li>Fekete / black</li>
 <li>Szilágyi </li>
 <li>Fehér / white</li>
-<li>Balázs </li>
+<li>Balázs </li></ol>

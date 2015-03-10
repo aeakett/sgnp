@@ -24,7 +24,7 @@ People from HK and Taiwan (and Macao, and Singapore) love hyphens.  Hyphenate th
 Chinese people in other parts of the world (the diaspora) are not especially consistent.  Look up a bunch of Chinese names in the area you want your character to be from and punctuate your name accordingly.
 COMMON SURNAMES 1 
 (Pinyin / Wade-Giles / HK/Cantonese)
-<li>Li / Li / Lee		</li>
+<ol><li>Li / Li / Lee		</li>
 <li>Wang / Wang / Wong</li>
 <li>Zhang / Chang / Cheung</li>
 <li>Liu / Liu / Lau</li>
@@ -43,10 +43,10 @@ COMMON SURNAMES 1
 <li>Lin / Lin / Lam</li>
 <li>He / He / Ho</li>
 <li>Gao / Kao / Ko</li>
-<li>Liang / Liang / Leung</li>
+<li>Liang / Liang / Leung</li></ol>
 COMMON SURNAMES 2 
 (Pinyin / Wade-Giles / HK/Cantonese)
-<li>Zheng / Cheng / Cheng</li>
+<ol><li>Zheng / Cheng / Cheng</li>
 <li>Luo / Lo / Lo</li>
 <li>Song / Sung / Soong</li>
 <li>Xie / Hsieh / Tse</li>
@@ -65,10 +65,10 @@ COMMON SURNAMES 2
 <li>Yuan / Yuan / Yuen</li>
 <li>Yu / Yu / Yue</li>
 <li>Dong / Tung / Tung</li>
-<li>Yu / Yu / Yee</li>
+<li>Yu / Yu / Yee</li></ol>
 COMPOUND SURNAMES 
 (Pinyin and HK/Cantonese)
-<li>Baili / Pak Lee</li>
+<ol><li>Baili / Pak Lee</li>
 <li>Dongfang / Tung Fong				</li>
 <li>Duanmu / Tuen Muk			</li>
 <li>Gongsun / Kung Suen	</li>
@@ -87,9 +87,9 @@ COMPOUND SURNAMES
 <li>Zhangsun / Cheung Suen					</li>
 <li>Zhuge / Chu Kok	</li>
 <li>Zhurong / Chok Yung 		</li>
-<li>Zuoren / Tso Yan</li>
+<li>Zuoren / Tso Yan</li></ol>
 FEMALE MANDARIN GIVEN NAMES 1
-<li>Yandong</li>
+<ol><li>Yandong</li>
 <li>Jianxiu</li>
 <li>Luli</li>
 <li>Xiulian</li>
@@ -108,9 +108,9 @@ FEMALE MANDARIN GIVEN NAMES 1
 <li>Xiuli</li>
 <li>Lili</li>
 <li>Yinting</li>
-<li>Paihong</li>
+<li>Paihong</li></ol>
 MALE MANDARIN GIVEN NAMES 1
-<li>Zhongyu</li>
+<ol><li>Zhongyu</li>
 <li>Hui</li>
 <li>Jin</li>
 <li>Siqin</li>
@@ -129,9 +129,9 @@ MALE MANDARIN GIVEN NAMES 1
 <li>Zhaoguo</li>
 <li>Tieying</li>
 <li>Huaren</li>
-<li>Jialu</li>
+<li>Jialu</li></ol>
 FEMALE MANDARIN GIVEN NAMES 2
-<li>Lihua</li>
+<ol><li>Lihua</li>
 <li>Huirong</li>
 <li>Mei</li>
 <li>Hongwu</li>
@@ -150,9 +150,9 @@ FEMALE MANDARIN GIVEN NAMES 2
 <li>Qin</li>
 <li>Li</li>
 <li>Luming</li>
-<li>Xianglan</li>
+<li>Xianglan</li></ol>
 MALE MANDARIN GIVEN NAMES 2
-<li>Shisun</li>
+<ol><li>Shisun</li>
 <li>Yongxiang</li>
 <li>Qide</li>
 <li>Bangguo</li>
@@ -171,9 +171,9 @@ MALE MANDARIN GIVEN NAMES 2
 <li>Zhiyuan</li>
 <li>Xilong</li>
 <li>Yang</li>
-<li>Chunwang</li>
+<li>Chunwang</li></ol>
 HK/CANTONESE FEMALE GIVEN NAMES
-<li>Shuk-Yee</li>
+<ol><li>Shuk-Yee</li>
 <li>Chung-Yee</li>
 <li>Sau-Tung</li>
 <li>Mei-Mei</li>
@@ -192,9 +192,9 @@ HK/CANTONESE FEMALE GIVEN NAMES
 <li>Chun-Chi</li>
 <li>Fung-Ying</li>
 <li>Lei-Kuan</li>
-<li>Ai-Kyeu</li>
+<li>Ai-Kyeu</li></ol>
 HK/CANTONESE MALE GIVEN NAMES 
-<li>Si-Yan</li>
+<ol><li>Si-Yan</li>
 <li>Ming-Yueng</li>
 <li>Ying-Yen</li>
 <li>Yan-Lung</li>
@@ -213,9 +213,9 @@ HK/CANTONESE MALE GIVEN NAMES
 <li>Yeh-Kwong</li>
 <li>Che-Hung</li>
 <li>Kin-Tung</li>
-<li>Hung-Ling</li>
+<li>Hung-Ling</li></ol>
 COMMON FEMALE HK ENGLISH NAMES 
-<li>Selina</li>
+<ol><li>Selina</li>
 <li>Sarah</li>
 <li>Denise</li>
 <li>Kelly</li>
@@ -234,9 +234,9 @@ COMMON FEMALE HK ENGLISH NAMES
 <li>Sally</li>
 <li>Isabella</li>
 <li>Mandy</li>
-<li>Rachel</li>
+<li>Rachel</li></ol>
 COMMON MALE HK ENGLISH NAMES 
-<li>Donald / Donny</li>
+<ol><li>Donald / Donny</li>
 <li>Henry</li>
 <li>Michael</li>
 <li>Joseph / Joe</li>
@@ -255,4 +255,4 @@ COMMON MALE HK ENGLISH NAMES
 <li>Edison</li>
 <li>Aaron</li>
 <li>Anthony / Tony</li>
-<li>Nicolas</li>
+<li>Nicolas</li></ol>

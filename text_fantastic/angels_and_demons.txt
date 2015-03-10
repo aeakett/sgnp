@@ -3,7 +3,7 @@ Compiled by Shreyas Sampat
 NOTES
 These are names intended for less-prominent agents of the two sides; they're all taken from various lore. Most of these are appropriate for an angel of any gender, but I've divided them into a masculine and feminine list based on my intuitions about English names.
 MASCULINE NAMES 
-<li>Yurkemo</li>
+<ol><li>Yurkemo</li>
 <li>Metatron</li>
 <li>Ofaniel</li>
 <li>Padael</li>
@@ -22,9 +22,9 @@ MASCULINE NAMES
 <li>Fanuel</li>
 <li>Admael</li>
 <li>Kemuel</li>
-<li>Tebliel</li>
+<li>Tebliel</li></ol>
 FEMININE NAMES 
-<li>Ra'uel</li>
+<ol><li>Ra'uel</li>
 <li>Akraziel</li>
 <li>Sarakiel</li>
 <li>Zephaniah</li>
@@ -43,9 +43,9 @@ FEMININE NAMES
 <li>Yehadriel</li>
 <li>Baradiel</li>
 <li>Haldiel</li>
-<li>Zadkiel</li>
+<li>Zadkiel</li></ol>
 TITLES OF ANGELS
-<li>Whose Crown Branches Out</li>
+<ol><li>Whose Crown Branches Out</li>
 <li>The Angel of the Face</li>
 <li>Bearer of His Arm</li>
 <li>Lord of the Fruit-Bearing</li>
@@ -64,9 +64,9 @@ TITLES OF ANGELS
 <li>The Innumerable One</li>
 <li>Sealer of the Guilty</li>
 <li>He Opens the Door</li>
-<li>The Golden One</li>
+<li>The Golden One</li></ol>
 DEMONS
-<li>Erathaol</li>
+<ol><li>Erathaol</li>
 <li>Nagrasagiel</li>
 <li>Kezef</li>
 <li>Dachiel</li>
@@ -85,4 +85,4 @@ DEMONS
 <li>Mekalleh</li>
 <li>Hariel</li>
 <li>Pusiel</li>
-<li>Rogziel</li>
+<li>Rogziel</li></ol>

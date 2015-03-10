@@ -2,7 +2,7 @@
 By Jason Morningstar
 
 LOWLAND SURNAMES
-<li>Czuto</li>
+<ol><li>Czuto</li>
 <li>Lech</li>
 <li>Czamin</li>
 <li>Ánamem</li>
@@ -21,10 +21,10 @@ LOWLAND SURNAMES
 <li>Ámobin</li>
 <li>Memuko</li>
 <li>Metnano</li>
-<li>Czumu</li>
+<li>Czumu</li></ol>
 
 HIGHLAND SURNAMES
-<li>Nechkethi</li>
+<ol><li>Nechkethi</li>
 <li>Bithan</li>
 <li>Czichamot</li>
 <li>Techmitim</li>
@@ -43,10 +43,10 @@ HIGHLAND SURNAMES
 <li>Merátita</li>
 <li>Tichechkin</li>
 <li>Manechu</li>
-<li>Medzech</li>
+<li>Medzech</li></ol>
 
 MALE 1
-<li>Een</li>
+<ol><li>Een</li>
 <li>Temu</li>
 <li>Naum</li>
 <li>Mumat</li>
@@ -65,10 +65,10 @@ MALE 1
 <li>Eakem</li>
 <li>Tenan</li>
 <li>Tan</li>
-<li>Katre</li>
+<li>Katre</li></ol>
 
 MALE 2
-<li>Nune</li>
+<ol><li>Nune</li>
 <li>Teon</li>
 <li>Sadzi</li>
 <li>Tine</li>
@@ -87,10 +87,10 @@ MALE 2
 <li>Banat</li>
 <li>Maon</li>
 <li>Amat</li>
-<li>Umun</li>
+<li>Umun</li></ol>
 
 FEMALE 1
-<li>Rimika</li>
+<ol><li>Rimika</li>
 <li>Kunia</li>
 <li>Tema</li>
 <li>Eena</li>
@@ -109,10 +109,10 @@ FEMALE 1
 <li>Teora</li>
 <li>Rameche</li>
 <li>Rena</li>
-<li>Aem</li>
+<li>Aem</li></ol>
 
 FEMALE 2
-<li>Yichána</li>
+<ol><li>Yichána</li>
 <li>Chemea</li>
 <li>Mena</li>
 <li>Nuna</li>
@@ -131,10 +131,10 @@ FEMALE 2
 <li>Yeneki</li>
 <li>Maona</li>
 <li>Dziná</li>
-<li>Áyani</li>
+<li>Áyani</li></ol>
 
 PLACE NAMES
-<li>Yeczána</li>
+<ol><li>Yeczána</li>
 <li>Echmetáan</li>
 <li>Titechametin</li>
 <li>Maitun</li>
@@ -153,6 +153,6 @@ PLACE NAMES
 <li>Sumudz</li>
 <li>Nantete</li>
 <li>Nau Tuthima</li>
-<li>Othá Nechkethi</li>
+<li>Othá Nechkethi</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

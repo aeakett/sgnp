@@ -3,7 +3,7 @@ Compiled by Radek Drozdalski and Jason Morningstar
 NOTES
 "Grey Ranks" is the name of Polish Boy Scout and Girl Guide groups who participated in the underground resistance to Nazi occupation during the second world war.  These names and pseudonyms are taken from the actual Grey Ranks rolls as reprinted in Szare Szeregi:  Harcerze, 1939-1945, published by Panstwowe Wydawnictwo Naukowe in 1988.  Personal names are often followed by a diminutive or two.  These might be used informally or as an alternative to the full name.  Every partisan also had a pseudonym - sometimes this was the only name squad-mates even knew.  
 MALE
-<li>Adam / Adas</li>
+<ol><li>Adam / Adas</li>
 <li>Witold / Witek</li>
 <li>Marek</li>
 <li>Jan / Janek</li>
@@ -22,9 +22,9 @@ MALE
 <li>Maciej / Maciek</li>
 <li>Robert</li>
 <li>Stanislaw / Stas</li>
-<li>Lech / Leszek</li>
+<li>Lech / Leszek</li></ol>
 FEMALE
-<li>Janina / Jasia / Janinka</li>
+<ol><li>Janina / Jasia / Janinka</li>
 <li>Maria / Maja</li>
 <li>Irena / Irka / Irenka</li>
 <li>Zofia / Zosia</li>
@@ -43,9 +43,9 @@ FEMALE
 <li>Ludwika / Zenka</li>
 <li>Lidia / Lidka</li>
 <li>Honorata / Honoratka</li>
-<li>Elzbieta / Zunia</li>
+<li>Elzbieta / Zunia</li></ol>
 MALE PSEUDONYMS 1
-<li>Grom</li>
+<ol><li>Grom</li>
 <li>Ren</li>
 <li>Dzik</li>
 <li>Rost</li>
@@ -64,9 +64,9 @@ MALE PSEUDONYMS 1
 <li>Kujawiak</li>
 <li>Zbik</li>
 <li>Dab</li>
-<li>Gigant</li>
+<li>Gigant</li></ol>
 FEMALE PSEUDONYMS
-<li>Tosia</li>
+<ol><li>Tosia</li>
 <li>Diana</li>
 <li>Kozak</li>
 <li>Lucja</li>
@@ -85,9 +85,9 @@ FEMALE PSEUDONYMS
 <li>Roma</li>
 <li>Rafal</li>
 <li>Magda</li>
-<li>Ola</li>
+<li>Ola</li></ol>
 MALE PSEUDONYMS 2
-<li>Gurt</li>
+<ol><li>Gurt</li>
 <li>Hardy</li>
 <li>Jagiello</li>
 <li>Jedrus</li>
@@ -106,9 +106,9 @@ MALE PSEUDONYMS 2
 <li>Szelag</li>
 <li>Ryba</li>
 <li>Piechocinski</li>
-<li>Konrad</li>
+<li>Konrad</li></ol>
 UNUSUAL PSEUDONYMS
-<li>Elf</li>
+<ol><li>Elf</li>
 <li>Baca</li>
 <li>Bamba</li>
 <li>Hulajnoga</li>
@@ -127,9 +127,9 @@ UNUSUAL PSEUDONYMS
 <li>Pelikan</li>
 <li>Elektryk</li>
 <li>Tyka</li>
-<li>Mar</li>
+<li>Mar</li></ol>
 SURNAMES 1
-<li>Augustynska</li>
+<ol><li>Augustynska</li>
 <li>Zielewicz</li>
 <li>Bartnik</li>
 <li>Darda</li>
@@ -148,9 +148,9 @@ SURNAMES 1
 <li>Stefanowska</li>
 <li>Kasperska</li>
 <li>Nauman</li>
-<li>Wiekowska</li>
+<li>Wiekowska</li></ol>
 SURNAMES 2
-<li>Sikorska</li>
+<ol><li>Sikorska</li>
 <li>Jarkowska</li>
 <li>Herman</li>
 <li>Vorbrodt</li>
@@ -169,9 +169,9 @@ SURNAMES 2
 <li>Grzeszczak</li>
 <li>Slubicki</li>
 <li>Wiwatowski</li>
-<li>Sawicka</li>
+<li>Sawicka</li></ol>
 SURNAMES 3
-<li>Hoffman</li>
+<ol><li>Hoffman</li>
 <li>Kacprzak</li>
 <li>Borowicz</li>
 <li>Czarnecka</li>
@@ -190,9 +190,9 @@ SURNAMES 3
 <li>Dunin</li>
 <li>Edelman</li>
 <li>Huskowski</li>
-<li>Jastrzebska</li>
+<li>Jastrzebska</li></ol>
 SURNAMES 4
-<li>Butkiewicz</li>
+<ol><li>Butkiewicz</li>
 <li>Ceglowska</li>
 <li>Jaszczuk</li>
 <li>Kabanski</li>
@@ -211,4 +211,4 @@ SURNAMES 4
 <li>Gral</li>
 <li>Grabowska</li>
 <li>Kapusta</li>
-<li>Zwolinski</li>
+<li>Zwolinski</li></ol>

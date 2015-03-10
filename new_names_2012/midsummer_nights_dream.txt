@@ -2,7 +2,7 @@
 Compiled by Nick Wedig
 
 MALE ATHENIANS
-<li>Autolycus</li>
+<ol><li>Autolycus</li>
 <li>Phaeton</li>
 <li>Endymion</li>
 <li>Thidias</li>
@@ -21,10 +21,10 @@ MALE ATHENIANS
 <li>Mucedorus</li>
 <li>Segasto</li>
 <li>Pericles</li>
-<li>Phedrastus</li>
+<li>Phedrastus</li></ol>
 
 FEMALE ATHENIANS
-<li>Lucia</li>
+<ol><li>Lucia</li>
 <li>Timandra</li>
 <li>Cornelia</li>
 <li>Atalanta</li>
@@ -43,10 +43,10 @@ FEMALE ATHENIANS
 <li>Timoclea</li>
 <li>Andromache</li>
 <li>Marina</li>
-<li>Dionyza</li>
+<li>Dionyza</li></ol>
 
 RUDE MECHANICALS
-<li>Catchpole, who finds and catches debtors</li>
+<ol><li>Catchpole, who finds and catches debtors</li>
 <li>Thimblerigger, runs a crooked shell game</li>
 <li>Stewsman, the brothel keeper</li>
 <li>Eggler, an egg merchant</li>
@@ -65,10 +65,10 @@ RUDE MECHANICALS
 <li>Frobisher, who polishes the armor and weapons of the local lord</li>
 <li>Trinder, a wheelwright</li>
 <li>Allwit, whose wife is cheating on him</li>
-<li>Abhorson, an executioner</li>
+<li>Abhorson, an executioner</li></ol>
 
 FAIRIES
-<li>Bilberry</li>
+<ol><li>Bilberry</li>
 <li>Love-in-a-puzzle</li>
 <li>Black Annis</li>
 <li>Ranunculus</li>
@@ -87,14 +87,14 @@ FAIRIES
 <li>Mouse-Ear</li>
 <li>Four O'Clock</li>
 <li>Hollyhock</li>
-<li>Cathchfly</li>
+<li>Cathchfly</li></ol>
 
 
 ELIZABETHAN PLAYS
 Suitable for performance by a party of rude mechanicals 
 (Taken from http://homepage.mac.com/tomdalekeever/earlymodern.html)
 
-<li>Alarum of London</li>
+<ol><li>Alarum of London</li>
 <li>The Spanish Tragedy, or Hieronimo is Mad Again</li>
 <li>The Shoemaker's Holiday, or The Gentle Craft</li>
 <li>A Chaste Maid in Cheapside</li>
@@ -113,10 +113,10 @@ Suitable for performance by a party of rude mechanicals
 <li>Christmas Come But Once a Year</li>
 <li>The Late Murder of the Son upon the Mother, or Keep the Widow Waking</li>
 <li>Satiromastix</li>
-<li>Oberon, the Faery Prince</li>
+<li>Oberon, the Faery Prince</li></ol>
 
 MORE ELIZABETHAN PLAYS
-<li>Epicoene, or the Silent Woman</li>
+<ol><li>Epicoene, or the Silent Woman</li>
 <li>The Devil is an Ass</li>
 <li>Four Prentises of London</li>
 <li>The Knight of Burning Pestle</li>
@@ -135,6 +135,6 @@ MORE ELIZABETHAN PLAYS
 <li>Herpetulus the Blue Knight and Perobia</li>
 <li>The Mask of Owls</li>
 <li>Tis Pity She's a Whore</li>
-<li>Tis No Deceit to Deceive the Deceiver</li>
+<li>Tis No Deceit to Deceive the Deceiver</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

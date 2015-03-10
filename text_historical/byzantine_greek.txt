@@ -18,7 +18,7 @@ To feminize family names, convert endings as follows:
 -tes to -tissa 
 -as to -ina (but drop the s first)
 MALE NAMES
-<li>Christophoros</li>
+<ol><li>Christophoros</li>
 <li>Ioannes</li>
 <li>Konstantinos</li>
 <li>Makarios</li>
@@ -37,9 +37,9 @@ MALE NAMES
 <li>Nikodemos</li>
 <li>Basileios</li>
 <li>Petros</li>
-<li>Andronikos</li>
+<li>Andronikos</li></ol>
 FEMALE NAMES
-<li>Maria</li>
+<ol><li>Maria</li>
 <li>Anna</li>
 <li>Eugenia</li>
 <li>Xene</li>
@@ -58,9 +58,9 @@ FEMALE NAMES
 <li>Stania</li>
 <li>Theofana</li>
 <li>Christina</li>
-<li>Xanthe</li>
+<li>Xanthe</li></ol>
 SURNAMES 1
-<li>Dalassenos</li>
+<ol><li>Dalassenos</li>
 <li>Gabras</li>
 <li>Komnenos</li>
 <li>Melachrinos</li>
@@ -79,9 +79,9 @@ SURNAMES 1
 <li>Aprenos</li>
 <li>Eirenikos</li>
 <li>Kaloethes</li>
-<li>Paraspondylos</li>
+<li>Paraspondylos</li></ol>
 SURNAMES 2
-<li>Choumnos</li>
+<ol><li>Choumnos</li>
 <li>Glabas</li>
 <li>Kontostephanos</li>
 <li>Agallon</li>
@@ -100,9 +100,9 @@ SURNAMES 2
 <li>Angelos</li>
 <li>Philanthropenos</li>
 <li>Sebastopoulos</li>
-<li>Rossatas</li>
+<li>Rossatas</li></ol>
 BY-NAMES (Appropriate for peasants only)
-<li>Trykalas (potter)</li>
+<ol><li>Trykalas (potter)</li>
 <li>Alieus (fisherman)</li>
 <li>Makellares (butcher)</li>
 <li>Iereus (priest)</li>
@@ -121,4 +121,4 @@ BY-NAMES (Appropriate for peasants only)
 <li>Krasopolia (wineseller)</li>
 <li>Gounaras (furrier)</li>
 <li>Ktistes (mason)</li>
-<li>Pelekanos (carpenter)</li>
+<li>Pelekanos (carpenter)</li></ol>

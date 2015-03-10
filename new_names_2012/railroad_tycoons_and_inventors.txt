@@ -3,7 +3,7 @@ Complied by Rachel E.S. Walton
 GENERAL NOTES
 These are some of inventors, innovators, (often ethically questionable) businesspeople, and wives behind the birth and expansion of the railroad. There are a handful of exceptions, but most of the names are from 19th century U.S. and Europe (England, especially). While the generously mustachioed men receive the lion’s share of fame, some of the women were also inventors or major philanthropists in their own right.
 MALE NAMES 1
-<li>Oaks Ames</li>
+<ol><li>Oaks Ames</li>
 <li>Christopher Blackett</li>
 <li>John Insley Blair</li>
 <li>Daniel Chase Corbin</li>
@@ -22,9 +22,10 @@ MALE NAMES 1
 <li>Edward H. Harriman</li>
 <li>Fred Harvey</li>
 <li>David Hewes</li>
-<li>James J. Hill</li>
+<li>James J. Hill</li></ol>
+
 FEMALE NAMES 1
-<li>Margaret Anderson</li>
+<ol><li>Margaret Anderson</li>
 <li>Mary Williamson Averell</li>
 <li>Elizabeth Banfield</li>
 <li>Eveline O. Gelman</li>
@@ -43,9 +44,10 @@ FEMALE NAMES 1
 <li>Jane Elizabeth Lathrop</li>
 <li>Cecelia Liberman</li>
 <li>Nancy Ann Locke</li>
-<li>Ann MacGregor</li>
+<li>Ann MacGregor</li></ol>
+
 MALE NAMES 2
-<li>Cyrus K. Holliday</li>
+<ol><li>Cyrus K. Holliday</li>
 <li>Mark Hopkins, Jr.</li>
 <li>Collis P. Huntingdon</li>
 <li>William Jessup</li>
@@ -64,9 +66,10 @@ MALE NAMES 2
 <li>Arthur Stilwell</li>
 <li>Richard Trevithick</li>
 <li>Cornelius Vanderbilt</li>
-<li>George Westinghouse</li>
+<li>George Westinghouse</li></ol>
+
 FEMALE NAMES 2
-<li>Barbara Sarah Mattas</li>
+<ol><li>Barbara Sarah Mattas</li>
 <li>Roxanna Mead</li>
 <li>Mary Theresa Mehegan</li>
 <li>Kate Metzel</li>
@@ -85,10 +88,11 @@ FEMALE NAMES 2
 <li>Frances Louise Tracy</li>
 <li>Hannah Heloise Trimble</li>
 <li>Mary Walton</li>
-<li>Jennie A. Wood</li>
+<li>Jennie A. Wood</li></ol>
+
 RAILROAD SLANG
 Find these and more at:  http://www.freewebs.com/katydepot/railroadslang.htm
-<li>Boomer: Transient railroad worker</li>
+<ol><li>Boomer: Transient railroad worker</li>
 <li>Bull: Railroad policeman</li>
 <li>Crowbar Hotel: Jail</li>
 <li>Diamonds: Coal</li>
@@ -107,9 +111,10 @@ Find these and more at:  http://www.freewebs.com/katydepot/railroadslang.htm
 <li>Snozzled: Drunk</li>
 <li>Spur: A dead end track</li>
 <li>Swellhead: Engineer or Conductor</li>
-<li>Torpedoes: Beans</li>
+<li>Torpedoes: Beans</li></ol>
+
 NAMED TRAINS
-<li>Beachcomber</li>
+<ol><li>Beachcomber</li>
 <li>Bhambhor Express</li>
 <li>Burlington Zephyr</li>
 <li>Catch Me Who Can</li>
@@ -128,6 +133,6 @@ NAMED TRAINS
 <li>Spirit of Progress</li>
 <li>Turboliner</li>
 <li>Virgin Invader</li>
-<li>Whistler Mountaineer</li>
+<li>Whistler Mountaineer</li></ol>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

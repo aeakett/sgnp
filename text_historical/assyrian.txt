@@ -3,7 +3,7 @@ Compiled by D. Vincent Baker
 NOTES
 Compiled from the Assyrian Names Project, http://www.nineveh.com/Assyrian%20Names%20Project.html
 FEMALE NAMES 1
-<li>Aurhai</li>
+<ol><li>Aurhai</li>
 <li>Awita</li>
 <li>Damrina</li>
 <li>Eilina</li>
@@ -22,9 +22,9 @@ FEMALE NAMES 1
 <li>Sharokina </li>
 <li>Shimta</li>
 <li>Simta</li>
-<li>Walita</li>
+<li>Walita</li></ol>
 MALE NAMES 1
-<li>Ador Eil</li>
+<ol><li>Ador Eil</li>
 <li>Ajdina</li>
 <li>Akhiban</li>
 <li>Anlel</li>
@@ -43,9 +43,9 @@ MALE NAMES 1
 <li>Ram Eil</li>
 <li>Sennacherib</li>
 <li>Shaybo (Shibo)</li>
-<li>Zah Eil</li>
+<li>Zah Eil</li></ol>
 FEMALE NAMES 2
-<li>Achadina</li>
+<ol><li>Achadina</li>
 <li>Aramina</li>
 <li>Aurya</li>
 <li>Awijil</li>
@@ -64,9 +64,9 @@ FEMALE NAMES 2
 <li>Shirat</li>
 <li>Wardina</li>
 <li>Wardiya</li>
-<li>Yaeeta</li>
+<li>Yaeeta</li></ol>
 MALE NAMES 2
-<li>Ador Palasar</li>
+<ol><li>Ador Palasar</li>
 <li>Ashur Ram</li>
 <li>Awi Bail</li>
 <li>Awinam</li>
@@ -85,9 +85,9 @@ MALE NAMES 2
 <li>Rab Eil</li>
 <li>Rafa Eil (Raphael)</li>
 <li>Shalmanisar</li>
-<li>Shar Eil</li>
+<li>Shar Eil</li></ol>
 FEMALE NAMES 3
-<li>Adorina</li>
+<ol><li>Adorina</li>
 <li>Akhita</li>
 <li>Arbella</li>
 <li>Ari Eil</li>
@@ -106,9 +106,9 @@ FEMALE NAMES 3
 <li>Sahdina</li>
 <li>Sorme</li>
 <li>Yata</li>
-<li>Yayota</li>
+<li>Yayota</li></ol>
 MALE NAMES 3
-<li>Akhiqar</li>
+<ol><li>Akhiqar</li>
 <li>Aram Seen</li>
 <li>Asor Khadon</li>
 <li>Awi Eil</li>
@@ -127,4 +127,4 @@ MALE NAMES 3
 <li>Romrama</li>
 <li>Shmou Eil </li>
 <li>Ward Seen</li>
-<li>Yomadan</li>
+<li>Yomadan</li></ol>

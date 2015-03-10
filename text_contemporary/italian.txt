@@ -4,7 +4,7 @@ NOTES
 The naming traditions of Italy historically have been that the first male is named after his paternal grandfather, the second after his maternal grandfather, the first female after her paternal grandmother and the second after her maternal grandmother. In some places, Italian children celebrate their onomastico, or name day, as well as their birthday.
 Thanks to the renaissance resource folks of Brown University for making the Online Castasto of 1427 available (http://www.stg.brown.edu/projects/catasto/overview.html).
 MALE
-<li>Vito</li>
+<ol><li>Vito</li>
 <li>Bruno</li>
 <li>Giovanni</li>
 <li>Francesco</li>
@@ -23,9 +23,9 @@ MALE
 <li>Nino</li>
 <li>Salvatore</li>
 <li>Luciano</li>
-<li>Giorgio</li>
+<li>Giorgio</li></ol>
 FEMALE
-<li>Caterina</li>
+<ol><li>Caterina</li>
 <li>Rosa</li>
 <li>Elena</li>
 <li>Bianca</li>
@@ -44,9 +44,9 @@ FEMALE
 <li>Isabella</li>
 <li>Viviana</li>
 <li>Silvana</li>
-<li>Zita</li>
+<li>Zita</li></ol>
 SURNAMES 1
-<li>Ricci</li>
+<ol><li>Ricci</li>
 <li>Savino</li>
 <li>Marchese</li>
 <li>Costa</li>
@@ -65,9 +65,9 @@ SURNAMES 1
 <li>Falcone</li>
 <li>Carpino</li>
 <li>Paolucci</li>
-<li>Malatesta</li>
+<li>Malatesta</li></ol>
 SURNAMES 2
-<li>Paglio</li>
+<ol><li>Paglio</li>
 <li>Signorile</li>
 <li>Bandino</li>
 <li>Zabatino</li>
@@ -86,9 +86,9 @@ SURNAMES 2
 <li>Guerra</li>
 <li>Santariga</li>
 <li>Prospero</li>
-<li>Fabiani</li>
+<li>Fabiani</li></ol>
 FLORENCE, 1427 MALE 1
-<li>Ugo</li>
+<ol><li>Ugo</li>
 <li>Santore</li>
 <li>Agostino</li>
 <li>Taccino</li>
@@ -107,9 +107,9 @@ FLORENCE, 1427 MALE 1
 <li>Scolaio</li>
 <li>Prete</li>
 <li>Lazzero</li>
-<li>Chiango</li>
+<li>Chiango</li></ol>
 FLORENCE, 1427 FEMALE 1
-<li>Savia</li>
+<ol><li>Savia</li>
 <li>Vangelista</li>
 <li>Nonnina</li>
 <li>Puselina</li>
@@ -128,9 +128,9 @@ FLORENCE, 1427 FEMALE 1
 <li>Ulivetta</li>
 <li>Lagia</li>
 <li>Onesta</li>
-<li>Selvaggia</li>
+<li>Selvaggia</li></ol>
 FLORENCE, 1427 MALE 2
-<li>Tenghi</li>
+<ol><li>Tenghi</li>
 <li>Ridolfo</li>
 <li>Pietro</li>
 <li>Minilato</li>
@@ -149,9 +149,9 @@ FLORENCE, 1427 MALE 2
 <li>Lodovico</li>
 <li>Chimento</li>
 <li>Gugliemo</li>
-<li>Fuligno</li>
+<li>Fuligno</li></ol>
 FLORENCE, 1427 FEMALE 2
-<li>Pasqua</li>
+<ol><li>Pasqua</li>
 <li>Luca</li>
 <li>Piccina</li>
 <li>Toncia</li>
@@ -170,9 +170,9 @@ FLORENCE, 1427 FEMALE 2
 <li>Guiccia</li>
 <li>Agnoletta</li>
 <li>Corradina</li>
-<li>Battista</li>
+<li>Battista</li></ol>
 FLORENCE, 1427 SURNAMES 1
-<li>Accantasan</li>
+<ol><li>Accantasan</li>
 <li>Dragonetti</li>
 <li>Infangati</li>
 <li>Quaratessi</li>
@@ -191,9 +191,9 @@ FLORENCE, 1427 SURNAMES 1
 <li>Medici</li>
 <li>Ridolfi</li>
 <li>Baccherell</li>
-<li>Manno</li>
+<li>Manno</li></ol>
 FLORENCE, 1427 SURNAMES 2
-<li>Bardi</li>
+<ol><li>Bardi</li>
 <li>Guidicci</li>
 <li>Pasquini</li>
 <li>Zane</li>
@@ -212,4 +212,4 @@ FLORENCE, 1427 SURNAMES 2
 <li>Lippi</li>
 <li>Miglioresi</li>
 <li>Giambollar</li>
-<li>Fantucci</li>
+<li>Fantucci</li></ol>

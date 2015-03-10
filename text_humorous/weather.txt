@@ -4,7 +4,7 @@ NOTES
 Hurricanes are named primarily to avoid confusion and aid tracking, a practice several hundred years old. The World Meteorological Organization, in 1979, established six yearly lists of names for Atlantic hurricanes, used in a rotation. This list only changes if a storm gains notoriety as particularly deadly or costly, to prevent the inappropriate use of a name in the future. Prior to 1978, hurricanes only had women's names.  These might be cool names for robots, programs, or servers, or maybe clueless aliens.  More information here:
 http://www.srh.noaa.gov/srh/jetstream/tropics/tc_names.htm
 RETIRED MALE NAMES 
-<li>David </li>
+<ol><li>David </li>
 <li>Frederic </li>
 <li>Allen</li>
 <li>Gilbert</li>
@@ -23,9 +23,9 @@ RETIRED MALE NAMES
 <li>Juan </li>
 <li>Charley</li>
 <li>Ivan</li>
-<li>Dennis</li>
+<li>Dennis</li></ol>
 RETIRED FEMALE NAMES 
-<li>Carol </li>
+<ol><li>Carol </li>
 <li>Hazel </li>
 <li>Connie</li>
 <li>Diane</li>
@@ -44,11 +44,11 @@ RETIRED FEMALE NAMES
 <li>Beulah</li>
 <li>Edna </li>
 <li>Camille </li>
-<li>Celia </li>
+<li>Celia </li></ol>
 TYPHOON NAMES
 These are named by various Pacific rim nations who each submit ten at a time, so they are incongruous and diverse and of both male and female gender with an Asian flair.  Good code names, perhaps?  
 TYPHOON 1
-<li>Damrey</li>
+<ol><li>Damrey</li>
 <li>Kong-rey</li>
 <li>Nakri</li>
 <li>Krovanh</li>
@@ -67,9 +67,9 @@ TYPHOON 1
 <li>Man-yi</li>
 <li>Fung-wong</li>
 <li>Choi-wan</li>
-<li>Ma-on</li>
+<li>Ma-on</li></ol>
 TYPHOON 2
-<li>Tembin</li>
+<ol><li>Tembin</li>
 <li>Usagi</li>
 <li>Kammuri</li>
 <li>Koppu</li>
@@ -88,9 +88,9 @@ TYPHOON 2
 <li>Sepat</li>
 <li>Nuri</li>
 <li>Melor</li>
-<li>Merbok</li>
+<li>Merbok</li></ol>
 TYPHOON 3
-<li>Ewiniar</li>
+<ol><li>Ewiniar</li>
 <li>Fitow</li>
 <li>Sinlaku</li>
 <li>Nepartak</li>
@@ -109,9 +109,9 @@ TYPHOON 3
 <li>Wipha</li>
 <li>Mekkhala</li>
 <li>Nida</li>
-<li>Kulap</li>
+<li>Kulap</li></ol>
 TYPHOON 4
-<li>Maria</li>
+<ol><li>Maria</li>
 <li>Francisco</li>
 <li>Higos</li>
 <li>Omais</li>
@@ -130,9 +130,9 @@ TYPHOON 4
 <li>Haiyan</li>
 <li>Haishen</li>
 <li>Dianmu</li>
-<li>Haitang</li>
+<li>Haitang</li></ol>
 TYPHOON 5
-<li>Sonamu</li>
+<ol><li>Sonamu</li>
 <li>Podul</li>
 <li>Noul</li>
 <li>Mindulle</li>
@@ -151,9 +151,9 @@ TYPHOON 5
 <li>Faxai</li>
 <li>Chan-hom</li>
 <li>Namtheun</li>
-<li>Matsa</li>
+<li>Matsa</li></ol>
 TYPHOON 6
-<li>Bebinca</li>
+<ol><li>Bebinca</li>
 <li>Peipah</li>
 <li>Linfa</li>
 <li>Malou</li>
@@ -172,9 +172,9 @@ TYPHOON 6
 <li>Hagibis</li>
 <li>Molave</li>
 <li>Malakas</li>
-<li>Talim</li>
+<li>Talim</li></ol>
 TYPHOON 7
-<li>Chebi</li>
+<ol><li>Chebi</li>
 <li>Noguri</li>
 <li>Koni</li>
 <li>Megi</li>
@@ -193,4 +193,4 @@ TYPHOON 7
 <li>Halong</li>
 <li>Vamco</li>
 <li>Songda</li>
-<li>Saola</li>
+<li>Saola</li></ol>
