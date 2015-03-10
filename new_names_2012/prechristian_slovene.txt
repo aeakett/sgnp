@@ -3,70 +3,70 @@ Compiled by Gregor Vuga
 
 
 MALE NAMES
-1. Belobor
-2. Bogomil
-3. Črt
-4. Dragomir
-5. Gorazd
-6. Hudimar
-7. Jaroslav
-8. Kajtimir
-9. Ljubin
-10. Motilo
-11. Nadej
-12. Očeslav
-13. Prvin
-14. Radegost
-15. Samo
-16. Tetovid
-17. Tugomir
-18. Valhun
-19. Valuk
-20. Žoltin
+<li>Belobor</li>
+<li>Bogomil</li>
+<li>Črt</li>
+<li>Dragomir</li>
+<li>Gorazd</li>
+<li>Hudimar</li>
+<li>Jaroslav</li>
+<li>Kajtimir</li>
+<li>Ljubin</li>
+<li>Motilo</li>
+<li>Nadej</li>
+<li>Očeslav</li>
+<li>Prvin</li>
+<li>Radegost</li>
+<li>Samo</li>
+<li>Tetovid</li>
+<li>Tugomir</li>
+<li>Valhun</li>
+<li>Valuk</li>
+<li>Žoltin</li>
 
 FEMALE NAMES
-1. Breda
-2. Cvetka
-3. Dobroslava
-4. Grozdana
-5. Jasenka
-6. Jagoda
-7. Krasa
-8. Lada
-9. Ljudmila
-10. Mala
-11. Predobra
-12. Rastislava
-13. Snežna
-14. Svetlana
-15. Temna 
-16. Tihomira
-17. Vesna
-18. Volkonja
-19. Vida
-20. Zora
+<li>Breda</li>
+<li>Cvetka</li>
+<li>Dobroslava</li>
+<li>Grozdana</li>
+<li>Jasenka</li>
+<li>Jagoda</li>
+<li>Krasa</li>
+<li>Lada</li>
+<li>Ljudmila</li>
+<li>Mala</li>
+<li>Predobra</li>
+<li>Rastislava</li>
+<li>Snežna</li>
+<li>Svetlana</li>
+<li>Temna </li>
+<li>Tihomira</li>
+<li>Vesna</li>
+<li>Volkonja</li>
+<li>Vida</li>
+<li>Zora</li>
 
 GODS, SPIRITS and BEASTS
-1. Triglav (Three-Headed One)
-2. Svarog (sky god)
-3. Kresnik (fire god)
-4. Kurent (a trickster and Dyonisus-like figure)
-5. Perun (the thunderer)
-6. Veles (shepard god of souls and livestock)
-7. Morana (goddess of winter and death)
-8. Živa (goddess of fertility)
-9. Zeleni Jurij ("Green George", spirit of spring)
-10. Svetovid (god of knowledge)
-11. Belin ("White god" of light and healing)
-12. Rujevit (god of warfare)
-13. vila (a fairy)
-14. bes (an evil spirit)
-15. vedomec (wise man, wizard)
-16. vešča (wise woman, witch) 
-17. hostnik (forest man, shapeshifter)
-18. torklja (female spirit that kills women that won't stop spinning wool after hours)
-19. ajd (giant or troll)
-20. Sojenice (three sisters that manage fate)
+<li>Triglav (Three-Headed One)</li>
+<li>Svarog (sky god)</li>
+<li>Kresnik (fire god)</li>
+<li>Kurent (a trickster and Dyonisus-like figure)</li>
+<li>Perun (the thunderer)</li>
+<li>Veles (shepard god of souls and livestock)</li>
+<li>Morana (goddess of winter and death)</li>
+<li>Živa (goddess of fertility)</li>
+<li>Zeleni Jurij ("Green George", spirit of spring)</li>
+<li>Svetovid (god of knowledge)</li>
+<li>Belin ("White god" of light and healing)</li>
+<li>Rujevit (god of warfare)</li>
+<li>vila (a fairy)</li>
+<li>bes (an evil spirit)</li>
+<li>vedomec (wise man, wizard)</li>
+<li>vešča (wise woman, witch) </li>
+<li>hostnik (forest man, shapeshifter)</li>
+<li>torklja (female spirit that kills women that won't stop spinning wool after hours)</li>
+<li>ajd (giant or troll)</li>
+<li>Sojenice (three sisters that manage fate)</li>
 
 
 There are no surnames, instead people are often introduced as son of (sin) or daughter of (hči). To indicate posession, male names gain the suffix -a and female gain the suffix -e, replacing a vowel if the name ends in one. For example Rastislava hči Volkonje.

@@ -4,125 +4,125 @@ Compiled by Jason Morningstar
 From the records of Isaac Parker, Judge for the U.S. District Court for the Western District of Arkansas during that period. Presiding from Fort Smith, Parker’s jurisdiction included Indian Territory, present-day Oklahoma. The Indian names below would represent Choctaw, Chickasaw, Cherokee, Seminole and Creek.
 
 INDIAN MURDERERS
-Simpson McClish
-S.M. Killer
-Sam Fooy
-Ishtanubbee
-J. Postoak
-S. Kalijah
-J. Spaniard
-John Billy
-Thomas Willis
-Sam Goine
-Amos Manley
-Abler Manley
-Ed Fulsom
-Tu-Al-Is-To
-J.W. Killer
-W. Parchmeal
-Kit Ross
-Isaacs Webber
-Sam Sampson
-Maoma July
+<li>Simpson McClish</li>
+<li>S.M. Killer</li>
+<li>Sam Fooy</li>
+<li>Ishtanubbee</li>
+<li>J. Postoak</li>
+<li>S. Kalijah</li>
+<li>J. Spaniard</li>
+<li>John Billy</li>
+<li>Thomas Willis</li>
+<li>Sam Goine</li>
+<li>Amos Manley</li>
+<li>Abler Manley</li>
+<li>Ed Fulsom</li>
+<li>Tu-Al-Is-To</li>
+<li>J.W. Killer</li>
+<li>W. Parchmeal</li>
+<li>Kit Ross</li>
+<li>Isaacs Webber</li>
+<li>Sam Sampson</li>
+<li>Maoma July</li>
 
 ANGLO MURDERERS
-J. Valley
-“Colorado” Bill
-Dr. H. Stewart
-G. W. Padgett
-William Brown
-Pat McGowan
-George Moss
-Gus Bogles
-J. Wasson
-John Pointer
-Lewis Holder
-J. Stansberry
-B. Crumpton
-J. Lamb
-J.T. Echols
-James C. Cashargo
-T.L. Thompson
-William Phillips
-George Pierce
-L. Sprole
+<li>J. Valley</li>
+<li>“Colorado” Bill</li>
+<li>Dr. H. Stewart</li>
+<li>G. W. Padgett</li>
+<li>William Brown</li>
+<li>Pat McGowan</li>
+<li>George Moss</li>
+<li>Gus Bogles</li>
+<li>J. Wasson</li>
+<li>John Pointer</li>
+<li>Lewis Holder</li>
+<li>J. Stansberry</li>
+<li>B. Crumpton</li>
+<li>J. Lamb</li>
+<li>J.T. Echols</li>
+<li>James C. Cashargo</li>
+<li>T.L. Thompson</li>
+<li>William Phillips</li>
+<li>George Pierce</li>
+<li>L. Sprole</li>
 
 BLACK MURDERERS
-J. Arcene
-Luckey Davis
-E. Campbell
-Sam Peters
-James Diggs
-J. Jackson
-C. James
-Jack Crow
-O.D. Hill
-Richard Smith
-J. Stephens
-James Mills
-Malachi Allen
-William Walker
-George Tobler
-H. Austin
-Robert Massey
-W. H. Finch
-Bully Joseph
-Thomas Elliott
+<li>J. Arcene</li>
+<li>Luckey Davis</li>
+<li>E. Campbell</li>
+<li>Sam Peters</li>
+<li>James Diggs</li>
+<li>J. Jackson</li>
+<li>C. James</li>
+<li>Jack Crow</li>
+<li>O.D. Hill</li>
+<li>Richard Smith</li>
+<li>J. Stephens</li>
+<li>James Mills</li>
+<li>Malachi Allen</li>
+<li>William Walker</li>
+<li>George Tobler</li>
+<li>H. Austin</li>
+<li>Robert Massey</li>
+<li>W. H. Finch</li>
+<li>Bully Joseph</li>
+<li>Thomas Elliott</li>
 
 VICTIMS 1
-Zachariah W. Thatch
-William Vandever
-M.P. Cushing
-Ernest Melton
-George Bickford
-B. Connolly
-Lewis Carr
-J. Pattenridge
-E. Pollard
-James Harris
-John Harris
-M. Kuykendall
-Calvin Church
-William Spivey
-Lawson Ross
-Eli Hackett
-J. Wadkins
-J.E. Neff
-Dr. J.B. Jones
-T.W. Pringle
+<li>Zachariah W. Thatch</li>
+<li>William Vandever</li>
+<li>M.P. Cushing</li>
+<li>Ernest Melton</li>
+<li>George Bickford</li>
+<li>B. Connolly</li>
+<li>Lewis Carr</li>
+<li>J. Pattenridge</li>
+<li>E. Pollard</li>
+<li>James Harris</li>
+<li>John Harris</li>
+<li>M. Kuykendall</li>
+<li>Calvin Church</li>
+<li>William Spivey</li>
+<li>Lawson Ross</li>
+<li>Eli Hackett</li>
+<li>J. Wadkins</li>
+<li>J.E. Neff</li>
+<li>Dr. J.B. Jones</li>
+<li>T.W. Pringle</li>
 
 VICTIMS 2
-J. Davis
-Alex Clark
-B.F. Clark
-Tony Love
-H. Martin
-H. Fiegel
-William Hill
-N. Wyatt
-William Bullock
-J. O’Helleren
-Bud Stephens
-E.M. Cochran
-W. Grimkey
-B. Johnson
-E.M. Clark
-William Massengill
-J. Stewart
-Ellis McVay
-S.M. Morgan
-Viney Hill
+<li>J. Davis</li>
+<li>Alex Clark</li>
+<li>B.F. Clark</li>
+<li>Tony Love</li>
+<li>H. Martin</li>
+<li>H. Fiegel</li>
+<li>William Hill</li>
+<li>N. Wyatt</li>
+<li>William Bullock</li>
+<li>J. O’Helleren</li>
+<li>Bud Stephens</li>
+<li>E.M. Cochran</li>
+<li>W. Grimkey</li>
+<li>B. Johnson</li>
+<li>E.M. Clark</li>
+<li>William Massengill</li>
+<li>J. Stewart</li>
+<li>Ellis McVay</li>
+<li>S.M. Morgan</li>
+<li>Viney Hill</li>
 
 LADY VICTIMS
-Edwina Mason
-Rozetta Hasson
-Annie Carr
-Laura Moynier
-Mary Jackson
-Edith Stephens
-Molly Stansbury
-Julietta Ingley
-Henrietta Joyce
-Ida Richmond
+<li>Edwina Mason</li>
+<li>Rozetta Hasson</li>
+<li>Annie Carr</li>
+<li>Laura Moynier</li>
+<li>Mary Jackson</li>
+<li>Edith Stephens</li>
+<li>Molly Stansbury</li>
+<li>Julietta Ingley</li>
+<li>Henrietta Joyce</li>
+<li>Ida Richmond</li>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

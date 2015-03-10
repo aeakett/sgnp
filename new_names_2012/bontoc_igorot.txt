@@ -9,91 +9,91 @@ In several languages of northern Luzon the word “Ĭg-o-rot′” means “moun
 The people are generally reticent about telling their names; and when they do tell, the name given is usually the one borne in childhood; an old man will generally answer “am-a′-ma,” meaning simply “old man.” 
 
 MALE FORMAL
-Som-kad’
-Bûg-ti′
-Mak′-lan
-Ku-lo-ku′-lo
-O-gang′-ga
-Bon-gao′
-Bo-da′-da
-Sĭt-li′-nĭn
-Pĭt-ta′-pĭt
-Ta-u′-li
-Sal-lu-yud′
-Tam-bul′
-Mud-do′,
-Ba-la-ge′ 
-Bang-ĕg′
-Cag-i′-yu
-Bĭt-e′
-Ag-kus′
-Sa-pang′
-An-ti′-ko
+<li>Som-kad’</li>
+<li>Bûg-ti′</li>
+<li>Mak′-lan</li>
+<li>Ku-lo-ku′-lo</li>
+<li>O-gang′-ga</li>
+<li>Bon-gao′</li>
+<li>Bo-da′-da</li>
+<li>Sĭt-li′-nĭn</li>
+<li>Pĭt-ta′-pĭt</li>
+<li>Ta-u′-li</li>
+<li>Sal-lu-yud′</li>
+<li>Tam-bul′</li>
+<li>Mud-do′,</li>
+<li>Ba-la-ge′</li>
+<li>Bang-ĕg′</li>
+<li>Cag-i′-yu</li>
+<li>Bĭt-e′</li>
+<li>Ag-kus′</li>
+<li>Sa-pang′</li>
+<li>An-ti′-ko</li>
 
 MALE NICKNAMES
-Ngag cha-pu′ (bad ashes)
-An-cho′  ye′-ga (long earthquake)
-A′-ma na-fa′-kûg (killed his father)
-Sang-a-an′ ka-ag′  (lazy monkey)
-Mang-a-qu′ (he steals)
-Ba-to (stone)
-Lĭm-lĭm (storm)
-La-fa′-an (hawk)
-Ka-chan-a-yan′ (rich man)
-Al-li-pos′-pos (whirlwind) 
-Ĭn-ni′-tit  fo′-to (black belly)
-Um-i-ak′ tay-I (always shitting)
-Na-ma′-kĭl (gets heads)
-Gna-nak (cannot speak)
-Li′-I (cross-eyed)
-Sap-lŭk (scarred)
-Kil-lang′ (little boy)
-Pa-chĕk′ (scarecrow)
-A-lala-sang′ (red warrior ant)
-Ma-mĭng′-san (first man)
+<li>Ngag cha-pu′ (bad ashes)</li>
+<li>An-cho′  ye′-ga (long earthquake)</li>
+<li>A′-ma na-fa′-kûg (killed his father)</li>
+<li>Sang-a-an′ ka-ag′  (lazy monkey)</li>
+<li>Mang-a-qu′ (he steals)</li>
+<li>Ba-to (stone)</li>
+<li>Lĭm-lĭm (storm)</li>
+<li>La-fa′-an (hawk)</li>
+<li>Ka-chan-a-yan′ (rich man)</li>
+<li>Al-li-pos′-pos (whirlwind)</li>
+<li>Ĭn-ni′-tit  fo′-to (black belly)</li>
+<li>Um-i-ak′ tay-I (always shitting)</li>
+<li>Na-ma′-kĭl (gets heads)</li>
+<li>Gna-nak (cannot speak)</li>
+<li>Li′-I (cross-eyed)</li>
+<li>Sap-lŭk (scarred)</li>
+<li>Kil-lang′ (little boy)</li>
+<li>Pa-chĕk′ (scarecrow)</li>
+<li>A-lala-sang′ (red warrior ant)</li>
+<li>Ma-mĭng′-san (first man)</li>
 
 FEMALE FORMAL
-U-dao′
-Zag-tag′-an
-Ka-nay′-u
-Lang′-sa
-Fi′-lĭg
-Si-pa′-at
-Fank′-a
-Wang′-a
-Chay′-ya
-Fu-an′
-Lang-at′ 
-O-kĕn′
-Ka-wa′-an
-Fa-li-kao′
-Mang-i-lot′
-Cho-kas′
-Kom-lĭng′
-Ta-kay′-yĕng
-Tĕng-ab′
-Ka-wĕng′
+<li>U-dao′</li>
+<li>Zag-tag′-an</li>
+<li>Ka-nay′-u</li>
+<li>Lang′-sa</li>
+<li>Fi′-lĭg</li>
+<li>Si-pa′-at</li>
+<li>Fank′-a</li>
+<li>Wang′-a</li>
+<li>Chay′-ya</li>
+<li>Fu-an′</li>
+<li>Lang-at′</li>
+<li>O-kĕn′</li>
+<li>Ka-wa′-an</li>
+<li>Fa-li-kao′</li>
+<li>Mang-i-lot′</li>
+<li>Cho-kas′</li>
+<li>Kom-lĭng′</li>
+<li>Ta-kay′-yĕng</li>
+<li>Tĕng-ab′</li>
+<li>Ka-wĕng′</li>
 
 FEMALE NICKNAMES
-Fĭl-fĭl′-tĭng (cricket)
-I′-na (mother)
-Tup-kao′ (camote blossom)
-Tu-muck′-chu (she sits)
-Chĕ-num′ (wind)
-In-i′-na (crone)
-Fi-no-lo-fo′-lo (jungle butterfly)
-Fung-a′-kan (rainbow)
-Gna-an′ (little girl)
-Ma-si-yĭp′ (sleepy)
-Fa-no′-on (harridan)
-Fan-ĭg′  so′-so (small breasts)
-Fu-lug (blind)
-Ĭm-po′-kan to-puk′ (white mouth)
-Ga-la′-ga (pitted face)
-A-ki-na (aunt)
-Fo-bo-ok′ (false hair)
-Ki′-tĕb (bedbug)
-Ay-ya-wan′ (wild caribao)
-An-an-a-lut′ pang′-a (bad jaw)
+<li>Fĭl-fĭl′-tĭng (cricket)</li>
+<li>I′-na (mother)</li>
+<li>Tup-kao′ (camote blossom)</li>
+<li>Tu-muck′-chu (she sits)</li>
+<li>Chĕ-num′ (wind)</li>
+<li>In-i′-na (crone)</li>
+<li>Fi-no-lo-fo′-lo (jungle butterfly)</li>
+<li>Fung-a′-kan (rainbow)</li>
+<li>Gna-an′ (little girl)</li>
+<li>Ma-si-yĭp′ (sleepy)</li>
+<li>Fa-no′-on (harridan)</li>
+<li>Fan-ĭg′  so′-so (small breasts)</li>
+<li>Fu-lug (blind)</li>
+<li>Ĭm-po′-kan to-puk′ (white mouth)</li>
+<li>Ga-la′-ga (pitted face)</li>
+<li>A-ki-na (aunt)</li>
+<li>Fo-bo-ok′ (false hair)</li>
+<li>Ki′-tĕb (bedbug)</li>
+<li>Ay-ya-wan′ (wild caribao)</li>
+<li>An-an-a-lut′ pang′-a (bad jaw)</li>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

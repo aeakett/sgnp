@@ -7,114 +7,114 @@ Vietnamese names are ordered surname – middle name – given name. You refer t
 SURNAMES
 Common names, in descending order of popularity (Nguyễn accounts for 38.4%)
 
-Nguyễn 阮 
-Trần 陳
-Lê 黎
-Phạm 范
-Huỳnh黃
-Hoàng黃
-Phan 潘 
-Vũ武
-Võ 武
-Đặng 鄧
-Bùi 裴 
-Đỗ 杜
-Hồ 胡 
-Ngô 吳
-Dương 楊 
-Lý 李
-Lâm 林
-Đinh: 丁
-Nghiêm: 嚴
-Đào: 陶
+<li>Nguyễn 阮 </li>
+<li>Trần 陳</li>
+<li>Lê 黎</li>
+<li>Phạm 范</li>
+<li>Huỳnh黃</li>
+<li>Hoàng黃</li>
+<li>Phan 潘 </li>
+<li>Vũ武</li>
+<li>Võ 武</li>
+<li>Đặng 鄧</li>
+<li>Bùi 裴 </li>
+<li>Đỗ 杜</li>
+<li>Hồ 胡 </li>
+<li>Ngô 吳</li>
+<li>Dương 楊 </li>
+<li>Lý 李</li>
+<li>Lâm 林</li>
+<li>Đinh: 丁</li>
+<li>Nghiêm: 嚴</li>
+<li>Đào: 陶</li>
 
 UNCOMMON SURNAMES
-Vương: 王
-Trịnh: 鄭 
-Phùng: 馮
-Chung: 鍾
-Triệu: 趙
-Đoàn: 段
-Hà: 何
-Trương: 張
-Tôn: 孫
-Liễu  柳
-Lưu  劉
-Mai: 梅
-La: 羅
-Văn: 文
-Tạ: 謝
-Lương: 梁
-Kim: 金
-Thạch: 石
-Lạc: 駱
-Lin: 林
+<li>Vương: 王</li>
+<li>Trịnh: 鄭 </li>
+<li>Phùng: 馮</li>
+<li>Chung: 鍾</li>
+<li>Triệu: 趙</li>
+<li>Đoàn: 段</li>
+<li>Hà: 何</li>
+<li>Trương: 張</li>
+<li>Tôn: 孫</li>
+<li>Liễu  柳</li>
+<li>Lưu  劉</li>
+<li>Mai: 梅</li>
+<li>La: 羅</li>
+<li>Văn: 文</li>
+<li>Tạ: 謝</li>
+<li>Lương: 梁</li>
+<li>Kim: 金</li>
+<li>Thạch: 石</li>
+<li>Lạc: 駱</li>
+<li>Lin: 林</li>
 
 Middle name (None, one, or two)
 
 Male
 
-Hữu (means “very much so”, amplifies given name’s meaning)
-Đức
-Công
-Quang
-Sinh
-Lâm
-Ngoc
-Văn
-Manh
-Trong
-Qui
-Thuc
+<li>Hữu (means “very much so”, amplifies given name’s meaning)</li>
+<li>Đức</li>
+<li>Công</li>
+<li>Quang</li>
+<li>Sinh</li>
+<li>Lâm</li>
+<li>Ngoc</li>
+<li>Văn</li>
+<li>Manh</li>
+<li>Trong</li>
+<li>Qui</li>
+<li>Thuc</li>
 
 Female
 
-Thi (Almost always)
+<li>Thi (Almost always)
 
 MALE NAMES
 
-Anh 
-Dung
-Bao (protection)
-Cânh (nature)
-Xuan (spring)
-Đe (royalty)
-Viẹn (palace)
-Chien (battle)
-Chinh (righteousness)
-Dao (religion)
-Duc (desire)
-Duong (virility)
-Huy (brightness)
-Loc (luck)
-Thanh (accomplished)
-Trang (honored)
-Trung (loyal)
-Son (mountain)
-Phuoc (lucky)
-Minh (bright)
+<li>Anh </li>
+<li>Dung</li>
+<li>Bao (protection)</li>
+<li>Cânh (nature)</li>
+<li>Xuan (spring)</li>
+<li>Đe (royalty)</li>
+<li>Viẹn (palace)</li>
+<li>Chien (battle)</li>
+<li>Chinh (righteousness)</li>
+<li>Dao (religion)</li>
+<li>Duc (desire)</li>
+<li>Duong (virility)</li>
+<li>Huy (brightness)</li>
+<li>Loc (luck)</li>
+<li>Thanh (accomplished)</li>
+<li>Trang (honored)</li>
+<li>Trung (loyal)</li>
+<li>Son (mountain)</li>
+<li>Phuoc (lucky)</li>
+<li>Minh (bright)</li>
 
 FEMALE NAMES
 
-Cồng: (skillful)
-Dung (beauty)
-Hanh: (decorous)
-Ngồn: (polite)
-Ly (lion)
-Phuong (phoenix)
-Qui (turtle)
-Long (dragon)
-Nhung (velvet)
-Tuyet (snowy white)
-Thu (autumn)
-Thanh Ha (bright river)
-Nguyet (moon)
-Kieu (graceful)
-Huong (perfume)
-Dao (peach blossom)
-Lan (orchid)
-Bian (secretive)
-Be (doll)
-Hoa (flower)
+<li>Cồng: (skillful)</li>
+<li>Dung (beauty)</li>
+<li>Hanh: (decorous)</li>
+<li>Ngồn: (polite)</li>
+<li>Ly (lion)</li>
+<li>Phuong (phoenix)</li>
+<li>Qui (turtle)</li>
+<li>Long (dragon)</li>
+<li>Nhung (velvet)</li>
+<li>Tuyet (snowy white)</li>
+<li>Thu (autumn)</li>
+<li>Thanh Ha (bright river)</li>
+<li>Nguyet (moon)</li>
+<li>Kieu (graceful)</li>
+<li>Huong (perfume)</li>
+<li>Dao (peach blossom)</li>
+<li>Lan (orchid)</li>
+<li>Bian (secretive)</li>
+<li>Be (doll)</li>
+<li>Hoa (flower)</li>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

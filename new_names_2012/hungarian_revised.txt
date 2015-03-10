@@ -8,179 +8,179 @@ A second given name is a rarity in Hungary and only used in the formal name, nev
 The formal name of a wife can contain the whole or part of the husband's name. The most common contemporary practice is to add the surname of the husband with the ending -né before the wife's premarital name. For example Fekete Csilla the wife of Németh Sándor, can use the formal name Némethné Fekete Csilla.
 
 MALE COMMON
-1. Ákos
-2. Zoltán
-3. János
-4. András
-5. Péter
-6. Ferenc
-7. István
-8. Gábor
-9. Csaba
-10. Gergely
-11. Máté
-12. Tamás
-13. Attila
-14. Zsolt
-15. Balázs
-16. Dániel
-17. László
-18. Viktor
-19. Sándor
-20. Choose from uncommon!
+<li>Ákos</li>
+<li>Zoltán</li>
+<li>János</li>
+<li>András</li>
+<li>Péter</li>
+<li>Ferenc</li>
+<li>István</li>
+<li>Gábor</li>
+<li>Csaba</li>
+<li>Gergely</li>
+<li>Máté</li>
+<li>Tamás</li>
+<li>Attila</li>
+<li>Zsolt</li>
+<li>Balázs</li>
+<li>Dániel</li>
+<li>László</li>
+<li>Viktor</li>
+<li>Sándor</li>
+<li>Choose from uncommon!</li>
 
 MALE UNCOMMON
-1. Tibor
-2. József
-3. Antal
-4. Bálint
-5. Miklós
-6. Pál
-7. György
-8. Lajos
-9. Imre
-10. Gyula
-11. Jakab
-12. Béla
-13. Benedek
-14. Árpád
-15. Pál
-16. Mátyás
-17. Mihály
-18. Szabolcs
-19. Géza
-20. Choose from rare!
+<li>Tibor</li>
+<li>József</li>
+<li>Antal</li>
+<li>Bálint</li>
+<li>Miklós</li>
+<li>Pál</li>
+<li>György</li>
+<li>Lajos</li>
+<li>Imre</li>
+<li>Gyula</li>
+<li>Jakab</li>
+<li>Béla</li>
+<li>Benedek</li>
+<li>Árpád</li>
+<li>Pál</li>
+<li>Mátyás</li>
+<li>Mihály</li>
+<li>Szabolcs</li>
+<li>Géza</li>
+<li>Choose from rare!</li>
 
 MALE RARE
-1. Tas
-2. Csongor
-3. Huba
-4. Dezső
-5. Kolos
-6. Gáspár
-7. Álmos
-8. Frigyes
-9. Ignác
-10. Kund
-11. Vajk
-12. Sebestyén
-13. Csanád
-14. Vencel
-15. Taksony
-16. Hunor
-17. Zsigmond
-18. Zénó
-19. Lázár
-20. Zsombor
+<li>Tas</li>
+<li>Csongor</li>
+<li>Huba</li>
+<li>Dezső</li>
+<li>Kolos</li>
+<li>Gáspár</li>
+<li>Álmos</li>
+<li>Frigyes</li>
+<li>Ignác</li>
+<li>Kund</li>
+<li>Vajk</li>
+<li>Sebestyén</li>
+<li>Csanád</li>
+<li>Vencel</li>
+<li>Taksony</li>
+<li>Hunor</li>
+<li>Zsigmond</li>
+<li>Zénó</li>
+<li>Lázár</li>
+<li>Zsombor</li>
 
 FEMALE COMMON
-1. Zsuzsa
-2. Ágnes
-3. Eszter
-4. Gyöngyi
-5. Réka
-6. Emese
-7. Zsófia
-8. Kata
-9. Ibolya
-10. Krisztina
-11. Anna
-12. Dóra
-13. Tünde
-14. Sára
-15. Petra
-16. Ildikó
-17. Éva
-18. Tímea
-19. Judit
-20. Choose from uncommon!
+<li>Zsuzsa</li>
+<li>Ágnes</li>
+<li>Eszter</li>
+<li>Gyöngyi</li>
+<li>Réka</li>
+<li>Emese</li>
+<li>Zsófia</li>
+<li>Kata</li>
+<li>Ibolya</li>
+<li>Krisztina</li>
+<li>Anna</li>
+<li>Dóra</li>
+<li>Tünde</li>
+<li>Sára</li>
+<li>Petra</li>
+<li>Ildikó</li>
+<li>Éva</li>
+<li>Tímea</li>
+<li>Judit</li>
+<li>Choose from uncommon!</li>
 
 FEMALE UNCOMMOM
-1. Dorottya
-2. Virág
-3. Magdolna
-4. Noémi
-5. Cecília
-6. Heléna
-7. Erzsébet
-8. Zita
-9. Klára
-10. Edit
-11. Hajnalka
-12. Katalin
-13. Szilvia
-14. Márta
-15. Orsolya
-16. Ilona
-17. Anikó
-18. Piroska
-19. Csilla
-20. Choose from rare!
+<li>Dorottya</li>
+<li>Virág</li>
+<li>Magdolna</li>
+<li>Noémi</li>
+<li>Cecília</li>
+<li>Heléna</li>
+<li>Erzsébet</li>
+<li>Zita</li>
+<li>Klára</li>
+<li>Edit</li>
+<li>Hajnalka</li>
+<li>Katalin</li>
+<li>Szilvia</li>
+<li>Márta</li>
+<li>Orsolya</li>
+<li>Ilona</li>
+<li>Anikó</li>
+<li>Piroska</li>
+<li>Csilla</li>
+<li>Choose from rare!</li>
 
 FEMALE RARE
-1. Jolán
-2. Csenge
-3. Margit
-4. Zsóka
-5. Matild
-6. Panka
-7. Borbála
-8. Léda
-9. Iringó
-10. Tilda
-11. Róza
-12. Margó
-13. Sarolta
-14. Alma
-15. Etel
-16. Gizella
-17. Margaréta
-18. Hanga
-19. Luca
-20. Emőke
+<li>Jolán</li>
+<li>Csenge</li>
+<li>Margit</li>
+<li>Zsóka</li>
+<li>Matild</li>
+<li>Panka</li>
+<li>Borbála</li>
+<li>Léda</li>
+<li>Iringó</li>
+<li>Tilda</li>
+<li>Róza</li>
+<li>Margó</li>
+<li>Sarolta</li>
+<li>Alma</li>
+<li>Etel</li>
+<li>Gizella</li>
+<li>Margaréta</li>
+<li>Hanga</li>
+<li>Luca</li>
+<li>Emőke</li>
 
 SURNAMES I
-1. Nagy / tall
-2. Kovács / smith
-3. Tóth / Slavic
-4. Szabó / tailor
-5. Horváth / Croat
-6. Kiss / small
-7. Varga / shoemaker
-8. Molnár / miller
-9. Németh / German
-10. Farkas / wolf
-11. Balogh / left-handed
-12. Papp / priest
-13. Takács / weaver
-14. Juhász / shepherd
-15. Mészáros / butcher
-16. Lakatos / locksmith
-17. Oláh / Vlach
-18. Fazekas / potter
-19. Rácz / Serb
-20. Fekete / black
+<li>Nagy / tall</li>
+<li>Kovács / smith</li>
+<li>Tóth / Slavic</li>
+<li>Szabó / tailor</li>
+<li>Horváth / Croat</li>
+<li>Kiss / small</li>
+<li>Varga / shoemaker</li>
+<li>Molnár / miller</li>
+<li>Németh / German</li>
+<li>Farkas / wolf</li>
+<li>Balogh / left-handed</li>
+<li>Papp / priest</li>
+<li>Takács / weaver</li>
+<li>Juhász / shepherd</li>
+<li>Mészáros / butcher</li>
+<li>Lakatos / locksmith</li>
+<li>Oláh / Vlach</li>
+<li>Fazekas / potter</li>
+<li>Rácz / Serb</li>
+<li>Fekete / black</li>
 
 SURNAMES II
-1. Szűcs / furrier
-2. Hegedűs / fiddler
-3. Boros / vinous
-4. Katona / soldier
-5. Pintér / cooper
-6. Sípos / whistler
-7. Király / king
-8. Magyar / Hungarian
-9. Vass / iron
-10. Bíró / judge
-11. Rózsa / rose
-12. Budai / from Buda
-13. Orosz / Russian
-14. Nemes / noble
-15. Pásztor / herdsman
-16. Török / Turkish
-17. Barna / brown
-18. Deák / student
-19. Vörös / red
-20. Choose two and add a hyphen between them!
+<li>Szűcs / furrier</li>
+<li>Hegedűs / fiddler</li>
+<li>Boros / vinous</li>
+<li>Katona / soldier</li>
+<li>Pintér / cooper</li>
+<li>Sípos / whistler</li>
+<li>Király / king</li>
+<li>Magyar / Hungarian</li>
+<li>Vass / iron</li>
+<li>Bíró / judge</li>
+<li>Rózsa / rose</li>
+<li>Budai / from Buda</li>
+<li>Orosz / Russian</li>
+<li>Nemes / noble</li>
+<li>Pásztor / herdsman</li>
+<li>Török / Turkish</li>
+<li>Barna / brown</li>
+<li>Deák / student</li>
+<li>Vörös / red</li>
+<li>Choose two and add a hyphen between them!</li>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

@@ -2,92 +2,92 @@
 Compiled by Rachel E.S. Walton
 
 DOGS
-1. Batu
-2. Brisco
-3. Cerro
-4. Chewie
-5. Finley
-6. Gizzmo
-7. Hugo
-8. Keiko
-9. Krispy
-10. Lady
-11. Maggie
-12. Mauley
-13. Maximus
-14. Mazie
-15. Nico
-16. Riddick
-17. Ripley
-18. Ruffles
-19. Skittles
-20. Timbits
+<li>Batu</li>
+<li>Brisco</li>
+<li>Cerro</li>
+<li>Chewie</li>
+<li>Finley</li>
+<li>Gizzmo</li>
+<li>Hugo</li>
+<li>Keiko</li>
+<li>Krispy</li>
+<li>Lady</li>
+<li>Maggie</li>
+<li>Mauley</li>
+<li>Maximus</li>
+<li>Mazie</li>
+<li>Nico</li>
+<li>Riddick</li>
+<li>Ripley</li>
+<li>Ruffles</li>
+<li>Skittles</li>
+<li>Timbits</li>
 
 CATS
-1. Aristocat
-2. Artemis
-3. Beasty Boy
-4. Bojangles
-5. Captain Marvel
-6. Chairman Meow
-7. Cheeseburger
-8. Chessy
-9. Ghost
-10. Ginger
-11. Hocus Pocus
-12. Merlin
-13. Percy
-14. Precious
-15. Shadow
-16. Snoop
-17. Snowball
-18. Squeaky
-19. Sylvester
-20. Willow
+<li>Aristocat</li>
+<li>Artemis</li>
+<li>Beasty Boy</li>
+<li>Bojangles</li>
+<li>Captain Marvel</li>
+<li>Chairman Meow</li>
+<li>Cheeseburger</li>
+<li>Chessy</li>
+<li>Ghost</li>
+<li>Ginger</li>
+<li>Hocus Pocus</li>
+<li>Merlin</li>
+<li>Percy</li>
+<li>Precious</li>
+<li>Shadow</li>
+<li>Snoop</li>
+<li>Snowball</li>
+<li>Squeaky</li>
+<li>Sylvester</li>
+<li>Willow</li>
 
 DOG BREEDS (and origins)
-1. Afghan Hound (Afghanistan)
-2. Akita Inu (Japan)
-3. American Pit Bull Terrier (United States)
-4. Basset Hound (France)
-5. Bloodhound (Belgium)
-6. Chihuahua (Mexico)
-7. Dachshund (Germany)
-8. Dalmatian (Croatia)
-9. Golden Retriever (Scotland)
-10. Irish Wolfhound (Ireland)
-11. Jack Russell Terrier (England)
-12. Lahasa Apso (Tibet)
-13. Newfoundland (Canada)
-14. Old Danish Pointer (Denmark)
-15. Pembroke Welsh Corgi (Wales)
-16. Portuguese Water Dog (Portugal)
-17. Pug (China)
-18. Rhodesian Ridgeback (Zimbabwe)
-19. Siberian Husky (Russia)
-20. St. Bernard (Italy, Switzerland)
+<li>Afghan Hound (Afghanistan)</li>
+<li>Akita Inu (Japan)</li>
+<li>American Pit Bull Terrier (United States)</li>
+<li>Basset Hound (France)</li>
+<li>Bloodhound (Belgium)</li>
+<li>Chihuahua (Mexico)</li>
+<li>Dachshund (Germany)</li>
+<li>Dalmatian (Croatia)</li>
+<li>Golden Retriever (Scotland)</li>
+<li>Irish Wolfhound (Ireland)</li>
+<li>Jack Russell Terrier (England)</li>
+<li>Lahasa Apso (Tibet)</li>
+<li>Newfoundland (Canada)</li>
+<li>Old Danish Pointer (Denmark)</li>
+<li>Pembroke Welsh Corgi (Wales)</li>
+<li>Portuguese Water Dog (Portugal)</li>
+<li>Pug (China)</li>
+<li>Rhodesian Ridgeback (Zimbabwe)</li>
+<li>Siberian Husky (Russia)</li>
+<li>St. Bernard (Italy, Switzerland)</li>
 
 POCKET PETS
-1. Betta Fish
-2. Chinchilla
-3. Ferret
-4. Frog
-5. Gecko
-6. Gerbil
-7. Guinea Pig
-8. Hamster
-9. Hedgehog
-10. Hermit Crab
-11. Madagascar Hissing Cockroach
-12. Parrot
-13. Piranha
-14. Rabbit
-15. Rat
-16. Turtle
-17. Snake
-18. Squirrel Monkey
-19. Stick Insect
-20. Tarantula
+<li>Betta Fish</li>
+<li>Chinchilla</li>
+<li>Ferret</li>
+<li>Frog</li>
+<li>Gecko</li>
+<li>Gerbil</li>
+<li>Guinea Pig</li>
+<li>Hamster</li>
+<li>Hedgehog</li>
+<li>Hermit Crab</li>
+<li>Madagascar Hissing Cockroach</li>
+<li>Parrot</li>
+<li>Piranha</li>
+<li>Rabbit</li>
+<li>Rat</li>
+<li>Turtle</li>
+<li>Snake</li>
+<li>Squirrel Monkey</li>
+<li>Stick Insect</li>
+<li>Tarantula</li>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA
 

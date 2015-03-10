@@ -2,135 +2,135 @@
 Compiled by Gregor Vuga
 
 MALE NAMES I
-1. Janez
-2. Jaka
-3. Ivan
-4. Marko
-5. Tomaž
-6. Franc
-7. Anton
-8. Jože
-9. Marjan
-10. Peter
-11. Matej
-12. Lucijan
-13. David
-14. Jurij
-15. Matija
-16. Aleksander
-17. Ambrož
-18. Blaž
-19. Bor
-20. Boštjan
+<li>Janez</li>
+<li>Jaka</li>
+<li>Ivan</li>
+<li>Marko</li>
+<li>Tomaž</li>
+<li>Franc</li>
+<li>Anton</li>
+<li>Jože</li>
+<li>Marjan</li>
+<li>Peter</li>
+<li>Matej</li>
+<li>Lucijan</li>
+<li>David</li>
+<li>Jurij</li>
+<li>Matija</li>
+<li>Aleksander</li>
+<li>Ambrož</li>
+<li>Blaž</li>
+<li>Bor</li>
+<li>Boštjan</li>
 
 MALE NAMES II
-1. Domen
-2. Žiga
-3. Filip
-4. Gašper
-5. Igor
-6. Jakob
-7. Jan
-8. Jernej
-9. Jure
-10. Luka
-11. Matevž
-12. Matic
-13. Miha
-14. Nejc
-15. Primož
-16. Rok
-17. Svit
-18. Tadej
-19. Uroš
-20. Vasja
+<li>Domen</li>
+<li>Žiga</li>
+<li>Filip</li>
+<li>Gašper</li>
+<li>Igor</li>
+<li>Jakob</li>
+<li>Jan</li>
+<li>Jernej</li>
+<li>Jure</li>
+<li>Luka</li>
+<li>Matevž</li>
+<li>Matic</li>
+<li>Miha</li>
+<li>Nejc</li>
+<li>Primož</li>
+<li>Rok</li>
+<li>Svit</li>
+<li>Tadej</li>
+<li>Uroš</li>
+<li>Vasja</li>
 
 FEMALE NAMES I
-1. Marija
-2. Ana
-3. Maja
-4. Irena
-5. Mojca
-6. Mateja
-7. Nataša
-8. Andreja
-9. Nina
-10. Barbara
-11. Anja
-12. Katarina
-13. Katja
-14. Lara
-15. Lea
-16. Alja
-17. Anja
-18. Branka
-19. Janja
-20. Eva
+<li>Marija</li>
+<li>Ana</li>
+<li>Maja</li>
+<li>Irena</li>
+<li>Mojca</li>
+<li>Mateja</li>
+<li>Nataša</li>
+<li>Andreja</li>
+<li>Nina</li>
+<li>Barbara</li>
+<li>Anja</li>
+<li>Katarina</li>
+<li>Katja</li>
+<li>Lara</li>
+<li>Lea</li>
+<li>Alja</li>
+<li>Anja</li>
+<li>Branka</li>
+<li>Janja</li>
+<li>Eva</li>
 
 FEMALE NAMES II
-1. Tanja
-2. Ines
-3. Jerneja
-4. Klavdija
-5. Marijana
-6. Maruša
-7. Maša
-8. Špela
-9. Kaja
-10. Nastja
-11. Natalija
-12. Danijela
-13. Neža
-14. Nika
-15. Petra
-16. Polona
-17. Urška
-18. Sabina
-19. Sanja
-20. Saša
+<li>Tanja</li>
+<li>Ines</li>
+<li>Jerneja</li>
+<li>Klavdija</li>
+<li>Marijana</li>
+<li>Maruša</li>
+<li>Maša</li>
+<li>Špela</li>
+<li>Kaja</li>
+<li>Nastja</li>
+<li>Natalija</li>
+<li>Danijela</li>
+<li>Neža</li>
+<li>Nika</li>
+<li>Petra</li>
+<li>Polona</li>
+<li>Urška</li>
+<li>Sabina</li>
+<li>Sanja</li>
+<li>Saša</li>
 
 SURNAMES I
-1. Novak
-2. Horvat
-3. Kovačič
-4. Kranjc
-5. Zupančič
-6. Kovač
-7. Potočnik
-8. Mlakar
-9. Vidmar
-10. Kos
-11. Golob
-12. Turk
-13. Božič
-14. Kralj
-15. Zupan
-16. Korošec
-17. Bizjak
-18. Hribar
-19. Kotnik
-20. Rozman
+<li>Novak</li>
+<li>Horvat</li>
+<li>Kovačič</li>
+<li>Kranjc</li>
+<li>Zupančič</li>
+<li>Kovač</li>
+<li>Potočnik</li>
+<li>Mlakar</li>
+<li>Vidmar</li>
+<li>Kos</li>
+<li>Golob</li>
+<li>Turk</li>
+<li>Božič</li>
+<li>Kralj</li>
+<li>Zupan</li>
+<li>Korošec</li>
+<li>Bizjak</li>
+<li>Hribar</li>
+<li>Kotnik</li>
+<li>Rozman</li>
 
 SURNAMES II
-1. Kavčič
-2. Petek
-3. Kastelic
-4. Kolar
-5. Žagar
-6. Oblak
-7. Hočevar
-8. Košir
-9. Koren
-10. Klemenčič
-11. Zajc
-12. Knez
-13. Medved
-14. Petrič
-15. Pirc
-16. Zupanc
-17. Pavlič
-18. Kuhar
-19. Lah
-20. Sever
+<li>Kavčič</li>
+<li>Petek</li>
+<li>Kastelic</li>
+<li>Kolar</li>
+<li>Žagar</li>
+<li>Oblak</li>
+<li>Hočevar</li>
+<li>Košir</li>
+<li>Koren</li>
+<li>Klemenčič</li>
+<li>Zajc</li>
+<li>Knez</li>
+<li>Medved</li>
+<li>Petrič</li>
+<li>Pirc</li>
+<li>Zupanc</li>
+<li>Pavlič</li>
+<li>Kuhar</li>
+<li>Lah</li>
+<li>Sever</li>
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
