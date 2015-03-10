@@ -3,128 +3,128 @@ Compiled by Mischa D. Krilov
 NOTES
 These are names culled from actual spam. Good for alien cultures that don't understand humans, artifical intelligences in a cyberpunk setting, bad pseudonyms for obvious clues in a detective story, false passports, or even as sales and marketing,
 MALE 1
-1. Harold Aragon
-2. Woods Bank
-3. Guerra Dharma
-4. Morton Skaggs
-5. Matin L. Agave
-6. Horace Ok
-7. Lazaro Stein
-8. Mark Duqum
-9. Emerson Ferguson
-10. Ricardo Frydman Eureka
-11. Max Polarfleece
-12. Assam Diaz
-13. Donald B. Skynet
-14. S. David Snovcode
-15. Thurman Bog
-16. Romeo Beltran
-17. Sheldon Dispersal
-18. Ulysses Ivory
-19. Mohamed Swenson
-20. Walden Toccara
+<li>Harold Aragon</li>
+<li>Woods Bank</li>
+<li>Guerra Dharma</li>
+<li>Morton Skaggs</li>
+<li>Matin L. Agave</li>
+<li>Horace Ok</li>
+<li>Lazaro Stein</li>
+<li>Mark Duqum</li>
+<li>Emerson Ferguson</li>
+<li>Ricardo Frydman Eureka</li>
+<li>Max Polarfleece</li>
+<li>Assam Diaz</li>
+<li>Donald B. Skynet</li>
+<li>S. David Snovcode</li>
+<li>Thurman Bog</li>
+<li>Romeo Beltran</li>
+<li>Sheldon Dispersal</li>
+<li>Ulysses Ivory</li>
+<li>Mohamed Swenson</li>
+<li>Walden Toccara</li>
 FEMALE 2
-1. Leola Helms
-2. Arlene Ardell Yuki
-3. Marcie Houser Tkyles
-4. Concetta Hickey
-5. Kyla Goldenring
-6. Bessie Dunbar
-7. Susan Gray Nailhead
-8. Tari Kayak
-9. Kaley Kathryne
-10. Millicent Herron
-11. Calandra Reyes
-12. Kerr Margo
-13. Bianca Disease Hill
-14. Maddie Coombs
-15. Beulah Weaver
-16. Twila Bain
-17. Leonore Alfaro
-18. Eva V. Hoodia
-19. Valeria Orr
-20. Selena Grubbs
+<li>Leola Helms</li>
+<li>Arlene Ardell Yuki</li>
+<li>Marcie Houser Tkyles</li>
+<li>Concetta Hickey</li>
+<li>Kyla Goldenring</li>
+<li>Bessie Dunbar</li>
+<li>Susan Gray Nailhead</li>
+<li>Tari Kayak</li>
+<li>Kaley Kathryne</li>
+<li>Millicent Herron</li>
+<li>Calandra Reyes</li>
+<li>Kerr Margo</li>
+<li>Bianca Disease Hill</li>
+<li>Maddie Coombs</li>
+<li>Beulah Weaver</li>
+<li>Twila Bain</li>
+<li>Leonore Alfaro</li>
+<li>Eva V. Hoodia</li>
+<li>Valeria Orr</li>
+<li>Selena Grubbs</li>
 GENDER-NEUTRAL 1
-1. Sterling Caudill
-2. Lakeisha Utiljip
-3. Artlover Paris
-4. Hutchinson Gino
-5. Irahf Bright
-6. Josue Crawford
-7. Gontsov L. L.
-8. Hartley Blanton
-9. Khodadad Shorty
-10. Apple Pollock
-11. Dewey Dobson
-12. Evron Nagata
-13. Dayna Joane Martinn Brynn
-14. Linwood Evans
-15. Oak Nutgall
-16. Bad Hayes
-17. Tang Fufuo
-18. Zavala Perla
-19. Toronto Legara
-20. Military Americas
+<li>Sterling Caudill</li>
+<li>Lakeisha Utiljip</li>
+<li>Artlover Paris</li>
+<li>Hutchinson Gino</li>
+<li>Irahf Bright</li>
+<li>Josue Crawford</li>
+<li>Gontsov L. L.</li>
+<li>Hartley Blanton</li>
+<li>Khodadad Shorty</li>
+<li>Apple Pollock</li>
+<li>Dewey Dobson</li>
+<li>Evron Nagata</li>
+<li>Dayna Joane Martinn Brynn</li>
+<li>Linwood Evans</li>
+<li>Oak Nutgall</li>
+<li>Bad Hayes</li>
+<li>Tang Fufuo</li>
+<li>Zavala Perla</li>
+<li>Toronto Legara</li>
+<li>Military Americas</li>
 MALE 2 
-1. Jacques Shafter
-2. Odilon Hornsby
-3. Delmer Gaines, Jr
-4. Jorge Savannah
-5. Ferguson Sprague
-6. Roosevelt Henley
-7. Augustine Cummings
-8. Dickie Neff
-9. Prince Ira
-10. Richard Pozoxu
-11. Berry Romeo
-12. Elvin Magicplant
-13. Carl Curryrod
-14. Galvan Gore
-15. Conrad Sprague
-16. Jamaal Penny
-17. Blake Clarke
-18. Osvaldo Post
-19. Blackmon Kerzen
-20. Cornelius Archery
+<li>Jacques Shafter</li>
+<li>Odilon Hornsby</li>
+<li>Delmer Gaines, Jr</li>
+<li>Jorge Savannah</li>
+<li>Ferguson Sprague</li>
+<li>Roosevelt Henley</li>
+<li>Augustine Cummings</li>
+<li>Dickie Neff</li>
+<li>Prince Ira</li>
+<li>Richard Pozoxu</li>
+<li>Berry Romeo</li>
+<li>Elvin Magicplant</li>
+<li>Carl Curryrod</li>
+<li>Galvan Gore</li>
+<li>Conrad Sprague</li>
+<li>Jamaal Penny</li>
+<li>Blake Clarke</li>
+<li>Osvaldo Post</li>
+<li>Blackmon Kerzen</li>
+<li>Cornelius Archery</li>
 FEMALE 2
-1. Cinema Hilton
-2. Dominique Alonzo
-3. Charity Pasquale
-4. Ivey Tovar
-5. Effie Schumacher
-6. Summer Fitzpatrick Boyd
-7. Latonya Thorpe
-8. Audra Cohen
-9. Enid Weaver
-10. Phoebe Pavel
-11. Cristina Kareem
-12. Cleopatra Else
-13. Charity Romeo
-14. Vesta Hilton
-15. Buena Waters
-16. Lakeisha Benavides
-17. Sosa Mohamed
-18. Melba Chang Pan
-19. Jesstess Codec
-20. Sonata Begay
+<li>Cinema Hilton</li>
+<li>Dominique Alonzo</li>
+<li>Charity Pasquale</li>
+<li>Ivey Tovar</li>
+<li>Effie Schumacher</li>
+<li>Summer Fitzpatrick Boyd</li>
+<li>Latonya Thorpe</li>
+<li>Audra Cohen</li>
+<li>Enid Weaver</li>
+<li>Phoebe Pavel</li>
+<li>Cristina Kareem</li>
+<li>Cleopatra Else</li>
+<li>Charity Romeo</li>
+<li>Vesta Hilton</li>
+<li>Buena Waters</li>
+<li>Lakeisha Benavides</li>
+<li>Sosa Mohamed</li>
+<li>Melba Chang Pan</li>
+<li>Jesstess Codec</li>
+<li>Sonata Begay</li>
 GENDER-NEUTRAL 2
-1. Indented T. Inferiority
-2. Moyer Katty
-3. Foresail P. Fining
-4. Boykin Murillo
-5. Farnaz Blankenship
-6. Galen Holden
-7. Booker Numbers
-8. Izdihar Bousquet
-9. Beasley Beam
-10. Delayed 
-11. German Davidson
-12. Bridges Shoemaker
-13. Tourism Verum
-14. Gay Nava
-15. Narca Reel
-16. Dilemmas Dangers
-17. Arianrhod Seese
-18. Mull Muslin
-19. Tarja Picha
-20. Anelik Super
+<li>Indented T. Inferiority</li>
+<li>Moyer Katty</li>
+<li>Foresail P. Fining</li>
+<li>Boykin Murillo</li>
+<li>Farnaz Blankenship</li>
+<li>Galen Holden</li>
+<li>Booker Numbers</li>
+<li>Izdihar Bousquet</li>
+<li>Beasley Beam</li>
+<li>Delayed </li>
+<li>German Davidson</li>
+<li>Bridges Shoemaker</li>
+<li>Tourism Verum</li>
+<li>Gay Nava</li>
+<li>Narca Reel</li>
+<li>Dilemmas Dangers</li>
+<li>Arianrhod Seese</li>
+<li>Mull Muslin</li>
+<li>Tarja Picha</li>
+<li>Anelik Super</li>

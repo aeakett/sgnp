@@ -3,128 +3,128 @@ Compiled by D. Vincent Baker
 NOTES
 Compiled from the Assyrian Names Project, http://www.nineveh.com/Assyrian%20Names%20Project.html
 FEMALE NAMES 1
-1. Aurhai
-2. Awita
-3. Damrina
-4. Eilina
-5. Hano
-6. Khannah
-7. Larsa
-8. Lolita
-9. Lwita
-10. Mardina
-11. Marnita
-12. Nashiram
-13. Ninsina
-14. Panna
-15. Rashomta
-16. Sawrina
-17. Sharokina 
-18. Shimta
-19. Simta
-20. Walita
+<li>Aurhai</li>
+<li>Awita</li>
+<li>Damrina</li>
+<li>Eilina</li>
+<li>Hano</li>
+<li>Khannah</li>
+<li>Larsa</li>
+<li>Lolita</li>
+<li>Lwita</li>
+<li>Mardina</li>
+<li>Marnita</li>
+<li>Nashiram</li>
+<li>Ninsina</li>
+<li>Panna</li>
+<li>Rashomta</li>
+<li>Sawrina</li>
+<li>Sharokina </li>
+<li>Shimta</li>
+<li>Simta</li>
+<li>Walita</li>
 MALE NAMES 1
-1. Ador Eil
-2. Ajdina
-3. Akhiban
-4. Anlel
-5. Ashur Ban
-6. Awidan
-7. Awiya
-8. Bailbrone
-9. Ha Wail (Hawil)
-10. Mardeen
-11. Mekha Eil
-12. Nabo Need
-13. Nabo Ram
-14. Nardeen
-15. Nasirpal
-16. Rab Seen
-17. Ram Eil
-18. Sennacherib
-19. Shaybo (Shibo)
-20. Zah Eil
+<li>Ador Eil</li>
+<li>Ajdina</li>
+<li>Akhiban</li>
+<li>Anlel</li>
+<li>Ashur Ban</li>
+<li>Awidan</li>
+<li>Awiya</li>
+<li>Bailbrone</li>
+<li>Ha Wail (Hawil)</li>
+<li>Mardeen</li>
+<li>Mekha Eil</li>
+<li>Nabo Need</li>
+<li>Nabo Ram</li>
+<li>Nardeen</li>
+<li>Nasirpal</li>
+<li>Rab Seen</li>
+<li>Ram Eil</li>
+<li>Sennacherib</li>
+<li>Shaybo (Shibo)</li>
+<li>Zah Eil</li>
 FEMALE NAMES 2
-1. Achadina
-2. Aramina
-3. Aurya
-4. Awijil
-5. Baila
-6. Bet Eil
-7. Domarina
-8. Emmita
-9. Ishtar
-10. Milta
-11. Naramsina
-12. Nasibin
-13. Nineveh
-14. Shamreta
-15. Shamrina
-16. Shamura
-17. Shirat
-18. Wardina
-19. Wardiya
-20. Yaeeta
+<li>Achadina</li>
+<li>Aramina</li>
+<li>Aurya</li>
+<li>Awijil</li>
+<li>Baila</li>
+<li>Bet Eil</li>
+<li>Domarina</li>
+<li>Emmita</li>
+<li>Ishtar</li>
+<li>Milta</li>
+<li>Naramsina</li>
+<li>Nasibin</li>
+<li>Nineveh</li>
+<li>Shamreta</li>
+<li>Shamrina</li>
+<li>Shamura</li>
+<li>Shirat</li>
+<li>Wardina</li>
+<li>Wardiya</li>
+<li>Yaeeta</li>
 MALE NAMES 2
-1. Ador Palasar
-2. Ashur Ram
-3. Awi Bail
-4. Awinam
-5. Awshalim 
-6. Bardeen
-7. Bardisan
-8. Baryamin
-9. Dani Eil (Daniel)
-10. Eilbra
-11. Khnanya
-12. Khonayn
-13. Madsa
-14. Mardokh
-15. Natan (Nathan)
-16. Paldeen
-17. Rab Eil
-18. Rafa Eil (Raphael)
-19. Shalmanisar
-20. Shar Eil
+<li>Ador Palasar</li>
+<li>Ashur Ram</li>
+<li>Awi Bail</li>
+<li>Awinam</li>
+<li>Awshalim </li>
+<li>Bardeen</li>
+<li>Bardisan</li>
+<li>Baryamin</li>
+<li>Dani Eil (Daniel)</li>
+<li>Eilbra</li>
+<li>Khnanya</li>
+<li>Khonayn</li>
+<li>Madsa</li>
+<li>Mardokh</li>
+<li>Natan (Nathan)</li>
+<li>Paldeen</li>
+<li>Rab Eil</li>
+<li>Rafa Eil (Raphael)</li>
+<li>Shalmanisar</li>
+<li>Shar Eil</li>
 FEMALE NAMES 3
-1. Adorina
-2. Akhita
-3. Arbella
-4. Ari Eil
-5. Ashourina
-6. Eilbrat
-7. Hani'ata
-8. Lawita
-9. Marjanita
-10. Martha
-11. Nahrina
-12. Nardina
-13. Paldina
-14. Ramina
-15. Ramsina
-16. Rdita
-17. Sahdina
-18. Sorme
-19. Yata
-20. Yayota
+<li>Adorina</li>
+<li>Akhita</li>
+<li>Arbella</li>
+<li>Ari Eil</li>
+<li>Ashourina</li>
+<li>Eilbrat</li>
+<li>Hani'ata</li>
+<li>Lawita</li>
+<li>Marjanita</li>
+<li>Martha</li>
+<li>Nahrina</li>
+<li>Nardina</li>
+<li>Paldina</li>
+<li>Ramina</li>
+<li>Ramsina</li>
+<li>Rdita</li>
+<li>Sahdina</li>
+<li>Sorme</li>
+<li>Yata</li>
+<li>Yayota</li>
 MALE NAMES 3
-1. Akhiqar
-2. Aram Seen
-3. Asor Khadon
-4. Awi Eil
-5. Awrahim 
-6. Baildan
-7. Bailshar
-8. Bareil
-9. Barseen
-10. Dem Ashur
-11. Eilram
-12. Hadirseen
-13. Khnan Seen
-14. Nahroona
-15. Naram Seen
-16. Nirar
-17. Romrama
-18. Shmou Eil 
-19. Ward Seen
-20. Yomadan
+<li>Akhiqar</li>
+<li>Aram Seen</li>
+<li>Asor Khadon</li>
+<li>Awi Eil</li>
+<li>Awrahim </li>
+<li>Baildan</li>
+<li>Bailshar</li>
+<li>Bareil</li>
+<li>Barseen</li>
+<li>Dem Ashur</li>
+<li>Eilram</li>
+<li>Hadirseen</li>
+<li>Khnan Seen</li>
+<li>Nahroona</li>
+<li>Naram Seen</li>
+<li>Nirar</li>
+<li>Romrama</li>
+<li>Shmou Eil </li>
+<li>Ward Seen</li>
+<li>Yomadan</li>

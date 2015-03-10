@@ -1,128 +1,128 @@
 ﻿POLISH
 Compiled by Radek Drozdalski
 MALE NAMES 1
-1. Adam (Adas)
-2. Stefan
-3. Zenon (Zenek)
-4. Tadeusz (Tadzio)
-5. Wieslaw (Wiesiu)
-6. Jerzy (Jurek)
-7. Mieczyslaw (Mieciu)
-8. Radislaw
-9. Jzef (J zek)
-10. Witold (Witek)
-11. Aleksander (Olek)
-12. Jeremi
-13. Roman
-14. Juljan (Julek)
-15. Kazimierz (Kazio)
-16. Lech (Leszek)
-17. Lew
-18. Marian
-19. Rajmund
-20. Tomasz
+<li>Adam (Adas)</li>
+<li>Stefan</li>
+<li>Zenon (Zenek)</li>
+<li>Tadeusz (Tadzio)</li>
+<li>Wieslaw (Wiesiu)</li>
+<li>Jerzy (Jurek)</li>
+<li>Mieczyslaw (Mieciu)</li>
+<li>Radislaw</li>
+<li>Jzef (J zek)</li>
+<li>Witold (Witek)</li>
+<li>Aleksander (Olek)</li>
+<li>Jeremi</li>
+<li>Roman</li>
+<li>Juljan (Julek)</li>
+<li>Kazimierz (Kazio)</li>
+<li>Lech (Leszek)</li>
+<li>Lew</li>
+<li>Marian</li>
+<li>Rajmund</li>
+<li>Tomasz</li>
 FEMALE NAMES
-1. Alicja (Ala)
-2. Barbara (Basia)
-3. Danuta
-4. Lidia (Lidka)
-5. Mira
-6. Halina (Halinka)
-7. Anna (Ania)
-8. Stefania (Stefa)
-9. Hanna (Hania)
-10. Janina (Janinka)
-11. Klara
-12. Krystyna (Srysia)
-13. Maria
-14. Dorota
-15. Ewa (Ewcia)
-16. Gabriela
-17. Helena (Hela)
-18. Irena (Irenka)
-19. Maryla
-20. Zofia (Zosia)
+<li>Alicja (Ala)</li>
+<li>Barbara (Basia)</li>
+<li>Danuta</li>
+<li>Lidia (Lidka)</li>
+<li>Mira</li>
+<li>Halina (Halinka)</li>
+<li>Anna (Ania)</li>
+<li>Stefania (Stefa)</li>
+<li>Hanna (Hania)</li>
+<li>Janina (Janinka)</li>
+<li>Klara</li>
+<li>Krystyna (Srysia)</li>
+<li>Maria</li>
+<li>Dorota</li>
+<li>Ewa (Ewcia)</li>
+<li>Gabriela</li>
+<li>Helena (Hela)</li>
+<li>Irena (Irenka)</li>
+<li>Maryla</li>
+<li>Zofia (Zosia)</li>
 MALE NAMES 2
-1. Waclaw (Wacek)
-2. Maciej (Maciek)
-3. Jan (Janek)
-4. Anatol
-5. Bohdan
-6. Bronislaw (Bronek)
-7. Czeslaw (Czesiu) 
-8. David
-9. Eugeniusz (Gienek)
-10. Henryk (Henio)
-11. Iwo
-12. Janusz (Janek)
-13. Marek
-14. Robert
-15. Slawomir (Slawek)
-16. Stanislaw (Stas)
-17. Wlodzimierz (Wlodek)
-18. Antoni
-19. Boguslaw (Bogus)
-20. Zygmunt (Zyga)
+<li>Waclaw (Wacek)</li>
+<li>Maciej (Maciek)</li>
+<li>Jan (Janek)</li>
+<li>Anatol</li>
+<li>Bohdan</li>
+<li>Bronislaw (Bronek)</li>
+<li>Czeslaw (Czesiu) </li>
+<li>David</li>
+<li>Eugeniusz (Gienek)</li>
+<li>Henryk (Henio)</li>
+<li>Iwo</li>
+<li>Janusz (Janek)</li>
+<li>Marek</li>
+<li>Robert</li>
+<li>Slawomir (Slawek)</li>
+<li>Stanislaw (Stas)</li>
+<li>Wlodzimierz (Wlodek)</li>
+<li>Antoni</li>
+<li>Boguslaw (Bogus)</li>
+<li>Zygmunt (Zyga)</li>
 SURNAMES 1
-1. Borowicz
-2. Czarnecka
-3. Grzeszczak
-4. Hlasko
-5. Hoffman
-6. Jaszczuk
-7. Kabanski
-8. Lewinska
-9. Zapadko
-10. Wajcowicz
-11. Kozicki
-12. Krassowska
-13. Krauze
-14. Wiwatowski
-15. Zborowski
-16. Malento
-17. Sawicka
-18. Meyer
-19. Kowalski
-20. Dudek
+<li>Borowicz</li>
+<li>Czarnecka</li>
+<li>Grzeszczak</li>
+<li>Hlasko</li>
+<li>Hoffman</li>
+<li>Jaszczuk</li>
+<li>Kabanski</li>
+<li>Lewinska</li>
+<li>Zapadko</li>
+<li>Wajcowicz</li>
+<li>Kozicki</li>
+<li>Krassowska</li>
+<li>Krauze</li>
+<li>Wiwatowski</li>
+<li>Zborowski</li>
+<li>Malento</li>
+<li>Sawicka</li>
+<li>Meyer</li>
+<li>Kowalski</li>
+<li>Dudek</li>
 SURNAMES 2
-1. Butkiewicz
-2. Ceglowska
-3. Kacprzak
-4. Michalowska
-5. Olszewska
-6. Pietrasiewicz
-7. Kalinowska
-8. Dunin
-9. Edelman
-10. Kapusta
-11. Kieffer
-12. Gerbert
-13. Golebiowska
-14. Karwicka
-15. Czechwicz
-16. Skiba
-17. Ptaszynski
-18. Strachalska
-19. Poiniatowski
-20. Samosarski
+<li>Butkiewicz</li>
+<li>Ceglowska</li>
+<li>Kacprzak</li>
+<li>Michalowska</li>
+<li>Olszewska</li>
+<li>Pietrasiewicz</li>
+<li>Kalinowska</li>
+<li>Dunin</li>
+<li>Edelman</li>
+<li>Kapusta</li>
+<li>Kieffer</li>
+<li>Gerbert</li>
+<li>Golebiowska</li>
+<li>Karwicka</li>
+<li>Czechwicz</li>
+<li>Skiba</li>
+<li>Ptaszynski</li>
+<li>Strachalska</li>
+<li>Poiniatowski</li>
+<li>Samosarski</li>
 SURNAMES 3
-1. Podkomorski
-2. Zakrzewska
-3. Saski
-4. Kunicki
-5. Kordulski
-6. Dabrowska
-7. Sidorowicz
-8. Wojnarowska
-9. Zwolinski
-10. Korzeniowska
-11. Pindelska
-12. Gral
-13. Lempicka
-14. Huskowski
-15. Jastrzebska
-16. Lewandowski
-17. Grabowska
-18. Polkowski
-19. Raciborski
-20. Slubicki
+<li>Podkomorski</li>
+<li>Zakrzewska</li>
+<li>Saski</li>
+<li>Kunicki</li>
+<li>Kordulski</li>
+<li>Dabrowska</li>
+<li>Sidorowicz</li>
+<li>Wojnarowska</li>
+<li>Zwolinski</li>
+<li>Korzeniowska</li>
+<li>Pindelska</li>
+<li>Gral</li>
+<li>Lempicka</li>
+<li>Huskowski</li>
+<li>Jastrzebska</li>
+<li>Lewandowski</li>
+<li>Grabowska</li>
+<li>Polkowski</li>
+<li>Raciborski</li>
+<li>Slubicki</li>

@@ -3,256 +3,256 @@ Compiled by Brand Robins, Mischa D. Krilov and Jason Morningstar
 NOTES
 Call it 1925, somewhere in New England.  Somewhere unwholesome... The ancient and dead languages are perfect for your Curious Volumes of Forbidden Lore.
 MALE PROFESSORS
-1. Underwood Mayfield-Carter
-2. Juan Santiago Ramos-Torres
-3. Ward Younghusband
-4. Archibald Woolidge
-5. Lafeyette Horner
-6. Jean-Jacques Brasseur
-7. August Ransom-Lowell
-8. Howard Murray Sharpless
-9. Bentinck Krahn
-10. Alphonso Deane
-11. Wallace Rutland-Mosteller
-12. Erkenfried Moeller-Heilemann
-13. Everett Charles Blackburn
-14. William Asher Church
-15. Urban Blazej Kusnierewicz 
-16. Percival Dorsett-McNelly 
-17. Franklin Oglethorpe-Waite
-18. Maynard Creasy III
-19. Benedict Willard-Makepeace
-20. Manchester Clematis-Frost
+<li>Underwood Mayfield-Carter</li>
+<li>Juan Santiago Ramos-Torres</li>
+<li>Ward Younghusband</li>
+<li>Archibald Woolidge</li>
+<li>Lafeyette Horner</li>
+<li>Jean-Jacques Brasseur</li>
+<li>August Ransom-Lowell</li>
+<li>Howard Murray Sharpless</li>
+<li>Bentinck Krahn</li>
+<li>Alphonso Deane</li>
+<li>Wallace Rutland-Mosteller</li>
+<li>Erkenfried Moeller-Heilemann</li>
+<li>Everett Charles Blackburn</li>
+<li>William Asher Church</li>
+<li>Urban Blazej Kusnierewicz </li>
+<li>Percival Dorsett-McNelly </li>
+<li>Franklin Oglethorpe-Waite</li>
+<li>Maynard Creasy III</li>
+<li>Benedict Willard-Makepeace</li>
+<li>Manchester Clematis-Frost</li>
 FEMALE PROFESSORS
-1. Augusta Monck
-2. Gertje Hoogduytscher 
-3. Dorothy Thorton Shaw
-4. Marie Venable
-5. Fidelia Harwood
-6. Kätchen Iris Von Schroeder
-7. Valeria Ulrich-Womble
-8. Nova St. Pierre
-9. Pasqualena Zuccaro-Fazio
-10. Hazel Tolley-Speer
-11. Alice Cobley-Evans
-12. Ekaterina Hlutev
-13. Sarah Stevenson
-14. Tabitha Rockworth Butterfield
-15. Marie-Zéphyrine La Pérouse 
-16. Alba Chaplin-Davis-Dow
-17. Edith Fogg
-18. Eudora Bryngel 
-19. Zlatka Moulton-Gardner
-20. Bernadette Eulalia Peterson
+<li>Augusta Monck</li>
+<li>Gertje Hoogduytscher </li>
+<li>Dorothy Thorton Shaw</li>
+<li>Marie Venable</li>
+<li>Fidelia Harwood</li>
+<li>Kätchen Iris Von Schroeder</li>
+<li>Valeria Ulrich-Womble</li>
+<li>Nova St. Pierre</li>
+<li>Pasqualena Zuccaro-Fazio</li>
+<li>Hazel Tolley-Speer</li>
+<li>Alice Cobley-Evans</li>
+<li>Ekaterina Hlutev</li>
+<li>Sarah Stevenson</li>
+<li>Tabitha Rockworth Butterfield</li>
+<li>Marie-Zéphyrine La Pérouse </li>
+<li>Alba Chaplin-Davis-Dow</li>
+<li>Edith Fogg</li>
+<li>Eudora Bryngel </li>
+<li>Zlatka Moulton-Gardner</li>
+<li>Bernadette Eulalia Peterson</li>
 MALE STUDENTS 
-1. Winthrop "Winnie" Chaplin-Brown
-2. King "King" Burkey
-3. Courtney "Butterball" Craybeck
-4. Phillip "Poncey" Burns, Jr.  
-5. James "Stumpy" Frazier
-6. Patrick Henry "Cookie" Stevens
-7. Gerald "Goat" Tucker
-8. Ronald "Pinch" Jackson
-9. Townsend "Gorilla" Van Foy
-10. Cross "Minty" McGowan
-11. Prescott "Rusty" French
-12. Hamilton "Buzzy" Mantooth III
-13. Cornelius "Raccoon" Huntoon
-14. Adam "Grampy" Harris-Sibley
-15. Woodrow "Woody" Harding, Jr.
-16. Fenton "Fenty" Gilchrist
-17. Karl "Hamburger" Deitrich
-18. Edward "Popsy" Olsen
-19. Joseph "Sour-Blood" Cutter, Jr.
-20. Liam "Toad" McIvey
+<li>Winthrop "Winnie" Chaplin-Brown</li>
+<li>King "King" Burkey</li>
+<li>Courtney "Butterball" Craybeck</li>
+<li>Phillip "Poncey" Burns, Jr.  </li>
+<li>James "Stumpy" Frazier</li>
+<li>Patrick Henry "Cookie" Stevens</li>
+<li>Gerald "Goat" Tucker</li>
+<li>Ronald "Pinch" Jackson</li>
+<li>Townsend "Gorilla" Van Foy</li>
+<li>Cross "Minty" McGowan</li>
+<li>Prescott "Rusty" French</li>
+<li>Hamilton "Buzzy" Mantooth III</li>
+<li>Cornelius "Raccoon" Huntoon</li>
+<li>Adam "Grampy" Harris-Sibley</li>
+<li>Woodrow "Woody" Harding, Jr.</li>
+<li>Fenton "Fenty" Gilchrist</li>
+<li>Karl "Hamburger" Deitrich</li>
+<li>Edward "Popsy" Olsen</li>
+<li>Joseph "Sour-Blood" Cutter, Jr.</li>
+<li>Liam "Toad" McIvey</li>
 FEMALE STUDENTS
-1. Lottie Anne Werther
-2. Clementine Dupree
-3. Hester Hollingsworth
-4. Edwina Cobb
-5. Rosebud Grampian-Kettering
-6. Eliza-Jane Overton
-7. Helen Mogg-Wilson
-8. Irma Louise Plunkett
-9. Mina Todd Watson
-10. Jenny Biggs
-11. Capella Rausch
-12. Renee Fitzhugh-Camperdown
-13. Mildred Toynbee
-14. Button Hastings
-15. Roxie Brackett
-16. Louise Warner
-17. Loretta Potts
-18. Alice Bamberton-Willy
-19. Susan Peach
-20. Delia Wannamaker Levy
+<li>Lottie Anne Werther</li>
+<li>Clementine Dupree</li>
+<li>Hester Hollingsworth</li>
+<li>Edwina Cobb</li>
+<li>Rosebud Grampian-Kettering</li>
+<li>Eliza-Jane Overton</li>
+<li>Helen Mogg-Wilson</li>
+<li>Irma Louise Plunkett</li>
+<li>Mina Todd Watson</li>
+<li>Jenny Biggs</li>
+<li>Capella Rausch</li>
+<li>Renee Fitzhugh-Camperdown</li>
+<li>Mildred Toynbee</li>
+<li>Button Hastings</li>
+<li>Roxie Brackett</li>
+<li>Louise Warner</li>
+<li>Loretta Potts</li>
+<li>Alice Bamberton-Willy</li>
+<li>Susan Peach</li>
+<li>Delia Wannamaker Levy</li>
 CAMPUS LOCATIONS 
-1. The ruins of the Old Rectory
-2. Scadwell auditorium 
-3. Watkin-Tench conservatory of music
-4. Manders library and annex
-5. Drummond laboratory
-6. Hohenleutner observatory
-7. Muzetti gymnasium and ballroom
-8. Museum of Art and Science
-9. Physical plant and laundry
-10. Gamma Gamma Gamma house
-11. "Hillview", the Chancellor's house
-12. Brotherton chapel
-13. Theodore Roosevelt athletic field
-14. Braithewaite field-house
-15. Westcote-Kern arboretum
-16. Rowing club shed on Sexton lake
-17. "The green acre" quadrangle
-18. The Old Oak
-19. The statue of "Old Incorrigible" 
-20. Passion Point above Sexton lake
+<li>The ruins of the Old Rectory</li>
+<li>Scadwell auditorium </li>
+<li>Watkin-Tench conservatory of music</li>
+<li>Manders library and annex</li>
+<li>Drummond laboratory</li>
+<li>Hohenleutner observatory</li>
+<li>Muzetti gymnasium and ballroom</li>
+<li>Museum of Art and Science</li>
+<li>Physical plant and laundry</li>
+<li>Gamma Gamma Gamma house</li>
+<li>"Hillview", the Chancellor's house</li>
+<li>Brotherton chapel</li>
+<li>Theodore Roosevelt athletic field</li>
+<li>Braithewaite field-house</li>
+<li>Westcote-Kern arboretum</li>
+<li>Rowing club shed on Sexton lake</li>
+<li>"The green acre" quadrangle</li>
+<li>The Old Oak</li>
+<li>The statue of "Old Incorrigible" </li>
+<li>Passion Point above Sexton lake</li>
 ANCIENT AND DEAD LANGUAGES 1
-1. Latin (Rome, Latin alphabet) 
-2. Mycenaean  (Ancient Greece, Linear B) 
-3. Eteocretan (Ancient Minoan Crete, Linear A, non translated) 
-4. Classical and Hellenistic Greece (Classical Greece, Hellenistic Greece, Greek alphabet) 
-5. Paninian Sanskrit (Classical India, Devanagari script, Gupta script, Sharada script, etc.) 
-6. Vedic Saskrit (Ancient India, Brahmi script, Devanagari script) 
-7. Pahlavi (Middle Persian,  Pahlavi script and sometimes Manichean script) 
-8. Avestan (Ancient Persian religious language, Den Dabireh script added late in history) 
-9. Old Persian (Ancient Persia, cuneiform script)
-10. Akkadian (Assyria and Babylon, cuneiform script)
-11. Sumerian (Mesopotamia, cuneiform script) 
-12. Aramaic (Ancient and Biblical Middle East, Phoenician script, then Syriac alphabet) 
-13. Classical Hebrew (Ancient Israel, Hebrew alphabet)
-14. Elamite (Linear Elamite, cuniform Elamite script, non-translated proto-Elamite script) 
-15. Harappan (Harappa - very ancient India, Indus Script, non translated) 
-16. Classical Nahuatl (Aztec, pictographic) 
-17. Classic Maya (Mayans, Maya hieroglyphics)
-18. Phoenician (Phoenicians, Phoenician alphabet)
-19. Ancient Egyptian (Ancient Egypt, Egyptian hieroglyphic)
-20. Demotic Egyptian (Classical Egypt, Demotic script)
+<li>Latin (Rome, Latin alphabet) </li>
+<li>Mycenaean  (Ancient Greece, Linear B) </li>
+<li>Eteocretan (Ancient Minoan Crete, Linear A, non translated) </li>
+<li>Classical and Hellenistic Greece (Classical Greece, Hellenistic Greece, Greek alphabet) </li>
+<li>Paninian Sanskrit (Classical India, Devanagari script, Gupta script, Sharada script, etc.) </li>
+<li>Vedic Saskrit (Ancient India, Brahmi script, Devanagari script) </li>
+<li>Pahlavi (Middle Persian,  Pahlavi script and sometimes Manichean script) </li>
+<li>Avestan (Ancient Persian religious language, Den Dabireh script added late in history) </li>
+<li>Old Persian (Ancient Persia, cuneiform script)</li>
+<li>Akkadian (Assyria and Babylon, cuneiform script)</li>
+<li>Sumerian (Mesopotamia, cuneiform script) </li>
+<li>Aramaic (Ancient and Biblical Middle East, Phoenician script, then Syriac alphabet) </li>
+<li>Classical Hebrew (Ancient Israel, Hebrew alphabet)</li>
+<li>Elamite (Linear Elamite, cuniform Elamite script, non-translated proto-Elamite script) </li>
+<li>Harappan (Harappa - very ancient India, Indus Script, non translated) </li>
+<li>Classical Nahuatl (Aztec, pictographic) </li>
+<li>Classic Maya (Mayans, Maya hieroglyphics)</li>
+<li>Phoenician (Phoenicians, Phoenician alphabet)</li>
+<li>Ancient Egyptian (Ancient Egypt, Egyptian hieroglyphic)</li>
+<li>Demotic Egyptian (Classical Egypt, Demotic script)</li>
 ANCIENT AND DEAD LANGUAGES 2
-1. Coptic (Medieval Egypt, Coptic alphabet) 
-2. Ge'ez (Classical Ethiopia, Ge'ez abugida script) 
-3. Ammonite (Ancient Jordan, Canaanite alphabet)
-4. Edomite (Ancient Jordan, Canaanite alphabet)
-5. Nesite (Hittites, Akkadian cuneiform)
-6. Lydian (Ancient Turkey, related to Nesite, Lydian alphabet) 
-7. Khitan ("small script" derived from Han characters, "large script" derived from Uighur)
-8. Tocharian (Ancient China/Central Asia, slanting Brahmi script) 
-9. Kuchean (Ancient China/Central Asia, slanting Brahmi script) 
-10. Gudian Hànyu - Classical Chinese (Ancient China Zhou to Han period, Hàn characters)
-11. Classical Arabic (Language of the Qur'an, Arabic alphabet) 
-12. Khazarian (Khazars, Medieval Kazakhstan, Turkic runiform script and Hebrew alphabet)
-13. Nabataean (Classical Arabia, Syriac alphabet)
-14. Sabaean (Classical Yemen, South Arabian alphabet)
-15. Hurrian (Northern Mesopotamia, Akkadian cuneiform script)
-16. Chagatai (Central Asia, Arabic alphabet)
-17. Etruscan (Pre-Roman Italy, Etruscan alphabet, dubious translation only) 
-18. Lusitanian (Ancient Portugal, Latin alphabet)
-19. Scythian (Ancient Central Asia and Near East, very dubious, Hieroglyphic Hittite) 
-20. Jurchen (Ancient China/Manchuria/Central Asia, Jurchen script) 
+<li>Coptic (Medieval Egypt, Coptic alphabet) </li>
+<li>Ge'ez (Classical Ethiopia, Ge'ez abugida script) </li>
+<li>Ammonite (Ancient Jordan, Canaanite alphabet)</li>
+<li>Edomite (Ancient Jordan, Canaanite alphabet)</li>
+<li>Nesite (Hittites, Akkadian cuneiform)</li>
+<li>Lydian (Ancient Turkey, related to Nesite, Lydian alphabet) </li>
+<li>Khitan ("small script" derived from Han characters, "large script" derived from Uighur)</li>
+<li>Tocharian (Ancient China/Central Asia, slanting Brahmi script) </li>
+<li>Kuchean (Ancient China/Central Asia, slanting Brahmi script) </li>
+<li>Gudian Hànyu - Classical Chinese (Ancient China Zhou to Han period, Hàn characters)</li>
+<li>Classical Arabic (Language of the Qur'an, Arabic alphabet) </li>
+<li>Khazarian (Khazars, Medieval Kazakhstan, Turkic runiform script and Hebrew alphabet)</li>
+<li>Nabataean (Classical Arabia, Syriac alphabet)</li>
+<li>Sabaean (Classical Yemen, South Arabian alphabet)</li>
+<li>Hurrian (Northern Mesopotamia, Akkadian cuneiform script)</li>
+<li>Chagatai (Central Asia, Arabic alphabet)</li>
+<li>Etruscan (Pre-Roman Italy, Etruscan alphabet, dubious translation only) </li>
+<li>Lusitanian (Ancient Portugal, Latin alphabet)</li>
+<li>Scythian (Ancient Central Asia and Near East, very dubious, Hieroglyphic Hittite) </li>
+<li>Jurchen (Ancient China/Manchuria/Central Asia, Jurchen script) </li>
 REAL MAGICAL TEXTS 1
-1. Sworn Book of Honorius
-2. Mishkat al-anwar
-3. Fama Fraternitatis Rosae Crucis
-4. Datttreya
-5. Monas Hieroglyphica
-6. On the Ogdoad and Ennead
-7. The Vaishashik Darshana of Kanada
-8. Rasaratanakaram
-9. Kitab al-Kimya
-10. Declarations of the Perfected
-11. Sefer Yetzirah
-12. The Zohar
-13. Heptaplus
-14. The Kybalion
-15. Atharva-Veda
-16. Asclepius
-17. Mahanirvana Tantra
-18. The Divine Pymander
-19. The Book of the Sacred Magic of Abra-Melin the Mage
-20. Guhyasamja Tantra
+<li>Sworn Book of Honorius</li>
+<li>Mishkat al-anwar</li>
+<li>Fama Fraternitatis Rosae Crucis</li>
+<li>Datttreya</li>
+<li>Monas Hieroglyphica</li>
+<li>On the Ogdoad and Ennead</li>
+<li>The Vaishashik Darshana of Kanada</li>
+<li>Rasaratanakaram</li>
+<li>Kitab al-Kimya</li>
+<li>Declarations of the Perfected</li>
+<li>Sefer Yetzirah</li>
+<li>The Zohar</li>
+<li>Heptaplus</li>
+<li>The Kybalion</li>
+<li>Atharva-Veda</li>
+<li>Asclepius</li>
+<li>Mahanirvana Tantra</li>
+<li>The Divine Pymander</li>
+<li>The Book of the Sacred Magic of Abra-Melin the Mage</li>
+<li>Guhyasamja Tantra</li>
 REAL MAGICAL TEXTS 2
-1. Yog'c'bh'mi
-2. Tabaqat al-Awliya
-3. The Black Pullet
-4. Bodhicaryvatra
-5. Greater Key of Solomon
-6. Hatha Yoga Pradipika
-7. Lemegeton Clavicula Salomonis 
-8. Le Grand Grimoire
-9. Mahvairocanbhisambodhi Tantra
-10. Voynich manuscript
-11. Taittiriya
-12. De Occulta Philosophia Libri Tres
-13. The Mystery of the Cathedrals
-14. De Mysteriis Aegyptiorum
-15. Hayagrava
-16. The Scrolls of Mahendrath 
-17. Markandeya Purana
-18. Secrets of the Jade Chamber
-19. Shivastotravali
-20. Orus Apollo
+<li>Yog'c'bh'mi</li>
+<li>Tabaqat al-Awliya</li>
+<li>The Black Pullet</li>
+<li>Bodhicaryvatra</li>
+<li>Greater Key of Solomon</li>
+<li>Hatha Yoga Pradipika</li>
+<li>Lemegeton Clavicula Salomonis </li>
+<li>Le Grand Grimoire</li>
+<li>Mahvairocanbhisambodhi Tantra</li>
+<li>Voynich manuscript</li>
+<li>Taittiriya</li>
+<li>De Occulta Philosophia Libri Tres</li>
+<li>The Mystery of the Cathedrals</li>
+<li>De Mysteriis Aegyptiorum</li>
+<li>Hayagrava</li>
+<li>The Scrolls of Mahendrath </li>
+<li>Markandeya Purana</li>
+<li>Secrets of the Jade Chamber</li>
+<li>Shivastotravali</li>
+<li>Orus Apollo</li>
 IMAGINARY MAGICAL TEXTS
-1. Dazhdbog's Garden 
-2. Scrolls of Skelos 
-3. The Necronomicon
-4. Black Tome of Alsophocus
-5. Seven Cryptical Books of Hsan
-6. Cthaat Aquadingen
-7. Sevil-el-Mafouh Whash
-8. Les Fleurs du Mal 
-9. Testament of Carnamagos
-10. Zaywar andar'a'Baagh 
-11. Red Book of Yarrow
-12. White Book of Cavalonia
-13. Acta Sanctorum 
-14. Liber Ivonis
-15. Unaussprechlichen Kulten
-16. The Blasphemies of King Yama
-17. Prassidia Finium 
-18. Faded Librum of His Hunters
-19. Catechism of the Wild Swan
-20. De Senectutae 
+<li>Dazhdbog's Garden </li>
+<li>Scrolls of Skelos </li>
+<li>The Necronomicon</li>
+<li>Black Tome of Alsophocus</li>
+<li>Seven Cryptical Books of Hsan</li>
+<li>Cthaat Aquadingen</li>
+<li>Sevil-el-Mafouh Whash</li>
+<li>Les Fleurs du Mal </li>
+<li>Testament of Carnamagos</li>
+<li>Zaywar andar'a'Baagh </li>
+<li>Red Book of Yarrow</li>
+<li>White Book of Cavalonia</li>
+<li>Acta Sanctorum </li>
+<li>Liber Ivonis</li>
+<li>Unaussprechlichen Kulten</li>
+<li>The Blasphemies of King Yama</li>
+<li>Prassidia Finium </li>
+<li>Faded Librum of His Hunters</li>
+<li>Catechism of the Wild Swan</li>
+<li>De Senectutae </li>
 WEIRD BOOK MATERIALS
 This is an adaptation/homage of Garry Stahl's Generating Books article from Roleplaying Tips Weekly #314. See the full article here: http://www.roleplayingtips.com/readissue.php?number=314
 PAGES
-1. Human skin
-2. Precious metal, engraved
-3. Rice paper
-4. Ivory
-5. Plastic, thick and solid
-6. Hemp paper
-7. Stone
-8. Wood
-9. Metal, etched
-10. Parchment
-11. Slate (painted)
-12. Papyrus
-13. Dangerous substance (Poison, radiation, custom nanotech, cursed)
-14. Plastic, thin and flexible
-15. Cotton
-16. Glass (painted)
-17. Cloth
-18. Precious metal, embossed
-19. Glass (stained)
-20. Common wood pulp paper
+<li>Human skin</li>
+<li>Precious metal, engraved</li>
+<li>Rice paper</li>
+<li>Ivory</li>
+<li>Plastic, thick and solid</li>
+<li>Hemp paper</li>
+<li>Stone</li>
+<li>Wood</li>
+<li>Metal, etched</li>
+<li>Parchment</li>
+<li>Slate (painted)</li>
+<li>Papyrus</li>
+<li>Dangerous substance (Poison, radiation, custom nanotech, cursed)</li>
+<li>Plastic, thin and flexible</li>
+<li>Cotton</li>
+<li>Glass (painted)</li>
+<li>Cloth</li>
+<li>Precious metal, embossed</li>
+<li>Glass (stained)</li>
+<li>Common wood pulp paper</li>
 BINDINGS
-1. Wood, carved
-2. Metal, semiprecious
-3. Plastic
-4. Metal, precious
-5. Leather, gilded
-6. Wood, gilded
-7. Rebound, handsomely
-8. Rebound, cheaply
-9. Amber
-10. Cloth
-11. Metal, faux
-12. Leather, tooled
-13. Iron
-14. Brass
-15. Stone
-16. Loose (no binding)
-17. Ivory
-18. Rebound, falsely
-19. Bare
-20. Artificial (Naugahyde, plastic, etc)
+<li>Wood, carved</li>
+<li>Metal, semiprecious</li>
+<li>Plastic</li>
+<li>Metal, precious</li>
+<li>Leather, gilded</li>
+<li>Wood, gilded</li>
+<li>Rebound, handsomely</li>
+<li>Rebound, cheaply</li>
+<li>Amber</li>
+<li>Cloth</li>
+<li>Metal, faux</li>
+<li>Leather, tooled</li>
+<li>Iron</li>
+<li>Brass</li>
+<li>Stone</li>
+<li>Loose (no binding)</li>
+<li>Ivory</li>
+<li>Rebound, falsely</li>
+<li>Bare</li>
+<li>Artificial (Naugahyde, plastic, etc)</li>

@@ -6,391 +6,391 @@ These are for mostly for fantasy use, as they're pulled indiscriminately from ju
 
 
 MALE 1
-1. Chafulumisa 
-2. Lateef 
-3. Donkor
-4. Chigaru
-5. Jumoke
-6. Edjo
-7. Baniti
-8. Fenuku
-9. Kalfani
-10. Maskini 
-11. Ngozi 
-12. Quasshie 
-13. Sadiki 
-14. Tsekani 
-15. Azibo 
-16. Gyasi 
-17. Hakizimana 
-18. Kamuzu 
-19. Khnemu 
-20. Lisimba 
+<li>Chafulumisa </li>
+<li>Lateef </li>
+<li>Donkor</li>
+<li>Chigaru</li>
+<li>Jumoke</li>
+<li>Edjo</li>
+<li>Baniti</li>
+<li>Fenuku</li>
+<li>Kalfani</li>
+<li>Maskini </li>
+<li>Ngozi </li>
+<li>Quasshie </li>
+<li>Sadiki </li>
+<li>Tsekani </li>
+<li>Azibo </li>
+<li>Gyasi </li>
+<li>Hakizimana </li>
+<li>Kamuzu </li>
+<li>Khnemu </li>
+<li>Lisimba </li>
 
 FEMALE 1
-1. Bennu 
-2. Fukayna 
-3. Habibah 
-4. Theoris 
-5. Umayma 
-6. Walidah
-7. Acenath 
-8. Jamila 
-9. Mert 
-10. Panya 
-11. Sagira 
-12. Masika 
-13. Rehema 
-14. Nabirye
-15. Oseye 
-16. Meht-urt
-17. Kakra 
-18. Lapis 
-19. Maibe 
-20. Zaliki 
+<li>Bennu </li>
+<li>Fukayna </li>
+<li>Habibah </li>
+<li>Theoris </li>
+<li>Umayma </li>
+<li>Walidah</li>
+<li>Acenath </li>
+<li>Jamila </li>
+<li>Mert </li>
+<li>Panya </li>
+<li>Sagira </li>
+<li>Masika </li>
+<li>Rehema </li>
+<li>Nabirye</li>
+<li>Oseye </li>
+<li>Meht-urt</li>
+<li>Kakra </li>
+<li>Lapis </li>
+<li>Maibe </li>
+<li>Zaliki </li>
 
 MALE 2
-1. Nourbese
-2. Hanif 
-3. Agymah
-4. Sefu
-5. Mbizi 
-6. Ubaid 
-7. Wamukota  
-8. Zuberi 
-9. Mudads 
-10. Yahya
-11. Darwishi 
-12. Ishaq 
-13. Osaze
-14. Nkosi 
-15. Najja
-16. Abubakar
-17. Jibade
-18. Akhenaten
-19. Idogbe 
-20. Onuris 
+<li>Nourbese</li>
+<li>Hanif </li>
+<li>Agymah</li>
+<li>Sefu</li>
+<li>Mbizi </li>
+<li>Ubaid </li>
+<li>Wamukota  </li>
+<li>Zuberi </li>
+<li>Mudads </li>
+<li>Yahya</li>
+<li>Darwishi </li>
+<li>Ishaq </li>
+<li>Osaze</li>
+<li>Nkosi </li>
+<li>Najja</li>
+<li>Abubakar</li>
+<li>Jibade</li>
+<li>Akhenaten</li>
+<li>Idogbe </li>
+<li>Onuris </li>
 
 FEMALE 2
-1. Muminah 
-2. Sharifa 
-3. Olabisi
-4. Nathifa 
-5. Nile 
-6. Urbi 
-7. Anippe
-8. Ode 
-9. Mukantagara 
-10. Omorose 
-11. Rabiah 
-12. Siti 
-13. Subira 
-14. Talibah
-15. Femi 
-16. Ife 
-17. Chione
-18. Mafuane 
-19. Pili 
-20. Salihah
+<li>Muminah </li>
+<li>Sharifa </li>
+<li>Olabisi</li>
+<li>Nathifa </li>
+<li>Nile </li>
+<li>Urbi </li>
+<li>Anippe</li>
+<li>Ode </li>
+<li>Mukantagara </li>
+<li>Omorose </li>
+<li>Rabiah </li>
+<li>Siti </li>
+<li>Subira </li>
+<li>Talibah</li>
+<li>Femi </li>
+<li>Ife </li>
+<li>Chione</li>
+<li>Mafuane </li>
+<li>Pili </li>
+<li>Salihah</li>
 
   
 
 
 ANCIENT MALE 1
-1. Menetnashté
-2. Anok Sabé
-3. Buikhu
-4. Hêtshepsu
-5. Mkalbuti
-6. Fanté
-7. Mdjai
-8. Kamenwati
-9. Wakhakwi
-10. Nifé-en-Ankh
-11. Mtidja
-12. Wakhashem
-13. Benipé
-14. Semni
-15. Udjai
-16. Kemosiri
-17. Nebibi
-18. Suten Hamu
-19. Alu
-20. Itafé
+<li>Menetnasht</li>é
+<li>Anok Sab</li>é
+<li>Buikhu</li>
+<li>H</li>êtshepsu
+<li>Mkalbuti</li>
+<li>Fant</li>é
+<li>Mdjai</li>
+<li>Kamenwati</li>
+<li>Wakhakwi</li>
+<li>Nif</li>é-en-Ankh
+<li>Mtidja</li>
+<li>Wakhashem</li>
+<li>Benip</li>é
+<li>Semni</li>
+<li>Udjai</li>
+<li>Kemosiri</li>
+<li>Nebibi</li>
+<li>Suten Hamu</li>
+<li>Alu</li>
+<li>Itaf</li>é
 ANCIENT FEMALE 1
-1. DjaDja 
-2. Betuké
-3. Afrikaisi
-4. Djabenusiri
-5. Kemreit
-6. Ekibé
-7. Hêtshepsit
-8. Nubiti
-9. Boki
-10. Hebony
-11. Irisi
-12. Amenitré
-13. Mehnit
-14. Sêshafi
-15. Mkitiris
-16. Emuishéré
-17. Woserit
-18. Kebi
-19. Djeserit
-20. Nafré
+<li>DjaDja </li>
+<li>Betuk</li>é
+<li>Afrikaisi</li>
+<li>Djabenusiri</li>
+<li>Kemreit</li>
+<li>Ekib</li>é
+<li>H</li>êtshepsit
+<li>Nubiti</li>
+<li>Boki</li>
+<li>Hebony</li>
+<li>Irisi</li>
+<li>Amenitr</li>é
+<li>Mehnit</li>
+<li>S</li>êshafi
+<li>Mkitiris</li>
+<li>Emuish</li>éré
+<li>Woserit</li>
+<li>Kebi</li>
+<li>Djeserit</li>
+<li>Nafr</li>é
 
 
 
 ANCIENT MALE 2
-1. Amahté
-2. Djadao
-3. Urshé
-4. Suten Anu
-5. Sokkwi
-6. Baraka
-7. Shushu
-8. Muntuhotep
-9. Kahotep
-10. Sinuhé
-11. Panahasi
-12. Top Betuké
-13. Adjo
-14. Ibenré
-15. Khenti
-16. Anhuri
-17. Kemnebi
-18. Rasui
-19. Nomti
-20. Remmao
+<li>Amaht</li>é
+<li>Djadao</li>
+<li>Ursh</li>é
+<li>Suten Anu</li>
+<li>Sokkwi</li>
+<li>Baraka</li>
+<li>Shushu</li>
+<li>Muntuhotep</li>
+<li>Kahotep</li>
+<li>Sinuh</li>é
+<li>Panahasi</li>
+<li>Top Betuk</li>é
+<li>Adjo</li>
+<li>Ibenr</li>é
+<li>Khenti</li>
+<li>Anhuri</li>
+<li>Kemnebi</li>
+<li>Rasui</li>
+<li>Nomti</li>
+<li>Remmao</li>
 
 ANCIENT FEMALE 2
-1. Meskenit
-2. Paniwi
-3. Kemsê
-4. Kepi
-5. Shamisé
-6. Mnoti
-7. Tinubiti
-8. Banafrit
-9. Suten Himé
-10. Shai-nefer
-11. Kemamonit
-12. Kemisi
-13. Tiankhit
-14. AnkhesenAmen
-15. Haréré
-16. Shantefeiré
-17. Tanafriti
-18. Oshairana
-19. Kiwu
-20. Salidji
+<li>Meskenit</li>
+<li>Paniwi</li>
+<li>Kems</li>ê
+<li>Kepi</li>
+<li>Shamis</li>é
+<li>Mnoti</li>
+<li>Tinubiti</li>
+<li>Banafrit</li>
+<li>Suten Him</li>é
+<li>Shai-nefer</li>
+<li>Kemamonit</li>
+<li>Kemisi</li>
+<li>Tiankhit</li>
+<li>AnkhesenAmen</li>
+<li>Har</li>éré
+<li>Shantefeir</li>é
+<li>Tanafriti</li>
+<li>Oshairana</li>
+<li>Kiwu</li>
+<li>Salidji</li>
 
 
 
 
 
 ANCIENT MALE 3
-1. Ahmose
-2. Medhu
-3. Akhenaton
-4. Seti
-5. Rameses
-6. Imhotep
-7. Menes
-8. Abana
-9. Bek
-10. Djau
-11. Nahti
-12. Nebnefer
-13. Em-sa-f
-14. Hekhemmut
-15. Hemon
-16. Sainhur
-17. Horemheb
-18. Imhotep
-19. Senh
-20. Taw
+<li>Ahmose</li>
+<li>Medhu</li>
+<li>Akhenaton</li>
+<li>Seti</li>
+<li>Rameses</li>
+<li>Imhotep</li>
+<li>Menes</li>
+<li>Abana</li>
+<li>Bek</li>
+<li>Djau</li>
+<li>Nahti</li>
+<li>Nebnefer</li>
+<li>Em-sa-f</li>
+<li>Hekhemmut</li>
+<li>Hemon</li>
+<li>Sainhur</li>
+<li>Horemheb</li>
+<li>Imhotep</li>
+<li>Senh</li>
+<li>Taw</li>
 
 ANCIENT FEMALE 3
-1. Ahhotep
-2. Ashayt
-3. Bameket
-4. Khety
-5. Ahmose
-6. Bint-Anath
-7. Sarenenutet
-8. Dedet
-9. Sheftu
-10. Shepset
-11. Nebet
-12. Nebta
-13. Henuttawi
-14. Kentkawes
-15. Hepeti
-16. Ijneferti
-17. Ipwet
-18. Henhenet
-19. Isis
-20. Itakayt
+<li>Ahhotep</li>
+<li>Ashayt</li>
+<li>Bameket</li>
+<li>Khety</li>
+<li>Ahmose</li>
+<li>Bint-Anath</li>
+<li>Sarenenutet</li>
+<li>Dedet</li>
+<li>Sheftu</li>
+<li>Shepset</li>
+<li>Nebet</li>
+<li>Nebta</li>
+<li>Henuttawi</li>
+<li>Kentkawes</li>
+<li>Hepeti</li>
+<li>Ijneferti</li>
+<li>Ipwet</li>
+<li>Henhenet</li>
+<li>Isis</li>
+<li>Itakayt</li>
 
 ANCIENT MALE 4
-1. Iteti
-2. Khafre
-3. Yuya
-4. Amenhotep
-5. Wenamun
-6. Maya
-7. Menkure
-8. Senufer
-9. Wakare
-10. Merti
-11. Nat-nh
-12. Ahmose
-13. Ani
-14. Neshi
-15. Nikaure
-16. Paheri
-17. Iurudef
-18. Paneb
-19. Ramose
-20. Sabestet
+<li>Iteti</li>
+<li>Khafre</li>
+<li>Yuya</li>
+<li>Amenhotep</li>
+<li>Wenamun</li>
+<li>Maya</li>
+<li>Menkure</li>
+<li>Senufer</li>
+<li>Wakare</li>
+<li>Merti</li>
+<li>Nat-nh</li>
+<li>Ahmose</li>
+<li>Ani</li>
+<li>Neshi</li>
+<li>Nikaure</li>
+<li>Paheri</li>
+<li>Iurudef</li>
+<li>Paneb</li>
+<li>Ramose</li>
+<li>Sabestet</li>
 
 ANCIENT FEMALE 4
-1. Kawit
-2. Khamaat
-3. Tia
-4. Meritates
-5. Webkhet
-6. Mutemwia
-7. Neferu
-8. Nefertari
-9. Hekenu
-10. Aneksi
-11. Nefret
-12. Tausret
-13. Nesmut
-14. Takharu
-15. Qalhata
-16. Rennefer
-17. Rwut
-18. Sadeh
-19. Samenkhet
-20. Bunefer
+<li>Kawit</li>
+<li>Khamaat</li>
+<li>Tia</li>
+<li>Meritates</li>
+<li>Webkhet</li>
+<li>Mutemwia</li>
+<li>Neferu</li>
+<li>Nefertari</li>
+<li>Hekenu</li>
+<li>Aneksi</li>
+<li>Nefret</li>
+<li>Tausret</li>
+<li>Nesmut</li>
+<li>Takharu</li>
+<li>Qalhata</li>
+<li>Rennefer</li>
+<li>Rwut</li>
+<li>Sadeh</li>
+<li>Samenkhet</li>
+<li>Bunefer</li>
 
 
 
 
 PHAROAHS 1
-1. Hor-Aha 
-2. Merneith 
-3. Djet 
-4. Anedjib 
-5. Semerkhet 
-6. Qa'a
-7. Hotepsekhemwy
-8. Raneb
-9. Nynetjer
-10. Senedj
-11. Seth-Peribsen 
-12. Khasekhemwy 
-13. Sanakhte 
-14. Djoser 
-15. Sekhemkhet 
-16. Khaba
-17. Huni
-18. Sneferu 
-19. Khufu 
-20. Djedefra
+<li>Hor-Aha </li>
+<li>Merneith </li>
+<li>Djet </li>
+<li>Anedjib </li>
+<li>Semerkhet </li>
+<li>Qa'a</li>
+<li>Hotepsekhemwy</li>
+<li>Raneb</li>
+<li>Nynetjer</li>
+<li>Senedj</li>
+<li>Seth-Peribsen </li>
+<li>Khasekhemwy </li>
+<li>Sanakhte </li>
+<li>Djoser </li>
+<li>Sekhemkhet </li>
+<li>Khaba</li>
+<li>Huni</li>
+<li>Sneferu </li>
+<li>Khufu </li>
+<li>Djedefra</li>
  
 PHAROAHS 2
-1. Khafra
-2. Sobeknefru (Queen) 
-3. Shepseskaf
-4. Neferkara Khendu	
-5. Qakare Ibi 	
-6. Ahmose
-7. Amenhotep
-8. Hatshepsut (Queen) 
-9. Thutmose
-10. Tutankhamun
-11. Akhenaten
-12. Kheperkheprure Ai 
-13. Horemheb
-14. Ramesses
-15. Merneptah
-16. Amenemses
-17. Merneptah Siptah
-18. Twosret (Queen) 
-19. Sobekhotep
-20. Imyremeshaw
+<li>Khafra</li>
+<li>Sobeknefru (Queen) </li>
+<li>Shepseskaf</li>
+<li>Neferkara Khendu	</li>
+<li>Qakare Ibi 	</li>
+<li>Ahmose</li>
+<li>Amenhotep</li>
+<li>Hatshepsut (Queen) </li>
+<li>Thutmose</li>
+<li>Tutankhamun</li>
+<li>Akhenaten</li>
+<li>Kheperkheprure Ai </li>
+<li>Horemheb</li>
+<li>Ramesses</li>
+<li>Merneptah</li>
+<li>Amenemses</li>
+<li>Merneptah Siptah</li>
+<li>Twosret (Queen) </li>
+<li>Sobekhotep</li>
+<li>Imyremeshaw</li>
 
 GODS
-1. Amun
-2. Maahes
-3. Heryshaf
-4. Khepri
-5. Shu
-6. Chnum
-7. Min
-8. Ptah
-9. Bes
-10. Hapy
-11. Apep
-12. Saa
-13. Aten
-14. Set
-15. Wepwawet
-16. Chons
-17. Nehebkau
-18. Geb
-19. Djehuty
-20. Anhur
+<li>Amun</li>
+<li>Maahes</li>
+<li>Heryshaf</li>
+<li>Khepri</li>
+<li>Shu</li>
+<li>Chnum</li>
+<li>Min</li>
+<li>Ptah</li>
+<li>Bes</li>
+<li>Hapy</li>
+<li>Apep</li>
+<li>Saa</li>
+<li>Aten</li>
+<li>Set</li>
+<li>Wepwawet</li>
+<li>Chons</li>
+<li>Nehebkau</li>
+<li>Geb</li>
+<li>Djehuty</li>
+<li>Anhur</li>
 
 GODDESSES
-1. Neith
-2. Shai
-3. Renenutet
-4. Satis
-5. Tefnut
-6. Seshat
-7. Ma'at
-8. Nephthys
-9. Sekhmnet
-10. Bast
-11. Isis
-12. Nephthys
-13. Tawaret
-14. Nekhebet
-15. Uadjet
-16. Pakhet
-17. Nuit
-18. Meskhenet
-19. Hathor
-20. Renpet
+<li>Neith</li>
+<li>Shai</li>
+<li>Renenutet</li>
+<li>Satis</li>
+<li>Tefnut</li>
+<li>Seshat</li>
+<li>Ma'at</li>
+<li>Nephthys</li>
+<li>Sekhmnet</li>
+<li>Bast</li>
+<li>Isis</li>
+<li>Nephthys</li>
+<li>Tawaret</li>
+<li>Nekhebet</li>
+<li>Uadjet</li>
+<li>Pakhet</li>
+<li>Nuit</li>
+<li>Meskhenet</li>
+<li>Hathor</li>
+<li>Renpet</li>
 
 
 
 EGYPTIAN CONCEPTS
-1. Nome, also Sepat - A province of Egypt, administered by a Nomarch.
-2. Sensen - The lotus, a flower that is a powerful symbol of life and the dawn
-3. Amenta - The Underworld
-4. Cartouche - Heiroglyphs surrounded by the oval/circular line for protection
-5. Menat - A Magical Amulet
-6. Scarab - A dung beetle. The symbol of creation and rejuvenation
-7. Abtu - The Seat of Osiris, where the sun sets
-8. Tuat - The Land of the Dead
-9. Tiet - An ankh where the arms curve downwards
-10. Cenotaph - A tomb built for ceremony (not for burying people)
-11. Sobek - The fierce god with the head of a crocodile
-12. Sistrum - A noise-makingdevice (like coins tied in a can), used to attract the Gods
-13. Amun - King of all Gods
-14. Festival of Sed - A great festival held at the 30 year benchmark of a pharoh's reign
-15. Ba - The personality/soul/spirit, which can leave your body to visit other planes
-16. Ieb - The heart, the center of life
-17. Ka - A duplicate of your soul that lives on after your body dies
-18. Maat - Truth, justice, and the universe being "in right order"
-19. Menhed - A palette that scribes use (black and red colors). Used with brush and water
-20. Nebu - The egyptian word for "gold"
+<li>Nome, also Sepat - A province of Egypt, administered by a Nomarch.</li>
+<li>Sensen - The lotus, a flower that is a powerful symbol of life and the dawn</li>
+<li>Amenta - The Underworld</li>
+<li>Cartouche - Heiroglyphs surrounded by the oval/circular line for protection</li>
+<li>Menat - A Magical Amulet</li>
+<li>Scarab - A dung beetle. The symbol of creation and rejuvenation</li>
+<li>Abtu - The Seat of Osiris, where the sun sets</li>
+<li>Tuat - The Land of the Dead</li>
+<li>Tiet - An ankh where the arms curve downwards</li>
+<li>Cenotaph - A tomb built for ceremony (not for burying people)</li>
+<li>Sobek - The fierce god with the head of a crocodile</li>
+<li>Sistrum - A noise-makingdevice (like coins tied in a can), used to attract the Gods</li>
+<li>Amun - King of all Gods</li>
+<li>Festival of Sed - A great festival held at the 30 year benchmark of a pharoh's reign</li>
+<li>Ba - The personality/soul/spirit, which can leave your body to visit other planes</li>
+<li>Ieb - The heart, the center of life</li>
+<li>Ka - A duplicate of your soul that lives on after your body dies</li>
+<li>Maat - Truth, justice, and the universe being "in right order"</li>
+<li>Menhed - A palette that scribes use (black and red colors). Used with brush and water</li>
+<li>Nebu - The egyptian word for "gold"</li>
 Story-Games Names Project
 
 The Story-Games Name Project uses the Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License.

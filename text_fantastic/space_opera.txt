@@ -1,65 +1,65 @@
 ﻿TWO-FISTED SPACE OPERA
 Compiled by Joshua BishopRoby
 MALE
-1. Jim
-2. John
-3. Jack
-4. Rick
-5. Chuck
-6. Steven
-7. Don
-8. Ken
-9. Hank
-10. Scott
-11. Frank
-12. Lawrence
-13. Dan
-14. Alan
-15. Christopher
-16. Stan
-17. Martin
-18. Lee
-19. Bill
-20. Pete
+<li>Jim</li>
+<li>John</li>
+<li>Jack</li>
+<li>Rick</li>
+<li>Chuck</li>
+<li>Steven</li>
+<li>Don</li>
+<li>Ken</li>
+<li>Hank</li>
+<li>Scott</li>
+<li>Frank</li>
+<li>Lawrence</li>
+<li>Dan</li>
+<li>Alan</li>
+<li>Christopher</li>
+<li>Stan</li>
+<li>Martin</li>
+<li>Lee</li>
+<li>Bill</li>
+<li>Pete</li>
 FEMALE
-1. Mary
-2. Pat
-3. Sue
-4. Barbara
-5. Kat
-6. Pamela
-7. Diane
-8. Janet
-9. Liz
-10. Carol
-11. Shirley
-12. Rebecca
-13. Judith
-14. Beverly
-15. Betty
-16. Anne
-17. Jane
-18. Marilyn
-19. Sheila
-20. Ginny
+<li>Mary</li>
+<li>Pat</li>
+<li>Sue</li>
+<li>Barbara</li>
+<li>Kat</li>
+<li>Pamela</li>
+<li>Diane</li>
+<li>Janet</li>
+<li>Liz</li>
+<li>Carol</li>
+<li>Shirley</li>
+<li>Rebecca</li>
+<li>Judith</li>
+<li>Beverly</li>
+<li>Betty</li>
+<li>Anne</li>
+<li>Jane</li>
+<li>Marilyn</li>
+<li>Sheila</li>
+<li>Ginny</li>
 SURNAMES (all celestial bodies)
-1. Pallas
-2. Pomona
-3. Harrington
-4. Alberts
-5. Callisto
-6. Hoffmeister
-7. Bernes
-8. Adeona
-9. Simpson
-10. Trojan
-11. Hidalgo
-12. Nereus
-13. Pizarro
-14. Peltier
-15. Mercury
-16. Bede
-17. Berkeley
-18. Hyperion
-19. Kennedy
-20. Kirkwood
+<li>Pallas</li>
+<li>Pomona</li>
+<li>Harrington</li>
+<li>Alberts</li>
+<li>Callisto</li>
+<li>Hoffmeister</li>
+<li>Bernes</li>
+<li>Adeona</li>
+<li>Simpson</li>
+<li>Trojan</li>
+<li>Hidalgo</li>
+<li>Nereus</li>
+<li>Pizarro</li>
+<li>Peltier</li>
+<li>Mercury</li>
+<li>Bede</li>
+<li>Berkeley</li>
+<li>Hyperion</li>
+<li>Kennedy</li>
+<li>Kirkwood</li>

@@ -8,131 +8,131 @@ All names here are listed in their masculine forms.  Names are feminized by repl
 To create a male Roman name, choose one praenomen, one nomen, and one cognomen.  For example: Gaius Julius Caesar. 
 To create a female Roman name, choose and feminize one nomen and one optional cognomen.  Girls were often numbered instead of being given actual cognomens.  For example: Flavia Tertia. 
 PRAENOMEN LIST
-1. Gaius
-2. Lucius
-3. Marcus
-4. Publius
-5. Quintus
-6. Titus
-7. Tiberius
-8. Sextus
-9. Aulus
-10. Postumus
-11. Decimus
-12. Gnaeus
-13. Tertius
-14. Spurius
-15. Manius
-16. Servius
-17. Appius
-18. Numerius
-19. Vibius
-20. Primus
+<li>Gaius</li>
+<li>Lucius</li>
+<li>Marcus</li>
+<li>Publius</li>
+<li>Quintus</li>
+<li>Titus</li>
+<li>Tiberius</li>
+<li>Sextus</li>
+<li>Aulus</li>
+<li>Postumus</li>
+<li>Decimus</li>
+<li>Gnaeus</li>
+<li>Tertius</li>
+<li>Spurius</li>
+<li>Manius</li>
+<li>Servius</li>
+<li>Appius</li>
+<li>Numerius</li>
+<li>Vibius</li>
+<li>Primus</li>
 NOMEN LIST 1
-1. Aelius
-2. Calpurius
-3. Moravius
-4. Naevius
-5. Caecilius
-6. Tullius
-7. Vibius
-8. Livius
-9. Lucilius
-10. Durmius
-11. Fabius
-12. Velleius
-13. Calidius
-14. Capenius
-15. Furius
-16. Galerius
-17. Domitius
-18. Fannius
-19. Cordius
-20. Larcius
+<li>Aelius</li>
+<li>Calpurius</li>
+<li>Moravius</li>
+<li>Naevius</li>
+<li>Caecilius</li>
+<li>Tullius</li>
+<li>Vibius</li>
+<li>Livius</li>
+<li>Lucilius</li>
+<li>Durmius</li>
+<li>Fabius</li>
+<li>Velleius</li>
+<li>Calidius</li>
+<li>Capenius</li>
+<li>Furius</li>
+<li>Galerius</li>
+<li>Domitius</li>
+<li>Fannius</li>
+<li>Cordius</li>
+<li>Larcius</li>
 NOMEN LIST 2
-1. Albius
-2. Amatius
-3. Cornelius
-4. Laelius
-5. Flavius
-6. Aemilius
-7. Caelius
-8. Tuccius
-9. Curius
-10. Decius
-11. Fidelius
-12. Fulvius
-13. Gellius
-14. Horatius
-15. Manlius
-16. Hortensius
-17. Marcius
-18. Labenius
-19. Seius
-20. Luventius
+<li>Albius</li>
+<li>Amatius</li>
+<li>Cornelius</li>
+<li>Laelius</li>
+<li>Flavius</li>
+<li>Aemilius</li>
+<li>Caelius</li>
+<li>Tuccius</li>
+<li>Curius</li>
+<li>Decius</li>
+<li>Fidelius</li>
+<li>Fulvius</li>
+<li>Gellius</li>
+<li>Horatius</li>
+<li>Manlius</li>
+<li>Hortensius</li>
+<li>Marcius</li>
+<li>Labenius</li>
+<li>Seius</li>
+<li>Luventius</li>
 NOMEN LIST 3
-1. Ambrosius
-2. Memmius
-3. Lulius
-4. Sertorious
-5. Lucretius
-6. Marius
-7. Meridius
-8. Sempronius
-9. Pontius
-10. Numerius
-11. Octavius
-12. Popillius
-13. Annius
-14. Sergius
-15. Lucius
-16. Modius
-17. Licinius
-18. Scribonius
-19. Lunius
-20. Ovidius
+<li>Ambrosius</li>
+<li>Memmius</li>
+<li>Lulius</li>
+<li>Sertorious</li>
+<li>Lucretius</li>
+<li>Marius</li>
+<li>Meridius</li>
+<li>Sempronius</li>
+<li>Pontius</li>
+<li>Numerius</li>
+<li>Octavius</li>
+<li>Popillius</li>
+<li>Annius</li>
+<li>Sergius</li>
+<li>Lucius</li>
+<li>Modius</li>
+<li>Licinius</li>
+<li>Scribonius</li>
+<li>Lunius</li>
+<li>Ovidius</li>
 NOMEN LIST 4
-1. Antonius
-2. Papirius
-3. Sentius
-4. Minius
-5. Porcius
-6. Vipsanius
-7. Vitellius
-8. Petronius
-9. Verginius
-10. Rufius
-11. Appolonius
-12. Pompilius
-13. Postumius
-14. Rubellius
-15. Quintilius
-16. Rutilius
-17. Salvius
-18. Ursius
-19. Quintius
-20. Servilius
+<li>Antonius</li>
+<li>Papirius</li>
+<li>Sentius</li>
+<li>Minius</li>
+<li>Porcius</li>
+<li>Vipsanius</li>
+<li>Vitellius</li>
+<li>Petronius</li>
+<li>Verginius</li>
+<li>Rufius</li>
+<li>Appolonius</li>
+<li>Pompilius</li>
+<li>Postumius</li>
+<li>Rubellius</li>
+<li>Quintilius</li>
+<li>Rutilius</li>
+<li>Salvius</li>
+<li>Ursius</li>
+<li>Quintius</li>
+<li>Servilius</li>
 NOMEN LIST 5
-1. Servius
-2. Arrius
-3. Claudius
-4. Silvius
-5. Suetonius
-6. Cassius
-7. Tarquitius
-8. Titinius
-9. Asinius
-10. Spurius
-11. Villius
-12. Atilius
-13. Ulpius
-14. Valerius
-15. Terentius
-16. Aurelius
-17. Vergilius
-18. Gratius
-19. Herennius
-20. Vitruvius
+<li>Servius</li>
+<li>Arrius</li>
+<li>Claudius</li>
+<li>Silvius</li>
+<li>Suetonius</li>
+<li>Cassius</li>
+<li>Tarquitius</li>
+<li>Titinius</li>
+<li>Asinius</li>
+<li>Spurius</li>
+<li>Villius</li>
+<li>Atilius</li>
+<li>Ulpius</li>
+<li>Valerius</li>
+<li>Terentius</li>
+<li>Aurelius</li>
+<li>Vergilius</li>
+<li>Gratius</li>
+<li>Herennius</li>
+<li>Vitruvius</li>
 COGNOMEN
 There are several special types of cognomena that may also be appropriate.  While there are not twenty of them, the other types are listed here:
 - Geographical: the city, region or tribe you are from.  For example, "Sabinus" means "Man of the Sabine tribe."
@@ -141,303 +141,303 @@ There are several special types of cognomena that may also be appropriate.  Whil
 - Non-Roman: if you are not Roman, you may keep a Romanized version of your name when you become a citizen.  For example, "Idir" is a Berber name which could be used as a cognomen.
 - Adoptive: if you are adopted, you take the cognomen of your adoptive father, but you keep your original cognomen as a second cognomen.  The adoption is indicated by replacing the "-ius" ending with an "-ianus" ending in your original cognomen.
 COGNOMEN LIST 1
-1. Aculeo (prickly)
-2. Salinator (salt-harvester)
-3. Vetus (old)
-4. Vatia (awkward)
-5. Ambustus (scalded or burnt)
-6. Aquila (eagle)
-7. Vespillo (funeral director)
-8. Arvina (fat)
-9. Asina (donkey)
-10. Bassus (plump)
-11. Varus (bow-legged)
-12. Capito (big-headed)
-13. Agricola (farmer)
-14. Cato (shrewd)
-15. Catulus (whelp)
-16. Celerus (quick)
-17. Bibulus (drunkard)
-18. Celsus (tall)
-19. Cicero (chick pea)
-20. Blaesus (stammerer)
+<li>Aculeo (prickly)</li>
+<li>Salinator (salt-harvester)</li>
+<li>Vetus (old)</li>
+<li>Vatia (awkward)</li>
+<li>Ambustus (scalded or burnt)</li>
+<li>Aquila (eagle)</li>
+<li>Vespillo (funeral director)</li>
+<li>Arvina (fat)</li>
+<li>Asina (donkey)</li>
+<li>Bassus (plump)</li>
+<li>Varus (bow-legged)</li>
+<li>Capito (big-headed)</li>
+<li>Agricola (farmer)</li>
+<li>Cato (shrewd)</li>
+<li>Catulus (whelp)</li>
+<li>Celerus (quick)</li>
+<li>Bibulus (drunkard)</li>
+<li>Celsus (tall)</li>
+<li>Cicero (chick pea)</li>
+<li>Blaesus (stammerer)</li>
 COGNOMEN LIST 2
-1. Brutus (dumb)
-2. Ahala (armpit)
-3. Calidus (hot-headed)
-4. Agrippa (born feet first)
-5. Scaeva (left-handed)
-6. Bestia (animal-like)
-7. Scaurus (lame)
-8. Ahenobarbus (red-bearded)
-9. Varro (blockhead)
-10. Albinus (white or pale)
-11. Atellus (dark)
-12. Verres (pig)
-13. Albus (fair-skinned)
-14. Canus (golden-haired)
-15. Cicurinus (gentle)
-16. Brocchus (toothy)
-17. Crassus (fat)
-18. Pulcher/Pulchra (attractive)
-19. Quadratus (stocky)
-20. Rullus (boorish)
+<li>Brutus (dumb)</li>
+<li>Ahala (armpit)</li>
+<li>Calidus (hot-headed)</li>
+<li>Agrippa (born feet first)</li>
+<li>Scaeva (left-handed)</li>
+<li>Bestia (animal-like)</li>
+<li>Scaurus (lame)</li>
+<li>Ahenobarbus (red-bearded)</li>
+<li>Varro (blockhead)</li>
+<li>Albinus (white or pale)</li>
+<li>Atellus (dark)</li>
+<li>Verres (pig)</li>
+<li>Albus (fair-skinned)</li>
+<li>Canus (golden-haired)</li>
+<li>Cicurinus (gentle)</li>
+<li>Brocchus (toothy)</li>
+<li>Crassus (fat)</li>
+<li>Pulcher/Pulchra (attractive)</li>
+<li>Quadratus (stocky)</li>
+<li>Rullus (boorish)</li>
 COGNOMEN LIST 3
-1. Crispus (curly-haired)
-2. Bulbus (onion)
-3. Cursor (runner)
-4. Bucco (dolt)
-5. Caecus (blind)
-6. Barbatus (bearded)
-7. Rufus (red)
-8. Taurus (bull)
-9. Ruga (wrinkly)
-10. Vitulus (calf)
-11. Pavo (peacock)
-12. Pictor (painter)
-13. Musca (fly)
-14. Piso (mortar)
-15. Pullus (child)
-16. Proculus (bastard)
-17. Ralla (fine fabric)
-18. Naso (big-nosed)
-19. Priscus (ancient)
-20. Natta (artisan)
+<li>Crispus (curly-haired)</li>
+<li>Bulbus (onion)</li>
+<li>Cursor (runner)</li>
+<li>Bucco (dolt)</li>
+<li>Caecus (blind)</li>
+<li>Barbatus (bearded)</li>
+<li>Rufus (red)</li>
+<li>Taurus (bull)</li>
+<li>Ruga (wrinkly)</li>
+<li>Vitulus (calf)</li>
+<li>Pavo (peacock)</li>
+<li>Pictor (painter)</li>
+<li>Musca (fly)</li>
+<li>Piso (mortar)</li>
+<li>Pullus (child)</li>
+<li>Proculus (bastard)</li>
+<li>Ralla (fine fabric)</li>
+<li>Naso (big-nosed)</li>
+<li>Priscus (ancient)</li>
+<li>Natta (artisan)</li>
 COGNOMEN LIST 4
-1. Lentulus (slow)
-2. Camillus (priestly child)
-3. Lepidus (charming)
-4. Dolabella (hatchet)
-5. Figulus (potter)
-6. Labeo (mouthy)
-7. Niger (black)
-8. Licinus (bristly-haired)
-9. Calvus (bald)
-10. Lupus (wolf)
-11. Caninus (dog-like)
-12. Dives (wealthy)
-13. Mus (mouse)
-14. Nerva (vigorous)
-15. Helva (brown-haired)
-16. Longus (tall)
-17. Malleolus (hammer)
-18. Murena (eel)
-19. Imperiosus (domineering)
-20. Novellus (new-fangled)
+<li>Lentulus (slow)</li>
+<li>Camillus (priestly child)</li>
+<li>Lepidus (charming)</li>
+<li>Dolabella (hatchet)</li>
+<li>Figulus (potter)</li>
+<li>Labeo (mouthy)</li>
+<li>Niger (black)</li>
+<li>Licinus (bristly-haired)</li>
+<li>Calvus (bald)</li>
+<li>Lupus (wolf)</li>
+<li>Caninus (dog-like)</li>
+<li>Dives (wealthy)</li>
+<li>Mus (mouse)</li>
+<li>Nerva (vigorous)</li>
+<li>Helva (brown-haired)</li>
+<li>Longus (tall)</li>
+<li>Malleolus (hammer)</li>
+<li>Murena (eel)</li>
+<li>Imperiosus (domineering)</li>
+<li>Novellus (new-fangled)</li>
 COGNOMEN LIST 5
-1. Ocella (small-eyed)
-2. Dentatus (toothy)
-3. Fimbria (fringes)
-4. Paterculus (little father)
-5. Lurco (gluttonous)
-6. Macer (skinny)
-7. Flaccus (floppy)
-8. Florus (blooming)
-9. Curvus (bent)
-10. Avitus (grandfatherly)
-11. Balbus (stutterer)
-12. Severus (severe)
-13. Strabo (squinty)
-14. Triarius (soldier)
-15. Superbus (proud)
-16. Turdus (little bird)
-17. Regulus (prince)
-18. Laenas (cloaked)
-19. Habitus (in good shape)
-20. Fullo (launderer)
+<li>Ocella (small-eyed)</li>
+<li>Dentatus (toothy)</li>
+<li>Fimbria (fringes)</li>
+<li>Paterculus (little father)</li>
+<li>Lurco (gluttonous)</li>
+<li>Macer (skinny)</li>
+<li>Flaccus (floppy)</li>
+<li>Florus (blooming)</li>
+<li>Curvus (bent)</li>
+<li>Avitus (grandfatherly)</li>
+<li>Balbus (stutterer)</li>
+<li>Severus (severe)</li>
+<li>Strabo (squinty)</li>
+<li>Triarius (soldier)</li>
+<li>Superbus (proud)</li>
+<li>Turdus (little bird)</li>
+<li>Regulus (prince)</li>
+<li>Laenas (cloaked)</li>
+<li>Habitus (in good shape)</li>
+<li>Fullo (launderer)</li>
 COGNOMEN LIST 6
-1. Plancus (flat-footed)
-2. Scipio (staff)
-3. Postumus (born posthumously)
-4. Mergus (sea-gull)
-5. Seneca (elderly)
-6. Silanus (nose)
-7. Merula (blackbird)
-8. Metellus (army follower)
-9. Scrofa (pig)
-10. Praeconinus (herald)
-11. Corvinus (crow-like)
-12. Laterensis (from the hill-side)
-13. Gemellus (a twin)
-14. Gurges (greedy)
-15. Paetus (squinty)
-16. Macula (blemish)
-17. Paullus (small)
-18. Cornutus (horned; also, cuckolded)
-19. Galeo (helmet)
-20. Cordus (born late)
+<li>Plancus (flat-footed)</li>
+<li>Scipio (staff)</li>
+<li>Postumus (born posthumously)</li>
+<li>Mergus (sea-gull)</li>
+<li>Seneca (elderly)</li>
+<li>Silanus (nose)</li>
+<li>Merula (blackbird)</li>
+<li>Metellus (army follower)</li>
+<li>Scrofa (pig)</li>
+<li>Praeconinus (herald)</li>
+<li>Corvinus (crow-like)</li>
+<li>Laterensis (from the hill-side)</li>
+<li>Gemellus (a twin)</li>
+<li>Gurges (greedy)</li>
+<li>Paetus (squinty)</li>
+<li>Macula (blemish)</li>
+<li>Paullus (small)</li>
+<li>Cornutus (horned; also, cuckolded)</li>
+<li>Galeo (helmet)</li>
+<li>Cordus (born late)</li>
 TRADE GOODS
 The Romans traded in nearly anything you can imagine, both within the empire and with external trading partners such as India and China.  However, the following were some of the largest trade industries in the ancient world.
-1. Grain
-2. Jewelry
-3. Coral
-4. Amber
-5. Dyes
-6. Cloth (cotton, wool and silk)
-7. Steel
-8. Wild animals
-9. Pottery (lamps and amphorae)
-10. Parchment
-11. Olive oil
-12. Marble
-13. Wine
-14. Pork
-15. Garum (fish sauce)
-16. Spices (salt and pepper were particularly valuable)
-17. Glass
-18. Lead
-19. Horses/mules
-20. Slaves
+<li>Grain</li>
+<li>Jewelry</li>
+<li>Coral</li>
+<li>Amber</li>
+<li>Dyes</li>
+<li>Cloth (cotton, wool and silk)</li>
+<li>Steel</li>
+<li>Wild animals</li>
+<li>Pottery (lamps and amphorae)</li>
+<li>Parchment</li>
+<li>Olive oil</li>
+<li>Marble</li>
+<li>Wine</li>
+<li>Pork</li>
+<li>Garum (fish sauce)</li>
+<li>Spices (salt and pepper were particularly valuable)</li>
+<li>Glass</li>
+<li>Lead</li>
+<li>Horses/mules</li>
+<li>Slaves</li>
 TOWN STRUCTURES
 The following are buildings you might find in a Roman town.  All buildings are listed as singular/plural when the name is in Latin.
-1. Forum/Fora (town square and meeting place)
-2. Cryptoporticus/Cryptoportica (underground, colonnaded market)
-3. Cisterns (water storage)
-4. Aqueducts (channels to bring water into the city)
-5. Basilica/Basilica (public meeting hall and law court)
-6. Curia/Curiae (senate house)
-7. Temples (places of worship) 
-8. Macellus/Macella (market halls, full of shops of many different types)
-9. Horreus/Horrea (warehouses and granaries)
-10. Public baths (public bathhouses which could also include swimming pools or gymnasiums)
-11. Monuments (arches, columns, or statues dedicated by or to important people)
-12. Mansion/Mansiones (inns and wayhouses for the postal runners)
-13. Theaters (for the performance of plays)
-14. Odeum/Odea (a smaller theater where music was performed)
-15. Ampitheaters (for the gladiatorial games)
-16. Circuses (racetracks)
-17. Stadium/Stadia (public athletic facilities)
-18. Domus/Doma (single-family houses built around an atrium)
-19. Insula/Insulae (apartment buildings which could be as tall as eight stories high)
-20. Villas (luxurious country houses, often built on small farms)
+<li>Forum/Fora (town square and meeting place)</li>
+<li>Cryptoporticus/Cryptoportica (underground, colonnaded market)</li>
+<li>Cisterns (water storage)</li>
+<li>Aqueducts (channels to bring water into the city)</li>
+<li>Basilica/Basilica (public meeting hall and law court)</li>
+<li>Curia/Curiae (senate house)</li>
+<li>Temples (places of worship) </li>
+<li>Macellus/Macella (market halls, full of shops of many different types)</li>
+<li>Horreus/Horrea (warehouses and granaries)</li>
+<li>Public baths (public bathhouses which could also include swimming pools or gymnasiums)</li>
+<li>Monuments (arches, columns, or statues dedicated by or to important people)</li>
+<li>Mansion/Mansiones (inns and wayhouses for the postal runners)</li>
+<li>Theaters (for the performance of plays)</li>
+<li>Odeum/Odea (a smaller theater where music was performed)</li>
+<li>Ampitheaters (for the gladiatorial games)</li>
+<li>Circuses (racetracks)</li>
+<li>Stadium/Stadia (public athletic facilities)</li>
+<li>Domus/Doma (single-family houses built around an atrium)</li>
+<li>Insula/Insulae (apartment buildings which could be as tall as eight stories high)</li>
+<li>Villas (luxurious country houses, often built on small farms)</li>
 GOVERNMENTAL POSITIONS
 Romans loved bureaucracy and titles.  These positions give a sampling of the government jobs available to up-and-coming Roman citizens.  The priesthoods were often politically appointed, and so those jobs are also included here.
-1. Tribune Plebis (representative of the plebians)
-2. Quaestor (paymasters and accountants)
-3. Augur (priests legally permitted to read and interpret the auspices, signs from the gods)
-4. Aedile (maintainers of public buildings and commercial law)
-5. Praetor (civil judges and organizers of games and festivals)
-6. Pontifex (controlled state religion, including festival dates and historical records)
-7. Consul (military commanders and judges)
-8. Haruspex (priests who foretold the future from animal entrails)
-9. Epulone (priests responsible for public banquets on religious festivals)
-10. Judex (investigator appointed to deal with a specific potential crime)
-11. Vestal Virgin (virgins tending the fire on the state hearth at the temple of Vesta; could obtain pardons for criminals)
-12. Censor (census-keepers and awarders of government contracts)
-13. Rex Sacrorum/Regina Sacra ("sacred king"/"sacred queen" who had only ceremonial duties but high prestige)
-14. Apparitor (a scribe assigned to a government official)
-15. Lictor (attendants on government officials, permitted to carry arms in their presence)
-16. Frumentarius (spy; at higher ranks called Curiosus)
-17. Flamen (priest appointed to the service of a particular god or goddess)
-18. Arval Priest (priest who accepts sacrifices for the fertility of the fields)
-19. Praefectus (bureaucrat in charge of some trade good, such as grain)
-20. Legate (can be military or civil; receives the power to act on behalf of any non-religious appointment listed here)
+<li>Tribune Plebis (representative of the plebians)</li>
+<li>Quaestor (paymasters and accountants)</li>
+<li>Augur (priests legally permitted to read and interpret the auspices, signs from the gods)</li>
+<li>Aedile (maintainers of public buildings and commercial law)</li>
+<li>Praetor (civil judges and organizers of games and festivals)</li>
+<li>Pontifex (controlled state religion, including festival dates and historical records)</li>
+<li>Consul (military commanders and judges)</li>
+<li>Haruspex (priests who foretold the future from animal entrails)</li>
+<li>Epulone (priests responsible for public banquets on religious festivals)</li>
+<li>Judex (investigator appointed to deal with a specific potential crime)</li>
+<li>Vestal Virgin (virgins tending the fire on the state hearth at the temple of Vesta; could obtain pardons for criminals)</li>
+<li>Censor (census-keepers and awarders of government contracts)</li>
+<li>Rex Sacrorum/Regina Sacra ("sacred king"/"sacred queen" who had only ceremonial duties but high prestige)</li>
+<li>Apparitor (a scribe assigned to a government official)</li>
+<li>Lictor (attendants on government officials, permitted to carry arms in their presence)</li>
+<li>Frumentarius (spy; at higher ranks called Curiosus)</li>
+<li>Flamen (priest appointed to the service of a particular god or goddess)</li>
+<li>Arval Priest (priest who accepts sacrifices for the fertility of the fields)</li>
+<li>Praefectus (bureaucrat in charge of some trade good, such as grain)</li>
+<li>Legate (can be military or civil; receives the power to act on behalf of any non-religious appointment listed here)</li>
 LEGION NAMES
 Combine any of these titles with a number from I to XXX to get an authentic-sounding legion name.  For example: III Parthica.
-1. Adiutrix
-2. Germanica
-3. Italica
-4. Macrinia
-5. Pia Fidelis
-6. Minervia
-7. Parthica
-8. Augusta
-9. Traiana
-10. Gallica
-11. Macedonica
-12. Flavia Felix
-13. Scythica
-14. Aludae
-15. Ferrata 
-16. Victrix
-17. Gemina
-18. Hispana
-19. Fulminata
-20. Primigenia
+<li>Adiutrix</li>
+<li>Germanica</li>
+<li>Italica</li>
+<li>Macrinia</li>
+<li>Pia Fidelis</li>
+<li>Minervia</li>
+<li>Parthica</li>
+<li>Augusta</li>
+<li>Traiana</li>
+<li>Gallica</li>
+<li>Macedonica</li>
+<li>Flavia Felix</li>
+<li>Scythica</li>
+<li>Aludae</li>
+<li>Ferrata </li>
+<li>Victrix</li>
+<li>Gemina</li>
+<li>Hispana</li>
+<li>Fulminata</li>
+<li>Primigenia</li>
 MAJOR DEITIES
 While some of these deities may be familiar, the Romans also considered some apparently minor deities (such as Flora) to be seriously important. 
-1. Ceres
-2. Jupiter
-3. Juno
-4. Flora
-5. Mars
-6. Pomona
-7. Diana
-8. Bacchus
-9. Mercury
-10. Vesta
-11. Saturn
-12. Vulcan
-13. Neptune
-14. Minerva
-15. Venus
-16. Apollo
-17. Fortuna
-18. Quirinus
-19. Dis
-20. Janus
+<li>Ceres</li>
+<li>Jupiter</li>
+<li>Juno</li>
+<li>Flora</li>
+<li>Mars</li>
+<li>Pomona</li>
+<li>Diana</li>
+<li>Bacchus</li>
+<li>Mercury</li>
+<li>Vesta</li>
+<li>Saturn</li>
+<li>Vulcan</li>
+<li>Neptune</li>
+<li>Minerva</li>
+<li>Venus</li>
+<li>Apollo</li>
+<li>Fortuna</li>
+<li>Quirinus</li>
+<li>Dis</li>
+<li>Janus</li>
 MINOR DEITIES
 The Romans absorbed deities from many cultures.  Here are some of the minor or borrowed deities of Rome, along with their areas of influence.
 MINOR DEITIES 1
-1. Aericura (mother-goddess of the underworld)
-2. Andraste (victory)
-3. Angerona (silence and secrecy)
-4. Anna Perenna (the new year)
-5. Artio (forest animals and particularly bears)
-6. Atargatis (Syrian fertility goddess)
-7. Bellona (war)
-8. Bona Dea (fertility goddess)
-9. Bonus Eventus (successful enterprises)
-10. Carmentis (protection in childbirth)
-11. Castor and Pollux (popular demi-gods)
-12. Concordia (peace and agreement)
-13. Consus (granaries and harvest)
-14. Cupid (romantic love)
-15. Cybele (moon goddess worshiped with orgiastic rites)
-16. El-Gabal (Phoenician sun god)
-17. Epona (Celtic horse goddess)
-18. Faunus (also known as Pan)
-19. Felicitas (goddess of good luck)
-20. Feronia (spring flowers)
+<li>Aericura (mother-goddess of the underworld)</li>
+<li>Andraste (victory)</li>
+<li>Angerona (silence and secrecy)</li>
+<li>Anna Perenna (the new year)</li>
+<li>Artio (forest animals and particularly bears)</li>
+<li>Atargatis (Syrian fertility goddess)</li>
+<li>Bellona (war)</li>
+<li>Bona Dea (fertility goddess)</li>
+<li>Bonus Eventus (successful enterprises)</li>
+<li>Carmentis (protection in childbirth)</li>
+<li>Castor and Pollux (popular demi-gods)</li>
+<li>Concordia (peace and agreement)</li>
+<li>Consus (granaries and harvest)</li>
+<li>Cupid (romantic love)</li>
+<li>Cybele (moon goddess worshiped with orgiastic rites)</li>
+<li>El-Gabal (Phoenician sun god)</li>
+<li>Epona (Celtic horse goddess)</li>
+<li>Faunus (also known as Pan)</li>
+<li>Felicitas (goddess of good luck)</li>
+<li>Feronia (spring flowers)</li>
 MINOR DEITIES 2
-1. Fides (goddess of verbal contracts)
-2. Forculus (god of doors)
-3. Fornax (goddess of preventing grain from burning while drying.  really.)
-4. Gaia (earth goddess)
-5. Hecate (magic)
-6. Hercules (demi-god; worshipped as god of victory and of commerce)
-7. Honos (honor)
-8. Ianuaria (music and healing)
-9. Inuus (god of sex)
-10. Juventas (goddess of youth)
-11. Larentina (demi-goddess; nurse of Romulus and Remus)
-12. Latis (Celtic goddess of bogs and marshes)
-13. Libitina (funerals)
-14. Luna (moon)
-15. Matuta (goddess of the dawn)
-16. Nemesis (vengeance)
-17. Oceanus (god of the oceans)
-18. Pales (shepherds and sheep)
-19. Patelana (corn)
-20. Pax (peace)
+<li>Fides (goddess of verbal contracts)</li>
+<li>Forculus (god of doors)</li>
+<li>Fornax (goddess of preventing grain from burning while drying.  really.)</li>
+<li>Gaia (earth goddess)</li>
+<li>Hecate (magic)</li>
+<li>Hercules (demi-god; worshipped as god of victory and of commerce)</li>
+<li>Honos (honor)</li>
+<li>Ianuaria (music and healing)</li>
+<li>Inuus (god of sex)</li>
+<li>Juventas (goddess of youth)</li>
+<li>Larentina (demi-goddess; nurse of Romulus and Remus)</li>
+<li>Latis (Celtic goddess of bogs and marshes)</li>
+<li>Libitina (funerals)</li>
+<li>Luna (moon)</li>
+<li>Matuta (goddess of the dawn)</li>
+<li>Nemesis (vengeance)</li>
+<li>Oceanus (god of the oceans)</li>
+<li>Pales (shepherds and sheep)</li>
+<li>Patelana (corn)</li>
+<li>Pax (peace)</li>
 MINOR DEITIES 3
-1. Picus (prophetic god)
-2. Portunus (protector of harbors)
-3. Priapus (sheep and goats)
-4. Proserpina (germinating seeds and the underworld)
-5. Rediculus (god worshipped for his aid against Carthage)
-6. Robigo (god of rust and mildew)
-7. Roma (divine spirit of Rome)
-8. Rumina (nursing mothers)
-9. Sabazios (Phrygian god of magic)
-10. Salus (health)
-11. Silvanus (god of pastures and woodlands)
-12. Sirona (Celtic goddess worshipped as consort of Apollo)
-13. Sol Invictus (the unconquered Sun; Syrian god who replaced state religion for a time)
-14. Spes (hope)
-15. Sterculinus (manure-spreading)
-16. Talassius (god of marriage)
-17. Tempestates (trio of weather goddesses)
-18. Terminus (state god of boundary stones)
-19. Victoria (goddess of victory)
-20. Virtus (physical and moral excellence)
+<li>Picus (prophetic god)</li>
+<li>Portunus (protector of harbors)</li>
+<li>Priapus (sheep and goats)</li>
+<li>Proserpina (germinating seeds and the underworld)</li>
+<li>Rediculus (god worshipped for his aid against Carthage)</li>
+<li>Robigo (god of rust and mildew)</li>
+<li>Roma (divine spirit of Rome)</li>
+<li>Rumina (nursing mothers)</li>
+<li>Sabazios (Phrygian god of magic)</li>
+<li>Salus (health)</li>
+<li>Silvanus (god of pastures and woodlands)</li>
+<li>Sirona (Celtic goddess worshipped as consort of Apollo)</li>
+<li>Sol Invictus (the unconquered Sun; Syrian god who replaced state religion for a time)</li>
+<li>Spes (hope)</li>
+<li>Sterculinus (manure-spreading)</li>
+<li>Talassius (god of marriage)</li>
+<li>Tempestates (trio of weather goddesses)</li>
+<li>Terminus (state god of boundary stones)</li>
+<li>Victoria (goddess of victory)</li>
+<li>Virtus (physical and moral excellence)</li>

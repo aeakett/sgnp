@@ -1,148 +1,148 @@
 ﻿GERMAN Compiled by Harald Wagener and Moyra Turkington
 REALISTIC MALE
-1. Jürgen
-2. Ingo
-3. Carsten
-4. Thomas
-5. Frank
-6. Stefan
-7. Christoph
-8. Christian
-9. Daniel
-10. Dennis
-11. Martin
-12. Dirk
-13. Heiko
-14. Bernd
-15. Timo
-16. Uwe
-17. Matthias
-18. Achim
-19. Kai
-20. Andreas
+<li>Jürgen</li>
+<li>Ingo</li>
+<li>Carsten</li>
+<li>Thomas</li>
+<li>Frank</li>
+<li>Stefan</li>
+<li>Christoph</li>
+<li>Christian</li>
+<li>Daniel</li>
+<li>Dennis</li>
+<li>Martin</li>
+<li>Dirk</li>
+<li>Heiko</li>
+<li>Bernd</li>
+<li>Timo</li>
+<li>Uwe</li>
+<li>Matthias</li>
+<li>Achim</li>
+<li>Kai</li>
+<li>Andreas</li>
 REALISTIC FEMALE
-1. Christina
-2. Jana
-3. Sabine
-4. Kathrin
-5. Kerstin
-6. Julia
-7. Stefanie
-8. Lena
-9. Anne
-10. Carolin
-11. Elke
-12. Susanne
-13. Alexandra
-14. Nadja
-15. Verena
-16. Britta
-17. Katja
-18. Martina
-19. Anja
-20. Simone
+<li>Christina</li>
+<li>Jana</li>
+<li>Sabine</li>
+<li>Kathrin</li>
+<li>Kerstin</li>
+<li>Julia</li>
+<li>Stefanie</li>
+<li>Lena</li>
+<li>Anne</li>
+<li>Carolin</li>
+<li>Elke</li>
+<li>Susanne</li>
+<li>Alexandra</li>
+<li>Nadja</li>
+<li>Verena</li>
+<li>Britta</li>
+<li>Katja</li>
+<li>Martina</li>
+<li>Anja</li>
+<li>Simone</li>
 REALISTIC SURNAMES
-1. Meyer
-2. Schultz
-3. Förster
-4. Behrens
-5. Krämer
-6. Schneider
-7. Jäger
-8. Wagner
-9. Müller
-10. Kürschner
-11. Schmidt
-12. Kaufmann
-13. Fiedler
-14. Pfeifer
-15. Becker
-16. Metzner
-17. Fischer
-18. Köhler
-19. Melzer
-20. Schreiber
+<li>Meyer</li>
+<li>Schultz</li>
+<li>Förster</li>
+<li>Behrens</li>
+<li>Krämer</li>
+<li>Schneider</li>
+<li>Jäger</li>
+<li>Wagner</li>
+<li>Müller</li>
+<li>Kürschner</li>
+<li>Schmidt</li>
+<li>Kaufmann</li>
+<li>Fiedler</li>
+<li>Pfeifer</li>
+<li>Becker</li>
+<li>Metzner</li>
+<li>Fischer</li>
+<li>Köhler</li>
+<li>Melzer</li>
+<li>Schreiber</li>
 COLORFUL MALE
-1. Curt
-2. Achim
-3. Dietlieb
-4. Bernhard
-5. Folker
-6. Otto
-7. Clemens
-8. Arndt
-9. Freidrich
-10. Dolf
-11. Parsifal
-12. Gebhard
-13. Anselm
-14. Rainer
-15. Götz
-16. Einhard
-17. Nikolaus
-18. Gunter
-19. Weikhard
-20. Falko
+<li>Curt</li>
+<li>Achim</li>
+<li>Dietlieb</li>
+<li>Bernhard</li>
+<li>Folker</li>
+<li>Otto</li>
+<li>Clemens</li>
+<li>Arndt</li>
+<li>Freidrich</li>
+<li>Dolf</li>
+<li>Parsifal</li>
+<li>Gebhard</li>
+<li>Anselm</li>
+<li>Rainer</li>
+<li>Götz</li>
+<li>Einhard</li>
+<li>Nikolaus</li>
+<li>Gunter</li>
+<li>Weikhard</li>
+<li>Falko</li>
 COLORFUL FEMALE
-1. Fieke
-2. Asta
-3. Svenja
-4. Brigitta
-5. Rike
-6. Meike
-7. Erma
-8. Philipa
-9. Gunn
-10. Waldegund
-11. Ria
-12. Marlis
-13. Geli
-14. Sacha
-15. Adelheid
-16. Verena
-17. Hanna
-18. Elke
-19. Geraldine
-20. Sieglinde
+<li>Fieke</li>
+<li>Asta</li>
+<li>Svenja</li>
+<li>Brigitta</li>
+<li>Rike</li>
+<li>Meike</li>
+<li>Erma</li>
+<li>Philipa</li>
+<li>Gunn</li>
+<li>Waldegund</li>
+<li>Ria</li>
+<li>Marlis</li>
+<li>Geli</li>
+<li>Sacha</li>
+<li>Adelheid</li>
+<li>Verena</li>
+<li>Hanna</li>
+<li>Elke</li>
+<li>Geraldine</li>
+<li>Sieglinde</li>
 COLORFUL SURNAMES 1
-1. Schmidt
-2. Heilemann
-3. Bullwinkel
-4. KleinAdler
-5. Richter
-6. Pflaume
-7. Reimer
-8. Kellar
-9. Meer
-10. Neuberger
-11. Unruh
-12. Lustig
-13. Metzger
-14. Weimer
-15. Gebaur
-16. Nachtmann
-17. Erzberger
-18. Zumwald
-19. Oswald
-20. Rotbart
+<li>Schmidt</li>
+<li>Heilemann</li>
+<li>Bullwinkel</li>
+<li>KleinAdler</li>
+<li>Richter</li>
+<li>Pflaume</li>
+<li>Reimer</li>
+<li>Kellar</li>
+<li>Meer</li>
+<li>Neuberger</li>
+<li>Unruh</li>
+<li>Lustig</li>
+<li>Metzger</li>
+<li>Weimer</li>
+<li>Gebaur</li>
+<li>Nachtmann</li>
+<li>Erzberger</li>
+<li>Zumwald</li>
+<li>Oswald</li>
+<li>Rotbart</li>
 COLORFUL SURNAMES 2
-1. Breuer
-2. Schroeder
-3. Pfrommer
-4. Schleusingen
-5. Kunstler
-6. Kurz
-7. Rabe
-8. Raden
-9. Neimer
-10. Saltz
-11. Weiss
-12. Putkammer
-13. Knopf
-14. Waldschmidt
-15. Gerber
-16. Kaltenbach
-17. Artz
-18. Hagen
-19. Lichtermann
-20. Cullen
+<li>Breuer</li>
+<li>Schroeder</li>
+<li>Pfrommer</li>
+<li>Schleusingen</li>
+<li>Kunstler</li>
+<li>Kurz</li>
+<li>Rabe</li>
+<li>Raden</li>
+<li>Neimer</li>
+<li>Saltz</li>
+<li>Weiss</li>
+<li>Putkammer</li>
+<li>Knopf</li>
+<li>Waldschmidt</li>
+<li>Gerber</li>
+<li>Kaltenbach</li>
+<li>Artz</li>
+<li>Hagen</li>
+<li>Lichtermann</li>
+<li>Cullen</li>

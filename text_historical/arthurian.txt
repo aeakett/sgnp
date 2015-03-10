@@ -3,149 +3,149 @@ Compiled by Jason Morningstar
 NOTE
 The names are all taken from middle Welsh.  Ap- is the prefix used to denote son of, as in Baden ap Wynn
 MALE 1                                                        
-1. Bradwr / traitor
-2. Collen / hazel tree
-3. Pedr / rock 
-4. Ieuan /  God is gracious       
-5. Llwyd / grey                                          
-6. Pawl / little                      
-7. Bran / raven
-8. Cadoc / eager for war
-9. Addolgar / devout
-10. Trahern / strong as iron
-11. Gwallter / strong fighter
-12. Caradoc / beloved 
-13. Pellyn / lake's headland   
-14. Pennar / high hill      
-15. Gwern / old   
-16. Conwy / hound of the plain                       
-17. Hywel / eminent                           
-18. Alwyn / friend of all            
-19. Idris / eager lord   
-20. Adwr / coward  
+<li>Bradwr / traitor</li>
+<li>Collen / hazel tree</li>
+<li>Pedr / rock </li>
+<li>Ieuan /  God is gracious       </li>
+<li>Llwyd / grey                                          </li>
+<li>Pawl / little                      </li>
+<li>Bran / raven</li>
+<li>Cadoc / eager for war</li>
+<li>Addolgar / devout</li>
+<li>Trahern / strong as iron</li>
+<li>Gwallter / strong fighter</li>
+<li>Caradoc / beloved </li>
+<li>Pellyn / lake's headland   </li>
+<li>Pennar / high hill      </li>
+<li>Gwern / old   </li>
+<li>Conwy / hound of the plain                       </li>
+<li>Hywel / eminent                           </li>
+<li>Alwyn / friend of all            </li>
+<li>Idris / eager lord   </li>
+<li>Adwr / coward  </li>
 FEMALE 1   
-1. Derwen / oak tree          
-2. Efa / life                   
-3. Goleuddydd / bright day              
-4. Maelona/  divine princess               
-5. Rowena / white-haired   
-6. Neued / maiden        
-7. Adain / winged 
-8. Heuldys / sun rising on a hill                  
-9. Iola / worth
-10. Rhiannon / divine queen   
-11. Gwladys / sovereign             
-12. Hafgan / summer song       
-13. Cerwen / black-haired         
-14. Meira / sea-bright
-15. Mair / bitter
-16. Cath / cat  
-17. Annwyl / beloved           
-18. Branwen / white bosomed
-19. Cadwyn / bright chain  
-20. Gwenhwyfar / holy light   
+<li>Derwen / oak tree          </li>
+<li>Efa / life                   </li>
+<li>Goleuddydd / bright day              </li>
+<li>Maelona/  divine princess               </li>
+<li>Rowena / white-haired   </li>
+<li>Neued / maiden        </li>
+<li>Adain / winged </li>
+<li>Heuldys / sun rising on a hill                  </li>
+<li>Iola / worth</li>
+<li>Rhiannon / divine queen   </li>
+<li>Gwladys / sovereign             </li>
+<li>Hafgan / summer song       </li>
+<li>Cerwen / black-haired         </li>
+<li>Meira / sea-bright</li>
+<li>Mair / bitter</li>
+<li>Cath / cat  </li>
+<li>Annwyl / beloved           </li>
+<li>Branwen / white bosomed</li>
+<li>Cadwyn / bright chain  </li>
+<li>Gwenhwyfar / holy light   </li>
 MALE 2               
-1. Peredur / hard spear
-2. Teryrnon / divine prince                                   
-3. Gwyn / white and shining                   
-4. Hafgan / summer song           
-5. Corryn / spider                                
-6. Cadfan / battle summit                                        
-7. Arvel / wept over                           
-8. Bleiddian / wolf-raider  
-9. Calder / rushing brook 
-10. Amerawdwr / emperor                       
-11. Dafydd / dearly beloved                
-12. Cadwallen / battle dissolver                                                                                              
-13. Drystan / full of sorrow                          
-14. Edmyg / honor                                
-15. Gruffen / fierce lord         
-16. Aberthol / sacrifice                       
-17. Mordwywr / sailor             
-18. Rhobert / brilliant                     
-19. Sayer / carpenter                          
-20. Twrgadarn / tower of strength   
+<li>Peredur / hard spear</li>
+<li>Teryrnon / divine prince                                   </li>
+<li>Gwyn / white and shining                   </li>
+<li>Hafgan / summer song           </li>
+<li>Corryn / spider                                </li>
+<li>Cadfan / battle summit                                        </li>
+<li>Arvel / wept over                           </li>
+<li>Bleiddian / wolf-raider  </li>
+<li>Calder / rushing brook </li>
+<li>Amerawdwr / emperor                       </li>
+<li>Dafydd / dearly beloved                </li>
+<li>Cadwallen / battle dissolver                                                                                              </li>
+<li>Drystan / full of sorrow                          </li>
+<li>Edmyg / honor                                </li>
+<li>Gruffen / fierce lord         </li>
+<li>Aberthol / sacrifice                       </li>
+<li>Mordwywr / sailor             </li>
+<li>Rhobert / brilliant                     </li>
+<li>Sayer / carpenter                          </li>
+<li>Twrgadarn / tower of strength   </li>
 FEMALE 2
-1. Delyth / pretty
-2. Arglwyddes / lady               
-3. Bethan / consecrated to God
-4. Vanora / white wave    
-5. Braith / freckled          
-6. Dera / wild spirit         
-7. Ceridwen / holy song         
-8. Myfanwy / rare                  
-9. Nesta / troublesome beauty 
-10. Angharad / greatly loved one   
-11. Gorawen / joy             
-12. Nona / saintly
-13. Owena / born to nobility               
-14. Adyna / wretched
-15. Eheubryd / daughter of greatness         
-16. Caethes / slave   
-17. Blodwen / flower
-18. Arthes / she-bear
-19. Banon / queen   
-20. Sioned / simple   
+<li>Delyth / pretty</li>
+<li>Arglwyddes / lady               </li>
+<li>Bethan / consecrated to God</li>
+<li>Vanora / white wave    </li>
+<li>Braith / freckled          </li>
+<li>Dera / wild spirit         </li>
+<li>Ceridwen / holy song         </li>
+<li>Myfanwy / rare                  </li>
+<li>Nesta / troublesome beauty </li>
+<li>Angharad / greatly loved one   </li>
+<li>Gorawen / joy             </li>
+<li>Nona / saintly</li>
+<li>Owena / born to nobility               </li>
+<li>Adyna / wretched</li>
+<li>Eheubryd / daughter of greatness         </li>
+<li>Caethes / slave   </li>
+<li>Blodwen / flower</li>
+<li>Arthes / she-bear</li>
+<li>Banon / queen   </li>
+<li>Sioned / simple   </li>
 MALE 3                                                     
-1. Wynn / fair one                    
-2. Prydwen / handsome                               
-3. Rhain / spear                             
-4. Llywelyn / leader                
-5. Lug / bringer of light                                     
-6. Glyn / valley-dweller
-7. Arddur / bear      
-8. Llyr / of the sea                            
-9. Morthwyl / hammer                       
-10. Olwydd / tracker                      
-11. Einion / anvil                          
-12. Gorsedd / from the mound                                
-13. Avagdu / utter darkness      
-14. Baden / brother            
-15. Caerwyn / shining fort              
-16. Deverell / from the riverbank      
-17. Eoin / young warrior                     
-18. Fyrsil / bears the staff                
-19. Gerwin / fair love               
-20. Ardwyad / protector   
+<li>Wynn / fair one                    </li>
+<li>Prydwen / handsome                               </li>
+<li>Rhain / spear                             </li>
+<li>Llywelyn / leader                </li>
+<li>Lug / bringer of light                                     </li>
+<li>Glyn / valley-dweller</li>
+<li>Arddur / bear      </li>
+<li>Llyr / of the sea                            </li>
+<li>Morthwyl / hammer                       </li>
+<li>Olwydd / tracker                      </li>
+<li>Einion / anvil                          </li>
+<li>Gorsedd / from the mound                                </li>
+<li>Avagdu / utter darkness      </li>
+<li>Baden / brother            </li>
+<li>Caerwyn / shining fort              </li>
+<li>Deverell / from the riverbank      </li>
+<li>Eoin / young warrior                     </li>
+<li>Fyrsil / bears the staff                </li>
+<li>Gerwin / fair love               </li>
+<li>Ardwyad / protector   </li>
 FEMALE 3     
-1. Tegwen / radiant beauty                      
-2. Vala / chosen                      
-3. Creirwy / beautiful maid          
-4. Cymreiges / woman of the land                       
-5. Dee / sorrow  
-6. Heledd / goodness  
-7. Eirianwen / splendid                  
-8. Enid / soulful
-9. Ffraid / saintly        
-10. Glenys / riverbank     
-11. Aelwyd / from the hearth     
-12. Penarddun / obedient         
-13. Rhan / fate              
-14. Hellawes / enchantress      
-15. Lysanor / maiden       
-16. Mab / baby     
-17. Adara / bird-catcher  
-18. Rhonwen / bright spear          
-19. Saeth / arrow                                       
-20. Ysbail / consecrated to God         
+<li>Tegwen / radiant beauty                      </li>
+<li>Vala / chosen                      </li>
+<li>Creirwy / beautiful maid          </li>
+<li>Cymreiges / woman of the land                       </li>
+<li>Dee / sorrow  </li>
+<li>Heledd / goodness  </li>
+<li>Eirianwen / splendid                  </li>
+<li>Enid / soulful</li>
+<li>Ffraid / saintly        </li>
+<li>Glenys / riverbank     </li>
+<li>Aelwyd / from the hearth     </li>
+<li>Penarddun / obedient         </li>
+<li>Rhan / fate              </li>
+<li>Hellawes / enchantress      </li>
+<li>Lysanor / maiden       </li>
+<li>Mab / baby     </li>
+<li>Adara / bird-catcher  </li>
+<li>Rhonwen / bright spear          </li>
+<li>Saeth / arrow                                       </li>
+<li>Ysbail / consecrated to God         </li>
 MALE 4                       
-1. Meurig / dark skinned    
-2. Gower / pure                      
-3. Padrig / noble                
-4. Heddwyn / shining peace           
-5. Madog / fortunate        
-6. Selwyn / holy love                     
-7. Taff / beloved                      
-8. Accalon / champion              
-9. Gwalchmei /  hawk of May  
-10. Anfri / disgrace                            
-11. Gethin / dark         
-12. Howell / alert one                       
-13. Huw / intelligent          
-14. Angor / anchor                       
-15. Anwell / beloved                        
-16. March / horse                                                     
-17. Tarrant / thunder      
-18. Arian / silver               
-19. Emlyn / waterfall                                      
-20. Maelgwn / prince of the hounds 
+<li>Meurig / dark skinned    </li>
+<li>Gower / pure                      </li>
+<li>Padrig / noble                </li>
+<li>Heddwyn / shining peace           </li>
+<li>Madog / fortunate        </li>
+<li>Selwyn / holy love                     </li>
+<li>Taff / beloved                      </li>
+<li>Accalon / champion              </li>
+<li>Gwalchmei /  hawk of May  </li>
+<li>Anfri / disgrace                            </li>
+<li>Gethin / dark         </li>
+<li>Howell / alert one                       </li>
+<li>Huw / intelligent          </li>
+<li>Angor / anchor                       </li>
+<li>Anwell / beloved                        </li>
+<li>March / horse                                                     </li>
+<li>Tarrant / thunder      </li>
+<li>Arian / silver               </li>
+<li>Emlyn / waterfall                                      </li>
+<li>Maelgwn / prince of the hounds </li>

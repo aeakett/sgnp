@@ -1,150 +1,150 @@
 ﻿NOIR
 Compiled by Moyra Turkington, Matt Strickling, and Brendan Adkins
 FEMME FATALE FIRST NAMES
-1. Alouette
-2. Amaya
-3. Angel
-4. Babylon
-5. Cecily
-6. Coretta
-7. Esperanza
-8. Evelyn
-9. Golda
-10. Glory
-11. Honey
-12. India
-13. Jacinth
-14. Kitten
-15. Lara
-16. Lianne
-17. Moira
-18. Persephone
-19. Ursula
-20. Veronica
+<li>Alouette</li>
+<li>Amaya</li>
+<li>Angel</li>
+<li>Babylon</li>
+<li>Cecily</li>
+<li>Coretta</li>
+<li>Esperanza</li>
+<li>Evelyn</li>
+<li>Golda</li>
+<li>Glory</li>
+<li>Honey</li>
+<li>India</li>
+<li>Jacinth</li>
+<li>Kitten</li>
+<li>Lara</li>
+<li>Lianne</li>
+<li>Moira</li>
+<li>Persephone</li>
+<li>Ursula</li>
+<li>Veronica</li>
 FEMME FATALE LAST NAMES
-1. Beaudoin
-2. Calico
-3. Dumont
-4. Esco
-5. Frisson
-6. Inoue
-7. Grahame
-8. Kidd
-9. Kittridge
-10. MacLeish
-11. Mays
-12. Milliner
-13. Montcourt
-14. O'Hare
-15. Penrose
-16. Sandoz
-17. Senkinski
-18. Van Dyne
-19. Weir
-20. Roll or choose two and hyphenate
+<li>Beaudoin</li>
+<li>Calico</li>
+<li>Dumont</li>
+<li>Esco</li>
+<li>Frisson</li>
+<li>Inoue</li>
+<li>Grahame</li>
+<li>Kidd</li>
+<li>Kittridge</li>
+<li>MacLeish</li>
+<li>Mays</li>
+<li>Milliner</li>
+<li>Montcourt</li>
+<li>O'Hare</li>
+<li>Penrose</li>
+<li>Sandoz</li>
+<li>Senkinski</li>
+<li>Van Dyne</li>
+<li>Weir</li>
+<li>Roll or choose two and hyphenate</li>
 SERIAL KILLER MEDIA NAMES
-1. The Alphabet Man
-2. The Barfly's Friend
-3. The Birthday Sniper
-4. The Countdown Killer
-5. Doctor Twilight
-6. The Dwayne
-7. The Friends List Terror
-8. The Glove Box Bomber
-9. Jumpstart Jim
-10. The Man Wearing the Bolo Tie
-11. The Man with the Rattling Cough
-12. Mister Shine
-13. The No-Ice Murderer
-14. The Regular
-15. The Silver Smile
-16. The Skid Row Rapist
-17. The Slow Stalker
-18. The Sunshine Thief
-19. The Town Square Carver
-20. The Wristwatch Strangler
+<li>The Alphabet Man</li>
+<li>The Barfly's Friend</li>
+<li>The Birthday Sniper</li>
+<li>The Countdown Killer</li>
+<li>Doctor Twilight</li>
+<li>The Dwayne</li>
+<li>The Friends List Terror</li>
+<li>The Glove Box Bomber</li>
+<li>Jumpstart Jim</li>
+<li>The Man Wearing the Bolo Tie</li>
+<li>The Man with the Rattling Cough</li>
+<li>Mister Shine</li>
+<li>The No-Ice Murderer</li>
+<li>The Regular</li>
+<li>The Silver Smile</li>
+<li>The Skid Row Rapist</li>
+<li>The Slow Stalker</li>
+<li>The Sunshine Thief</li>
+<li>The Town Square Carver</li>
+<li>The Wristwatch Strangler</li>
 MOBSTERS
-1. Ralph "the Fish" Castelletti
-2. "Butcher Knife" Giorgio
-3. Nicky Scarface
-4. "Violent Vinny" D'Angelo
-5. "Fat Vito" Giordano
-6. Tito "the Fixer" Magliocco
-7. Raffaello Bonaducci
-8. "Trap Door" Fabiano
-9. Guido "The Butcher" Sanzone
-10. Pasquale Six Toes
-11. Decrepit Claudio Delucci
-12. Vito "the Shark" Romano
-13. Sylvio "the Snitch" Volpe
-14. Shifty Paulo Giordano
-15. Tony Whatshisnuts
-16. Smooth Salvatore Costa
-17. Giuseppe "the Bishop" DiMarco
-18. Crazy Carmine Aiello
-19. Petey "The Weasel" Amato
-20. Vito "Meat Fist" Gambino
+<li>Ralph "the Fish" Castelletti</li>
+<li>"Butcher Knife" Giorgio</li>
+<li>Nicky Scarface</li>
+<li>"Violent Vinny" D'Angelo</li>
+<li>"Fat Vito" Giordano</li>
+<li>Tito "the Fixer" Magliocco</li>
+<li>Raffaello Bonaducci</li>
+<li>"Trap Door" Fabiano</li>
+<li>Guido "The Butcher" Sanzone</li>
+<li>Pasquale Six Toes</li>
+<li>Decrepit Claudio Delucci</li>
+<li>Vito "the Shark" Romano</li>
+<li>Sylvio "the Snitch" Volpe</li>
+<li>Shifty Paulo Giordano</li>
+<li>Tony Whatshisnuts</li>
+<li>Smooth Salvatore Costa</li>
+<li>Giuseppe "the Bishop" DiMarco</li>
+<li>Crazy Carmine Aiello</li>
+<li>Petey "The Weasel" Amato</li>
+<li>Vito "Meat Fist" Gambino</li>
 FAMOUS GUN MOLLS
-1. Bonnie Parker
-2. Blanche Barrow
-3. Beulah Baird
-4. Jean Delaney Crompton
-5. Evelyn "Billie" Frechette
-6. Mary Kinder
-7. Kathryn Thorne
-8. Opal "Mack Truck" Long
-9. Helen Wawzynak
-10. Virginia Hill
-11. Judith Exner
-12. Helen Gillis
-13. Sally Bachman
-14. Pearl Elliot
-15. Marie "Mickey" Comforti
-16. Patricia Cerrington
-17. Vi Matthis
-18. Ora Shannon
-19. Kathryn Kelly
-20. Beth Green
+<li>Bonnie Parker</li>
+<li>Blanche Barrow</li>
+<li>Beulah Baird</li>
+<li>Jean Delaney Crompton</li>
+<li>Evelyn "Billie" Frechette</li>
+<li>Mary Kinder</li>
+<li>Kathryn Thorne</li>
+<li>Opal "Mack Truck" Long</li>
+<li>Helen Wawzynak</li>
+<li>Virginia Hill</li>
+<li>Judith Exner</li>
+<li>Helen Gillis</li>
+<li>Sally Bachman</li>
+<li>Pearl Elliot</li>
+<li>Marie "Mickey" Comforti</li>
+<li>Patricia Cerrington</li>
+<li>Vi Matthis</li>
+<li>Ora Shannon</li>
+<li>Kathryn Kelly</li>
+<li>Beth Green</li>
 NICKNAMES
 Choose one from this list, and add to one first name and surname - maybe from the Italian list.
-1. Lucky
-2. Fingers
-3. The Bull
-4. Knuckles
-5. Shovelface
-6. Lefty
-7. Big
-8. Fat
-9. Little
-10. Legs
-11. The Blade
-12. The Hammer
-13. Killer
-14. Bullet Tooth
-15. Dutch
-16. Crazy
-17. Mad Dog
-18. The Enforcer
-19. Iceman
-20. Nails
+<li>Lucky</li>
+<li>Fingers</li>
+<li>The Bull</li>
+<li>Knuckles</li>
+<li>Shovelface</li>
+<li>Lefty</li>
+<li>Big</li>
+<li>Fat</li>
+<li>Little</li>
+<li>Legs</li>
+<li>The Blade</li>
+<li>The Hammer</li>
+<li>Killer</li>
+<li>Bullet Tooth</li>
+<li>Dutch</li>
+<li>Crazy</li>
+<li>Mad Dog</li>
+<li>The Enforcer</li>
+<li>Iceman</li>
+<li>Nails</li>
 FAMOUS GODFATHERS
-1. Giuseppe "Clutch Hand" Morello (New York).
-2. Giuseppe "Joe" Aiello (Chicago)
-3. Al "Scarface" Capone, (Chicago)
-4. Steve Ferrigno, (New York).
-5. Antonio "The Scourge" Lombardo (Chicago)
-6. Salvatore Maranzano, (All USA).
-7. Giuseppe "Joe the Boss" Masseria, (New York)
-8. Johnny "the Fox" Torrio (Chicago)
-9. Joseph " Joey Bananas" Bonanno " (New York, Arizona, California, Canada, Cuba)
-10. Charles "Lucky" Luciano (New York)
-11. Vincent Mangano (1888-1951, New York)
-12. Giuseppe Antonio Doto "Joe Adonis" (New York)
-13. Albert "Lord High Executioner" Anastasia, a.k.a "The Mad Hatter" (New York)
-14. Frank "The Prime Minister" Costello (New York)
-15. Vincent "The Chin" Gigante, a.k.a "Gigs" (New York)
-16. John Gotti (New York)
-17. Sam "MoMo" Giancana, a.k.a. "Mooney" or "Sammy the Cigar" (Chicago)
-18. Carlos Marcello (New Orleans)
-19. Willie Moretti (New Jersey) `
-20. Santo Trafficante Sr (Miami and Tampa)
+<li>Giuseppe "Clutch Hand" Morello (New York).</li>
+<li>Giuseppe "Joe" Aiello (Chicago)</li>
+<li>Al "Scarface" Capone, (Chicago)</li>
+<li>Steve Ferrigno, (New York).</li>
+<li>Antonio "The Scourge" Lombardo (Chicago)</li>
+<li>Salvatore Maranzano, (All USA).</li>
+<li>Giuseppe "Joe the Boss" Masseria, (New York)</li>
+<li>Johnny "the Fox" Torrio (Chicago)</li>
+<li>Joseph " Joey Bananas" Bonanno " (New York, Arizona, California, Canada, Cuba)</li>
+<li>Charles "Lucky" Luciano (New York)</li>
+<li>Vincent Mangano (1888-1951, New York)</li>
+<li>Giuseppe Antonio Doto "Joe Adonis" (New York)</li>
+<li>Albert "Lord High Executioner" Anastasia, a.k.a "The Mad Hatter" (New York)</li>
+<li>Frank "The Prime Minister" Costello (New York)</li>
+<li>Vincent "The Chin" Gigante, a.k.a "Gigs" (New York)</li>
+<li>John Gotti (New York)</li>
+<li>Sam "MoMo" Giancana, a.k.a. "Mooney" or "Sammy the Cigar" (Chicago)</li>
+<li>Carlos Marcello (New Orleans)</li>
+<li>Willie Moretti (New Jersey) `</li>
+<li>Santo Trafficante Sr (Miami and Tampa)</li>

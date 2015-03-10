@@ -24,235 +24,235 @@ People from HK and Taiwan (and Macao, and Singapore) love hyphens.  Hyphenate th
 Chinese people in other parts of the world (the diaspora) are not especially consistent.  Look up a bunch of Chinese names in the area you want your character to be from and punctuate your name accordingly.
 COMMON SURNAMES 1 
 (Pinyin / Wade-Giles / HK/Cantonese)
-1. Li / Li / Lee		
-2. Wang / Wang / Wong
-3. Zhang / Chang / Cheung
-4. Liu / Liu / Lau
-5. Chen / Ch'en / Chan
-6. Yang / Yang / Yeung
-7. Huang / Huang / Wong
-8. Zhao / Chao / Chiu
-9. Zhou / Chou / Chow
-10. Wu / Wu / Ng
-11. Xu / Hsu / Tsui
-12. Sun / Sun / Suen
-13. Zhu / Chu / Chu
-14. Ma / Ma / Ma
-15. Hu / Hu / Woo
-16. Guo / Kuo / Kwok
-17. Lin / Lin / Lam
-18. He / He / Ho
-19. Gao / Kao / Ko
-20. Liang / Liang / Leung
+<li>Li / Li / Lee		</li>
+<li>Wang / Wang / Wong</li>
+<li>Zhang / Chang / Cheung</li>
+<li>Liu / Liu / Lau</li>
+<li>Chen / Ch'en / Chan</li>
+<li>Yang / Yang / Yeung</li>
+<li>Huang / Huang / Wong</li>
+<li>Zhao / Chao / Chiu</li>
+<li>Zhou / Chou / Chow</li>
+<li>Wu / Wu / Ng</li>
+<li>Xu / Hsu / Tsui</li>
+<li>Sun / Sun / Suen</li>
+<li>Zhu / Chu / Chu</li>
+<li>Ma / Ma / Ma</li>
+<li>Hu / Hu / Woo</li>
+<li>Guo / Kuo / Kwok</li>
+<li>Lin / Lin / Lam</li>
+<li>He / He / Ho</li>
+<li>Gao / Kao / Ko</li>
+<li>Liang / Liang / Leung</li>
 COMMON SURNAMES 2 
 (Pinyin / Wade-Giles / HK/Cantonese)
-1. Zheng / Cheng / Cheng
-2. Luo / Lo / Lo
-3. Song / Sung / Soong
-4. Xie / Hsieh / Tse
-5. Tang / T'ang / Tong
-6. Han / Han / Hon
-7. Cao / Ts'ao / Tso
-8. Xu / Hsu / Hui
-9. Deng / Teng / Tang
-10. Xiao / Hsiao / Siu
-11. Feng / Feng / Fung
-12. Zeng / Tseng / Tsang
-13. Cheng / Ch'eng / Ching
-14. Cai / Ts'ai / Choi
-15. Peng / P'eng / Pang
-16. Pan / P'an / Poon
-17. Yuan / Yuan / Yuen
-18. Yu / Yu / Yue
-19. Dong / Tung / Tung
-20. Yu / Yu / Yee
+<li>Zheng / Cheng / Cheng</li>
+<li>Luo / Lo / Lo</li>
+<li>Song / Sung / Soong</li>
+<li>Xie / Hsieh / Tse</li>
+<li>Tang / T'ang / Tong</li>
+<li>Han / Han / Hon</li>
+<li>Cao / Ts'ao / Tso</li>
+<li>Xu / Hsu / Hui</li>
+<li>Deng / Teng / Tang</li>
+<li>Xiao / Hsiao / Siu</li>
+<li>Feng / Feng / Fung</li>
+<li>Zeng / Tseng / Tsang</li>
+<li>Cheng / Ch'eng / Ching</li>
+<li>Cai / Ts'ai / Choi</li>
+<li>Peng / P'eng / Pang</li>
+<li>Pan / P'an / Poon</li>
+<li>Yuan / Yuan / Yuen</li>
+<li>Yu / Yu / Yue</li>
+<li>Dong / Tung / Tung</li>
+<li>Yu / Yu / Yee</li>
 COMPOUND SURNAMES 
 (Pinyin and HK/Cantonese)
-1. Baili / Pak Lee
-2. Dongfang / Tung Fong				
-3. Duanmu / Tuen Muk			
-4. Gongsun / Kung Suen	
-5. Guliang / Kuk Leung				
-6. Helian / Hak Lin										
-7. Huyan / Fu Yin			
-8. Linghu / Ling Wu	
-9. Murong / Mo Yung	
-10. Nangong / Nam Kung				
-11. Ouyang / Au Yeung				
-12. Shangguan / Sheung Kwun	
-13. Sima / Sze Ma	
-14. Situ / Sze To		
-15. Taishi / Tai Shi	
-16. Ximen / Sai Mun		
-17. Zhangsun / Cheung Suen					
-18. Zhuge / Chu Kok	
-19. Zhurong / Chok Yung 		
-20. Zuoren / Tso Yan
+<li>Baili / Pak Lee</li>
+<li>Dongfang / Tung Fong				</li>
+<li>Duanmu / Tuen Muk			</li>
+<li>Gongsun / Kung Suen	</li>
+<li>Guliang / Kuk Leung				</li>
+<li>Helian / Hak Lin										</li>
+<li>Huyan / Fu Yin			</li>
+<li>Linghu / Ling Wu	</li>
+<li>Murong / Mo Yung	</li>
+<li>Nangong / Nam Kung				</li>
+<li>Ouyang / Au Yeung				</li>
+<li>Shangguan / Sheung Kwun	</li>
+<li>Sima / Sze Ma	</li>
+<li>Situ / Sze To		</li>
+<li>Taishi / Tai Shi	</li>
+<li>Ximen / Sai Mun		</li>
+<li>Zhangsun / Cheung Suen					</li>
+<li>Zhuge / Chu Kok	</li>
+<li>Zhurong / Chok Yung 		</li>
+<li>Zuoren / Tso Yan</li>
 FEMALE MANDARIN GIVEN NAMES 1
-1. Yandong
-2. Jianxiu
-3. Luli
-4. Xiulian
-5. Sheng
-6. Fangchun
-7. Jie
-8. Chunmei
-9. Guoying
-10. Jingzhen
-11. Yiping
-12. Ling
-13. Pingyan
-14. Shiyu
-15. Jinhua
-16. Dan
-17. Xiuli
-18. Lili
-19. Yinting
-20. Paihong
+<li>Yandong</li>
+<li>Jianxiu</li>
+<li>Luli</li>
+<li>Xiulian</li>
+<li>Sheng</li>
+<li>Fangchun</li>
+<li>Jie</li>
+<li>Chunmei</li>
+<li>Guoying</li>
+<li>Jingzhen</li>
+<li>Yiping</li>
+<li>Ling</li>
+<li>Pingyan</li>
+<li>Shiyu</li>
+<li>Jinhua</li>
+<li>Dan</li>
+<li>Xiuli</li>
+<li>Lili</li>
+<li>Yinting</li>
+<li>Paihong</li>
 MALE MANDARIN GIVEN NAMES 1
-1. Zhongyu
-2. Hui
-3. Jin
-4. Siqin
-5. Guoming
-6. Lichen
-7. Haocai
-8. Kehui
-9. Tienong
-10. Kuiyuan
-11. Kuangdi
-12. Zhaozhuo
-13. Mengfu
-14. Xuan
-15. Meng
-16. Lei
-17. Zhaoguo
-18. Tieying
-19. Huaren
-20. Jialu
+<li>Zhongyu</li>
+<li>Hui</li>
+<li>Jin</li>
+<li>Siqin</li>
+<li>Guoming</li>
+<li>Lichen</li>
+<li>Haocai</li>
+<li>Kehui</li>
+<li>Tienong</li>
+<li>Kuiyuan</li>
+<li>Kuangdi</li>
+<li>Zhaozhuo</li>
+<li>Mengfu</li>
+<li>Xuan</li>
+<li>Meng</li>
+<li>Lei</li>
+<li>Zhaoguo</li>
+<li>Tieying</li>
+<li>Huaren</li>
+<li>Jialu</li>
 FEMALE MANDARIN GIVEN NAMES 2
-1. Lihua
-2. Huirong
-3. Mei
-4. Hongwu
-5. Hui
-6. Cunxiu
-7. Zhuanrong
-8. Ya
-9. Shaoming
-10. Jiaohua
-11. Yun
-12. Zhenzhen
-13. Chenghua
-14. Xiaonan
-15. Zhisheng
-16. Hua
-17. Qin
-18. Li
-19. Luming
-20. Xianglan
+<li>Lihua</li>
+<li>Huirong</li>
+<li>Mei</li>
+<li>Hongwu</li>
+<li>Hui</li>
+<li>Cunxiu</li>
+<li>Zhuanrong</li>
+<li>Ya</li>
+<li>Shaoming</li>
+<li>Jiaohua</li>
+<li>Yun</li>
+<li>Zhenzhen</li>
+<li>Chenghua</li>
+<li>Xiaonan</li>
+<li>Zhisheng</li>
+<li>Hua</li>
+<li>Qin</li>
+<li>Li</li>
+<li>Luming</li>
+<li>Xianglan</li>
 MALE MANDARIN GIVEN NAMES 2
-1. Shisun
-2. Yongxiang
-3. Qide
-4. Bangguo
-5. Jiabao
-6. Peiyan
-7. Liangyu
-8. Yongkang
-9. Jianmin
-10. Zhili
-11. Caihou
-12. Ji'nai
-13. Guanglie
-14. Bingde
-15. Qingchen
-16. Dingfa
-17. Zhiyuan
-18. Xilong
-19. Yang
-20. Chunwang
+<li>Shisun</li>
+<li>Yongxiang</li>
+<li>Qide</li>
+<li>Bangguo</li>
+<li>Jiabao</li>
+<li>Peiyan</li>
+<li>Liangyu</li>
+<li>Yongkang</li>
+<li>Jianmin</li>
+<li>Zhili</li>
+<li>Caihou</li>
+<li>Ji'nai</li>
+<li>Guanglie</li>
+<li>Bingde</li>
+<li>Qingchen</li>
+<li>Dingfa</li>
+<li>Zhiyuan</li>
+<li>Xilong</li>
+<li>Yang</li>
+<li>Chunwang</li>
 HK/CANTONESE FEMALE GIVEN NAMES
-1. Shuk-Yee
-2. Chung-Yee
-3. Sau-Tung
-4. Mei-Mei
-5. Bee-Lung
-6. Cheuk-Wa
-7. Kin-Wo
-8. Wai-Lee
-9. Yat-Fan
-10. Mun-Kit
-11. Yen-Mah
-12. Ho-Kwan
-13. Kwai-Hing
-14. Man-Wai
-15. Kar-Mei
-16. Yuk-Yin
-17. Chun-Chi
-18. Fung-Ying
-19. Lei-Kuan
-20. Ai-Kyeu
+<li>Shuk-Yee</li>
+<li>Chung-Yee</li>
+<li>Sau-Tung</li>
+<li>Mei-Mei</li>
+<li>Bee-Lung</li>
+<li>Cheuk-Wa</li>
+<li>Kin-Wo</li>
+<li>Wai-Lee</li>
+<li>Yat-Fan</li>
+<li>Mun-Kit</li>
+<li>Yen-Mah</li>
+<li>Ho-Kwan</li>
+<li>Kwai-Hing</li>
+<li>Man-Wai</li>
+<li>Kar-Mei</li>
+<li>Yuk-Yin</li>
+<li>Chun-Chi</li>
+<li>Fung-Ying</li>
+<li>Lei-Kuan</li>
+<li>Ai-Kyeu</li>
 HK/CANTONESE MALE GIVEN NAMES 
-1. Si-Yan
-2. Ming-Yueng
-3. Ying-Yen
-4. Yan-Lung
-5. Chi-Ping
-6. Kwok-cheung
-7. Shu-Kwan
-8. Si-Hang
-9. Sui-Lung
-10. Siu-Kwong
-11. Yat-Ngok
-12. Chun-Ying
-13. Yok-Sing
-14. Yiu-Tong
-15. Cheung-Sing
-16. Kwok-Po
-17. Yeh-Kwong
-18. Che-Hung
-19. Kin-Tung
-20. Hung-Ling
+<li>Si-Yan</li>
+<li>Ming-Yueng</li>
+<li>Ying-Yen</li>
+<li>Yan-Lung</li>
+<li>Chi-Ping</li>
+<li>Kwok-cheung</li>
+<li>Shu-Kwan</li>
+<li>Si-Hang</li>
+<li>Sui-Lung</li>
+<li>Siu-Kwong</li>
+<li>Yat-Ngok</li>
+<li>Chun-Ying</li>
+<li>Yok-Sing</li>
+<li>Yiu-Tong</li>
+<li>Cheung-Sing</li>
+<li>Kwok-Po</li>
+<li>Yeh-Kwong</li>
+<li>Che-Hung</li>
+<li>Kin-Tung</li>
+<li>Hung-Ling</li>
 COMMON FEMALE HK ENGLISH NAMES 
-1. Selina
-2. Sarah
-3. Denise
-4. Kelly
-5. Samantha / Sammy
-6. Connie
-7. Stephanie
-8. Cecilia
-9. Vivian
-10. Maggie
-11. Teresa
-12. Ella
-13. Sandy
-14. Tiffany
-15. Karen
-16. Janice
-17. Sally
-18. Isabella
-19. Mandy
-20. Rachel
+<li>Selina</li>
+<li>Sarah</li>
+<li>Denise</li>
+<li>Kelly</li>
+<li>Samantha / Sammy</li>
+<li>Connie</li>
+<li>Stephanie</li>
+<li>Cecilia</li>
+<li>Vivian</li>
+<li>Maggie</li>
+<li>Teresa</li>
+<li>Ella</li>
+<li>Sandy</li>
+<li>Tiffany</li>
+<li>Karen</li>
+<li>Janice</li>
+<li>Sally</li>
+<li>Isabella</li>
+<li>Mandy</li>
+<li>Rachel</li>
 COMMON MALE HK ENGLISH NAMES 
-1. Donald / Donny
-2. Henry
-3. Michael
-4. Joseph / Joe
-5. Patrick
-6. Stephen
-7. Andrew / Andy
-8. Charles / Charley
-9. Ronald / Ronny
-10. David
-11. Victor
-12. William
-13. Jackie / Jacky
-14. John / Johnny
-15. Daniel / Danny
-16. Eason
-17. Edison
-18. Aaron
-19. Anthony / Tony
-20. Nicolas
+<li>Donald / Donny</li>
+<li>Henry</li>
+<li>Michael</li>
+<li>Joseph / Joe</li>
+<li>Patrick</li>
+<li>Stephen</li>
+<li>Andrew / Andy</li>
+<li>Charles / Charley</li>
+<li>Ronald / Ronny</li>
+<li>David</li>
+<li>Victor</li>
+<li>William</li>
+<li>Jackie / Jacky</li>
+<li>John / Johnny</li>
+<li>Daniel / Danny</li>
+<li>Eason</li>
+<li>Edison</li>
+<li>Aaron</li>
+<li>Anthony / Tony</li>
+<li>Nicolas</li>

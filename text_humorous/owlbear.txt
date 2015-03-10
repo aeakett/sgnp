@@ -3,128 +3,128 @@ Compiled by the Story Games Owlbear Fan Club
 NOTES
 Owlbears, perhaps the most enlightened and inclusive culture of red-eyed maniacal predators to grace the planet, embrace a mashup approach to the naming of their chickubs:  A combination of the names of a respected grandparent and a close friend, perhaps, or sometimes simply a juxtaposition of the names of their parents.  Or maybe you're supposed to have two genders in your first name and two cultures in your surname.  Wait, are they hermaphrodites?  Somebody go get the book.
 PAN-GENDER OWLBEAR NAMES
-1. Stevelyn
-2. Leanndrew
-3. Edsue
-4. Jonmarie
-5. Benjosie
-6. Moniquentin
-7. Kristenmark
-8. Katetom
-9. Irvannie
-10. Micharuth
-11. Lizbob
-12. Paulizabeth
-13. Arthursarah
-14. Estherichard
-15. Lilleonard
-16. Jennifred
-17. Erina
-18. Micharity
-19. Christolivia
-20. Debian
+<li>Stevelyn</li>
+<li>Leanndrew</li>
+<li>Edsue</li>
+<li>Jonmarie</li>
+<li>Benjosie</li>
+<li>Moniquentin</li>
+<li>Kristenmark</li>
+<li>Katetom</li>
+<li>Irvannie</li>
+<li>Micharuth</li>
+<li>Lizbob</li>
+<li>Paulizabeth</li>
+<li>Arthursarah</li>
+<li>Estherichard</li>
+<li>Lilleonard</li>
+<li>Jennifred</li>
+<li>Erina</li>
+<li>Micharity</li>
+<li>Christolivia</li>
+<li>Debian</li>
 PAN-CULTURAL OWLBEAR NAMES
-1. Maksimoto
-2. Qikivan
-3. Bennissur
-4. Siobhanaka
-5. Keikowen
-6. Bernatshilaba
-7. Aishelionor
-8. Narcistevo
-9. Jamallorenc
-10. Osmanicolau
-11. Kuvigukaty
-12. Akuagmaquentin
-13. Bonofacinarkaev
-14. Néidheinhard
-15. Remishtar
-16. Yomadaniel
-17. Jennifatima
-18. Verandrea
-19. Crookaty
-20. Abeberkan
+<li>Maksimoto</li>
+<li>Qikivan</li>
+<li>Bennissur</li>
+<li>Siobhanaka</li>
+<li>Keikowen</li>
+<li>Bernatshilaba</li>
+<li>Aishelionor</li>
+<li>Narcistevo</li>
+<li>Jamallorenc</li>
+<li>Osmanicolau</li>
+<li>Kuvigukaty</li>
+<li>Akuagmaquentin</li>
+<li>Bonofacinarkaev</li>
+<li>Néidheinhard</li>
+<li>Remishtar</li>
+<li>Yomadaniel</li>
+<li>Jennifatima</li>
+<li>Verandrea</li>
+<li>Crookaty</li>
+<li>Abeberkan</li>
 OWLBEAR CUISINE
-1. Stewbread
-2. Appleroast
-3. Chocosparagus
-4. Lemoncreams
-5. Enchilatte
-6. Livertea
-7. Cakepilaf
-8. Honeysalts
-9. Peppergrapes
-10. Burritopie
-11. Popsiclorn
-12. Steakmilk
-13. Saladbeque
-14. Potatoburger
-15. Pizzamalt
-16. Lambeggs
-17. Berryfries
-18. Chilihaggis
-19. Pastasausage
-20. Ice Cream
+<li>Stewbread</li>
+<li>Appleroast</li>
+<li>Chocosparagus</li>
+<li>Lemoncreams</li>
+<li>Enchilatte</li>
+<li>Livertea</li>
+<li>Cakepilaf</li>
+<li>Honeysalts</li>
+<li>Peppergrapes</li>
+<li>Burritopie</li>
+<li>Popsiclorn</li>
+<li>Steakmilk</li>
+<li>Saladbeque</li>
+<li>Potatoburger</li>
+<li>Pizzamalt</li>
+<li>Lambeggs</li>
+<li>Berryfries</li>
+<li>Chilihaggis</li>
+<li>Pastasausage</li>
+<li>Ice Cream</li>
 RANDOM THINGS FOUND IN AN OWLBEAR NEST
-1. A wooden beak pick
-2. A honeysalt dispenser
-3. A wheel of steakmilk cheese
-4. A clutch of eggs
-5. Dense pellets of undigested demihuman bone, teeth, and hair
-6. +1 dagger, +3 vs. lycanthropes
-7. Corrective lenses
-8. A molt pile
-9. A flattened, mummified chickub
-10. A parchment map of Whistling Skull cave!
-11. Goblin bladders packed with stewbread
-12. A pinfeather remover
-13. A silver fur comb
-14. A copy of Unisex: The Magazine For Discrete Owlbears
-15. Eye-reddener in a decorative tin
-16. A hidden gas trap!
-17. A jaunty red leather jerkin made from human skin
-18. Claw trimmings
-19. Pecan Sandies
-20. Greasy loose fur stinking of salmon
+<li>A wooden beak pick</li>
+<li>A honeysalt dispenser</li>
+<li>A wheel of steakmilk cheese</li>
+<li>A clutch of eggs</li>
+<li>Dense pellets of undigested demihuman bone, teeth, and hair</li>
+<li>+1 dagger, +3 vs. lycanthropes</li>
+<li>Corrective lenses</li>
+<li>A molt pile</li>
+<li>A flattened, mummified chickub</li>
+<li>A parchment map of Whistling Skull cave!</li>
+<li>Goblin bladders packed with stewbread</li>
+<li>A pinfeather remover</li>
+<li>A silver fur comb</li>
+<li>A copy of Unisex: The Magazine For Discrete Owlbears</li>
+<li>Eye-reddener in a decorative tin</li>
+<li>A hidden gas trap!</li>
+<li>A jaunty red leather jerkin made from human skin</li>
+<li>Claw trimmings</li>
+<li>Pecan Sandies</li>
+<li>Greasy loose fur stinking of salmon</li>
 RANDOM THINGS FOUND IN OWLBEAR PELLETS
-1. The bones of a dog which had recently eaten the bones of a cat
-2. Perfectly preserved mummy's hand, bedecked with rings
-3. Cask of Amontillado
-4. Six pounds of carpenter's nails
-5. AAHH SPIDERS
-6. Sand, just sand
-7. Wooden tiles imprinted with the letters A, B, F, L, O, R and W
-8. Skull of the much rarer "bearowl," now disputed as a hoax
-9. Bicarbonate of soda
-10. Four badly discolored juggling balls
-11. Nearly complete set of Bronze Age silverware, missing most of a spoon
-12. That's where my hat went
-13. Three salted pork chops, now perfectly marinated
-14. A troll's arm, trying to grow a new troll
-15. Egg teeth
-16. Eleven lead sling bullets
-17. One of those bent-nail puzzle thingies
-18. Hairshirt, men's large
-19. The rest of the Antikythera mechanism
-20. I don't know, but it's still moving
+<li>The bones of a dog which had recently eaten the bones of a cat</li>
+<li>Perfectly preserved mummy's hand, bedecked with rings</li>
+<li>Cask of Amontillado</li>
+<li>Six pounds of carpenter's nails</li>
+<li>AAHH SPIDERS</li>
+<li>Sand, just sand</li>
+<li>Wooden tiles imprinted with the letters A, B, F, L, O, R and W</li>
+<li>Skull of the much rarer "bearowl," now disputed as a hoax</li>
+<li>Bicarbonate of soda</li>
+<li>Four badly discolored juggling balls</li>
+<li>Nearly complete set of Bronze Age silverware, missing most of a spoon</li>
+<li>That's where my hat went</li>
+<li>Three salted pork chops, now perfectly marinated</li>
+<li>A troll's arm, trying to grow a new troll</li>
+<li>Egg teeth</li>
+<li>Eleven lead sling bullets</li>
+<li>One of those bent-nail puzzle thingies</li>
+<li>Hairshirt, men's large</li>
+<li>The rest of the Antikythera mechanism</li>
+<li>I don't know, but it's still moving</li>
 WAYS OWLBEARS SPEND AN EVENING
-1. Romantic Evening Eviscerating other Sentients
-2. Playing Baskethockey
-3. Watching Operahorror
-4. Attending Churchbath
-5. Hunting Goblins
-6. Watching Radiovision
-7. Taking the Chickubs to Basesoccer Practice
-8. Tinkering with their Boatcars in the Garagepool
-9. Shopping for Jaunty Red Leather Jerkins
-10. Self-publishing roleplaying sports
-11. Beak Picking
-12. Crying at own flightlessness
-13. Going to Evil Monster Society meetings
-14. Roving the forests for hapless prey
-15. Roving nightclubs for cute boygirls
-16. Arts, Crafts, and Blood Sacrifice
-17. Networking
-18. Browing through Bookmeat Stores
-19. Playing Junta
-20. Posting Endless Jokes About Humans on the Internet
+<li>Romantic Evening Eviscerating other Sentients</li>
+<li>Playing Baskethockey</li>
+<li>Watching Operahorror</li>
+<li>Attending Churchbath</li>
+<li>Hunting Goblins</li>
+<li>Watching Radiovision</li>
+<li>Taking the Chickubs to Basesoccer Practice</li>
+<li>Tinkering with their Boatcars in the Garagepool</li>
+<li>Shopping for Jaunty Red Leather Jerkins</li>
+<li>Self-publishing roleplaying sports</li>
+<li>Beak Picking</li>
+<li>Crying at own flightlessness</li>
+<li>Going to Evil Monster Society meetings</li>
+<li>Roving the forests for hapless prey</li>
+<li>Roving nightclubs for cute boygirls</li>
+<li>Arts, Crafts, and Blood Sacrifice</li>
+<li>Networking</li>
+<li>Browing through Bookmeat Stores</li>
+<li>Playing Junta</li>
+<li>Posting Endless Jokes About Humans on the Internet</li>

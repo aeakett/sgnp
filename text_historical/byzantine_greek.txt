@@ -18,107 +18,107 @@ To feminize family names, convert endings as follows:
 -tes to -tissa 
 -as to -ina (but drop the s first)
 MALE NAMES
-1. Christophoros
-2. Ioannes
-3. Konstantinos
-4. Makarios
-5. Niphon
-6. Theodoulos
-7. Alexandros
-8. Bardas
-9. Andreas
-10. Gregoras
-11. Alexios
-12. Nikolaos
-13. Phillipos
-14. Theodoros
-15. Iakobos
-16. Leontios
-17. Nikodemos
-18. Basileios
-19. Petros
-20. Andronikos
+<li>Christophoros</li>
+<li>Ioannes</li>
+<li>Konstantinos</li>
+<li>Makarios</li>
+<li>Niphon</li>
+<li>Theodoulos</li>
+<li>Alexandros</li>
+<li>Bardas</li>
+<li>Andreas</li>
+<li>Gregoras</li>
+<li>Alexios</li>
+<li>Nikolaos</li>
+<li>Phillipos</li>
+<li>Theodoros</li>
+<li>Iakobos</li>
+<li>Leontios</li>
+<li>Nikodemos</li>
+<li>Basileios</li>
+<li>Petros</li>
+<li>Andronikos</li>
 FEMALE NAMES
-1. Maria
-2. Anna
-3. Eugenia
-4. Xene
-5. Leonta
-6. Thomais
-7. Theodora
-8. Eirene
-9. Helene
-10. Elaiodora
-11. Ioanna
-12. Eudokia
-13. Simonis
-14. Zoe
-15. Theodosia
-16. Dragna
-17. Stania
-18. Theofana
-19. Christina
-20. Xanthe
+<li>Maria</li>
+<li>Anna</li>
+<li>Eugenia</li>
+<li>Xene</li>
+<li>Leonta</li>
+<li>Thomais</li>
+<li>Theodora</li>
+<li>Eirene</li>
+<li>Helene</li>
+<li>Elaiodora</li>
+<li>Ioanna</li>
+<li>Eudokia</li>
+<li>Simonis</li>
+<li>Zoe</li>
+<li>Theodosia</li>
+<li>Dragna</li>
+<li>Stania</li>
+<li>Theofana</li>
+<li>Christina</li>
+<li>Xanthe</li>
 SURNAMES 1
-1. Dalassenos
-2. Gabras
-3. Komnenos
-4. Melachrinos
-5. Doukas
-6. Asanes
-7. Limpidares
-8. Balsamon
-9. Koresses
-10. Trichas
-11. Tzamplakon
-12. Zarides
-13. Skleros
-14. Adrianos
-15. Palaiologos
-16. Chrysaphes
-17. Aprenos
-18. Eirenikos
-19. Kaloethes
-20. Paraspondylos
+<li>Dalassenos</li>
+<li>Gabras</li>
+<li>Komnenos</li>
+<li>Melachrinos</li>
+<li>Doukas</li>
+<li>Asanes</li>
+<li>Limpidares</li>
+<li>Balsamon</li>
+<li>Koresses</li>
+<li>Trichas</li>
+<li>Tzamplakon</li>
+<li>Zarides</li>
+<li>Skleros</li>
+<li>Adrianos</li>
+<li>Palaiologos</li>
+<li>Chrysaphes</li>
+<li>Aprenos</li>
+<li>Eirenikos</li>
+<li>Kaloethes</li>
+<li>Paraspondylos</li>
 SURNAMES 2
-1. Choumnos
-2. Glabas
-3. Kontostephanos
-4. Agallon
-5. Boumbalis
-6. Sgouros
-7. Tagaris
-8. Mouzalon
-9. Laskaris
-10. Manouelites
-11. Argyros
-12. Kalamanos
-13. Chrysoloras
-14. Doukas
-15. Tsaphas
-16. Pleustes
-17. Angelos
-18. Philanthropenos
-19. Sebastopoulos
-20. Rossatas
+<li>Choumnos</li>
+<li>Glabas</li>
+<li>Kontostephanos</li>
+<li>Agallon</li>
+<li>Boumbalis</li>
+<li>Sgouros</li>
+<li>Tagaris</li>
+<li>Mouzalon</li>
+<li>Laskaris</li>
+<li>Manouelites</li>
+<li>Argyros</li>
+<li>Kalamanos</li>
+<li>Chrysoloras</li>
+<li>Doukas</li>
+<li>Tsaphas</li>
+<li>Pleustes</li>
+<li>Angelos</li>
+<li>Philanthropenos</li>
+<li>Sebastopoulos</li>
+<li>Rossatas</li>
 BY-NAMES (Appropriate for peasants only)
-1. Trykalas (potter)
-2. Alieus (fisherman)
-3. Makellares (butcher)
-4. Iereus (priest)
-5. Chalkeus (smith)
-6. Kalligas (shoe-maker)
-7. Vagenas (barrel-maker)
-8. Raptes (tailor)
-9. Mylonas (miller)
-10. Diakonos (deacon)
-11. Yfantes (weaver)
-12. Kepouros (gardener)
-13. Skiadas (hat-maker)
-14. Flevotomos (doctor)
-15. Neropoles (water-seller)
-16. Tzangares (shoemaker)
-17. Krasopolia (wineseller)
-18. Gounaras (furrier)
-19. Ktistes (mason)
-20. Pelekanos (carpenter)
+<li>Trykalas (potter)</li>
+<li>Alieus (fisherman)</li>
+<li>Makellares (butcher)</li>
+<li>Iereus (priest)</li>
+<li>Chalkeus (smith)</li>
+<li>Kalligas (shoe-maker)</li>
+<li>Vagenas (barrel-maker)</li>
+<li>Raptes (tailor)</li>
+<li>Mylonas (miller)</li>
+<li>Diakonos (deacon)</li>
+<li>Yfantes (weaver)</li>
+<li>Kepouros (gardener)</li>
+<li>Skiadas (hat-maker)</li>
+<li>Flevotomos (doctor)</li>
+<li>Neropoles (water-seller)</li>
+<li>Tzangares (shoemaker)</li>
+<li>Krasopolia (wineseller)</li>
+<li>Gounaras (furrier)</li>
+<li>Ktistes (mason)</li>
+<li>Pelekanos (carpenter)</li>

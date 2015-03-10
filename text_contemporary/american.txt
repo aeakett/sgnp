@@ -1,403 +1,403 @@
 ﻿MODERN AMERICANS
 Compiled by Brand Robins, Troy M. Costisick and Mischa D. Krilov
 COMMON MALE
-1. Shawn McEwen
-2. Billy Nolen
-3. Martin Twomey
-4. Allen Crossley
-5. Ryan Dillman
-6. Terry Collard
-7. Eric Pinkard
-8. Gregory Mangrum
-9. Willie Harkness
-10. Martin Blaylock
-11. Raymond Magnuson
-12. Willie Fontenot
-13. Russell Raphael
-14. Bryan Murdock
-15. Curtis Zander
-16. Stephen Merkel
-17. Ryan Deanda
-18. Joshua Shoemaker
-19. Russell Toner
-20. Jack Oakes
+<li>Shawn McEwen</li>
+<li>Billy Nolen</li>
+<li>Martin Twomey</li>
+<li>Allen Crossley</li>
+<li>Ryan Dillman</li>
+<li>Terry Collard</li>
+<li>Eric Pinkard</li>
+<li>Gregory Mangrum</li>
+<li>Willie Harkness</li>
+<li>Martin Blaylock</li>
+<li>Raymond Magnuson</li>
+<li>Willie Fontenot</li>
+<li>Russell Raphael</li>
+<li>Bryan Murdock</li>
+<li>Curtis Zander</li>
+<li>Stephen Merkel</li>
+<li>Ryan Deanda</li>
+<li>Joshua Shoemaker</li>
+<li>Russell Toner</li>
+<li>Jack Oakes</li>
 COMMON FEMALE
-1. Dora Maxson
-2. Kristi Bynum
-3. Gina Grasso
-4. Thelma Shoemake
-5. Cathy Addis
-6. Kay Mccrory
-7. Gina Bates
-8. Nicole Reeves
-9. Stella Lattimore
-10. Brandi Forrest
-11. Emma Fredericks
-12. Pamela Pino
-13. Debbie Brodeur
-14. Angela Shockey
-15. Beth Buster
-16. Kayla Brandon
-17. Emily Erdman
-18. Kay Michell
-19. Jenny Hamill
-20. Virginia Roman
+<li>Dora Maxson</li>
+<li>Kristi Bynum</li>
+<li>Gina Grasso</li>
+<li>Thelma Shoemake</li>
+<li>Cathy Addis</li>
+<li>Kay Mccrory</li>
+<li>Gina Bates</li>
+<li>Nicole Reeves</li>
+<li>Stella Lattimore</li>
+<li>Brandi Forrest</li>
+<li>Emma Fredericks</li>
+<li>Pamela Pino</li>
+<li>Debbie Brodeur</li>
+<li>Angela Shockey</li>
+<li>Beth Buster</li>
+<li>Kayla Brandon</li>
+<li>Emily Erdman</li>
+<li>Kay Michell</li>
+<li>Jenny Hamill</li>
+<li>Virginia Roman</li>
 UNCOMMON MALE
-1. Shon Cosca
-2. Nathanael Bryum
-3. Lindsay Persch
-4. Cedrick Greto
-5. Eldridge Daughetee
-6. Broderick Alfredo
-7. Cristopher Crookston
-8. Ezequiel Haggis
-9. Rey Mcgarraugh
-10. Ellsworth Frankenfeld
-11. Filiberto Lansey
-12. Gaylord Kanjirathinga
-13. Kristofer Daurizio
-14. Tuan Gedris
-15. Gaston Conoly
-16. Wes Dekine
-17. Michal Hoyne
-18. Lynwood Parsh
-19. Lonny Cierley
-20. Kraig Earenfight
+<li>Shon Cosca</li>
+<li>Nathanael Bryum</li>
+<li>Lindsay Persch</li>
+<li>Cedrick Greto</li>
+<li>Eldridge Daughetee</li>
+<li>Broderick Alfredo</li>
+<li>Cristopher Crookston</li>
+<li>Ezequiel Haggis</li>
+<li>Rey Mcgarraugh</li>
+<li>Ellsworth Frankenfeld</li>
+<li>Filiberto Lansey</li>
+<li>Gaylord Kanjirathinga</li>
+<li>Kristofer Daurizio</li>
+<li>Tuan Gedris</li>
+<li>Gaston Conoly</li>
+<li>Wes Dekine</li>
+<li>Michal Hoyne</li>
+<li>Lynwood Parsh</li>
+<li>Lonny Cierley</li>
+<li>Kraig Earenfight</li>
 UNCOMMON FEMALE
-1. Signe Nalty
-2. Joselyn Losavio
-3. Fredia Lustberg
-4. Kaylene Ogunyemi
-5. Gulini Gazo
-6. Nga Kuklenski
-7. Wai Minehan
-8. Brittni Frawkin
-9. Dania Araneo
-10. Alysha Leasher
-11. Rebbecca Aceveda
-12. Laticia Hettenhausen
-13. Delana Mesmer
-14. Falha Gruesbeck
-15. Celestina Ahalt
-16. Zita Neddo
-17. Ema Graue
-18. Brunilda Bullert
-19. Kiesha Bloedel
-20. Velvet Chetelat
+<li>Signe Nalty</li>
+<li>Joselyn Losavio</li>
+<li>Fredia Lustberg</li>
+<li>Kaylene Ogunyemi</li>
+<li>Gulini Gazo</li>
+<li>Nga Kuklenski</li>
+<li>Wai Minehan</li>
+<li>Brittni Frawkin</li>
+<li>Dania Araneo</li>
+<li>Alysha Leasher</li>
+<li>Rebbecca Aceveda</li>
+<li>Laticia Hettenhausen</li>
+<li>Delana Mesmer</li>
+<li>Falha Gruesbeck</li>
+<li>Celestina Ahalt</li>
+<li>Zita Neddo</li>
+<li>Ema Graue</li>
+<li>Brunilda Bullert</li>
+<li>Kiesha Bloedel</li>
+<li>Velvet Chetelat</li>
 RARE AMERICAN NAMES
 These are among the most unpopular names in the United States, pulled from census data. Out of a sample of nearly two million names, approximately forty-three thousand had unique names. Note that women are about three times as likely as men as to have a unique name; this list reflects the sampling.
 RARE MALE
-1. Hazari
-2. Suphachad
-3. Laru
-4. Abundie
-5. Dalis
-6. Goncalo
-7. Sovanrithy
-8. Seungyong
-9. Ish
-10. Oryan
-11. Yunlong
-12. Beegie
-13. Wattie
-14. Nattapong
-15. Laksmono
-16. Subhi
-17. Rykeir
-18. Siberio
-19. Sovandara
-20. Nyklus
+<li>Hazari</li>
+<li>Suphachad</li>
+<li>Laru</li>
+<li>Abundie</li>
+<li>Dalis</li>
+<li>Goncalo</li>
+<li>Sovanrithy</li>
+<li>Seungyong</li>
+<li>Ish</li>
+<li>Oryan</li>
+<li>Yunlong</li>
+<li>Beegie</li>
+<li>Wattie</li>
+<li>Nattapong</li>
+<li>Laksmono</li>
+<li>Subhi</li>
+<li>Rykeir</li>
+<li>Siberio</li>
+<li>Sovandara</li>
+<li>Nyklus</li>
 RARE FEMALE 1
-1. Ralina
-2. Bophary
-3. Lan-Dai
-4. Mridula
-5. Suchin
-6. Shealin
-7. Cynthanie
-8. Saraswathi
-9. Berneatha
-10. Thembisa
-11. Tanta
-12. Nirawan
-13. Sherilin
-14. Chrystee
-15. Toshya
-16. Katheron
-17. Tannette
-18. Ramonda
-19. Samfira
-20. Chantle
+<li>Ralina</li>
+<li>Bophary</li>
+<li>Lan-Dai</li>
+<li>Mridula</li>
+<li>Suchin</li>
+<li>Shealin</li>
+<li>Cynthanie</li>
+<li>Saraswathi</li>
+<li>Berneatha</li>
+<li>Thembisa</li>
+<li>Tanta</li>
+<li>Nirawan</li>
+<li>Sherilin</li>
+<li>Chrystee</li>
+<li>Toshya</li>
+<li>Katheron</li>
+<li>Tannette</li>
+<li>Ramonda</li>
+<li>Samfira</li>
+<li>Chantle</li>
 RARE FEMALE 2
-1. Pornwadee
-2. Mathann
-3. Etelani
-4. Lalofau
-5. Kumiyo
-6. Genovela
-7. Quocvan
-8. Wan-Chih
-9. Tersa
-10. Nali
-11. Almaadele
-12. Sora
-13. Xuqiu
-14. Jiae
-15. Zeenab
-16. Jolle
-17. Canada
-18. Nikoletta
-19. Iwona
-20. Shaunene
+<li>Pornwadee</li>
+<li>Mathann</li>
+<li>Etelani</li>
+<li>Lalofau</li>
+<li>Kumiyo</li>
+<li>Genovela</li>
+<li>Quocvan</li>
+<li>Wan-Chih</li>
+<li>Tersa</li>
+<li>Nali</li>
+<li>Almaadele</li>
+<li>Sora</li>
+<li>Xuqiu</li>
+<li>Jiae</li>
+<li>Zeenab</li>
+<li>Jolle</li>
+<li>Canada</li>
+<li>Nikoletta</li>
+<li>Iwona</li>
+<li>Shaunene</li>
 RARE FEMALE 3
-1. Teya
-2. Kaelyne
-3. Lavizsia
-4. Loewen
-5. Jeehee
-6. Jonola
-7. Nyleen
-8. Fortina
-9. Nachele
-10. Yan-Ying
-11. Milynne
-12. Ludmela
-13. Merrian
-14. Affanita
-15. Thanhthu
-16. Deolanda
-17. Reyene
-18. Mistymarie
-19. Donisha
-20. Sengchan
+<li>Teya</li>
+<li>Kaelyne</li>
+<li>Lavizsia</li>
+<li>Loewen</li>
+<li>Jeehee</li>
+<li>Jonola</li>
+<li>Nyleen</li>
+<li>Fortina</li>
+<li>Nachele</li>
+<li>Yan-Ying</li>
+<li>Milynne</li>
+<li>Ludmela</li>
+<li>Merrian</li>
+<li>Affanita</li>
+<li>Thanhthu</li>
+<li>Deolanda</li>
+<li>Reyene</li>
+<li>Mistymarie</li>
+<li>Donisha</li>
+<li>Sengchan</li>
 MODERN AMERICAN YOUTH, MALE
-1. Tayshaun
-2. Lance
-3. Zack
-4. Patrick
-5. Gabe
-6. Anthony
-7. Andrew
-8. Cedric
-9. Shelby
-10. Jordan
-11. Will
-12. Jake
-13. Lonney
-14. Jeremey
-15. Steven
-16. Morgan
-17. Nathan
-18. Avery
-19. Farren
-20. Everet
+<li>Tayshaun</li>
+<li>Lance</li>
+<li>Zack</li>
+<li>Patrick</li>
+<li>Gabe</li>
+<li>Anthony</li>
+<li>Andrew</li>
+<li>Cedric</li>
+<li>Shelby</li>
+<li>Jordan</li>
+<li>Will</li>
+<li>Jake</li>
+<li>Lonney</li>
+<li>Jeremey</li>
+<li>Steven</li>
+<li>Morgan</li>
+<li>Nathan</li>
+<li>Avery</li>
+<li>Farren</li>
+<li>Everet</li>
 MODERN AMERICAN YOUTH, FEMALE 
-1. Tiara
-2. Tenile
-3. Kim
-4. Morgan
-5. Shelby
-6. Jordan
-7. Shiori
-8. Brittany
-9. Stephanie
-10. Julie
-11. Jontavia
-12. Allyson
-13. Siera
-14. Nattalie
-15. Winter
-16. Bray
-17. Chelsea
-18. Terra
-19. Kelly
-20. Bobby
+<li>Tiara</li>
+<li>Tenile</li>
+<li>Kim</li>
+<li>Morgan</li>
+<li>Shelby</li>
+<li>Jordan</li>
+<li>Shiori</li>
+<li>Brittany</li>
+<li>Stephanie</li>
+<li>Julie</li>
+<li>Jontavia</li>
+<li>Allyson</li>
+<li>Siera</li>
+<li>Nattalie</li>
+<li>Winter</li>
+<li>Bray</li>
+<li>Chelsea</li>
+<li>Terra</li>
+<li>Kelly</li>
+<li>Bobby</li>
 STRANGE MALE 1
-1. Kelley
-2. Vincenzo
-3. Rueben
-4. Lucius
-5. Rolf
-6. Colton
-7. Malik
-8. Gaston
-9. Arlen
-10. Del
-11. Arden
-12. Milan
-13. Ambrose
-14. Chas
-15. Renaldo
-16. Andreas
-17. Darell
-18. Raleigh
-19. Teodoro
-20. Huey
+<li>Kelley</li>
+<li>Vincenzo</li>
+<li>Rueben</li>
+<li>Lucius</li>
+<li>Rolf</li>
+<li>Colton</li>
+<li>Malik</li>
+<li>Gaston</li>
+<li>Arlen</li>
+<li>Del</li>
+<li>Arden</li>
+<li>Milan</li>
+<li>Ambrose</li>
+<li>Chas</li>
+<li>Renaldo</li>
+<li>Andreas</li>
+<li>Darell</li>
+<li>Raleigh</li>
+<li>Teodoro</li>
+<li>Huey</li>
 STRANGE FEMALE 1 
-1. Malena
-2. Ardelia
-3. Pei
-4. Veronika
-5. Carlita
-6. Candra
-7. Evelynn
-8. Keira
-9. Audria
-10. Jaquelyn
-11. Dakota
-12. Madalene
-13. Rosette
-14. September
-15. Bryanna
-16. Shandi
-17. Jestine
-18. Kallie
-19. Tawna
-20. Basilia
+<li>Malena</li>
+<li>Ardelia</li>
+<li>Pei</li>
+<li>Veronika</li>
+<li>Carlita</li>
+<li>Candra</li>
+<li>Evelynn</li>
+<li>Keira</li>
+<li>Audria</li>
+<li>Jaquelyn</li>
+<li>Dakota</li>
+<li>Madalene</li>
+<li>Rosette</li>
+<li>September</li>
+<li>Bryanna</li>
+<li>Shandi</li>
+<li>Jestine</li>
+<li>Kallie</li>
+<li>Tawna</li>
+<li>Basilia</li>
 STRANGE MALE 2
-1. Theo
-2. Darrick
-3. Thanh
-4. Nigel
-5. Augustus
-6. Trinidad
-7. Mel
-8. Deon
-9. Lyman
-10. Trey
-11. Stanford
-12. Quinn
-13. Jonah
-14. Olen
-15. Newton
-16. Milo
-17. Dario
-18. Brice
-19. Chance
-20. Morton
+<li>Theo</li>
+<li>Darrick</li>
+<li>Thanh</li>
+<li>Nigel</li>
+<li>Augustus</li>
+<li>Trinidad</li>
+<li>Mel</li>
+<li>Deon</li>
+<li>Lyman</li>
+<li>Trey</li>
+<li>Stanford</li>
+<li>Quinn</li>
+<li>Jonah</li>
+<li>Olen</li>
+<li>Newton</li>
+<li>Milo</li>
+<li>Dario</li>
+<li>Brice</li>
+<li>Chance</li>
+<li>Morton</li>
 STRANGE FEMALE 2
-1. Casimira
-2. Zenia
-3. Marielle
-4. Shin
-5. Tula
-6. Emelina
-7. Venetta
-8. Ardelle
-9. Dede
-10. Moon
-11. Sirena
-12. Crysta
-13. Kirstie
-14. Layne
-15. Lilli
-16. Maisie
-17. Cammy
-18. Charmain
-19. Tilda
-20. Anja
+<li>Casimira</li>
+<li>Zenia</li>
+<li>Marielle</li>
+<li>Shin</li>
+<li>Tula</li>
+<li>Emelina</li>
+<li>Venetta</li>
+<li>Ardelle</li>
+<li>Dede</li>
+<li>Moon</li>
+<li>Sirena</li>
+<li>Crysta</li>
+<li>Kirstie</li>
+<li>Layne</li>
+<li>Lilli</li>
+<li>Maisie</li>
+<li>Cammy</li>
+<li>Charmain</li>
+<li>Tilda</li>
+<li>Anja</li>
 STRANGE SURNAMES 1
-1. Clavey
-2. Mitter
-3. Blonigan
-4. Mandler
-5. Borycz
-6. Blochberger
-7. Yanai
-8. Tullison
-9. Pecatoste
-10. Gavula
-11. Phelp
-12. Marsell
-13. Passerino
-14. Simmond
-15. Canatella
-16. Strachman
-17. Guevana
-18. Heroth
-19. Reagey
-20. Cambronne
+<li>Clavey</li>
+<li>Mitter</li>
+<li>Blonigan</li>
+<li>Mandler</li>
+<li>Borycz</li>
+<li>Blochberger</li>
+<li>Yanai</li>
+<li>Tullison</li>
+<li>Pecatoste</li>
+<li>Gavula</li>
+<li>Phelp</li>
+<li>Marsell</li>
+<li>Passerino</li>
+<li>Simmond</li>
+<li>Canatella</li>
+<li>Strachman</li>
+<li>Guevana</li>
+<li>Heroth</li>
+<li>Reagey</li>
+<li>Cambronne</li>
 STRANGE SURNAMES 2
-1. Seratti
-2. Bawks
-3. Linderleaf
-4. Brunback
-5. Spyrakos
-6. Kruzel
-7. McGlohon
-8. Klitzner
-9. Polton
-10. Fontneau
-11. Shindel
-12. Greenrose
-13. Lazurek
-14. Shefte
-15. Bourlier
-16. Sarnes
-17. Belfast
-18. Vlasak
-19. Hilsgen
-20. Lahne
+<li>Seratti</li>
+<li>Bawks</li>
+<li>Linderleaf</li>
+<li>Brunback</li>
+<li>Spyrakos</li>
+<li>Kruzel</li>
+<li>McGlohon</li>
+<li>Klitzner</li>
+<li>Polton</li>
+<li>Fontneau</li>
+<li>Shindel</li>
+<li>Greenrose</li>
+<li>Lazurek</li>
+<li>Shefte</li>
+<li>Bourlier</li>
+<li>Sarnes</li>
+<li>Belfast</li>
+<li>Vlasak</li>
+<li>Hilsgen</li>
+<li>Lahne</li>
 MODERN JOBS 1
-1. Message Board Administrator 
-2. Product Manager
-3. Clinical Applications Trainer
-4. Grinder
-5. System Analyst
-6. Accessibility Coordinator
-7. Financial Consultant
-8. DVD Supervisor
-9. Geotechnical Engineer
-10. Home Economics Teacher
-11. Video Conferencing Engineer
-12. Character Animator
-13. Mortician
-14. CAD Operator
-15. Maintenance Mechanic
-16. Machinist
-17. Assembly Line Worker
-18. Mortgage Loan Processor
-19. Bilingual Customer Service Agent
-20. Air Traffic Controller 
+<li>Message Board Administrator </li>
+<li>Product Manager</li>
+<li>Clinical Applications Trainer</li>
+<li>Grinder</li>
+<li>System Analyst</li>
+<li>Accessibility Coordinator</li>
+<li>Financial Consultant</li>
+<li>DVD Supervisor</li>
+<li>Geotechnical Engineer</li>
+<li>Home Economics Teacher</li>
+<li>Video Conferencing Engineer</li>
+<li>Character Animator</li>
+<li>Mortician</li>
+<li>CAD Operator</li>
+<li>Maintenance Mechanic</li>
+<li>Machinist</li>
+<li>Assembly Line Worker</li>
+<li>Mortgage Loan Processor</li>
+<li>Bilingual Customer Service Agent</li>
+<li>Air Traffic Controller </li>
 MODERN JOBS 2
-1. Lab Tech
-2. Checker / Teller
-3. Collections and/or Credit Analyst
-4. Display Marketing Representative
-5. Payroll Coordinator
-6. Aerospace Supply Chain Specialist  
-7. Demolitions Crew
-8. Loss Prevention Specialist
-9. Visual Coordinator
-10. Pharmaceutical Representative
-11. Tool and Dye Operator 
-12. Tour Guide
-13. Legal File Clerk 
-14. Receptionist
-15. Nuclear P3 Planner
-16. Tax CPA
-17. Assistant Internet Researcher
-18. Federal X-Ray Inspector
-19. Border Patrol Agent
-20. Upholstery Repair Supervisor 
+<li>Lab Tech</li>
+<li>Checker / Teller</li>
+<li>Collections and/or Credit Analyst</li>
+<li>Display Marketing Representative</li>
+<li>Payroll Coordinator</li>
+<li>Aerospace Supply Chain Specialist  </li>
+<li>Demolitions Crew</li>
+<li>Loss Prevention Specialist</li>
+<li>Visual Coordinator</li>
+<li>Pharmaceutical Representative</li>
+<li>Tool and Dye Operator </li>
+<li>Tour Guide</li>
+<li>Legal File Clerk </li>
+<li>Receptionist</li>
+<li>Nuclear P3 Planner</li>
+<li>Tax CPA</li>
+<li>Assistant Internet Researcher</li>
+<li>Federal X-Ray Inspector</li>
+<li>Border Patrol Agent</li>
+<li>Upholstery Repair Supervisor </li>
 MODERN JOBS 3
-1. Pallet Jack Mechanic
-2. Commercial Estimator
-3. Applications Architect
-4. Headhunter
-5. Surgical Technician
-6. Dietitian
-7. Aid to Autistic Adult
-8. Specimen Processing Supervisor
-9. Physical Therapist
-10. Telemarketer 
-11. Chef
-12. Temp
-13. Senior Buyer
-14. Martial Arts Instructor 
-15. Driver (Bus, Taxi, Armored Car) 
-16. Staff Subcontracts Manager
-17. Auditor
-18. Editor
-19. Lion Tamer
-20. Payphone Cash Collector
+<li>Pallet Jack Mechanic</li>
+<li>Commercial Estimator</li>
+<li>Applications Architect</li>
+<li>Headhunter</li>
+<li>Surgical Technician</li>
+<li>Dietitian</li>
+<li>Aid to Autistic Adult</li>
+<li>Specimen Processing Supervisor</li>
+<li>Physical Therapist</li>
+<li>Telemarketer </li>
+<li>Chef</li>
+<li>Temp</li>
+<li>Senior Buyer</li>
+<li>Martial Arts Instructor </li>
+<li>Driver (Bus, Taxi, Armored Car) </li>
+<li>Staff Subcontracts Manager</li>
+<li>Auditor</li>
+<li>Editor</li>
+<li>Lion Tamer</li>
+<li>Payphone Cash Collector</li>

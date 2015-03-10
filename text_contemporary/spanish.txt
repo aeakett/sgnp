@@ -70,338 +70,338 @@ e.g.
 NOTE 2
 All the names in the following lists marked with an asterisk are either no longer frequent among young people, or somehow restricted to a region of Spain. Some of them are also quite old-fashioned.
 MALE 1
-1. Abelino *
-2. Alejandro
-3. Felipe
-4. Bonifacio *
-5. Bruno
-6. Carlos
-7. Adrián
-8. Armando
-9. Basilio *
-10. Álvaro
-11. Julio
-12. Leonardo
-13. Torcuato *
-14. Abelardo *
-15. Abel
-16. Urbano *
-17. Valentín
-18. Rufo * / Rufino
-19. Samuel
-20. Porfirio *
+<li>Abelino *</li>
+<li>Alejandro</li>
+<li>Felipe</li>
+<li>Bonifacio *</li>
+<li>Bruno</li>
+<li>Carlos</li>
+<li>Adrián</li>
+<li>Armando</li>
+<li>Basilio *</li>
+<li>Álvaro</li>
+<li>Julio</li>
+<li>Leonardo</li>
+<li>Torcuato *</li>
+<li>Abelardo *</li>
+<li>Abel</li>
+<li>Urbano *</li>
+<li>Valentín</li>
+<li>Rufo * / Rufino</li>
+<li>Samuel</li>
+<li>Porfirio *</li>
 FEMALE 1
-1. Ángeles (María de los) / Mari-ángeles / Nines
-2. Cecilia
-3. Julia
-4. Coral
-5. Araceli
-6. Amelia *
-7. Milagros (María de los)
-8. Claudia
-9. Mireia
-10. Estela
-11. Beatriz
-12. Cristina
-13. Rebeca
-14. Delfina *
-15. Engracia *
-16. Mariana
-17. Dora *
-18. Almudena
-19. Consolación (María de la) / Consuelo
+<li>Ángeles (María de los) / Mari-ángeles / Nines</li>
+<li>Cecilia</li>
+<li>Julia</li>
+<li>Coral</li>
+<li>Araceli</li>
+<li>Amelia *</li>
+<li>Milagros (María de los)</li>
+<li>Claudia</li>
+<li>Mireia</li>
+<li>Estela</li>
+<li>Beatriz</li>
+<li>Cristina</li>
+<li>Rebeca</li>
+<li>Delfina *</li>
+<li>Engracia *</li>
+<li>Mariana</li>
+<li>Dora *</li>
+<li>Almudena</li>
+<li>Consolación (María de la) / Consuelo</li>
 MALE 2
-1. Rafael
-2. Moro
-3. Nemesio *
-4. Diego
-5. Emilio
-6. Alberto
-7. Francisco / Paco / Paquito
-8. Gabriel
-9. Agustín
-10. Domingo
-11. Eduardo
-12. Horacio
-13. Arturo
-14. Augusto
-15. Bartolo *
-16. Eladio *
-17. Gerardo
-18. Enrique / Quique
-19. Néstor
-20. Ramiro
+<li>Rafael</li>
+<li>Moro</li>
+<li>Nemesio *</li>
+<li>Diego</li>
+<li>Emilio</li>
+<li>Alberto</li>
+<li>Francisco / Paco / Paquito</li>
+<li>Gabriel</li>
+<li>Agustín</li>
+<li>Domingo</li>
+<li>Eduardo</li>
+<li>Horacio</li>
+<li>Arturo</li>
+<li>Augusto</li>
+<li>Bartolo *</li>
+<li>Eladio *</li>
+<li>Gerardo</li>
+<li>Enrique / Quique</li>
+<li>Néstor</li>
+<li>Ramiro</li>
 FEMALE 2
-1. Elisa
-2. Blanca
-3. Rosalía
-4. Camila *
-5. Nelia *
-6. Patricia
-7. Anunciación (María de la)
-8. Camino (María del) *
-9. Dolores (María de los) / Lola / Lolita
-10. Elena / Helena
-11. Mónica
-12. Piedad (María de la)
-13. Julieta *
-14. Monserrat
-15. Natalia
-16. Laura
-17. Margarita
-18. Pilar (María del) / Pili
-19. Sara
-20. Concepción  (María de la) / Concha
+<li>Elisa</li>
+<li>Blanca</li>
+<li>Rosalía</li>
+<li>Camila *</li>
+<li>Nelia *</li>
+<li>Patricia</li>
+<li>Anunciación (María de la)</li>
+<li>Camino (María del) *</li>
+<li>Dolores (María de los) / Lola / Lolita</li>
+<li>Elena / Helena</li>
+<li>Mónica</li>
+<li>Piedad (María de la)</li>
+<li>Julieta *</li>
+<li>Monserrat</li>
+<li>Natalia</li>
+<li>Laura</li>
+<li>Margarita</li>
+<li>Pilar (María del) / Pili</li>
+<li>Sara</li>
+<li>Concepción  (María de la) / Concha</li>
 MALE 3
-1. Santiago / Santi
-2. Vicente
-3. Leoncio *
-4. Andrés
-5. Isidro
-6. Joaquín
-7. Hernando
-8. Hugo
-9. Ignacio
-10. Iñigo
-11. Mauricio / Mauri
-12. Miguel
-13. Nicanor *
-14. Raúl
-15. Ricardo
-16. Isaac
-17. Isidoro *
-18. José / Pepe
-19. Juán
-20. Marco
+<li>Santiago / Santi</li>
+<li>Vicente</li>
+<li>Leoncio *</li>
+<li>Andrés</li>
+<li>Isidro</li>
+<li>Joaquín</li>
+<li>Hernando</li>
+<li>Hugo</li>
+<li>Ignacio</li>
+<li>Iñigo</li>
+<li>Mauricio / Mauri</li>
+<li>Miguel</li>
+<li>Nicanor *</li>
+<li>Raúl</li>
+<li>Ricardo</li>
+<li>Isaac</li>
+<li>Isidoro *</li>
+<li>José / Pepe</li>
+<li>Juán</li>
+<li>Marco</li>
 FEMALE 3
-1. Elvira
-2. Raquél
-3. Sandra
-4. Alma *
-5. María
-6. Rosa
-7. Silvia
-8. Rosario (María del)
-9. Sofía
-10. Esther
-11. Josefa / Josefina
-12. Adelaida *
-13. Violeta *
-14. Virginia
-15. Susana
-16. Leticia
-17. Tatiana
-18. Nieves (María de las)
-19. Miriam
-20. Esperanza (María de la)
+<li>Elvira</li>
+<li>Raquél</li>
+<li>Sandra</li>
+<li>Alma *</li>
+<li>María</li>
+<li>Rosa</li>
+<li>Silvia</li>
+<li>Rosario (María del)</li>
+<li>Sofía</li>
+<li>Esther</li>
+<li>Josefa / Josefina</li>
+<li>Adelaida *</li>
+<li>Violeta *</li>
+<li>Virginia</li>
+<li>Susana</li>
+<li>Leticia</li>
+<li>Tatiana</li>
+<li>Nieves (María de las)</li>
+<li>Miriam</li>
+<li>Esperanza (María de la)</li>
 MALE 4
-1. Jorge
-2. Benito
-3. Casiano *
-4. Félix
-5. Fernando
-6. Mateo
-7. Matías
-8. Roberto
-9. Julián
-10. Leopoldo *
-11. Alfonso
-12. Gregorio / Goyo
-13. Eleuterio *
-14. Jesús
-15. Rodolfo
-16. Mario
-17. Lorenzo
-18. Luís
-19. Manuel
-20. Rodrigo
+<li>Jorge</li>
+<li>Benito</li>
+<li>Casiano *</li>
+<li>Félix</li>
+<li>Fernando</li>
+<li>Mateo</li>
+<li>Matías</li>
+<li>Roberto</li>
+<li>Julián</li>
+<li>Leopoldo *</li>
+<li>Alfonso</li>
+<li>Gregorio / Goyo</li>
+<li>Eleuterio *</li>
+<li>Jesús</li>
+<li>Rodolfo</li>
+<li>Mario</li>
+<li>Lorenzo</li>
+<li>Luís</li>
+<li>Manuel</li>
+<li>Rodrigo</li>
 FEMALE 4
-1. Amparo (María del)
-2. Celia
-3. Emilia *
-4. Luisa
-5. Maite
-6. Olga
-7. Marta
-8. Lourdes
-9. Herminia *
-10. Ana
-11. Belén
-12. Carmela *
-13. Angélica
-14. Inés
-15. Begoña
-16. Carmen
-17. Carolina
-18. Ángela
-19. Inmaculada (María) / Inma
-20. Eugenia
+<li>Amparo (María del)</li>
+<li>Celia</li>
+<li>Emilia *</li>
+<li>Luisa</li>
+<li>Maite</li>
+<li>Olga</li>
+<li>Marta</li>
+<li>Lourdes</li>
+<li>Herminia *</li>
+<li>Ana</li>
+<li>Belén</li>
+<li>Carmela *</li>
+<li>Angélica</li>
+<li>Inés</li>
+<li>Begoña</li>
+<li>Carmen</li>
+<li>Carolina</li>
+<li>Ángela</li>
+<li>Inmaculada (María) / Inma</li>
+<li>Eugenia</li>
 MALE 5
-1. Tomás
-2. Víctor
-3. Rubén
-4. Sergio
-5. Nicolás
-6. Oscar
-7. Pablo
-8. Pascual
-9. Marcos (also a surname)
-10. Ismael
-11. Jaime
-12. Alfredo
-13. Guillermo
-14. Gustavo
-15. Héctor
-16. Eugenio
-17. Ángel
-18. Esteban
-19. Fidel
-20. Germán
+<li>Tomás</li>
+<li>Víctor</li>
+<li>Rubén</li>
+<li>Sergio</li>
+<li>Nicolás</li>
+<li>Oscar</li>
+<li>Pablo</li>
+<li>Pascual</li>
+<li>Marcos (also a surname)</li>
+<li>Ismael</li>
+<li>Jaime</li>
+<li>Alfredo</li>
+<li>Guillermo</li>
+<li>Gustavo</li>
+<li>Héctor</li>
+<li>Eugenio</li>
+<li>Ángel</li>
+<li>Esteban</li>
+<li>Fidel</li>
+<li>Germán</li>
 FEMALE 5
-1. Eva
-2. Felisa
-3. Genma
-4. Aurora
-5. Bárbara
-6. Henar (María del) *
-7. Isabel
-8. Jacinta *
-9. Lucía
-10. Mercedes (María de las)
-11. Olvido
-12. Paloma
-13. Teresa
-14. Valle (María del)
-15. Yolanda
-16. Alejandra
-17. Alicia
-18. Judit
-19. Sonia
-20. Soraya
-21. Veronica / Vero
+<li>Eva</li>
+<li>Felisa</li>
+<li>Genma</li>
+<li>Aurora</li>
+<li>Bárbara</li>
+<li>Henar (María del) *</li>
+<li>Isabel</li>
+<li>Jacinta *</li>
+<li>Lucía</li>
+<li>Mercedes (María de las)</li>
+<li>Olvido</li>
+<li>Paloma</li>
+<li>Teresa</li>
+<li>Valle (María del)</li>
+<li>Yolanda</li>
+<li>Alejandra</li>
+<li>Alicia</li>
+<li>Judit</li>
+<li>Sonia</li>
+<li>Soraya</li>
+<li>Veronica / Vero</li>
 MALE 6
-1. Antonio / Toño / Toñín
-2. Constantino / Tino
-3. Daniel
-4. Aquilino *
-5. Bernardo
-6. Casimiro *
-7. Argimiro *
-8. Benjamín
-9. César
-10. Darío
-11. David
-12. Ernesto
-13. Gonzalo
-14. Javier
-15. Martín (also a surname)
-16. Pedro
-17. Ramón
-18. Teodoro
-19. Virgilio *
-20. Zacarías *
+<li>Antonio / Toño / Toñín</li>
+<li>Constantino / Tino</li>
+<li>Daniel</li>
+<li>Aquilino *</li>
+<li>Bernardo</li>
+<li>Casimiro *</li>
+<li>Argimiro *</li>
+<li>Benjamín</li>
+<li>César</li>
+<li>Darío</li>
+<li>David</li>
+<li>Ernesto</li>
+<li>Gonzalo</li>
+<li>Javier</li>
+<li>Martín (also a surname)</li>
+<li>Pedro</li>
+<li>Ramón</li>
+<li>Teodoro</li>
+<li>Virgilio *</li>
+<li>Zacarías *</li>
 SURNAMES 1 
-1. Moreno
-2. Rodríguez
-3. Serrano
-4. Soto
-5. Muñiz
-6. Prieto
-7. Rivera
-8. Muñoz
-9. Navarro
-10. Pastor
-11. Montañés
-12. González
-13. Casado
-14. Ferrán
-15. García
-16. del Castillo
-17. Castro
-18. Arribas
-19. Cela
-20. Cortés
+<li>Moreno</li>
+<li>Rodríguez</li>
+<li>Serrano</li>
+<li>Soto</li>
+<li>Muñiz</li>
+<li>Prieto</li>
+<li>Rivera</li>
+<li>Muñoz</li>
+<li>Navarro</li>
+<li>Pastor</li>
+<li>Montañés</li>
+<li>González</li>
+<li>Casado</li>
+<li>Ferrán</li>
+<li>García</li>
+<li>del Castillo</li>
+<li>Castro</li>
+<li>Arribas</li>
+<li>Cela</li>
+<li>Cortés</li>
 SURNAMES 2
-1. Duque
-2. Escudero
-3. Fernández
-4. Garza
-5. Gutiérrez
-6. Guzmán
-7. Hernández
-8. Montoya
-9. Pena
-10. Robledo
-11. de la Torre
-12. Villanueva
-13. Roldán
-14. Ruiz
-15. Sánchez
-16. Morales
-17. Santamaría
-18. Bueno
-19. Abad
-20. Flores
+<li>Duque</li>
+<li>Escudero</li>
+<li>Fernández</li>
+<li>Garza</li>
+<li>Gutiérrez</li>
+<li>Guzmán</li>
+<li>Hernández</li>
+<li>Montoya</li>
+<li>Pena</li>
+<li>Robledo</li>
+<li>de la Torre</li>
+<li>Villanueva</li>
+<li>Roldán</li>
+<li>Ruiz</li>
+<li>Sánchez</li>
+<li>Morales</li>
+<li>Santamaría</li>
+<li>Bueno</li>
+<li>Abad</li>
+<li>Flores</li>
 SURNAMES 3
-1. Galán
-2. Torres
-3. Vargas
-4. Santos
-5. de la Rosa
-6. Reyes
-7. Navas
-8. Cano
-9. del Campo
-10. Molpeceres
-11. Ortega
-12. Lara
-13. López
-14. Martín
-15. Garzón
-16. Cuervo
-17. Delgado
-18. Medina
-19. Gómez
-20. Merino
+<li>Galán</li>
+<li>Torres</li>
+<li>Vargas</li>
+<li>Santos</li>
+<li>de la Rosa</li>
+<li>Reyes</li>
+<li>Navas</li>
+<li>Cano</li>
+<li>del Campo</li>
+<li>Molpeceres</li>
+<li>Ortega</li>
+<li>Lara</li>
+<li>López</li>
+<li>Martín</li>
+<li>Garzón</li>
+<li>Cuervo</li>
+<li>Delgado</li>
+<li>Medina</li>
+<li>Gómez</li>
+<li>Merino</li>
 SURNAMES 4
-1. Ávila
-2. Barragán
-3. Díaz
-4. Gil
-5. Martínez
-6. Ortiz
-7. Paredes
-8. del Río
-9. Sanz
-10. Vega
-11. Gallego
-12. Crespo
-13. Díez
-14. Aguilar
-15. Calleja
-16. Álvarez
-17. Carrión
-18. Aragón
-19. Ferreiro
-20. Domínguez
+<li>Ávila</li>
+<li>Barragán</li>
+<li>Díaz</li>
+<li>Gil</li>
+<li>Martínez</li>
+<li>Ortiz</li>
+<li>Paredes</li>
+<li>del Río</li>
+<li>Sanz</li>
+<li>Vega</li>
+<li>Gallego</li>
+<li>Crespo</li>
+<li>Díez</li>
+<li>Aguilar</li>
+<li>Calleja</li>
+<li>Álvarez</li>
+<li>Carrión</li>
+<li>Aragón</li>
+<li>Ferreiro</li>
+<li>Domínguez</li>
 SURNAMES 5
-1. Galván
-2. Arias
-3. Blanco
-4. del Arco
-5. Arranz
-6. Barrios
-7. Pérez
-8. del Pozo
-9. Carbajo
-10. Jiménez
-11. Lagunar
-12. Molinero
-13. Beltrán
-14. Herrera
-15. Izquierdo
-16. Mendoza
-17. del Bosque
-18. Alonso
-19. Calvo
-20. Segundo
+<li>Galván</li>
+<li>Arias</li>
+<li>Blanco</li>
+<li>del Arco</li>
+<li>Arranz</li>
+<li>Barrios</li>
+<li>Pérez</li>
+<li>del Pozo</li>
+<li>Carbajo</li>
+<li>Jiménez</li>
+<li>Lagunar</li>
+<li>Molinero</li>
+<li>Beltrán</li>
+<li>Herrera</li>
+<li>Izquierdo</li>
+<li>Mendoza</li>
+<li>del Bosque</li>
+<li>Alonso</li>
+<li>Calvo</li>
+<li>Segundo</li>

@@ -3,44 +3,44 @@ Compiled by Meguey Baker
 NOTES
 Some of these are actual nicknames of current inmates, some are what I remember from television, some are made-up. Most of the time, prisoners just wind up being known by their last name. 
 MALE NAMES 
-1. Doc
-2. Greedy
-3. Chambers
-4. Hoss
-5. Poet
-6. Sister
-7. Sketch
-8. Jones
-9. Y4 (Why-for)
-10. God-man
-11. Armpit
-12. Big (name)
-13. Little (name)
-14. Skinny (name)
-15. Wheels
-16. Bounce
-17. N.G. (Not Guilty)
-18. Ghost
-19. Bug
-20. Caveman
+<li>Doc</li>
+<li>Greedy</li>
+<li>Chambers</li>
+<li>Hoss</li>
+<li>Poet</li>
+<li>Sister</li>
+<li>Sketch</li>
+<li>Jones</li>
+<li>Y4 (Why-for)</li>
+<li>God-man</li>
+<li>Armpit</li>
+<li>Big (name)</li>
+<li>Little (name)</li>
+<li>Skinny (name)</li>
+<li>Wheels</li>
+<li>Bounce</li>
+<li>N.G. (Not Guilty)</li>
+<li>Ghost</li>
+<li>Bug</li>
+<li>Caveman</li>
 FEMALE NAMES 
-1. Left-eye
-2. B.C.
-3. Mama
-4. Big (name)
-5. Little (name)
-6. 5 on
-7. Bait (Jail bait)
-8. Nun
-9. Beautiful
-10. Ice-girl
-11. Sass
-12. Daisy
-13. Lines
-14. Squish
-15. 60
-16. Pop
-17. Brooklyn
-18. Rank
-19. Cleopatra (Queen of Denial)
-20. Squeak
+<li>Left-eye</li>
+<li>B.C.</li>
+<li>Mama</li>
+<li>Big (name)</li>
+<li>Little (name)</li>
+<li>5 on</li>
+<li>Bait (Jail bait)</li>
+<li>Nun</li>
+<li>Beautiful</li>
+<li>Ice-girl</li>
+<li>Sass</li>
+<li>Daisy</li>
+<li>Lines</li>
+<li>Squish</li>
+<li>60</li>
+<li>Pop</li>
+<li>Brooklyn</li>
+<li>Rank</li>
+<li>Cleopatra (Queen of Denial)</li>
+<li>Squeak</li>

@@ -1,44 +1,44 @@
 ﻿BIKERS
 Compiled by Graham Walmsley
 MALE
-1. Mad Dog
-2. Goose
-3. Red Tex
-4. Chainsaw
-5. Dagger
-6. Skullsmasher
-7. Hog
-8. Deaf Charlie
-9. Bone
-10. Blackbeard
-11. Bull
-12. Headbanger
-13. Pitbull
-14. Crusher
-15. Hammer
-16. Warlock
-17. Pretty Boy Pete
-18. Chip
-19. Bear
-20. Ratty
+<li>Mad Dog</li>
+<li>Goose</li>
+<li>Red Tex</li>
+<li>Chainsaw</li>
+<li>Dagger</li>
+<li>Skullsmasher</li>
+<li>Hog</li>
+<li>Deaf Charlie</li>
+<li>Bone</li>
+<li>Blackbeard</li>
+<li>Bull</li>
+<li>Headbanger</li>
+<li>Pitbull</li>
+<li>Crusher</li>
+<li>Hammer</li>
+<li>Warlock</li>
+<li>Pretty Boy Pete</li>
+<li>Chip</li>
+<li>Bear</li>
+<li>Ratty</li>
 FEMALE
-1. Dirty Jen
-2. Mama
-3. Cosmo
-4. Fox
-5. Spanner
-6. Hippy
-7. Vulture
-8. Cakes
-9. Pigeon
-10. Jet 
-11. Pig
-12. Magpie
-13. Bitch
-14. Valkyrie
-15. Ratty
-16. Big Tina
-17. Diva
-18. Scarlet
-19. Red Mag
-20. Blackie
+<li>Dirty Jen</li>
+<li>Mama</li>
+<li>Cosmo</li>
+<li>Fox</li>
+<li>Spanner</li>
+<li>Hippy</li>
+<li>Vulture</li>
+<li>Cakes</li>
+<li>Pigeon</li>
+<li>Jet </li>
+<li>Pig</li>
+<li>Magpie</li>
+<li>Bitch</li>
+<li>Valkyrie</li>
+<li>Ratty</li>
+<li>Big Tina</li>
+<li>Diva</li>
+<li>Scarlet</li>
+<li>Red Mag</li>
+<li>Blackie</li>

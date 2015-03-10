@@ -1,107 +1,107 @@
 ﻿PORN STARS
 Compiled by Team Story-Games
 MALE 1 
-1. Edmonton Masasoit
-2. Ezekiel Dakin
-3. Charcoal Guilford
-4. Aaron Divine
-5. Max Sugar 
-6. Thunderbolt Thayer
-7. Burton Ruffner
-8. Hephaestus Flomar
-9. Jake Vayland
-10. Karl Hungus
-11. Dizzy Danforth
-12. Agamemnon Colonial 
-13. Mangus Coventry
-14. Pitch Christian
-15. Blackie Thoreau
-16. Puddy Adams
-17. Flash Frazier
-18. Duke Brower 
-19. Elvis Emerald 
-20. Buddy Forge
+<li>Edmonton Masasoit</li>
+<li>Ezekiel Dakin</li>
+<li>Charcoal Guilford</li>
+<li>Aaron Divine</li>
+<li>Max Sugar </li>
+<li>Thunderbolt Thayer</li>
+<li>Burton Ruffner</li>
+<li>Hephaestus Flomar</li>
+<li>Jake Vayland</li>
+<li>Karl Hungus</li>
+<li>Dizzy Danforth</li>
+<li>Agamemnon Colonial </li>
+<li>Mangus Coventry</li>
+<li>Pitch Christian</li>
+<li>Blackie Thoreau</li>
+<li>Puddy Adams</li>
+<li>Flash Frazier</li>
+<li>Duke Brower </li>
+<li>Elvis Emerald </li>
+<li>Buddy Forge</li>
 FEMALE 1
-1. Britty Winchester
-2. Muffin, Heidi, Big Kitty and Little Kitty Sunrise
-3. Taffy White 
-4. Snowball Nashville 
-5. Sable Delphines 
-6. Maya Salem
-7. Boogie Tacoma
-8. Bimbam 3600
-9. Yuki Chickamauga
-10. Fluffy Whitecliff
-11. Euphrates Portsmouth
-12. Tiger Aurora
-13. Sly Daphne
-14. Trouble Breckenridge
-15. Harley Greenwood
-16. Peppermint Woodbine 
-17. Candy Wood
-18. Coco Blueball
-19. Duchess Drake
-20. Dorian Sylvanwood
+<li>Britty Winchester</li>
+<li>Muffin, Heidi, Big Kitty and Little Kitty Sunrise</li>
+<li>Taffy White </li>
+<li>Snowball Nashville </li>
+<li>Sable Delphines </li>
+<li>Maya Salem</li>
+<li>Boogie Tacoma</li>
+<li>Bimbam 3600</li>
+<li>Yuki Chickamauga</li>
+<li>Fluffy Whitecliff</li>
+<li>Euphrates Portsmouth</li>
+<li>Tiger Aurora</li>
+<li>Sly Daphne</li>
+<li>Trouble Breckenridge</li>
+<li>Harley Greenwood</li>
+<li>Peppermint Woodbine </li>
+<li>Candy Wood</li>
+<li>Coco Blueball</li>
+<li>Duchess Drake</li>
+<li>Dorian Sylvanwood</li>
 MALE 2
-1. Midnight J
-2. Bucky Oneida
-3. Anubis Broadway
-4. Zapruder Lawnmont
-5. Bourbon Stoneman
-6. Odysseus Riker
-7. 'Mr. T' Memphis
-8. Peanut 
-9. Biko Thulstrup
-10. Joel Eastend
-11. Richard Bayline
-12. Tuffy Braeburn
-13. Omar Fauntleroy
-14. Shadow Beeches
-15. Hoku Lake
-16. 'Tuxedo' Southview 
-17. 'Curious' George Galloway
-18. Moby Ravenscroft
-19. Drake Duchess
-20. Oliver Bodemann
+<li>Midnight J</li>
+<li>Bucky Oneida</li>
+<li>Anubis Broadway</li>
+<li>Zapruder Lawnmont</li>
+<li>Bourbon Stoneman</li>
+<li>Odysseus Riker</li>
+<li>'Mr. T' Memphis</li>
+<li>Peanut </li>
+<li>Biko Thulstrup</li>
+<li>Joel Eastend</li>
+<li>Richard Bayline</li>
+<li>Tuffy Braeburn</li>
+<li>Omar Fauntleroy</li>
+<li>Shadow Beeches</li>
+<li>Hoku Lake</li>
+<li>'Tuxedo' Southview </li>
+<li>'Curious' George Galloway</li>
+<li>Moby Ravenscroft</li>
+<li>Drake Duchess</li>
+<li>Oliver Bodemann</li>
 FEMALE 2
-1. Megan Honeywell
-2. Kitty Oneida
-3. Hobeaux Fourteener
-4. Samantha Power
-5. Aphasia Washington
-6. Marlo, Anoria, and Melicinae Riker
-7. Hypatia Papania
-8. Ophelia Broadway
-9. Ding-a-ling Memphis
-10. B.J. Oakcreek
-11. Annie Aurora
-12. Rosie Mills
-13. Anne Goldston
-14. Martha Murray
-15. 'Squeaky' Sherry Summerland
-16. Weenie Charlotte
-17. Bambi Winchester
-18. Sasha Sugar
-19. Heddy Good
-20. Lorraine Murrayhill
+<li>Megan Honeywell</li>
+<li>Kitty Oneida</li>
+<li>Hobeaux Fourteener</li>
+<li>Samantha Power</li>
+<li>Aphasia Washington</li>
+<li>Marlo, Anoria, and Melicinae Riker</li>
+<li>Hypatia Papania</li>
+<li>Ophelia Broadway</li>
+<li>Ding-a-ling Memphis</li>
+<li>B.J. Oakcreek</li>
+<li>Annie Aurora</li>
+<li>Rosie Mills</li>
+<li>Anne Goldston</li>
+<li>Martha Murray</li>
+<li>'Squeaky' Sherry Summerland</li>
+<li>Weenie Charlotte</li>
+<li>Bambi Winchester</li>
+<li>Sasha Sugar</li>
+<li>Heddy Good</li>
+<li>Lorraine Murrayhill</li>
 SHOOTING LOCATIONS
-1. A tiger cage mock-up at SERE school at Camp Mackall.
-2. The Unit Two reactor at the Dukovany power station, Czech Republic
-3. A cell in an abbey. The church bells are ringing.
-4. A monkey-covered Conquistador's raft adrift on the Amazon.
-5. An exact reproduction of the climactic set from the film Moonraker.
-6. A large banyan tree with a platform in it.
-7. Your Mom's house
-8. The roof of the White House during a "code red" terror alert
-9. A PBS float during the Rose Parade
-10. Backstage during a production of Oedipus Rex
-11. The back of a life-sized recreation of a Tyrannosaurus Rex made of matchsticks
-12. The bathroom of a Burger Czar fast food restaurant
-13. The offices overlooking the municipal sewage treatment center
-14. An immense underground hydroponic garden
-15. A soda factory R&D taste-test center
-16. Beneath the bleachers at an event of the World's Strongest Man competition
-17. BASE jumping off Mount Rushmore
-18. Gen Con
-19. Under the speaker's podium at a shareholder's meeting
-20. A zombie-infested shopping mall in Pittsburgh
+<li>A tiger cage mock-up at SERE school at Camp Mackall.</li>
+<li>The Unit Two reactor at the Dukovany power station, Czech Republic</li>
+<li>A cell in an abbey. The church bells are ringing.</li>
+<li>A monkey-covered Conquistador's raft adrift on the Amazon.</li>
+<li>An exact reproduction of the climactic set from the film Moonraker.</li>
+<li>A large banyan tree with a platform in it.</li>
+<li>Your Mom's house</li>
+<li>The roof of the White House during a "code red" terror alert</li>
+<li>A PBS float during the Rose Parade</li>
+<li>Backstage during a production of Oedipus Rex</li>
+<li>The back of a life-sized recreation of a Tyrannosaurus Rex made of matchsticks</li>
+<li>The bathroom of a Burger Czar fast food restaurant</li>
+<li>The offices overlooking the municipal sewage treatment center</li>
+<li>An immense underground hydroponic garden</li>
+<li>A soda factory R&D taste-test center</li>
+<li>Beneath the bleachers at an event of the World's Strongest Man competition</li>
+<li>BASE jumping off Mount Rushmore</li>
+<li>Gen Con</li>
+<li>Under the speaker's podium at a shareholder's meeting</li>
+<li>A zombie-infested shopping mall in Pittsburgh</li>

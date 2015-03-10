@@ -1,149 +1,149 @@
 ﻿AZTEC/NAHUATL
 Compiled by Jason Morningstar
 NOBLE, PRIEST AND JAGUAR KNIGHT
-1. Cuetzpalli / lizard
-2. Cipactli / crocodile
-3. Xochipepe / flower-gatherer
-4. Cuixtli / kite
-5. Yaotl / warrior
-6. Matlalihuitl / purple feather
-7. Acamapichtli / handful of reeds
-8. Itzcoatl / obsidian snake
-9. Chimalpopoca / smoking shield
-10. Nochehuatl / consistent 
-11. Coatl / snake
-12. Quauhtli / eagle
-13. Izel / unique
-14. Citlalmina / arrow stars; meteorites
-15. Xiuhcoatl / fire serpent
-16. Cipactli / alligator 
-17. Itz / obsidian 
-18. Miquiztli / death 
-19. Yayauhqui / black smoking mirror
-20. Xipil / noble of the fire
+<li>Cuetzpalli / lizard</li>
+<li>Cipactli / crocodile</li>
+<li>Xochipepe / flower-gatherer</li>
+<li>Cuixtli / kite</li>
+<li>Yaotl / warrior</li>
+<li>Matlalihuitl / purple feather</li>
+<li>Acamapichtli / handful of reeds</li>
+<li>Itzcoatl / obsidian snake</li>
+<li>Chimalpopoca / smoking shield</li>
+<li>Nochehuatl / consistent </li>
+<li>Coatl / snake</li>
+<li>Quauhtli / eagle</li>
+<li>Izel / unique</li>
+<li>Citlalmina / arrow stars; meteorites</li>
+<li>Xiuhcoatl / fire serpent</li>
+<li>Cipactli / alligator </li>
+<li>Itz / obsidian </li>
+<li>Miquiztli / death </li>
+<li>Yayauhqui / black smoking mirror</li>
+<li>Xipil / noble of the fire</li>
 LADY, PRIESTESS, AND SORCERESS
-1. Cihuaton / little woman
-2. Xochicotzin / little necklace 
-3. Coaxoch / serpent flower
-4. Quetzalxochitl / precious flower
-5. Tlanextli / radiance and majesty
-6. Tlexictli / fire navel
-7. Teoxihuitl / precious and divine
-8. Tonalnan / mother of light
-9. Xochiyotl / heart of a gentle flower
-10. Yolihuani / source of life
-11. Yoloxochitl / flower of the heart
-12. Xiloxoch / calliandra flower
-13. Miyaoaxochitl / maize tassel 
-14. Eloxochitl / magnolia
-15. Xochiquetzal / most beautiful flower
-16. Azcalxochitzin / ant flower
-17. Quiauhxochitl / rain flower 
-18. Tziquetzalpoztectzin / broken plume 
-19. Mizquixaual / mesquite face paint
-20. Citlalmina / female hero
+<li>Cihuaton / little woman</li>
+<li>Xochicotzin / little necklace </li>
+<li>Coaxoch / serpent flower</li>
+<li>Quetzalxochitl / precious flower</li>
+<li>Tlanextli / radiance and majesty</li>
+<li>Tlexictli / fire navel</li>
+<li>Teoxihuitl / precious and divine</li>
+<li>Tonalnan / mother of light</li>
+<li>Xochiyotl / heart of a gentle flower</li>
+<li>Yolihuani / source of life</li>
+<li>Yoloxochitl / flower of the heart</li>
+<li>Xiloxoch / calliandra flower</li>
+<li>Miyaoaxochitl / maize tassel </li>
+<li>Eloxochitl / magnolia</li>
+<li>Xochiquetzal / most beautiful flower</li>
+<li>Azcalxochitzin / ant flower</li>
+<li>Quiauhxochitl / rain flower </li>
+<li>Tziquetzalpoztectzin / broken plume </li>
+<li>Mizquixaual / mesquite face paint</li>
+<li>Citlalmina / female hero</li>
 POCHTECA AND MACEHUALLI
-1. Moquihuix / drunkard
-2. Xocoyotl / youngest child
-3. Malinalxochitl / grass flower
-4. Nezahualcoyotl / hungry coyote
-5. Tochtli / rabbit
-6. Matlal / dark green
-7. Mazatl / deer
-8. Tlalli / earth
-9. Necahual / survivor, left-behind
-10. Nezahual / hungry
-11. Tlazohtzin / one who is loved
-12. Ocelotl / ocelot 
-13. Nochtli / prickly pear cactus 
-14. Ozomatli / monkey 
-15. Tecpatl / flint knife 
-16. Tepetl / mountain 
-17. Itzcuintli / dog 
-18. Tlantli / teeth  
-19. Ixcatzin / like cotton
-20. Malinalli / grass 
+<li>Moquihuix / drunkard</li>
+<li>Xocoyotl / youngest child</li>
+<li>Malinalxochitl / grass flower</li>
+<li>Nezahualcoyotl / hungry coyote</li>
+<li>Tochtli / rabbit</li>
+<li>Matlal / dark green</li>
+<li>Mazatl / deer</li>
+<li>Tlalli / earth</li>
+<li>Necahual / survivor, left-behind</li>
+<li>Nezahual / hungry</li>
+<li>Tlazohtzin / one who is loved</li>
+<li>Ocelotl / ocelot </li>
+<li>Nochtli / prickly pear cactus </li>
+<li>Ozomatli / monkey </li>
+<li>Tecpatl / flint knife </li>
+<li>Tepetl / mountain </li>
+<li>Itzcuintli / dog </li>
+<li>Tlantli / teeth  </li>
+<li>Ixcatzin / like cotton</li>
+<li>Malinalli / grass </li>
 FEMALE COMMONER
-1. Teyacapan / first born
-2. Xoco / youngest sister
-3. Tlaco / middle-born
-4. Teicuih / younger sister
-5. Cozamalotl / rainbow
-6. Tepin / little one
-7. Zeltzin / delicate 
-8. Tlacotl / twig
-9. Mazatl / deer 
-10. Acatl / reed 
-11. Coszcatl / jewel
-12. Xochitl / flower
-13. Chalchiuitl / emerald
-14. Cuicatl / song
-15. Xocoyotl / youngest child
-16. Tlacoehua / middle one
-17. Eleuia / wish
-18. Nenetl / doll
-19. Noxochicoztli / necklace of flowers
-20. Papan / flag
+<li>Teyacapan / first born</li>
+<li>Xoco / youngest sister</li>
+<li>Tlaco / middle-born</li>
+<li>Teicuih / younger sister</li>
+<li>Cozamalotl / rainbow</li>
+<li>Tepin / little one</li>
+<li>Zeltzin / delicate </li>
+<li>Tlacotl / twig</li>
+<li>Mazatl / deer </li>
+<li>Acatl / reed </li>
+<li>Coszcatl / jewel</li>
+<li>Xochitl / flower</li>
+<li>Chalchiuitl / emerald</li>
+<li>Cuicatl / song</li>
+<li>Xocoyotl / youngest child</li>
+<li>Tlacoehua / middle one</li>
+<li>Eleuia / wish</li>
+<li>Nenetl / doll</li>
+<li>Noxochicoztli / necklace of flowers</li>
+<li>Papan / flag</li>
 GENERIC NAMES 1
-1. Achcauhtli / leader 
-2. Ahuiliztli / joy
-3. Cualli / good
-4. Etalpalli / wing
-5. Eztli / blood
-6. Ichtaca / secret
-7. Icnoyotl / friendship
-8. Ilhuitl / day
-9. Itotia / dance
-10. Iuitl / feather
-11. Amoxtli / book
-12. Atl / water
-13. Chicahua / strong
-14. Chipahua / clean
-15. Citlalli / star
-16. Ixtli / face
-17. Mahuizoh / glorious person
-18. Manauia / defend
-19. Mecatl / glorious lineage
-20. Meztli / moon
+<li>Achcauhtli / leader </li>
+<li>Ahuiliztli / joy</li>
+<li>Cualli / good</li>
+<li>Etalpalli / wing</li>
+<li>Eztli / blood</li>
+<li>Ichtaca / secret</li>
+<li>Icnoyotl / friendship</li>
+<li>Ilhuitl / day</li>
+<li>Itotia / dance</li>
+<li>Iuitl / feather</li>
+<li>Amoxtli / book</li>
+<li>Atl / water</li>
+<li>Chicahua / strong</li>
+<li>Chipahua / clean</li>
+<li>Citlalli / star</li>
+<li>Ixtli / face</li>
+<li>Mahuizoh / glorious person</li>
+<li>Manauia / defend</li>
+<li>Mecatl / glorious lineage</li>
+<li>Meztli / moon</li>
 GENERIC NAMES 2
-1. Momoztli / altar
-2. Moyolehuani / enamored one
-3. Nahuatl / four waters  
-4. Nelli / truth
-5. Nochtli / prickly pear fruit
-6. Yolotli / heart
-7. Ohtli / road
-8. Patli / medicine
-9. Tenoch / stone pillar
-10. Tlachinolli / fire
-11. Atl / water 
-12. Toltecatl / artist
-13. Xihuitl / comet
-14. Zolin / quail
-15. Yolyamanitzin / considerate person
-16. Centehua / only one
-17. Xiuhtonal / precious light
-18. Yoltzin / small heart
-19. Cozcaquauhtli / vulture 
-20. Ehecatl / wind 
+<li>Momoztli / altar</li>
+<li>Moyolehuani / enamored one</li>
+<li>Nahuatl / four waters  </li>
+<li>Nelli / truth</li>
+<li>Nochtli / prickly pear fruit</li>
+<li>Yolotli / heart</li>
+<li>Ohtli / road</li>
+<li>Patli / medicine</li>
+<li>Tenoch / stone pillar</li>
+<li>Tlachinolli / fire</li>
+<li>Atl / water </li>
+<li>Toltecatl / artist</li>
+<li>Xihuitl / comet</li>
+<li>Zolin / quail</li>
+<li>Yolyamanitzin / considerate person</li>
+<li>Centehua / only one</li>
+<li>Xiuhtonal / precious light</li>
+<li>Yoltzin / small heart</li>
+<li>Cozcaquauhtli / vulture </li>
+<li>Ehecatl / wind </li>
 FOOD AND DRINK
-1. Bean and squash stew with chili and tomato
-2. Acocils, small and abundant shrimp of Lake Texcoco
-3. Cakes of spirulina algae
-4. Maguey, agave nectar and liquor
-5. Honey water, honey comb, and other apiary products
-6. Pulque, a fermented beverage with an alcoholic content equivalent to beer
-7. Atole, a thick drink made of flavored ground corn and water
-8. Maguey worm and avacado
-9. Xocolatl, a frothy and bitter chocolate beverage
-10. Hairless dog in highly seasoned stew
-11. Turkey, pheasant, local partridge, marsh bird, and duck, and their eggs
-12. Venison, wild boar, hare and rabbit
-13. Fruit in great abundance - mango, papaya, tamarind, guava
-14. Tlaxcalli cakes kneaded with eggs
-15. Tamales made of maize flowers with ground amaranth seeds and cherries added
-16. Stew with amaranth, beans, squash, tomatoes, pads of nopal cactus and chiles
-17. Mushrooms, wild greens, sweet potato and tubers of all sorts
-18. Ants, grasshoppers, crickets and grubs eaten raw or cooked
-19. Sweet and delicious lake fish, as well as ocean fish
-20. Salamanders, shrimps, frogs, water snakes, and larvae
+<li>Bean and squash stew with chili and tomato</li>
+<li>Acocils, small and abundant shrimp of Lake Texcoco</li>
+<li>Cakes of spirulina algae</li>
+<li>Maguey, agave nectar and liquor</li>
+<li>Honey water, honey comb, and other apiary products</li>
+<li>Pulque, a fermented beverage with an alcoholic content equivalent to beer</li>
+<li>Atole, a thick drink made of flavored ground corn and water</li>
+<li>Maguey worm and avacado</li>
+<li>Xocolatl, a frothy and bitter chocolate beverage</li>
+<li>Hairless dog in highly seasoned stew</li>
+<li>Turkey, pheasant, local partridge, marsh bird, and duck, and their eggs</li>
+<li>Venison, wild boar, hare and rabbit</li>
+<li>Fruit in great abundance - mango, papaya, tamarind, guava</li>
+<li>Tlaxcalli cakes kneaded with eggs</li>
+<li>Tamales made of maize flowers with ground amaranth seeds and cherries added</li>
+<li>Stew with amaranth, beans, squash, tomatoes, pads of nopal cactus and chiles</li>
+<li>Mushrooms, wild greens, sweet potato and tubers of all sorts</li>
+<li>Ants, grasshoppers, crickets and grubs eaten raw or cooked</li>
+<li>Sweet and delicious lake fish, as well as ocean fish</li>
+<li>Salamanders, shrimps, frogs, water snakes, and larvae</li>

@@ -1,86 +1,86 @@
 ﻿ELIZABETHAN ENGLAND
 Compiled by Graham Walmsley
 MALE
-1. Peter
-2. John
-3. Gabriel
-4. Dudley
-5. Tobie
-6. Lodowick
-7. Barnaby
-8. Philip
-9. Henry
-10. William
-11. Walter
-12. Will
-13. Hugh
-14. Geoffrey
-15. Thomas
-16. Edward
-17. Thomas
-18. Francis
-19. Charles
-20. Matthew
+<li>Peter</li>
+<li>John</li>
+<li>Gabriel</li>
+<li>Dudley</li>
+<li>Tobie</li>
+<li>Lodowick</li>
+<li>Barnaby</li>
+<li>Philip</li>
+<li>Henry</li>
+<li>William</li>
+<li>Walter</li>
+<li>Will</li>
+<li>Hugh</li>
+<li>Geoffrey</li>
+<li>Thomas</li>
+<li>Edward</li>
+<li>Thomas</li>
+<li>Francis</li>
+<li>Charles</li>
+<li>Matthew</li>
 FEMALE
-1. Joan
-2. Elizabeth
-3. Mary
-4. Anne
-5. Margaret
-6. Grace
-7. Ellen
-8. Rose
-9. Marie
-10. Judith
-11. Constance
-12. Alice
-13. Isabel
-14. Jane
-15. Dorothy
-16. Anna
-17. Sara
-18. Katherine
-19. Beth
-20. Rosalind
+<li>Joan</li>
+<li>Elizabeth</li>
+<li>Mary</li>
+<li>Anne</li>
+<li>Margaret</li>
+<li>Grace</li>
+<li>Ellen</li>
+<li>Rose</li>
+<li>Marie</li>
+<li>Judith</li>
+<li>Constance</li>
+<li>Alice</li>
+<li>Isabel</li>
+<li>Jane</li>
+<li>Dorothy</li>
+<li>Anna</li>
+<li>Sara</li>
+<li>Katherine</li>
+<li>Beth</li>
+<li>Rosalind</li>
 SURNAME
-1. Aubrey
-2. Harington
-3. Goodge
-4. Kemp
-5. Sidney
-6. Pope
-7. Bottinge
-8. Weever
-9. Wotton
-10. Cornwallis
-11. Fenton
-12. Andrewes
-13. Bryskett
-14. Davies
-15. Rich
-16. Essex
-17. Derricke
-18. Churchyard
-19. Jaggard
-20. Clifford
+<li>Aubrey</li>
+<li>Harington</li>
+<li>Goodge</li>
+<li>Kemp</li>
+<li>Sidney</li>
+<li>Pope</li>
+<li>Bottinge</li>
+<li>Weever</li>
+<li>Wotton</li>
+<li>Cornwallis</li>
+<li>Fenton</li>
+<li>Andrewes</li>
+<li>Bryskett</li>
+<li>Davies</li>
+<li>Rich</li>
+<li>Essex</li>
+<li>Derricke</li>
+<li>Churchyard</li>
+<li>Jaggard</li>
+<li>Clifford</li>
 AREAS OF LONDON
-1. Westminster
-2. Charing Cross
-3. St James' Park
-4. Lincoln's Inn Fields
-5. Clerkenwell
-6. Ludgate
-7. Blackfriars
-8. Southwark
-9. Aldersgate
-10. Finsbury Fields
-11. Bishopsgate
-12. Aldgate
-13. East Smithfield
-14. Shoreditch
-15. Spitalfields
-16. The Strand
-17. Cripplegate
-18. Holborn
-19. Bridewell
-20. Soho
+<li>Westminster</li>
+<li>Charing Cross</li>
+<li>St James' Park</li>
+<li>Lincoln's Inn Fields</li>
+<li>Clerkenwell</li>
+<li>Ludgate</li>
+<li>Blackfriars</li>
+<li>Southwark</li>
+<li>Aldersgate</li>
+<li>Finsbury Fields</li>
+<li>Bishopsgate</li>
+<li>Aldgate</li>
+<li>East Smithfield</li>
+<li>Shoreditch</li>
+<li>Spitalfields</li>
+<li>The Strand</li>
+<li>Cripplegate</li>
+<li>Holborn</li>
+<li>Bridewell</li>
+<li>Soho</li>

@@ -1,65 +1,65 @@
 ﻿FINNISH
 Compiled by Ian Burton-Oakes
 MALE NAMES 
-1. Aarre 
-2. Aatos
-3. Armas
-4. Auvo 
-5. Eero
-6. Eeemeli
-7. Henri
-8. Ilari
-9. Isto
-10. Jaska
-11. Jesse
-12. Joel
-13. Jyrki
-14. Lari
-15. Leevi
-16. Marko
-17. Niko
-18. Rauli
-19. Samu
-20. Unto
+<li>Aarre </li>
+<li>Aatos</li>
+<li>Armas</li>
+<li>Auvo </li>
+<li>Eero</li>
+<li>Eeemeli</li>
+<li>Henri</li>
+<li>Ilari</li>
+<li>Isto</li>
+<li>Jaska</li>
+<li>Jesse</li>
+<li>Joel</li>
+<li>Jyrki</li>
+<li>Lari</li>
+<li>Leevi</li>
+<li>Marko</li>
+<li>Niko</li>
+<li>Rauli</li>
+<li>Samu</li>
+<li>Unto</li>
 FEMALE NAMES
-1. Aili
-2. Anna-Liisa
-3. Eveliina
-4. Elsi
-5. Hilma
-6. Iiris
-7. Irene
-8. Jaana
-9. Jenna
-10. Kaari
-11. Karoliina
-12. Lempi
-13. Linda
-14. Mervi
-15. Milja
-16. Nina
-17. Olga
-18. Raili
-19. Sara
-20. Ulla
+<li>Aili</li>
+<li>Anna-Liisa</li>
+<li>Eveliina</li>
+<li>Elsi</li>
+<li>Hilma</li>
+<li>Iiris</li>
+<li>Irene</li>
+<li>Jaana</li>
+<li>Jenna</li>
+<li>Kaari</li>
+<li>Karoliina</li>
+<li>Lempi</li>
+<li>Linda</li>
+<li>Mervi</li>
+<li>Milja</li>
+<li>Nina</li>
+<li>Olga</li>
+<li>Raili</li>
+<li>Sara</li>
+<li>Ulla</li>
 LAST NAMES
-1. Ahola
-2. Eerikainen
-3. Ekola
-4. Hannula
-5. Ihalainen
-6. Immonen
-7. Jalava
-8. Jalonen
-9. Kangas
-10. Karonen
-11. Kurkinen
-12. Laitinen
-13. Lappalainen
-14. Mattila
-15. Nummi
-16. Ojala
-17. Parras
-18. Rinne
-19. Ylinen
-20. Ylitalo
+<li>Ahola</li>
+<li>Eerikainen</li>
+<li>Ekola</li>
+<li>Hannula</li>
+<li>Ihalainen</li>
+<li>Immonen</li>
+<li>Jalava</li>
+<li>Jalonen</li>
+<li>Kangas</li>
+<li>Karonen</li>
+<li>Kurkinen</li>
+<li>Laitinen</li>
+<li>Lappalainen</li>
+<li>Mattila</li>
+<li>Nummi</li>
+<li>Ojala</li>
+<li>Parras</li>
+<li>Rinne</li>
+<li>Ylinen</li>
+<li>Ylitalo</li>

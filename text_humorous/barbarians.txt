@@ -1,86 +1,86 @@
 ﻿BARBARIANS AND ENCHANTRESSES
 Compiled by Jason Morningstar
 BARBARIAN GIVEN NAMES
-1. Grimdar 
-2. Fertag 
-3. Thingfar 
-4. Lordwig 
-5. Sagdar 
-6. Ziglar 
-7. Rigdek 
-8. Krongak 
-9. Norgek 
-10. Fagtarr 
-11. Gordar 
-12. Nyragg 
-13. Rogdek 
-14. Stabdar 
-15. Nurbdar 
-16. Thygar 
-17. Warmar 
-18. Northstarr 
-19. Darkthag 
-20. Korgoth
+<li>Grimdar </li>
+<li>Fertag </li>
+<li>Thingfar </li>
+<li>Lordwig </li>
+<li>Sagdar </li>
+<li>Ziglar </li>
+<li>Rigdek </li>
+<li>Krongak </li>
+<li>Norgek </li>
+<li>Fagtarr </li>
+<li>Gordar </li>
+<li>Nyragg </li>
+<li>Rogdek </li>
+<li>Stabdar </li>
+<li>Nurbdar </li>
+<li>Thygar </li>
+<li>Warmar </li>
+<li>Northstarr </li>
+<li>Darkthag </li>
+<li>Korgoth</li>
 ENCHANTRESS GIVEN NAMES
-1. Talltree 
-2. Shortblade 
-3. Spiritsinger 
-4. Proudcat 
-5. Blackblade 
-6. Jenna 
-7. Greenleaf 
-8. Blackthistle 
-9. Shyla 
-10. Proudtree 
-11. Braveleg 
-12. Brandy 
-13. Silverarm 
-14. Greenthistle 
-15. Goldleaf 
-16. Ghostfoot 
-17. Redblade 
-18. Magykka
-19. Rainshadow 
-20. Ravenwillow 
+<li>Talltree </li>
+<li>Shortblade </li>
+<li>Spiritsinger </li>
+<li>Proudcat </li>
+<li>Blackblade </li>
+<li>Jenna </li>
+<li>Greenleaf </li>
+<li>Blackthistle </li>
+<li>Shyla </li>
+<li>Proudtree </li>
+<li>Braveleg </li>
+<li>Brandy </li>
+<li>Silverarm </li>
+<li>Greenthistle </li>
+<li>Goldleaf </li>
+<li>Ghostfoot </li>
+<li>Redblade </li>
+<li>Magykka</li>
+<li>Rainshadow </li>
+<li>Ravenwillow </li>
 BARBARIAN SURNAMES
-1. Wolfskin
-2. Fireblaster 
-3. Warslayer 
-4. Spearfist 
-5. Spellflayer 
-6. Lightbane 
-7. Gemflayer 
-8. Throatkiller
-9. Holypaw 
-10. Godpanther 
-11. Beastcrusher 
-12. Serpentfeast 
-13. Dwarf-reaper 
-14. Fearflinger
-15. Lionhawk 
-16. Hateflayer 
-17. Dragonfist 
-18. Peaceleaf 
-19. Darkhelm 
-20. Threndarsson
+<li>Wolfskin</li>
+<li>Fireblaster </li>
+<li>Warslayer </li>
+<li>Spearfist </li>
+<li>Spellflayer </li>
+<li>Lightbane </li>
+<li>Gemflayer </li>
+<li>Throatkiller</li>
+<li>Holypaw </li>
+<li>Godpanther </li>
+<li>Beastcrusher </li>
+<li>Serpentfeast </li>
+<li>Dwarf-reaper </li>
+<li>Fearflinger</li>
+<li>Lionhawk </li>
+<li>Hateflayer </li>
+<li>Dragonfist </li>
+<li>Peaceleaf </li>
+<li>Darkhelm </li>
+<li>Threndarsson</li>
 ENCHANTRESS SURNAMES
-1. Lightsong 
-2. Spell-sparrow
-3. Copernicus
-4. Beastmane
-5. Darkjammer 
-6. Magewhistle 
-7. Mousemother 
-8. Bonefinger 
-9. Ravensdottir 
-10. Skullweaver 
-11. Mountainsinger 
-12. Foepenny
-13. Midnight 
-14. Stonejammer 
-15. Fear-friend 
-16. Magic-child 
-17. Dawnchild 
-18. Dragonwalker 
-19. Elf-rider
-20.  (Too badass for a surname)
+<li>Lightsong </li>
+<li>Spell-sparrow</li>
+<li>Copernicus</li>
+<li>Beastmane</li>
+<li>Darkjammer </li>
+<li>Magewhistle </li>
+<li>Mousemother </li>
+<li>Bonefinger </li>
+<li>Ravensdottir </li>
+<li>Skullweaver </li>
+<li>Mountainsinger </li>
+<li>Foepenny</li>
+<li>Midnight </li>
+<li>Stonejammer </li>
+<li>Fear-friend </li>
+<li>Magic-child </li>
+<li>Dawnchild </li>
+<li>Dragonwalker </li>
+<li>Elf-rider</li>
+<li> (Too badass for a surname)</li>

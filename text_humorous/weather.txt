@@ -4,193 +4,193 @@ NOTES
 Hurricanes are named primarily to avoid confusion and aid tracking, a practice several hundred years old. The World Meteorological Organization, in 1979, established six yearly lists of names for Atlantic hurricanes, used in a rotation. This list only changes if a storm gains notoriety as particularly deadly or costly, to prevent the inappropriate use of a name in the future. Prior to 1978, hurricanes only had women's names.  These might be cool names for robots, programs, or servers, or maybe clueless aliens.  More information here:
 http://www.srh.noaa.gov/srh/jetstream/tropics/tc_names.htm
 RETIRED MALE NAMES 
-1. David 
-2. Frederic 
-3. Allen
-4. Gilbert
-5. Hugo
-6. Klaus
-7. Bob 
-8. Andrew 
-9. Cesar
-10. Georges
-11. Mitch 
-12. Floyd 
-13. Lenny
-14. Keith
-15. Isidore
-16. Fabian
-17. Juan 
-18. Charley
-19. Ivan
-20. Dennis
+<li>David </li>
+<li>Frederic </li>
+<li>Allen</li>
+<li>Gilbert</li>
+<li>Hugo</li>
+<li>Klaus</li>
+<li>Bob </li>
+<li>Andrew </li>
+<li>Cesar</li>
+<li>Georges</li>
+<li>Mitch </li>
+<li>Floyd </li>
+<li>Lenny</li>
+<li>Keith</li>
+<li>Isidore</li>
+<li>Fabian</li>
+<li>Juan </li>
+<li>Charley</li>
+<li>Ivan</li>
+<li>Dennis</li>
 RETIRED FEMALE NAMES 
-1. Carol 
-2. Hazel 
-3. Connie
-4. Diane
-5. Ione 
-6. Janet 
-7. Audrey
-8. Donna 
-9. Carla
-10. Hattie
-11. Flora
-12. Cleo
-13. Dora
-14. Hilda
-15. Betsy 
-16. Inez 
-17. Beulah
-18. Edna 
-19. Camille 
-20. Celia 
+<li>Carol </li>
+<li>Hazel </li>
+<li>Connie</li>
+<li>Diane</li>
+<li>Ione </li>
+<li>Janet </li>
+<li>Audrey</li>
+<li>Donna </li>
+<li>Carla</li>
+<li>Hattie</li>
+<li>Flora</li>
+<li>Cleo</li>
+<li>Dora</li>
+<li>Hilda</li>
+<li>Betsy </li>
+<li>Inez </li>
+<li>Beulah</li>
+<li>Edna </li>
+<li>Camille </li>
+<li>Celia </li>
 TYPHOON NAMES
 These are named by various Pacific rim nations who each submit ten at a time, so they are incongruous and diverse and of both male and female gender with an Asian flair.  Good code names, perhaps?  
 TYPHOON 1
-1. Damrey
-2. Kong-rey
-3. Nakri
-4. Krovanh
-5. Sarika
-6. Longwang
-7. Yutu
-8. Fengshen
-9. Dujuan
-10. Haima
-11. Kirogi
-12. Toraji
-13. Kalmaegi
-14. Mujigae
-15. Meari
-16. Kai-Tak
-17. Man-yi
-18. Fung-wong
-19. Choi-wan
-20. Ma-on
+<li>Damrey</li>
+<li>Kong-rey</li>
+<li>Nakri</li>
+<li>Krovanh</li>
+<li>Sarika</li>
+<li>Longwang</li>
+<li>Yutu</li>
+<li>Fengshen</li>
+<li>Dujuan</li>
+<li>Haima</li>
+<li>Kirogi</li>
+<li>Toraji</li>
+<li>Kalmaegi</li>
+<li>Mujigae</li>
+<li>Meari</li>
+<li>Kai-Tak</li>
+<li>Man-yi</li>
+<li>Fung-wong</li>
+<li>Choi-wan</li>
+<li>Ma-on</li>
 TYPHOON 2
-1. Tembin
-2. Usagi
-3. Kammuri
-4. Koppu
-5. Tokage
-6. Bolaven
-7. Pabuk
-8. Phanfone
-9. Ketsana
-10. Nock-ten
-11. Chanchu
-12. Wutip
-13. Vongfong
-14. Parma
-15. Muifa
-16. Jelawat
-17. Sepat
-18. Nuri
-19. Melor
-20. Merbok
+<li>Tembin</li>
+<li>Usagi</li>
+<li>Kammuri</li>
+<li>Koppu</li>
+<li>Tokage</li>
+<li>Bolaven</li>
+<li>Pabuk</li>
+<li>Phanfone</li>
+<li>Ketsana</li>
+<li>Nock-ten</li>
+<li>Chanchu</li>
+<li>Wutip</li>
+<li>Vongfong</li>
+<li>Parma</li>
+<li>Muifa</li>
+<li>Jelawat</li>
+<li>Sepat</li>
+<li>Nuri</li>
+<li>Melor</li>
+<li>Merbok</li>
 TYPHOON 3
-1. Ewiniar
-2. Fitow
-3. Sinlaku
-4. Nepartak
-5. Nanmadol
-6. Bilis
-7. Danas
-8. Hagupit
-9. Lupit
-10. Talas
-11. Kaemi
-12. Nari
-13. Changmi
-14. Mirinae
-15. Noru
-16. Prapiroon
-17. Wipha
-18. Mekkhala
-19. Nida
-20. Kulap
+<li>Ewiniar</li>
+<li>Fitow</li>
+<li>Sinlaku</li>
+<li>Nepartak</li>
+<li>Nanmadol</li>
+<li>Bilis</li>
+<li>Danas</li>
+<li>Hagupit</li>
+<li>Lupit</li>
+<li>Talas</li>
+<li>Kaemi</li>
+<li>Nari</li>
+<li>Changmi</li>
+<li>Mirinae</li>
+<li>Noru</li>
+<li>Prapiroon</li>
+<li>Wipha</li>
+<li>Mekkhala</li>
+<li>Nida</li>
+<li>Kulap</li>
 TYPHOON 4
-1. Maria
-2. Francisco
-3. Higos
-4. Omais
-5. Roke
-6. Saomai
-7. Lekima
-8. Bavi
-9. Conson
-10. Sonca
-11. Bopha
-12. Krosa
-13. Maysak
-14. Chanthu
-15. Nesat
-16. Wukong
-17. Haiyan
-18. Haishen
-19. Dianmu
-20. Haitang
+<li>Maria</li>
+<li>Francisco</li>
+<li>Higos</li>
+<li>Omais</li>
+<li>Roke</li>
+<li>Saomai</li>
+<li>Lekima</li>
+<li>Bavi</li>
+<li>Conson</li>
+<li>Sonca</li>
+<li>Bopha</li>
+<li>Krosa</li>
+<li>Maysak</li>
+<li>Chanthu</li>
+<li>Nesat</li>
+<li>Wukong</li>
+<li>Haiyan</li>
+<li>Haishen</li>
+<li>Dianmu</li>
+<li>Haitang</li>
 TYPHOON 5
-1. Sonamu
-2. Podul
-3. Noul
-4. Mindulle
-5. Nalgae
-6. Shanshan
-7. Lingling
-8. Dolphin
-9. Lionrock
-10. Banyan
-11. Yagi
-12. Kajiki
-13. Kujira
-14. Kompasu
-15. Washi
-16. Xangsane
-17. Faxai
-18. Chan-hom
-19. Namtheun
-20. Matsa
+<li>Sonamu</li>
+<li>Podul</li>
+<li>Noul</li>
+<li>Mindulle</li>
+<li>Nalgae</li>
+<li>Shanshan</li>
+<li>Lingling</li>
+<li>Dolphin</li>
+<li>Lionrock</li>
+<li>Banyan</li>
+<li>Yagi</li>
+<li>Kajiki</li>
+<li>Kujira</li>
+<li>Kompasu</li>
+<li>Washi</li>
+<li>Xangsane</li>
+<li>Faxai</li>
+<li>Chan-hom</li>
+<li>Namtheun</li>
+<li>Matsa</li>
 TYPHOON 6
-1. Bebinca
-2. Peipah
-3. Linfa
-4. Malou
-5. Sanvu
-6. Rumbia
-7. Tapah
-8. Nangka
-9. Meranti
-10. Mawar
-11. Soulik
-12. Mitag
-13. Soudelor
-14. Fanapi
-15. Guchol
-16. Cimaron
-17. Hagibis
-18. Molave
-19. Malakas
-20. Talim
+<li>Bebinca</li>
+<li>Peipah</li>
+<li>Linfa</li>
+<li>Malou</li>
+<li>Sanvu</li>
+<li>Rumbia</li>
+<li>Tapah</li>
+<li>Nangka</li>
+<li>Meranti</li>
+<li>Mawar</li>
+<li>Soulik</li>
+<li>Mitag</li>
+<li>Soudelor</li>
+<li>Fanapi</li>
+<li>Guchol</li>
+<li>Cimaron</li>
+<li>Hagibis</li>
+<li>Molave</li>
+<li>Malakas</li>
+<li>Talim</li>
 TYPHOON 7
-1. Chebi
-2. Noguri
-3. Koni
-4. Megi
-5. Nabi
-6. Durian
-7. Rammasun
-8. Morakot
-9. Chaba
-10. Khanun
-11. Utor
-12. Matmo
-13. Etau
-14. Aere
-15. Vicente
-16. Trami
-17. Halong
-18. Vamco
-19. Songda
-20. Saola
+<li>Chebi</li>
+<li>Noguri</li>
+<li>Koni</li>
+<li>Megi</li>
+<li>Nabi</li>
+<li>Durian</li>
+<li>Rammasun</li>
+<li>Morakot</li>
+<li>Chaba</li>
+<li>Khanun</li>
+<li>Utor</li>
+<li>Matmo</li>
+<li>Etau</li>
+<li>Aere</li>
+<li>Vicente</li>
+<li>Trami</li>
+<li>Halong</li>
+<li>Vamco</li>
+<li>Songda</li>
+<li>Saola</li>

@@ -6,110 +6,110 @@ Korean names are constructed as family name then given name. Family names are pa
 Romanization of Korean names is not standardized in any way. The names above are more or less phonetically correct, but common romanizations are put beside the names where appropriate, such as "Lee" for "Yi," which is actually pronounced in Korean as "E." North Koreans tend to use a "r" sound for "n" or "l," which provides "Rhee," "Ryu," and "Roh" above.
 Each family name is composed of three to six clans, with each clan being a historical topographical origin of that name. Up until recently, it was illegal to marry someone of your same clan. This is still discouraged by traditionalists, as all clan members share a slight blood tie. Incest is one of the most heinous and unthinkable of all crimes in Korean culture.
 COMMON SURNAMES
-1. Lim
-2. Moon
-3. Shin
-4. Ahn (alternately: An)
-5. Choi
-6. Oh
-7. Hwang
-8. Chong (alternately: Chung, Jung)
-9. Yi (alternately: Lee, (DPRK) Rhee)
-10. Kim
-11. Pak (alternately: Park)
-12. Hong
-13. Kang
-14. Chun
-15. Yoo (alternately:  (DPRK) Ryu)
-16. Noh (alternately, (DPRK) Roh)
-17. Yang
-18. Han
-19. Song
-20. Oak
+<li>Lim</li>
+<li>Moon</li>
+<li>Shin</li>
+<li>Ahn (alternately: An)</li>
+<li>Choi</li>
+<li>Oh</li>
+<li>Hwang</li>
+<li>Chong (alternately: Chung, Jung)</li>
+<li>Yi (alternately: Lee, (DPRK) Rhee)</li>
+<li>Kim</li>
+<li>Pak (alternately: Park)</li>
+<li>Hong</li>
+<li>Kang</li>
+<li>Chun</li>
+<li>Yoo (alternately:  (DPRK) Ryu)</li>
+<li>Noh (alternately, (DPRK) Roh)</li>
+<li>Yang</li>
+<li>Han</li>
+<li>Song</li>
+<li>Oak</li>
 RARE SURNAMES
-1. Kyo
-2. Nan
-3. Dongbang
-4. Mangjeol
-5. Bi
-6. Sobong
-7. Ae
-8. Ogum
-9. Hu
-10. Po
-11. Tan
-12. Jeup
-13. Janggok
-14. Woon
-15. Namgung
-16. Bi
-17. Myo
-18. Nu
-19. Gwok
-20. Hu
+<li>Kyo</li>
+<li>Nan</li>
+<li>Dongbang</li>
+<li>Mangjeol</li>
+<li>Bi</li>
+<li>Sobong</li>
+<li>Ae</li>
+<li>Ogum</li>
+<li>Hu</li>
+<li>Po</li>
+<li>Tan</li>
+<li>Jeup</li>
+<li>Janggok</li>
+<li>Woon</li>
+<li>Namgung</li>
+<li>Bi</li>
+<li>Myo</li>
+<li>Nu</li>
+<li>Gwok</li>
+<li>Hu</li>
 ANCIENT SURNAMES
 These are taken from early Korean history, with a pretty wide range of years. They are in no way an actual representation of a particular time period, but would work well for a fantastic Korean historical setting.
-1. Bae
-2. Choe
-3. Jeong
-4. Son
-5. Seol
-6. An
-7. Cha
-8. Han
-9. Hong
-10. Kim
-11. Kwon
-12. Nam
-13. Eo
-14. Wang
-15. Yeon
-16. Goi
-17. Gojong
-18. Gongsun
-19. Danggun
-20. Dae
+<li>Bae</li>
+<li>Choe</li>
+<li>Jeong</li>
+<li>Son</li>
+<li>Seol</li>
+<li>An</li>
+<li>Cha</li>
+<li>Han</li>
+<li>Hong</li>
+<li>Kim</li>
+<li>Kwon</li>
+<li>Nam</li>
+<li>Eo</li>
+<li>Wang</li>
+<li>Yeon</li>
+<li>Goi</li>
+<li>Gojong</li>
+<li>Gongsun</li>
+<li>Danggun</li>
+<li>Dae</li>
 NOTES ON GIVEN NAMES
 Korean given names have many rules behind them. The most important is that one syllable of a typical two-syllable name is carried throughout a family. For example, a father and his two sons and one of their sons might be Kim Du Ho, Kim Ho Jin, Kim Dak Ho, and Kim Kwang Ho. Whether the syllable is used as the first or second syllable does not particularly matter. 
 MALE
-1. Haneul
-2. Iseul
-3. Jin Ho
-4. Joo Chan
-5. Jung Hun
-6. Chang Uk
-7. Du Ho
-8. Jong Pil
-9. Min Kyu
-10. Kwang Ho
-11. Suk Chul
-12. Young Su
-13. In Ho
-14. Bon Hwa
-15. Chul
-16. Hyun-Ki
-17. Hyun-Shik
-18. Young Sam
-19. Dak Ho
-20. Chul Moo
+<li>Haneul</li>
+<li>Iseul</li>
+<li>Jin Ho</li>
+<li>Joo Chan</li>
+<li>Jung Hun</li>
+<li>Chang Uk</li>
+<li>Du Ho</li>
+<li>Jong Pil</li>
+<li>Min Kyu</li>
+<li>Kwang Ho</li>
+<li>Suk Chul</li>
+<li>Young Su</li>
+<li>In Ho</li>
+<li>Bon Hwa</li>
+<li>Chul</li>
+<li>Hyun-Ki</li>
+<li>Hyun-Shik</li>
+<li>Young Sam</li>
+<li>Dak Ho</li>
+<li>Chul Moo</li>
 FEMALE
-1. Kyung Soon
-2. Iseul
-3. Haneul
-4. Joo Eun
-5. Bo Bae
-6. Eun Young
-7. Sun Hee
-8. Mi Young
-9. Mi Sun
-10. Min Hee
-11. Hyun Ja
-12. Eun Ju
-13. Jong Hui
-14. Son Yong
-15. Min
-16. Yon
-17. Hyun Ja
-18. Hye Su
-19. Kyoung Mi
-20. Na Young
+<li>Kyung Soon</li>
+<li>Iseul</li>
+<li>Haneul</li>
+<li>Joo Eun</li>
+<li>Bo Bae</li>
+<li>Eun Young</li>
+<li>Sun Hee</li>
+<li>Mi Young</li>
+<li>Mi Sun</li>
+<li>Min Hee</li>
+<li>Hyun Ja</li>
+<li>Eun Ju</li>
+<li>Jong Hui</li>
+<li>Son Yong</li>
+<li>Min</li>
+<li>Yon</li>
+<li>Hyun Ja</li>
+<li>Hye Su</li>
+<li>Kyoung Mi</li>
+<li>Na Young</li>

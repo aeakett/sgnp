@@ -4,65 +4,65 @@ NOTES
 Names are comprised of a personal name followed by the personal name of the person's father
 or grandfather. A child's surname is the personal name of the father rather than an inherited surname (e.g. Lebne Azmera, son of Azmera Kifle). Women do not necessarily change their name on marriage, but when they do they take the surname used by their husband.  In dining, dishes are shared: "those who eat from the same plate will not betray each other". They are served on and eaten with injera, a flatbread made of the grain teff. When one diner wishes to honor another, they arrange a morsel of food and hand feed it into the mouth of the recipient; this practice is called a Gursha. The traditional alcoholic beverage is a honey wine called Tej.
 MALE NAMES
-1. Abebe
-2. Afework
-3. Azmera
-4. Bogale
-5. Daniachew
-6. Kebede
-7. Kifle
-8. Lebna
-9. Mamo
-10. Miruts
-11. Negasi
-12. Selam
-13. Selassiee
-14. Tamirat
-15. Teferi
-16. Tesfaye
-17. Tewodros
-18. Wendimu
-19. Yekuno
-20. Zere
+<li>Abebe</li>
+<li>Afework</li>
+<li>Azmera</li>
+<li>Bogale</li>
+<li>Daniachew</li>
+<li>Kebede</li>
+<li>Kifle</li>
+<li>Lebna</li>
+<li>Mamo</li>
+<li>Miruts</li>
+<li>Negasi</li>
+<li>Selam</li>
+<li>Selassiee</li>
+<li>Tamirat</li>
+<li>Teferi</li>
+<li>Tesfaye</li>
+<li>Tewodros</li>
+<li>Wendimu</li>
+<li>Yekuno</li>
+<li>Zere</li>
 FEMALE NAMES
-1. Adhiambo
-2. Alitash
-3. Ayanna
-4. Berhane
-5. Cherika
-6. Desta
-7. Fana
-8. Hullanta
-9. Lielit
-10. Lishan
-11. Makeda
-12. Melke
-13. Misrak
-14. Nishan
-15. Sisay
-16. Teru
-17. Wegaye
-18. Worknesh
-19. Yeshi
-20. Zema
+<li>Adhiambo</li>
+<li>Alitash</li>
+<li>Ayanna</li>
+<li>Berhane</li>
+<li>Cherika</li>
+<li>Desta</li>
+<li>Fana</li>
+<li>Hullanta</li>
+<li>Lielit</li>
+<li>Lishan</li>
+<li>Makeda</li>
+<li>Melke</li>
+<li>Misrak</li>
+<li>Nishan</li>
+<li>Sisay</li>
+<li>Teru</li>
+<li>Wegaye</li>
+<li>Worknesh</li>
+<li>Yeshi</li>
+<li>Zema</li>
 DISHES
-1. Aterkik Alitcha - split peas in light sauce
-2. Atkilt Salata - boiled potatoes and hot peppers mixed in salad dressing
-3. Atkilt Wat - potatoes, cabbage, and carrots simmered in sauce
-4. Azifah - whole brown lentils with onions, green chili peppers, spices and a fresh lime juice
-5. Buticha - chickpea dip mixed with lemon juice
-6. Doro Wat - dark chicken marinated in lemon sautéed in butter and stewed in berbere
-7. Fasolia - string beans and carrots sautéed in caramelized onion
-8. Gomen - collard green cooked to perfection with spices
-9. Inguday Tibs - mushroom sautéed with onions
-10. Kinche - crushed wheat salad
-11. Kitfo - (a dessert) steak tartar in butter sauce, served raw 
-12. Lega Yebeg Tibs - cubes of seasoned lamb stir-fried with onions, rosemary and garlic
-13. Misir Alitcha - pureed split red lentil simmered in mild sauce
-14. Misir Wat - pureed split red lentil stew in hot berbere sauce
-15. Senge Karya - hot peppers stuffed with sautéed tomatoes, onions, garlic and shallots
-16. Shimbra Asa - chickpea flour dumplings, cooked directly in the wat (stew)
-17. Shiro Alitcha - mild, milled slow cooked split peas are
-18. Timatim Fitfit - tomatoes, shallots and green peppers in dressing mixed with injera
-19. Yebeg Alitcha - lamb cooked in a mild green pepper sauce
-20.  Kitfo lebleb - Slightly sautéed steak tartar
+<li>Aterkik Alitcha - split peas in light sauce</li>
+<li>Atkilt Salata - boiled potatoes and hot peppers mixed in salad dressing</li>
+<li>Atkilt Wat - potatoes, cabbage, and carrots simmered in sauce</li>
+<li>Azifah - whole brown lentils with onions, green chili peppers, spices and a fresh lime juice</li>
+<li>Buticha - chickpea dip mixed with lemon juice</li>
+<li>Doro Wat - dark chicken marinated in lemon sautéed in butter and stewed in berbere</li>
+<li>Fasolia - string beans and carrots sautéed in caramelized onion</li>
+<li>Gomen - collard green cooked to perfection with spices</li>
+<li>Inguday Tibs - mushroom sautéed with onions</li>
+<li>Kinche - crushed wheat salad</li>
+<li>Kitfo - (a dessert) steak tartar in butter sauce, served raw </li>
+<li>Lega Yebeg Tibs - cubes of seasoned lamb stir-fried with onions, rosemary and garlic</li>
+<li>Misir Alitcha - pureed split red lentil simmered in mild sauce</li>
+<li>Misir Wat - pureed split red lentil stew in hot berbere sauce</li>
+<li>Senge Karya - hot peppers stuffed with sautéed tomatoes, onions, garlic and shallots</li>
+<li>Shimbra Asa - chickpea flour dumplings, cooked directly in the wat (stew)</li>
+<li>Shiro Alitcha - mild, milled slow cooked split peas are</li>
+<li>Timatim Fitfit - tomatoes, shallots and green peppers in dressing mixed with injera</li>
+<li>Yebeg Alitcha - lamb cooked in a mild green pepper sauce</li>
+<li> Kitfo lebleb - Slightly sautéed steak tartar</li>

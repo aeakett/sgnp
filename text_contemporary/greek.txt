@@ -1,86 +1,86 @@
 ﻿MODERN GREEK
 Compiled by Jessica Hammer
 MALE 
-1. Iosif
-2. Vasilis
-3. Dimitrios
-4. Konstantinos
-5. Georgios
-6. Christos
-7. Thanassis
-8. Nikolaos
-9. Vasileos
-10. Kyriakos
-11. Grigorios
-12. Kosmas
-13. Vasiliki
-14. Ioannis
-15. Christodoulos
-16. Stavros
-17. Petros
-18. Theofilos
-19. Angelos
-20. Aristeidis
+<li>Iosif</li>
+<li>Vasilis</li>
+<li>Dimitrios</li>
+<li>Konstantinos</li>
+<li>Georgios</li>
+<li>Christos</li>
+<li>Thanassis</li>
+<li>Nikolaos</li>
+<li>Vasileos</li>
+<li>Kyriakos</li>
+<li>Grigorios</li>
+<li>Kosmas</li>
+<li>Vasiliki</li>
+<li>Ioannis</li>
+<li>Christodoulos</li>
+<li>Stavros</li>
+<li>Petros</li>
+<li>Theofilos</li>
+<li>Angelos</li>
+<li>Aristeidis</li>
 FEMALE
-1. Eleni
-2. Sofia
-3. Katerina
-4. Athina
-5. Varvara
-6. Maria
-7. Alexandra
-8. Stavroula
-9. Anna
-10. Athanasia
-11. Evangelia
-12. Nikoletta
-13. Angeliki
-14. Chrysoula
-15. Dimitra
-16. Christina
-17. Marilena
-18. Anastasia
-19. Evgenia
-20. Agni
+<li>Eleni</li>
+<li>Sofia</li>
+<li>Katerina</li>
+<li>Athina</li>
+<li>Varvara</li>
+<li>Maria</li>
+<li>Alexandra</li>
+<li>Stavroula</li>
+<li>Anna</li>
+<li>Athanasia</li>
+<li>Evangelia</li>
+<li>Nikoletta</li>
+<li>Angeliki</li>
+<li>Chrysoula</li>
+<li>Dimitra</li>
+<li>Christina</li>
+<li>Marilena</li>
+<li>Anastasia</li>
+<li>Evgenia</li>
+<li>Agni</li>
 SURNAMES 1
-1. Raptis
-2. Athanasiadis
-3. Liakos
-4. Brekis
-5. Tzavaras
-6. Lazou
-7. Pelegrinis
-8. Moukanos
-9. Diakatos
-10. Sidiropoulou
-11. Apostolou
-12. Kelefoura
-13. Georgakis
-14. Spathis
-15. Evangelatos
-16. Tsompani
-17. Chailas
-18. Petropoulou
-19. Lekas
-20. Mitsis
+<li>Raptis</li>
+<li>Athanasiadis</li>
+<li>Liakos</li>
+<li>Brekis</li>
+<li>Tzavaras</li>
+<li>Lazou</li>
+<li>Pelegrinis</li>
+<li>Moukanos</li>
+<li>Diakatos</li>
+<li>Sidiropoulou</li>
+<li>Apostolou</li>
+<li>Kelefoura</li>
+<li>Georgakis</li>
+<li>Spathis</li>
+<li>Evangelatos</li>
+<li>Tsompani</li>
+<li>Chailas</li>
+<li>Petropoulou</li>
+<li>Lekas</li>
+<li>Mitsis</li>
 SURNAMES 2
-1. Theodorou
-2. Boufidis
-3. Stolidi
-4. Zamani
-5. Kranis
-6. Lagios
-7. Vergenakis
-8. Dimou
-9. Ioannidis
-10. Andreakou
-11. Kamakaris
-12. Patouni
-13. Xenakis
-14. Manolis
-15. Antoniou
-16. Katsaros
-17. Dervi
-18. Panagopoulos
-19. Valakas
-20. Stavrakakis
+<li>Theodorou</li>
+<li>Boufidis</li>
+<li>Stolidi</li>
+<li>Zamani</li>
+<li>Kranis</li>
+<li>Lagios</li>
+<li>Vergenakis</li>
+<li>Dimou</li>
+<li>Ioannidis</li>
+<li>Andreakou</li>
+<li>Kamakaris</li>
+<li>Patouni</li>
+<li>Xenakis</li>
+<li>Manolis</li>
+<li>Antoniou</li>
+<li>Katsaros</li>
+<li>Dervi</li>
+<li>Panagopoulos</li>
+<li>Valakas</li>
+<li>Stavrakakis</li>

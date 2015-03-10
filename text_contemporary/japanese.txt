@@ -7,300 +7,300 @@ NOTES
 Surnames and Business: All of these names can be companies, organizations or businesses as well; simply add the business type to the name and it looks like an official Japanese business. "Kogure Heavy Industries", "Mizutani Realty", "Murata Sushi", etc.
 Surnames and Titles: Teachers, Instructors (from martial arts to origami), Published writers and medical doctors are all called "-Sensei": Kojima-sensei, etc. People with a doctorate degree in any academic field are called "-Hakase". Lords, nobles, and people who are socially way over your head are called "-Dono" (including adult servants to a noble/wealthy family child). Someone over your head but not way over your head are called "-Sama", but this is rarely used in modern times.
 SURNAMES 1
-1. Takeda
-2. Soma
-3. Suwa
-4. Suzuki
-5. Taguchi
-6. Takahashi
-7. Takayama
-8. Tamura
-9. Kogure
-10. Kigure
-11. Tanaka
-12. Shimizu
-13. Takeda
-14. Uesugi
-15. Tanuma
-16. Numata
-17. Maebashi
-18. Tani
-19. Torimoto
-20. Togawa
+<li>Takeda</li>
+<li>Soma</li>
+<li>Suwa</li>
+<li>Suzuki</li>
+<li>Taguchi</li>
+<li>Takahashi</li>
+<li>Takayama</li>
+<li>Tamura</li>
+<li>Kogure</li>
+<li>Kigure</li>
+<li>Tanaka</li>
+<li>Shimizu</li>
+<li>Takeda</li>
+<li>Uesugi</li>
+<li>Tanuma</li>
+<li>Numata</li>
+<li>Maebashi</li>
+<li>Tani</li>
+<li>Torimoto</li>
+<li>Togawa</li>
 SURNAMES 2
-1. Oshima
-2. Kojima
-3. Otani
-4. Ota
-5. Murakami
-6. Yamada
-7. Yoshida
-8. Mizutani
-9. Saito
-10. Oyama
-11. Koyama
-12. Sasaki
-13. Shibukawa
-14. Omura
-15. Okuda
-16. Yamaguchi
-17. Watanabe
-18. Mizuno
-19. Kajiwara
-20. Maenaka
+<li>Oshima</li>
+<li>Kojima</li>
+<li>Otani</li>
+<li>Ota</li>
+<li>Murakami</li>
+<li>Yamada</li>
+<li>Yoshida</li>
+<li>Mizutani</li>
+<li>Saito</li>
+<li>Oyama</li>
+<li>Koyama</li>
+<li>Sasaki</li>
+<li>Shibukawa</li>
+<li>Omura</li>
+<li>Okuda</li>
+<li>Yamaguchi</li>
+<li>Watanabe</li>
+<li>Mizuno</li>
+<li>Kajiwara</li>
+<li>Maenaka</li>
 SURNAMES 3
-1. Yamamoto
-2. Murata
-3. Nakayama
-4. Nagai
-5. Mizoguchi
-6. Matsushita
-7. Ishida
-8. Iwasaki
-9. Kinoshita
-10. Kaneko
-11. Kataoka
-12. Kawakami
-13. Kawaguchi
-14. Kiyowara
-15. Honda
-16. Go
-17. Hasegawa
-18. Hori
-19. Izumi
-20. Kamei
+<li>Yamamoto</li>
+<li>Murata</li>
+<li>Nakayama</li>
+<li>Nagai</li>
+<li>Mizoguchi</li>
+<li>Matsushita</li>
+<li>Ishida</li>
+<li>Iwasaki</li>
+<li>Kinoshita</li>
+<li>Kaneko</li>
+<li>Kataoka</li>
+<li>Kawakami</li>
+<li>Kawaguchi</li>
+<li>Kiyowara</li>
+<li>Honda</li>
+<li>Go</li>
+<li>Hasegawa</li>
+<li>Hori</li>
+<li>Izumi</li>
+<li>Kamei</li>
 SURNAMES 4
-1. Aeba
-2. Chiba
-3. Endo
-4. Ando
-5. Sawamura
-6. Fujita
-7. Takei
-8. Enomoto
-9. Takagi
-10. Sugihara
-11. Takenouchi
-12. Tsugimoto
-13. Tsukehara
-14. Uchida
-15. Inoue
-16. Nakajima
-17. Sugita
-18. Uehara
-19. Yamazaki
-20. Ueda
+<li>Aeba</li>
+<li>Chiba</li>
+<li>Endo</li>
+<li>Ando</li>
+<li>Sawamura</li>
+<li>Fujita</li>
+<li>Takei</li>
+<li>Enomoto</li>
+<li>Takagi</li>
+<li>Sugihara</li>
+<li>Takenouchi</li>
+<li>Tsugimoto</li>
+<li>Tsukehara</li>
+<li>Uchida</li>
+<li>Inoue</li>
+<li>Nakajima</li>
+<li>Sugita</li>
+<li>Uehara</li>
+<li>Yamazaki</li>
+<li>Ueda</li>
 SURNAMES 5
-1. Otani
-2. Yasukawa
-3. Shizuma
-4. Takabe
-5. Sekigawa
-6. Sawamura
-7. Nakasone
-8. Murata
-9. Ogura
-10. Sekine
-11. Ogino
-12. Mishima
-13. Nishihara
-14. Matsumoto
-15. Nakasato
-16. Narita
-17. Nanami
-18. Koyanagi
-19. Komiya
-20. Kanegawa
+<li>Otani</li>
+<li>Yasukawa</li>
+<li>Shizuma</li>
+<li>Takabe</li>
+<li>Sekigawa</li>
+<li>Sawamura</li>
+<li>Nakasone</li>
+<li>Murata</li>
+<li>Ogura</li>
+<li>Sekine</li>
+<li>Ogino</li>
+<li>Mishima</li>
+<li>Nishihara</li>
+<li>Matsumoto</li>
+<li>Nakasato</li>
+<li>Narita</li>
+<li>Nanami</li>
+<li>Koyanagi</li>
+<li>Komiya</li>
+<li>Kanegawa</li>
 SURNAMES 6
-1. Ishimura
-2. Isesaki
-3. Ishikawa
-4. Hirano
-5. Itoh
-6. Hayata
-7. Goto
-8. Genda
-9. Ebisawa
-10. Asahara
-11. Aizawa
-12. Araki
-13. Aoyagi
-14. Asai
-15. Baba
-16. Arakawa
-17. Asanuma
-18. Fukuoka
-19. Enoki
-20. Funaki
+<li>Ishimura</li>
+<li>Isesaki</li>
+<li>Ishikawa</li>
+<li>Hirano</li>
+<li>Itoh</li>
+<li>Hayata</li>
+<li>Goto</li>
+<li>Genda</li>
+<li>Ebisawa</li>
+<li>Asahara</li>
+<li>Aizawa</li>
+<li>Araki</li>
+<li>Aoyagi</li>
+<li>Asai</li>
+<li>Baba</li>
+<li>Arakawa</li>
+<li>Asanuma</li>
+<li>Fukuoka</li>
+<li>Enoki</li>
+<li>Funaki</li>
 SAMURAI-ERA BUSHI SURNAMES
-1. Mori
-2. Ashikaga
-3. Date
-4. Hosokawa
-5. Kunisada
-6. Akechi
-7. Asano
-8. Fujioka
-9. Hasegawa
-10. Honjo
-11. Kawabe
-12. Iwakura
-13. Kiyowara
-14. Miura
-15. Matsudaira
-16. Okabe
-17. Otani
-18. Sakakibara
-19. Shimazu
-20. Yamanouchi
+<li>Mori</li>
+<li>Ashikaga</li>
+<li>Date</li>
+<li>Hosokawa</li>
+<li>Kunisada</li>
+<li>Akechi</li>
+<li>Asano</li>
+<li>Fujioka</li>
+<li>Hasegawa</li>
+<li>Honjo</li>
+<li>Kawabe</li>
+<li>Iwakura</li>
+<li>Kiyowara</li>
+<li>Miura</li>
+<li>Matsudaira</li>
+<li>Okabe</li>
+<li>Otani</li>
+<li>Sakakibara</li>
+<li>Shimazu</li>
+<li>Yamanouchi</li>
 HEIAN AND SAMURAI-ERA NOBLE (KUGE/KIZOKU) SURNAMES
-1. Konoe (one of the "Big Five")
-2. Kujo (one of the "Big Five")
-3. Ichijo (one of the "Big Five")
-4. Takatsukasa (one of the "Big Five")
-5. Nijo (one of the "Big Five")
-6. Nanba
-7. Fujiwara
-8. Domyoji
-9. Shijo
-10. Hirata
-11. Karasuma
-12. Daigo
-13. Anenokoji
-14. Aburakoji
-15. Manase
-16. Nakayama
-17. Saionji
-18. Sanjo
-19. Imaidegawa
-20. Tokudaiji
+<li>Konoe (one of the "Big Five")</li>
+<li>Kujo (one of the "Big Five")</li>
+<li>Ichijo (one of the "Big Five")</li>
+<li>Takatsukasa (one of the "Big Five")</li>
+<li>Nijo (one of the "Big Five")</li>
+<li>Nanba</li>
+<li>Fujiwara</li>
+<li>Domyoji</li>
+<li>Shijo</li>
+<li>Hirata</li>
+<li>Karasuma</li>
+<li>Daigo</li>
+<li>Anenokoji</li>
+<li>Aburakoji</li>
+<li>Manase</li>
+<li>Nakayama</li>
+<li>Saionji</li>
+<li>Sanjo</li>
+<li>Imaidegawa</li>
+<li>Tokudaiji</li>
 FIRST NAMES
 NOTES
 First names are pretty much just for show. In most cases, even between friends, people call each other by their last names.  Younger people and close friends use first names between each other, but for the most part in your games no matter which time period you'll be using last names almost all the time.
 MALE NAMES 1
-1. Saburo
-2. Yuske
-3. Seiji
-4. Ken/Kentaro
-5. Eikichi
-6. Hiroyuki
-7. Manabu
-8. Kazu
-9. Ichi/Ichiro
-10. Osamu
-11. Hideyuki
-12. Naoki
-13. Kazuichi
-14. Tetsu/Tetsuo
-15. Mitsuru
-16. Satoru
-17. Shigure
-18. Kei
-19. Satoshi
-20. Naoto
+<li>Saburo</li>
+<li>Yuske</li>
+<li>Seiji</li>
+<li>Ken/Kentaro</li>
+<li>Eikichi</li>
+<li>Hiroyuki</li>
+<li>Manabu</li>
+<li>Kazu</li>
+<li>Ichi/Ichiro</li>
+<li>Osamu</li>
+<li>Hideyuki</li>
+<li>Naoki</li>
+<li>Kazuichi</li>
+<li>Tetsu/Tetsuo</li>
+<li>Mitsuru</li>
+<li>Satoru</li>
+<li>Shigure</li>
+<li>Kei</li>
+<li>Satoshi</li>
+<li>Naoto</li>
 FEMALE NAMES 1
-1. Ayu
-2. Kumie/Kumiko
-3. Norie/Noriko
-4. Yuu
-5. Kotomi
-6. Mitsue
-7. Ritsuko
-8. Kanae/Kanako
-9. Naoko/Naomi
-10. Hiromi/Hiroko
-11. Momoko
-12. Mari
-13. Yoko
-14. Yuko/Yuka
-15. Yuki/Yukiko/Yukika
-16. Minako
-17. Rika/Rikako
-18. Keiko
-19. Rie
-20. Hidemi
+<li>Ayu</li>
+<li>Kumie/Kumiko</li>
+<li>Norie/Noriko</li>
+<li>Yuu</li>
+<li>Kotomi</li>
+<li>Mitsue</li>
+<li>Ritsuko</li>
+<li>Kanae/Kanako</li>
+<li>Naoko/Naomi</li>
+<li>Hiromi/Hiroko</li>
+<li>Momoko</li>
+<li>Mari</li>
+<li>Yoko</li>
+<li>Yuko/Yuka</li>
+<li>Yuki/Yukiko/Yukika</li>
+<li>Minako</li>
+<li>Rika/Rikako</li>
+<li>Keiko</li>
+<li>Rie</li>
+<li>Hidemi</li>
 MALE NAMES 2
-1. Akira
-2. Keishi
-3. Kuniaki
-4. Keisuke
-5. Koji
-6. Genyu
-7. Kosuke
-8. Shuto
-9. Shogo
-10. Kunihide
-11. Shintaro
-12. Shin/Shinya
-13. Takashi/Takeshi
-14. Tenyu
-15. Dai/Daisuke
-16. Nobuo
-17. Noriaki/Noriyuki
-18. Hitoshi
-19. Fumiya/Fumiaki
-20. Masaki/Masa-aki
+<li>Akira</li>
+<li>Keishi</li>
+<li>Kuniaki</li>
+<li>Keisuke</li>
+<li>Koji</li>
+<li>Genyu</li>
+<li>Kosuke</li>
+<li>Shuto</li>
+<li>Shogo</li>
+<li>Kunihide</li>
+<li>Shintaro</li>
+<li>Shin/Shinya</li>
+<li>Takashi/Takeshi</li>
+<li>Tenyu</li>
+<li>Dai/Daisuke</li>
+<li>Nobuo</li>
+<li>Noriaki/Noriyuki</li>
+<li>Hitoshi</li>
+<li>Fumiya/Fumiaki</li>
+<li>Masaki/Masa-aki</li>
 FEMALE NAMES 2
-1. Sakura/Sakuya
-2. Karin
-3. Saori
-4. Sayuri
-5. Tomo/Tomoko
-6. Hotaru
-7. Eri/Erina/Erika
-8. Fumiko
-9. Mizuho
-10. Mayu/Mayumi
-11. Sanae
-12. Ai/Aiko
-13. Chika
-14. Nao
-15. Kaede
-16. Kyoko
-17. Rei/Reiko
-18. Machi/Machiko
-19. Sachi.Sachie/Sachiko
-20. Nami/Namie
+<li>Sakura/Sakuya</li>
+<li>Karin</li>
+<li>Saori</li>
+<li>Sayuri</li>
+<li>Tomo/Tomoko</li>
+<li>Hotaru</li>
+<li>Eri/Erina/Erika</li>
+<li>Fumiko</li>
+<li>Mizuho</li>
+<li>Mayu/Mayumi</li>
+<li>Sanae</li>
+<li>Ai/Aiko</li>
+<li>Chika</li>
+<li>Nao</li>
+<li>Kaede</li>
+<li>Kyoko</li>
+<li>Rei/Reiko</li>
+<li>Machi/Machiko</li>
+<li>Sachi.Sachie/Sachiko</li>
+<li>Nami/Namie</li>
 MALE NAMES 3
-1. Masayuki/Masahiro
-2. Mitsutaka/Mitsuhide
-3. Motoki
-4. Morihiro
-5. Yasunobu/Yasuhide
-6. Yuske
-7. Yukio
-8. Yoshimitsu
-9. Yoshinobu/Yoshihide
-10. Riku
-11. Kiyoshi
-12. Akio
-13. Kazuki/Kazuya
-14. Kohei
-15. Makoto
-16. Nobu/Nobuyuki/Nobuhiro
-17. Takeru
-18. Ryo/Ryoske
-19. Ryu/Ryuske
-20. Shun
+<li>Masayuki/Masahiro</li>
+<li>Mitsutaka/Mitsuhide</li>
+<li>Motoki</li>
+<li>Morihiro</li>
+<li>Yasunobu/Yasuhide</li>
+<li>Yuske</li>
+<li>Yukio</li>
+<li>Yoshimitsu</li>
+<li>Yoshinobu/Yoshihide</li>
+<li>Riku</li>
+<li>Kiyoshi</li>
+<li>Akio</li>
+<li>Kazuki/Kazuya</li>
+<li>Kohei</li>
+<li>Makoto</li>
+<li>Nobu/Nobuyuki/Nobuhiro</li>
+<li>Takeru</li>
+<li>Ryo/Ryoske</li>
+<li>Ryu/Ryuske</li>
+<li>Shun</li>
 FEMALE NAMES 3
-1. Eri/Erika/Eriko
-2. Chihiro
-3. Wakaba
-4. Nanako
-5. Ichiko
-6. Hina
-7. Hana/Hanako
-8. Chiyo
-9. Aya/Ayaka
-10. Kaori
-11. Mai
-12. Mami
-13. Rin
-14. Setsuko
-15. Satsuki
-16. Yumi/Yumiko
-17. Yomi/Yomiko
-18. Taeko
-19. Sadako
-20. Saya/Sayaka
+<li>Eri/Erika/Eriko</li>
+<li>Chihiro</li>
+<li>Wakaba</li>
+<li>Nanako</li>
+<li>Ichiko</li>
+<li>Hina</li>
+<li>Hana/Hanako</li>
+<li>Chiyo</li>
+<li>Aya/Ayaka</li>
+<li>Kaori</li>
+<li>Mai</li>
+<li>Mami</li>
+<li>Rin</li>
+<li>Setsuko</li>
+<li>Satsuki</li>
+<li>Yumi/Yumiko</li>
+<li>Yomi/Yomiko</li>
+<li>Taeko</li>
+<li>Sadako</li>
+<li>Saya/Sayaka</li>
 

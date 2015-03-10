@@ -1,65 +1,65 @@
 ﻿ORCISH
 Compiled by Brendan Adkins
 MALE
-1. Azbag
-2. Bogbar
-3. Golagash
-4. Golgrek
-5. Lagrat
-6. Herzog
-7. Melgash
-8. Rolg
-9. Shaggash
-10. Sharluk
-11. Hufduf
-12. Uhur
-13. Barnakh
-14. Melgubol
-15. Gorku
-16. Luguzog
-17. Bulfimbok
-18. Roshanakh
-19. Sharbukh
-20. Mozbag
+<li>Azbag</li>
+<li>Bogbar</li>
+<li>Golagash</li>
+<li>Golgrek</li>
+<li>Lagrat</li>
+<li>Herzog</li>
+<li>Melgash</li>
+<li>Rolg</li>
+<li>Shaggash</li>
+<li>Sharluk</li>
+<li>Hufduf</li>
+<li>Uhur</li>
+<li>Barnakh</li>
+<li>Melgubol</li>
+<li>Gorku</li>
+<li>Luguzog</li>
+<li>Bulfimbok</li>
+<li>Roshanakh</li>
+<li>Sharbukh</li>
+<li>Mozbag</li>
 FEMALE
-1. Gabza
-2. Rabgob
-3. Shagalo
-4. Krglgk
-5. Targl
-6. Gozreh
-7. Shoglom
-8. Glor
-9. Shaggash
-10. Kulrash
-11. Fufi
-12. Ruhu
-13. Khanrab
-14. Lobuglem
-15. Ukrog
-16. Gozulug
-17. Kobmifuz
-18. Granasho
-19. Khubrash
-20. Gabzom
+<li>Gabza</li>
+<li>Rabgob</li>
+<li>Shagalo</li>
+<li>Krglgk</li>
+<li>Targl</li>
+<li>Gozreh</li>
+<li>Shoglom</li>
+<li>Glor</li>
+<li>Shaggash</li>
+<li>Kulrash</li>
+<li>Fufi</li>
+<li>Ruhu</li>
+<li>Khanrab</li>
+<li>Lobuglem</li>
+<li>Ukrog</li>
+<li>Gozulug</li>
+<li>Kobmifuz</li>
+<li>Granasho</li>
+<li>Khubrash</li>
+<li>Gabzom</li>
 20 LEGENDARY ORC WEAPONS
-1. @&%#!
-2. Bag Of Infinite Rocks
-3. Demihumansbane
-4. Dude, Axe-Chuks
-5. Zagg, Maker of Half-Orcs
-6. Extremely Sharp Sword
-7. Fangtooth
-8. Flatubar, Silent But Deadly
-9. Granny Agimbor's Whalin' Belt
-10. Hurt-O-Matic
-11. Loudcrack
-12. Mogdir's Axe of Yelling
-13. More Than One Sword
-14. Phallus of Gulbuth the Rampant
-15. Rgkbln's Wand of Vowel Destruction
-16. Skullbrainer
-17. The Biggest Stick
-18. Ugly Dog the Facehitting
-19. Youbastard
-20. Zugrukh's Bat With a Nail In It
+<li>@&%#!</li>
+<li>Bag Of Infinite Rocks</li>
+<li>Demihumansbane</li>
+<li>Dude, Axe-Chuks</li>
+<li>Zagg, Maker of Half-Orcs</li>
+<li>Extremely Sharp Sword</li>
+<li>Fangtooth</li>
+<li>Flatubar, Silent But Deadly</li>
+<li>Granny Agimbor's Whalin' Belt</li>
+<li>Hurt-O-Matic</li>
+<li>Loudcrack</li>
+<li>Mogdir's Axe of Yelling</li>
+<li>More Than One Sword</li>
+<li>Phallus of Gulbuth the Rampant</li>
+<li>Rgkbln's Wand of Vowel Destruction</li>
+<li>Skullbrainer</li>
+<li>The Biggest Stick</li>
+<li>Ugly Dog the Facehitting</li>
+<li>Youbastard</li>
+<li>Zugrukh's Bat With a Nail In It</li>

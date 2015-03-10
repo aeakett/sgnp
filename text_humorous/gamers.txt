@@ -3,149 +3,149 @@ Compiled by Dave Younce
 NOTES
 In case you need some random gamers sitting around a table playing a game within your game.  The games we're playing were pulled from http://slithytoves.sytes.net/~dave/rpggen/.  You can also roll to see who the gamers are who the gamers in your game are playing if you want.  
 MALE 1
-1. Ron
-2. Joshua
-3. D. Vincent
-4. Jason
-5. Clinton R.
-6. Andy
-7. Brand
-8. Luke
-9. Christian
-10. Nathan
-11. Matthew
-12. Mark
-13. Fred
-14. Remi
-15. Graham
-16. Ben
-17. Jonathan
-18. Larry
-19. Eric
-20. Shreyas
+<li>Ron</li>
+<li>Joshua</li>
+<li>D. Vincent</li>
+<li>Jason</li>
+<li>Clinton R.</li>
+<li>Andy</li>
+<li>Brand</li>
+<li>Luke</li>
+<li>Christian</li>
+<li>Nathan</li>
+<li>Matthew</li>
+<li>Mark</li>
+<li>Fred</li>
+<li>Remi</li>
+<li>Graham</li>
+<li>Ben</li>
+<li>Jonathan</li>
+<li>Larry</li>
+<li>Eric</li>
+<li>Shreyas</li>
 FEMALE 
-1. Meg
-2. Emily
-3. Jessica
-4. Moyra
-5. Annie
-6. Karen
-7. R. Sean
-8. Selene
-9. Jasper
-10. Amber
-11. Lisa
-12. Jae
-13. Kat
-14. Nancy
-15. Claire
-16. Monica
-17. Lorelle
-18. Julie
-19. Victoria
-20. Donna
+<li>Meg</li>
+<li>Emily</li>
+<li>Jessica</li>
+<li>Moyra</li>
+<li>Annie</li>
+<li>Karen</li>
+<li>R. Sean</li>
+<li>Selene</li>
+<li>Jasper</li>
+<li>Amber</li>
+<li>Lisa</li>
+<li>Jae</li>
+<li>Kat</li>
+<li>Nancy</li>
+<li>Claire</li>
+<li>Monica</li>
+<li>Lorelle</li>
+<li>Julie</li>
+<li>Victoria</li>
+<li>Donna</li>
 MALE 2
-1. Brendan
-2. Olle
-3. Nathan
-4. Alex
-5. Judd
-6. Chris
-7. Dev
-8. Ian
-9. Dave
-10. Sydney
-11. Matthijs
-12. Joshua AC
-13. Levi
-14. Ralph
-15. Colin
-16. Troy
-17. Tony
-18. Jeff
-19. Neel
-20. Timothy
+<li>Brendan</li>
+<li>Olle</li>
+<li>Nathan</li>
+<li>Alex</li>
+<li>Judd</li>
+<li>Chris</li>
+<li>Dev</li>
+<li>Ian</li>
+<li>Dave</li>
+<li>Sydney</li>
+<li>Matthijs</li>
+<li>Joshua AC</li>
+<li>Levi</li>
+<li>Ralph</li>
+<li>Colin</li>
+<li>Troy</li>
+<li>Tony</li>
+<li>Jeff</li>
+<li>Neel</li>
+<li>Timothy</li>
 SURNAMES 1
-1. Robins
-2. Crane
-3. Griffen
-4. Newman
-5. Morningstar
-6. Kitkowski
-7. BishopRoby
-8. Walmsey
-9. Care
-10. Hammer
-11. Purkayastha
-12. Burton-Oakes
-13. Lower-Basch
-14. McChesney
-15. Younce
-16. Freedberg
-17. Nixon
-18. Baker
-19. Edwards
-20. Jonsson
+<li>Robins</li>
+<li>Crane</li>
+<li>Griffen</li>
+<li>Newman</li>
+<li>Morningstar</li>
+<li>Kitkowski</li>
+<li>BishopRoby</li>
+<li>Walmsey</li>
+<li>Care</li>
+<li>Hammer</li>
+<li>Purkayastha</li>
+<li>Burton-Oakes</li>
+<li>Lower-Basch</li>
+<li>McChesney</li>
+<li>Younce</li>
+<li>Freedberg</li>
+<li>Nixon</li>
+<li>Baker</li>
+<li>Edwards</li>
+<li>Jonsson</li>
 SURNAMES 2
-1. Provost
-2. Sampat
-3. Adkins
-4. Paoletta
-5. Tan
-6. Fredera
-7. Chinn
-8. Wilson
-9. Rush
-10. Wolke
-11. Borgstrom
-12. Lehman
-13. Walton
-14. Lade
-15. Causey
-16. Treuer
-17. Snyder
-18. Blair
-19. Kornelsen
-20. Mazza
+<li>Provost</li>
+<li>Sampat</li>
+<li>Adkins</li>
+<li>Paoletta</li>
+<li>Tan</li>
+<li>Fredera</li>
+<li>Chinn</li>
+<li>Wilson</li>
+<li>Rush</li>
+<li>Wolke</li>
+<li>Borgstrom</li>
+<li>Lehman</li>
+<li>Walton</li>
+<li>Lade</li>
+<li>Causey</li>
+<li>Treuer</li>
+<li>Snyder</li>
+<li>Blair</li>
+<li>Kornelsen</li>
+<li>Mazza</li>
 TABLE SNACKS
-1. Dusty potato chips
-2. The heart of a bull, still beating
-3. Messy buffalo wings & bleu cheese
-4. Pepperoni pizza
-5. Greasy Chinese food
-6. Vegan chocolate cake
-7. Leftover Halloween candy
-8. Salt & vinegar Pringles
-9. Fritos & chili
-10. Digestive biscuits
-11. Pop-Tarts
-12. Smarties & Milk Duds
-13. Hash brownies
-14. Cool ranch Doritos
-15. Trail mix
-16. Pitas & hummus
-17. Toaster waffles
-18. Caramel apples
-19. White Russians
-20. Melting ice cream
+<li>Dusty potato chips</li>
+<li>The heart of a bull, still beating</li>
+<li>Messy buffalo wings & bleu cheese</li>
+<li>Pepperoni pizza</li>
+<li>Greasy Chinese food</li>
+<li>Vegan chocolate cake</li>
+<li>Leftover Halloween candy</li>
+<li>Salt & vinegar Pringles</li>
+<li>Fritos & chili</li>
+<li>Digestive biscuits</li>
+<li>Pop-Tarts</li>
+<li>Smarties & Milk Duds</li>
+<li>Hash brownies</li>
+<li>Cool ranch Doritos</li>
+<li>Trail mix</li>
+<li>Pitas & hummus</li>
+<li>Toaster waffles</li>
+<li>Caramel apples</li>
+<li>White Russians</li>
+<li>Melting ice cream</li>
 WHAT ARE WE PLAYING?
-1. The PCs are streetwise con artists just trying to get by who, with Big, Fraggin' Guns, fight people who look at them the wrong way for pocket change in 2150 A.D.
-2. The PCs are reincarnated Texas Rangers who just won the lottery and who, with stem cells, fight disease for profit. From there, events proceed as expected.
-3. The PCs are enchanted postal workers in a junkyard who, with Red Ryder BB guns (with a compass in the stock and this thing that tells time), fight the status quo for God and country, oh, back before you were born.
-4. The PCs are lovable evangelists who have switched bodies and who, with crossbows, fight werewolves for the last donut. Add robots and/or ninjas to taste.
-5. The PCs are masked fanatics in an imaginary third-world country who, with honor, fight pod people for the sled they had when they were little in a bygone era.
-6. The PCs are dancing philosophers in schoolgirl uniforms who, with the help of their fan club, fight whatever needs fighting for more wealth than you could imagine, but only at night.
-7. The PCs are one-eyed action figures from beyond space and time who, with large-caliber handguns, fight owlbears for college credit to pad their resumes.
-8. The PCs are chain-smoking truck drivers (or are they?) who, with lightning bolts, fight Conservatives for the secret to The DaVinci Code until further notice.
-9. The PCs are debonair folk singers in a 747 who, with poison darts, fight fire with fire for Her Majesty before deciding to play something different.
-10. The PCs are unintentionally hilarious siblings in a lunatic's brain who, with their bare hands, fight a dark conspiracy for the glory of Rome to get into Harvard.
-11. The PCs are glow-in-the-dark office workers in the Mirror Universe (where everything is the opposite of normal) who, with killer rabbits, fight their own shadows for the Championship Belt and learn how to love again.
-12. The PCs are alcoholic Supreme Court justices in a world in which they simply don't belong who, with only themselves to blame, fight their rivals for political favors to a soundtrack of classic hits from the Sixties.
-13. The PCs are kidnapped slaves on a space station who, with no other options, fight organized crime for all the wrong reasons like in that movie.
-14. The PCs are cowardly conspiracy theorists in a beat-up station wagon who, with a hilarious and talented NPC, fight goblins for drugs to a block-rockin' beat.
-15. The PCs are white trash entrepreneurs in the ghetto who, with superpowers, fight a soulless mega-store only out to make a profit for a recording contract until the end of the world.
-16. The PCs are beautiful but deadly babes on an alternate Earth in which the South won the American Civil War who, with breakdancing, fight Republicans for the right to party.
-17. The PCs are French wizards on a sacred quest who, with magic hats, fight grues for redemption until they storm out in disgust.
-18. The PCs are wacky (owl)bears in group therapy who, with a ululating battle cry, fight the indigenous population for delicious pie because it would be a shame not to.
-19. The PCs are cowardly Texas Rangers acting as judge, jury, and executioner who, with large wrenches, fight their android duplicates for victory when duty calls.
-20. The PCs are misogynous comedians living in a trailer who, with a lack of common sense, fight skinheads for pieces of eight to the last man.
+<li>The PCs are streetwise con artists just trying to get by who, with Big, Fraggin' Guns, fight people who look at them the wrong way for pocket change in 2150 A.D.</li>
+<li>The PCs are reincarnated Texas Rangers who just won the lottery and who, with stem cells, fight disease for profit. From there, events proceed as expected.</li>
+<li>The PCs are enchanted postal workers in a junkyard who, with Red Ryder BB guns (with a compass in the stock and this thing that tells time), fight the status quo for God and country, oh, back before you were born.</li>
+<li>The PCs are lovable evangelists who have switched bodies and who, with crossbows, fight werewolves for the last donut. Add robots and/or ninjas to taste.</li>
+<li>The PCs are masked fanatics in an imaginary third-world country who, with honor, fight pod people for the sled they had when they were little in a bygone era.</li>
+<li>The PCs are dancing philosophers in schoolgirl uniforms who, with the help of their fan club, fight whatever needs fighting for more wealth than you could imagine, but only at night.</li>
+<li>The PCs are one-eyed action figures from beyond space and time who, with large-caliber handguns, fight owlbears for college credit to pad their resumes.</li>
+<li>The PCs are chain-smoking truck drivers (or are they?) who, with lightning bolts, fight Conservatives for the secret to The DaVinci Code until further notice.</li>
+<li>The PCs are debonair folk singers in a 747 who, with poison darts, fight fire with fire for Her Majesty before deciding to play something different.</li>
+<li>The PCs are unintentionally hilarious siblings in a lunatic's brain who, with their bare hands, fight a dark conspiracy for the glory of Rome to get into Harvard.</li>
+<li>The PCs are glow-in-the-dark office workers in the Mirror Universe (where everything is the opposite of normal) who, with killer rabbits, fight their own shadows for the Championship Belt and learn how to love again.</li>
+<li>The PCs are alcoholic Supreme Court justices in a world in which they simply don't belong who, with only themselves to blame, fight their rivals for political favors to a soundtrack of classic hits from the Sixties.</li>
+<li>The PCs are kidnapped slaves on a space station who, with no other options, fight organized crime for all the wrong reasons like in that movie.</li>
+<li>The PCs are cowardly conspiracy theorists in a beat-up station wagon who, with a hilarious and talented NPC, fight goblins for drugs to a block-rockin' beat.</li>
+<li>The PCs are white trash entrepreneurs in the ghetto who, with superpowers, fight a soulless mega-store only out to make a profit for a recording contract until the end of the world.</li>
+<li>The PCs are beautiful but deadly babes on an alternate Earth in which the South won the American Civil War who, with breakdancing, fight Republicans for the right to party.</li>
+<li>The PCs are French wizards on a sacred quest who, with magic hats, fight grues for redemption until they storm out in disgust.</li>
+<li>The PCs are wacky (owl)bears in group therapy who, with a ululating battle cry, fight the indigenous population for delicious pie because it would be a shame not to.</li>
+<li>The PCs are cowardly Texas Rangers acting as judge, jury, and executioner who, with large wrenches, fight their android duplicates for victory when duty calls.</li>
+<li>The PCs are misogynous comedians living in a trailer who, with a lack of common sense, fight skinheads for pieces of eight to the last man.</li>

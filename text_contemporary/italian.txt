@@ -4,212 +4,212 @@ NOTES
 The naming traditions of Italy historically have been that the first male is named after his paternal grandfather, the second after his maternal grandfather, the first female after her paternal grandmother and the second after her maternal grandmother. In some places, Italian children celebrate their onomastico, or name day, as well as their birthday.
 Thanks to the renaissance resource folks of Brown University for making the Online Castasto of 1427 available (http://www.stg.brown.edu/projects/catasto/overview.html).
 MALE
-1. Vito
-2. Bruno
-3. Giovanni
-4. Francesco
-5. Aldo
-6. Paulo
-7. Claudio
-8. Giuseppe
-9. Antonio
-10. Pasquale
-11. Mario
-12. Franco
-13. Pietro
-14. Sergio
-15. Carlo
-16. Domenico
-17. Nino
-18. Salvatore
-19. Luciano
-20. Giorgio
+<li>Vito</li>
+<li>Bruno</li>
+<li>Giovanni</li>
+<li>Francesco</li>
+<li>Aldo</li>
+<li>Paulo</li>
+<li>Claudio</li>
+<li>Giuseppe</li>
+<li>Antonio</li>
+<li>Pasquale</li>
+<li>Mario</li>
+<li>Franco</li>
+<li>Pietro</li>
+<li>Sergio</li>
+<li>Carlo</li>
+<li>Domenico</li>
+<li>Nino</li>
+<li>Salvatore</li>
+<li>Luciano</li>
+<li>Giorgio</li>
 FEMALE
-1. Caterina
-2. Rosa
-3. Elena
-4. Bianca
-5. Concetta
-6. Pina
-7. Teresa
-8. Angela
-9. Donna
-10. Enza
-11. Rita
-12. Franca
-13. Maria
-14. Lucia
-15. Carmela
-16. Belinda
-17. Isabella
-18. Viviana
-19. Silvana
-20. Zita
+<li>Caterina</li>
+<li>Rosa</li>
+<li>Elena</li>
+<li>Bianca</li>
+<li>Concetta</li>
+<li>Pina</li>
+<li>Teresa</li>
+<li>Angela</li>
+<li>Donna</li>
+<li>Enza</li>
+<li>Rita</li>
+<li>Franca</li>
+<li>Maria</li>
+<li>Lucia</li>
+<li>Carmela</li>
+<li>Belinda</li>
+<li>Isabella</li>
+<li>Viviana</li>
+<li>Silvana</li>
+<li>Zita</li>
 SURNAMES 1
-1. Ricci
-2. Savino
-3. Marchese
-4. Costa
-5. Amato
-6. Mastromoaco
-7. Zucco
-8. Dragani
-9. Sylvestre
-10. Giacone
-11. Caputo
-12. Bruno
-13. Vincenzi
-14. Candelora
-15. Urbani
-16. Notte
-17. Falcone
-18. Carpino
-19. Paolucci
-20. Malatesta
+<li>Ricci</li>
+<li>Savino</li>
+<li>Marchese</li>
+<li>Costa</li>
+<li>Amato</li>
+<li>Mastromoaco</li>
+<li>Zucco</li>
+<li>Dragani</li>
+<li>Sylvestre</li>
+<li>Giacone</li>
+<li>Caputo</li>
+<li>Bruno</li>
+<li>Vincenzi</li>
+<li>Candelora</li>
+<li>Urbani</li>
+<li>Notte</li>
+<li>Falcone</li>
+<li>Carpino</li>
+<li>Paolucci</li>
+<li>Malatesta</li>
 SURNAMES 2
-1. Paglio
-2. Signorile
-3. Bandino
-4. Zabatino
-5. Vecchio
-6. Mucci
-7. Bonaduce
-8. Silvestre
-9. Vasile
-10. Maggio
-11. Jovino
-12. Baldi
-13. Taglieri
-14. Profeta
-15. Bonofigliano
-16. Ignazio
-17. Guerra
-18. Santariga
-19. Prospero
-20. Fabiani
+<li>Paglio</li>
+<li>Signorile</li>
+<li>Bandino</li>
+<li>Zabatino</li>
+<li>Vecchio</li>
+<li>Mucci</li>
+<li>Bonaduce</li>
+<li>Silvestre</li>
+<li>Vasile</li>
+<li>Maggio</li>
+<li>Jovino</li>
+<li>Baldi</li>
+<li>Taglieri</li>
+<li>Profeta</li>
+<li>Bonofigliano</li>
+<li>Ignazio</li>
+<li>Guerra</li>
+<li>Santariga</li>
+<li>Prospero</li>
+<li>Fabiani</li>
 FLORENCE, 1427 MALE 1
-1. Ugo
-2. Santore
-3. Agostino
-4. Taccino
-5. Vagno
-6. Fioretto
-7. Taldo
-8. Riccalbano
-9. Lapo
-10. Saladino
-11. Luchetto
-12. Ulivo
-13. Neri
-14. Sandro
-15. Pieroanton
-16. Aldigherra
-17. Scolaio
-18. Prete
-19. Lazzero
-20. Chiango
+<li>Ugo</li>
+<li>Santore</li>
+<li>Agostino</li>
+<li>Taccino</li>
+<li>Vagno</li>
+<li>Fioretto</li>
+<li>Taldo</li>
+<li>Riccalbano</li>
+<li>Lapo</li>
+<li>Saladino</li>
+<li>Luchetto</li>
+<li>Ulivo</li>
+<li>Neri</li>
+<li>Sandro</li>
+<li>Pieroanton</li>
+<li>Aldigherra</li>
+<li>Scolaio</li>
+<li>Prete</li>
+<li>Lazzero</li>
+<li>Chiango</li>
 FLORENCE, 1427 FEMALE 1
-1. Savia
-2. Vangelista
-3. Nonnina
-4. Puselina
-5. Margherita
-6. Solia
-7. Istagio
-8. Lotta
-9. Tedesca
-10. Orsina
-11. Cosa
-12. Gostanza
-13. Dianora
-14. Donata
-15. Frosina
-16. Nofra
-17. Ulivetta
-18. Lagia
-19. Onesta
-20. Selvaggia
+<li>Savia</li>
+<li>Vangelista</li>
+<li>Nonnina</li>
+<li>Puselina</li>
+<li>Margherita</li>
+<li>Solia</li>
+<li>Istagio</li>
+<li>Lotta</li>
+<li>Tedesca</li>
+<li>Orsina</li>
+<li>Cosa</li>
+<li>Gostanza</li>
+<li>Dianora</li>
+<li>Donata</li>
+<li>Frosina</li>
+<li>Nofra</li>
+<li>Ulivetta</li>
+<li>Lagia</li>
+<li>Onesta</li>
+<li>Selvaggia</li>
 FLORENCE, 1427 MALE 2
-1. Tenghi
-2. Ridolfo
-3. Pietro
-4. Minilato
-5. Nuto
-6. Giovanni
-7. Stagio
-8. Iacopo
-9. Guasparre
-10. Ormanno
-11. Nanni
-12. Vincilago
-13. Oddo
-14. Maso
-15. Ubaldino
-16. Salamone
-17. Lodovico
-18. Chimento
-19. Gugliemo
-20. Fuligno
+<li>Tenghi</li>
+<li>Ridolfo</li>
+<li>Pietro</li>
+<li>Minilato</li>
+<li>Nuto</li>
+<li>Giovanni</li>
+<li>Stagio</li>
+<li>Iacopo</li>
+<li>Guasparre</li>
+<li>Ormanno</li>
+<li>Nanni</li>
+<li>Vincilago</li>
+<li>Oddo</li>
+<li>Maso</li>
+<li>Ubaldino</li>
+<li>Salamone</li>
+<li>Lodovico</li>
+<li>Chimento</li>
+<li>Gugliemo</li>
+<li>Fuligno</li>
 FLORENCE, 1427 FEMALE 2
-1. Pasqua
-2. Luca
-3. Piccina
-4. Toncia
-5. Manetta
-6. Papina
-7. Guida
-8. Simeralda
-9. Leonetta
-10. Verdiana
-11. Rota
-12. Mea
-13. Tommasa
-14. Sappia
-15. Contessina
-16. Girolama
-17. Guiccia
-18. Agnoletta
-19. Corradina
-20. Battista
+<li>Pasqua</li>
+<li>Luca</li>
+<li>Piccina</li>
+<li>Toncia</li>
+<li>Manetta</li>
+<li>Papina</li>
+<li>Guida</li>
+<li>Simeralda</li>
+<li>Leonetta</li>
+<li>Verdiana</li>
+<li>Rota</li>
+<li>Mea</li>
+<li>Tommasa</li>
+<li>Sappia</li>
+<li>Contessina</li>
+<li>Girolama</li>
+<li>Guiccia</li>
+<li>Agnoletta</li>
+<li>Corradina</li>
+<li>Battista</li>
 FLORENCE, 1427 SURNAMES 1
-1. Accantasan
-2. Dragonetti
-3. Infangati
-4. Quaratessi
-5. Ughi
-6. Portaneca
-7. Volpe
-8. Strozzi
-9. Frescobald
-10. Ottavanti
-11. Lazzeri
-12. Maragaglia
-13. Gherardini
-14. Cavalcanti
-15. Nigi
-16. Doffi
-17. Medici
-18. Ridolfi
-19. Baccherell
-20. Manno
+<li>Accantasan</li>
+<li>Dragonetti</li>
+<li>Infangati</li>
+<li>Quaratessi</li>
+<li>Ughi</li>
+<li>Portaneca</li>
+<li>Volpe</li>
+<li>Strozzi</li>
+<li>Frescobald</li>
+<li>Ottavanti</li>
+<li>Lazzeri</li>
+<li>Maragaglia</li>
+<li>Gherardini</li>
+<li>Cavalcanti</li>
+<li>Nigi</li>
+<li>Doffi</li>
+<li>Medici</li>
+<li>Ridolfi</li>
+<li>Baccherell</li>
+<li>Manno</li>
 FLORENCE, 1427 SURNAMES 2
-1. Bardi
-2. Guidicci
-3. Pasquini
-4. Zane
-5. Salviati
-6. Delcorazzo
-7. Tecchini'
-8. Bellacqua
-9. Ruccelai
-10. Villani
-11. Davanzato
-12. Cerchi
-13. Adimari
-14. Quercetani
-15. Ringhiador
-16. Onorati
-17. Lippi
-18. Miglioresi
-19. Giambollar
-20. Fantucci
+<li>Bardi</li>
+<li>Guidicci</li>
+<li>Pasquini</li>
+<li>Zane</li>
+<li>Salviati</li>
+<li>Delcorazzo</li>
+<li>Tecchini'</li>
+<li>Bellacqua</li>
+<li>Ruccelai</li>
+<li>Villani</li>
+<li>Davanzato</li>
+<li>Cerchi</li>
+<li>Adimari</li>
+<li>Quercetani</li>
+<li>Ringhiador</li>
+<li>Onorati</li>
+<li>Lippi</li>
+<li>Miglioresi</li>
+<li>Giambollar</li>
+<li>Fantucci</li>

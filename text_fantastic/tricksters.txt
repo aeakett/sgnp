@@ -1,22 +1,22 @@
 ﻿TRICKSTERS
 Compiled by Moyra Turkington
-1. Anansi, Ashanti mythology
-2. Exu, Yoruban mythology
-3. Loki, Norse mythology
-4. Iktomi Heyoka, Lakota mythology
-5. Coyote, Navajo mythology
-6. Raven, Haida mythology
-7. Saci, Brazilian folklore
-8. Bamapana, Australian Aboriginal mythology
-9. Till Eulenspiegel, German folklore
-10. Nasrudin, Islamic mythology
-11. Kitsune, Japanese mythology
-12. Sun Wukong, Chinese mythology
-13. Kaulu, Hawaiian mythology
-14. Renart, French folklore
-15. Prometheus, Greek mythology
-16. Sosruko, Caucasian mythology
-17. Kokopelli, Hopi and Zuni mythology
-18. Amaguq, Inuit mythology
-19. Púca, Irish mythology
-20. Ueuecoyotl, Aztec mythology
+<li>Anansi, Ashanti mythology</li>
+<li>Exu, Yoruban mythology</li>
+<li>Loki, Norse mythology</li>
+<li>Iktomi Heyoka, Lakota mythology</li>
+<li>Coyote, Navajo mythology</li>
+<li>Raven, Haida mythology</li>
+<li>Saci, Brazilian folklore</li>
+<li>Bamapana, Australian Aboriginal mythology</li>
+<li>Till Eulenspiegel, German folklore</li>
+<li>Nasrudin, Islamic mythology</li>
+<li>Kitsune, Japanese mythology</li>
+<li>Sun Wukong, Chinese mythology</li>
+<li>Kaulu, Hawaiian mythology</li>
+<li>Renart, French folklore</li>
+<li>Prometheus, Greek mythology</li>
+<li>Sosruko, Caucasian mythology</li>
+<li>Kokopelli, Hopi and Zuni mythology</li>
+<li>Amaguq, Inuit mythology</li>
+<li>Púca, Irish mythology</li>
+<li>Ueuecoyotl, Aztec mythology</li>

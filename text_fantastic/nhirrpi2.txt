@@ -3,128 +3,128 @@ Compiled by Jason Morningstar
 NOTES
 Nhirrpi is a language once spoken in the Stony Country of the northeastern corner of south Australia.
 MALE 1
-1. Darrapanthila	
-2. Kirriyari
-3. Malkirri	
-4. Mandri			
-5. Kulinga	
-6. Kurnu
-7. Marnrdringa	
-8. Ngampangampala		
-9. Nganyi-thura	
-10. Thawala-nganyi	
-11. Thawinga		
-12. Ngapa	
-13. Padlayi
-14. Karringa
-15. Kurrapandi		
-16. Makayi	
-17. Padni	
-18. Drityi	
-19. Ilanggi	
-20. Paku	
+<li>Darrapanthila	</li>
+<li>Kirriyari</li>
+<li>Malkirri	</li>
+<li>Mandri			</li>
+<li>Kulinga	</li>
+<li>Kurnu</li>
+<li>Marnrdringa	</li>
+<li>Ngampangampala		</li>
+<li>Nganyi-thura	</li>
+<li>Thawala-nganyi	</li>
+<li>Thawinga		</li>
+<li>Ngapa	</li>
+<li>Padlayi</li>
+<li>Karringa</li>
+<li>Kurrapandi		</li>
+<li>Makayi	</li>
+<li>Padni	</li>
+<li>Drityi	</li>
+<li>Ilanggi	</li>
+<li>Paku	</li>
 FEMALE 1
-1. Pandi	
-2. Darra		
-3. Thili				
-4. Yuwa
-5. Thur
-6. Ini	
-7. Minhaari			
-8. Thunkini
-9. Wirni	
-10. Tyukur
-11. Pilpawarala	
-12. Nunuwiri
-13. Parnrdriyindrila	
-14. Ngunyinga	
-15. Wawananga
-16. Darrala-pala
-17. Pani				
-18. Ngatyi	
-19. Karna	
-20. Mundya	
+<li>Pandi	</li>
+<li>Darra		</li>
+<li>Thili				</li>
+<li>Yuwa</li>
+<li>Thur</li>
+<li>Ini	</li>
+<li>Minhaari			</li>
+<li>Thunkini</li>
+<li>Wirni	</li>
+<li>Tyukur</li>
+<li>Pilpawarala	</li>
+<li>Nunuwiri</li>
+<li>Parnrdriyindrila	</li>
+<li>Ngunyinga	</li>
+<li>Wawananga</li>
+<li>Darrala-pala</li>
+<li>Pani				</li>
+<li>Ngatyi	</li>
+<li>Karna	</li>
+<li>Mundya	</li>
 MALE 2
-1. Makaari	daringa	
-2. Marripathi	
-3. Ngampa			
-4. Kula
-5. Dawa	
-6. Nganyi	
-7. Walya	
-8. Thawa	
-9. Inggani			
-10. Maka			
-11. Kirri	
-12. Kadraari
-13. Malandyi
-14. Walthathingginga
-15. Kurrapandinga	
-16. Pakuthikingga
-17. Pampu-patyi	
-18. Thakur				
-19. Thayi	
-20. Wandhidigidiginga
+<li>Makaari	daringa	</li>
+<li>Marripathi	</li>
+<li>Ngampa			</li>
+<li>Kula</li>
+<li>Dawa	</li>
+<li>Nganyi	</li>
+<li>Walya	</li>
+<li>Thawa	</li>
+<li>Inggani			</li>
+<li>Maka			</li>
+<li>Kirri	</li>
+<li>Kadraari</li>
+<li>Malandyi</li>
+<li>Walthathingginga</li>
+<li>Kurrapandinga	</li>
+<li>Pakuthikingga</li>
+<li>Pampu-patyi	</li>
+<li>Thakur				</li>
+<li>Thayi	</li>
+<li>Wandhidigidiginga</li>
 FEMALE 2
-1. Warlkapandhina-nhunu	
-2. Matha	
-3. Kaparra		
-4. Patyi	
-5. Kariyindrila	
-6. Thupu			
-7. Kadra			
-8. Mukap-thura	
-9. Pandili
-10. Warrayi-parnrdri
-11. Parnrdringa
-12. Muwa	
-13. Parnpala			
-14. Karnathili
-15. Pula	
-16. Ngathu		
-17. Ngathu-parnrdri		
-18. Kari		
-19. Ngunyi-nhana	
-20. Ngura	
+<li>Warlkapandhina-nhunu	</li>
+<li>Matha	</li>
+<li>Kaparra		</li>
+<li>Patyi	</li>
+<li>Kariyindrila	</li>
+<li>Thupu			</li>
+<li>Kadra			</li>
+<li>Mukap-thura	</li>
+<li>Pandili</li>
+<li>Warrayi-parnrdri</li>
+<li>Parnrdringa</li>
+<li>Muwa	</li>
+<li>Parnpala			</li>
+<li>Karnathili</li>
+<li>Pula	</li>
+<li>Ngathu		</li>
+<li>Ngathu-parnrdri		</li>
+<li>Kari		</li>
+<li>Ngunyi-nhana	</li>
+<li>Ngura	</li>
 MALE 3
-1. Thanayi				
-2. Thawadhalkinga-pakuthikinga	
-3. Ngandyini-yari	
-4. Thayila
-5. Wandhi-digidigi	
-6. Thayinga
-7. Wandhinga	
-8. Thidharri
-9. Wadlya	
-10. Wala	
-11. Walayi
-12. Walthathinggi		
-13. Yurra		
-14. Mukap-thuringa	
-15. Mulhu	
-16. Kanpa
-17. Pundraki-nhana	
-18. Wantha-nhulu	
-19. Thurbu-kaparra
-20. Thurwari
+<li>Thanayi				</li>
+<li>Thawadhalkinga-pakuthikinga	</li>
+<li>Ngandyini-yari	</li>
+<li>Thayila</li>
+<li>Wandhi-digidigi	</li>
+<li>Thayinga</li>
+<li>Wandhinga	</li>
+<li>Thidharri</li>
+<li>Wadlya	</li>
+<li>Wala	</li>
+<li>Walayi</li>
+<li>Walthathinggi		</li>
+<li>Yurra		</li>
+<li>Mukap-thuringa	</li>
+<li>Mulhu	</li>
+<li>Kanpa</li>
+<li>Pundraki-nhana	</li>
+<li>Wantha-nhulu	</li>
+<li>Thurbu-kaparra</li>
+<li>Thurwari</li>
 FEMALE 3	
-1. Minha	
-2. Inha	
-3. Nhana		
-4. Nunhawiri			
-5. Patyila	
-6. Tyara	
-7. Tyuguyi			
-8. Yarra	
-9. Pundrakinganhana	
-10. Warlkapandhi			
-11. Wawa	
-12. Tyugu	
-13. Wawinga
-14. Windrini
-15. Thura-yukarrana
-16. Pundraki	
-17. Yina	
-18. Yunhu	
-19. Pika				
-20. Thuryi			
+<li>Minha	</li>
+<li>Inha	</li>
+<li>Nhana		</li>
+<li>Nunhawiri			</li>
+<li>Patyila	</li>
+<li>Tyara	</li>
+<li>Tyuguyi			</li>
+<li>Yarra	</li>
+<li>Pundrakinganhana	</li>
+<li>Warlkapandhi			</li>
+<li>Wawa	</li>
+<li>Tyugu	</li>
+<li>Wawinga</li>
+<li>Windrini</li>
+<li>Thura-yukarrana</li>
+<li>Pundraki	</li>
+<li>Yina	</li>
+<li>Yunhu	</li>
+<li>Pika				</li>
+<li>Thuryi			</li>

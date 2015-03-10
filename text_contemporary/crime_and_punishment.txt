@@ -3,149 +3,149 @@ Compiled by Moyra Turkington
 NOTES
 The following are lists of serial killers, titles of law enforcement authorities, crime scene locations, murder weapons, poisons, prisons and forensic techniques. The titles may be combined with any country's modern lists (E.g. Modern American or Psuedo-English) to generate police names, FBI Agents, Mounties or Bobbies - whatever is required.
 SERIAL KILLERS
-1. The Cadillac Killer
-2. Bloodthirsty Bill
-3. The Accountant
-4. The Night Stabber
-5. The Lady of Night
-6. The Butcher of Barstow
-7. The Pigman
-8. The Spinster Strangler
-9. The Die and Dasher
-10. Redhand Ricky
-11. The Alphabet Killer
-12. The Southside Slasher
-13. The Phantom Whisper
-14. Steel Tooth
-15. The Shopping-cart Strangler
-16. The Dawn Slayer
-17. The Blue Bombshell
-18. The Preying Mantis
-19. Crocodile Sam
-20. Vampire Casanova
+<li>The Cadillac Killer</li>
+<li>Bloodthirsty Bill</li>
+<li>The Accountant</li>
+<li>The Night Stabber</li>
+<li>The Lady of Night</li>
+<li>The Butcher of Barstow</li>
+<li>The Pigman</li>
+<li>The Spinster Strangler</li>
+<li>The Die and Dasher</li>
+<li>Redhand Ricky</li>
+<li>The Alphabet Killer</li>
+<li>The Southside Slasher</li>
+<li>The Phantom Whisper</li>
+<li>Steel Tooth</li>
+<li>The Shopping-cart Strangler</li>
+<li>The Dawn Slayer</li>
+<li>The Blue Bombshell</li>
+<li>The Preying Mantis</li>
+<li>Crocodile Sam</li>
+<li>Vampire Casanova</li>
 AUTHORITY TITLES
-1. Detective
-2. Special Agent
-3. Constable
-4. Inspector
-5. Corporal
-6. Sergeant
-7. Trooper
-8. Lieutenant
-9. Bureau Chief
-10. Superintendent
-11. Inspector General
-12. Commander
-13. Captain
-14. Commissioner
-15. Deputy Chief Constable
-16. Staff Sergeant
-17. Battalion Chief
-18. Federal Agent
-19. Brevet Sergeant
-20. Gendarmes
+<li>Detective</li>
+<li>Special Agent</li>
+<li>Constable</li>
+<li>Inspector</li>
+<li>Corporal</li>
+<li>Sergeant</li>
+<li>Trooper</li>
+<li>Lieutenant</li>
+<li>Bureau Chief</li>
+<li>Superintendent</li>
+<li>Inspector General</li>
+<li>Commander</li>
+<li>Captain</li>
+<li>Commissioner</li>
+<li>Deputy Chief Constable</li>
+<li>Staff Sergeant</li>
+<li>Battalion Chief</li>
+<li>Federal Agent</li>
+<li>Brevet Sergeant</li>
+<li>Gendarmes</li>
 CRIME SCENE LOCATIONS
-1. Hotel Room
-2. Restaurant Walk-in Freezer
-3. Dumpster
-4. Bomb Shelter
-5. Church Confessional
-6. High School Boiler Room
-7. Storage Locker
-8. Bathhouse 
-9. Swimming Pool
-10. Construction Site
-11. Barn Loft
-12. Factory Vat
-13. Farmer's Field
-14. Parking Lot
-15. Garden Shed
-16. Meat Locker
-17. Warehouse
-18. Country Club
-19. Boardroom
-20. Playground
+<li>Hotel Room</li>
+<li>Restaurant Walk-in Freezer</li>
+<li>Dumpster</li>
+<li>Bomb Shelter</li>
+<li>Church Confessional</li>
+<li>High School Boiler Room</li>
+<li>Storage Locker</li>
+<li>Bathhouse </li>
+<li>Swimming Pool</li>
+<li>Construction Site</li>
+<li>Barn Loft</li>
+<li>Factory Vat</li>
+<li>Farmer's Field</li>
+<li>Parking Lot</li>
+<li>Garden Shed</li>
+<li>Meat Locker</li>
+<li>Warehouse</li>
+<li>Country Club</li>
+<li>Boardroom</li>
+<li>Playground</li>
 MURDER WEAPONS
-1. Telephone Cord
-2. Baseball bat
-3. Car
-4. Chef's Knife
-5. Pillow (Asphyxiation)
-6. Boxcutter
-7. Ice Pick
-8. Axe
-9. Piano Wire
-10. Beer Stein
-11. Broken Bottle
-12. Television Set
-13. Rebar
-14. Plumber's Wrench
-15. Screwdriver
-16. Chainsaw
-17. Handgun
-18. Machete
-19. Sledgehammer
-20. Brick/Rock
+<li>Telephone Cord</li>
+<li>Baseball bat</li>
+<li>Car</li>
+<li>Chef's Knife</li>
+<li>Pillow (Asphyxiation)</li>
+<li>Boxcutter</li>
+<li>Ice Pick</li>
+<li>Axe</li>
+<li>Piano Wire</li>
+<li>Beer Stein</li>
+<li>Broken Bottle</li>
+<li>Television Set</li>
+<li>Rebar</li>
+<li>Plumber's Wrench</li>
+<li>Screwdriver</li>
+<li>Chainsaw</li>
+<li>Handgun</li>
+<li>Machete</li>
+<li>Sledgehammer</li>
+<li>Brick/Rock</li>
 POISONS
-1. Ricin, ingest
-2. Potassium Cyanide (KCN), ingest
-3. Hyosine, ingest
-4. Tubocurarine, inject
-5. Fentanyl, inject
-6. Dushuqiang, ingest
-7. Ethylene glycol, ingest
-8. Methanol, ingest, absorb
-9. Antimony, ingest
-10. Thallium, ingest
-11. Selenium, ingest
-12. Tellurium, ingest
-13. Copper Acetoarsenite (Paris Green), ingest, inhale
-14. Taxine, ingest
-15. Nicotine, ingest
-16. Prussic Acid, inhale
-17. Adrenalin, inject
-18. Strophanthin, inject
-19. Solanine, ingest
-20. Aconitine, ingest
+<li>Ricin, ingest</li>
+<li>Potassium Cyanide (KCN), ingest</li>
+<li>Hyosine, ingest</li>
+<li>Tubocurarine, inject</li>
+<li>Fentanyl, inject</li>
+<li>Dushuqiang, ingest</li>
+<li>Ethylene glycol, ingest</li>
+<li>Methanol, ingest, absorb</li>
+<li>Antimony, ingest</li>
+<li>Thallium, ingest</li>
+<li>Selenium, ingest</li>
+<li>Tellurium, ingest</li>
+<li>Copper Acetoarsenite (Paris Green), ingest, inhale</li>
+<li>Taxine, ingest</li>
+<li>Nicotine, ingest</li>
+<li>Prussic Acid, inhale</li>
+<li>Adrenalin, inject</li>
+<li>Strophanthin, inject</li>
+<li>Solanine, ingest</li>
+<li>Aconitine, ingest</li>
 PRISONS
-1. ADX Florence (USA, Colorado)
-2. Marion (USA, Illinois)
-3. Rikers Island (USA, New York)
-4. Sing Sing (USA, New York)
-5. Angola Farm (USA, Louisiana)
-6. Attica (USA, New York)
-7. San Quentin (USA, California)
-8. Devil's Island (French Guyana)
-9. Fresnes (France, Paris)
-10. Abu Ghraib (Iraq)
-11. Werl (Germany, Werl)
-12. Mountjoy (Ireland, Dublin)
-13. Kingston Penitentiary (Canada, Ontario)
-14. Presidente Venceslau (Brazil, Sao Paulo)
-15. Fuchu (Japan, Tokyo)
-16. Qincheng (China, Beijing)
-17. Lubyanka (Russia, Moscow)
-18. Manchester "Strangeways" (England, Manchester)
-19. Goulburn (Australia, New South Wales)
-20. Puente Grande (Mexico, Mexico City)
+<li>ADX Florence (USA, Colorado)</li>
+<li>Marion (USA, Illinois)</li>
+<li>Rikers Island (USA, New York)</li>
+<li>Sing Sing (USA, New York)</li>
+<li>Angola Farm (USA, Louisiana)</li>
+<li>Attica (USA, New York)</li>
+<li>San Quentin (USA, California)</li>
+<li>Devil's Island (French Guyana)</li>
+<li>Fresnes (France, Paris)</li>
+<li>Abu Ghraib (Iraq)</li>
+<li>Werl (Germany, Werl)</li>
+<li>Mountjoy (Ireland, Dublin)</li>
+<li>Kingston Penitentiary (Canada, Ontario)</li>
+<li>Presidente Venceslau (Brazil, Sao Paulo)</li>
+<li>Fuchu (Japan, Tokyo)</li>
+<li>Qincheng (China, Beijing)</li>
+<li>Lubyanka (Russia, Moscow)</li>
+<li>Manchester "Strangeways" (England, Manchester)</li>
+<li>Goulburn (Australia, New South Wales)</li>
+<li>Puente Grande (Mexico, Mexico City)</li>
 FORENSIC TECHNIQUES
-1. Computer Facial Reconstruction (identification of skeletal remains using software)
-2. Polymerase Chain Reaction (DNA replication using a catalyst to produce a sample sufficient for testing)
-3. Electrophoresis (the process of sorting DNA fragments according to size so that they can be charged and compared)
-4. Forensic Odontology (dental matching to identify human remains)
-5. Integrated Automated Fingerprint Identification System (IAFIS) (A computerized digital imaging system that captures and compares digital photographs of fingerprints on file)
-6. Refractive Index Analysis (examination of the light-bending ability of glass samples)
-7. Integrated Ballistics Identification System (IBIS) (A computerized digital imaging system that captures and compares digital photographs of fired bullets and cartridge cases)
-8. Cyanoacrylate Fuming (developing fingerprints for preservation)
-9. Voiceprint Identification
-10. Voice Spectrography (examination of the amplitude of the voice in relation to background noise to locate or identify a suspect)
-11. Gas Chromatography (differentiation of different kinds of liquids based on the speed at which they move in gas as an essential processes in identifying poisons and toxins)
-12. Specialized Digital Media Analysis and Recovery (used to recover encrypted evidence stored on a computer)
-13. Handwriting Analysis (differentiation of handwriting samples to identify fraudulent documents)
-14. Mass Spectrometry (exposes ionized solvents to a magnetic field to differentiate the kind of fuel used in explosive devices)
-15. Microspectrophotometry (electronically differentiating paint samples by analysis of their energy wavelengths)
-16. P300 Monitoring via Electroencephalograph Analysis (monitors the activity of the P300 brain wave which becomes active when the subject recognizes something familiar)
-17. Infrared Spectroscopy (identifies if ink samples that appear similar originated from the same source)
-18. Forensic Phonetics (used to determine race, age, sex of a recorded, disguised or digitally altered voice)
-19. Forensic Entomology (used in assessing the time of death by examining the extent of insect infestation in a corpse)
-20. Thin-layer Chromatography (used to identify specific solvents used as fuel in explosives)
+<li>Computer Facial Reconstruction (identification of skeletal remains using software)</li>
+<li>Polymerase Chain Reaction (DNA replication using a catalyst to produce a sample sufficient for testing)</li>
+<li>Electrophoresis (the process of sorting DNA fragments according to size so that they can be charged and compared)</li>
+<li>Forensic Odontology (dental matching to identify human remains)</li>
+<li>Integrated Automated Fingerprint Identification System (IAFIS) (A computerized digital imaging system that captures and compares digital photographs of fingerprints on file)</li>
+<li>Refractive Index Analysis (examination of the light-bending ability of glass samples)</li>
+<li>Integrated Ballistics Identification System (IBIS) (A computerized digital imaging system that captures and compares digital photographs of fired bullets and cartridge cases)</li>
+<li>Cyanoacrylate Fuming (developing fingerprints for preservation)</li>
+<li>Voiceprint Identification</li>
+<li>Voice Spectrography (examination of the amplitude of the voice in relation to background noise to locate or identify a suspect)</li>
+<li>Gas Chromatography (differentiation of different kinds of liquids based on the speed at which they move in gas as an essential processes in identifying poisons and toxins)</li>
+<li>Specialized Digital Media Analysis and Recovery (used to recover encrypted evidence stored on a computer)</li>
+<li>Handwriting Analysis (differentiation of handwriting samples to identify fraudulent documents)</li>
+<li>Mass Spectrometry (exposes ionized solvents to a magnetic field to differentiate the kind of fuel used in explosive devices)</li>
+<li>Microspectrophotometry (electronically differentiating paint samples by analysis of their energy wavelengths)</li>
+<li>P300 Monitoring via Electroencephalograph Analysis (monitors the activity of the P300 brain wave which becomes active when the subject recognizes something familiar)</li>
+<li>Infrared Spectroscopy (identifies if ink samples that appear similar originated from the same source)</li>
+<li>Forensic Phonetics (used to determine race, age, sex of a recorded, disguised or digitally altered voice)</li>
+<li>Forensic Entomology (used in assessing the time of death by examining the extent of insect infestation in a corpse)</li>
+<li>Thin-layer Chromatography (used to identify specific solvents used as fuel in explosives)</li>

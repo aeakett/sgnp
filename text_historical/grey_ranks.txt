@@ -3,212 +3,212 @@ Compiled by Radek Drozdalski and Jason Morningstar
 NOTES
 "Grey Ranks" is the name of Polish Boy Scout and Girl Guide groups who participated in the underground resistance to Nazi occupation during the second world war.  These names and pseudonyms are taken from the actual Grey Ranks rolls as reprinted in Szare Szeregi:  Harcerze, 1939-1945, published by Panstwowe Wydawnictwo Naukowe in 1988.  Personal names are often followed by a diminutive or two.  These might be used informally or as an alternative to the full name.  Every partisan also had a pseudonym - sometimes this was the only name squad-mates even knew.  
 MALE
-1. Adam / Adas
-2. Witold / Witek
-3. Marek
-4. Jan / Janek
-5. Stefan
-6. Henryk / Henio
-7. Janusz / Janek
-8. Jerzy / Jurek
-9. Aleksander / Olek
-10. Tadeusz / Tadzio
-11. Waclaw / Wacek
-12. Bronislaw / Bronek
-13. Czeslaw / Czesiu 
-14. Roman
-15. Boguslaw / Bogus
-16. Jzef / J zek
-17. Maciej / Maciek
-18. Robert
-19. Stanislaw / Stas
-20. Lech / Leszek
+<li>Adam / Adas</li>
+<li>Witold / Witek</li>
+<li>Marek</li>
+<li>Jan / Janek</li>
+<li>Stefan</li>
+<li>Henryk / Henio</li>
+<li>Janusz / Janek</li>
+<li>Jerzy / Jurek</li>
+<li>Aleksander / Olek</li>
+<li>Tadeusz / Tadzio</li>
+<li>Waclaw / Wacek</li>
+<li>Bronislaw / Bronek</li>
+<li>Czeslaw / Czesiu </li>
+<li>Roman</li>
+<li>Boguslaw / Bogus</li>
+<li>Jzef / J zek</li>
+<li>Maciej / Maciek</li>
+<li>Robert</li>
+<li>Stanislaw / Stas</li>
+<li>Lech / Leszek</li>
 FEMALE
-1. Janina / Jasia / Janinka
-2. Maria / Maja
-3. Irena / Irka / Irenka
-4. Zofia / Zosia
-5. Halina / Hala 
-6. Krystyna / Krysia / Srysia
-7. Hanna / Hanka / Hania
-8. Alina / Antonia
-9. Aleksandra / Olenka
-10. Stefania / Stefa
-11. Walentyna / Wala
-12. Barbara / Beata / Basia
-13. Stanislawa
-14. Danuta / Danusia
-15. Aldona / Ada
-16. Jolanta / Jola
-17. Ludwika / Zenka
-18. Lidia / Lidka
-19. Honorata / Honoratka
-20. Elzbieta / Zunia
+<li>Janina / Jasia / Janinka</li>
+<li>Maria / Maja</li>
+<li>Irena / Irka / Irenka</li>
+<li>Zofia / Zosia</li>
+<li>Halina / Hala </li>
+<li>Krystyna / Krysia / Srysia</li>
+<li>Hanna / Hanka / Hania</li>
+<li>Alina / Antonia</li>
+<li>Aleksandra / Olenka</li>
+<li>Stefania / Stefa</li>
+<li>Walentyna / Wala</li>
+<li>Barbara / Beata / Basia</li>
+<li>Stanislawa</li>
+<li>Danuta / Danusia</li>
+<li>Aldona / Ada</li>
+<li>Jolanta / Jola</li>
+<li>Ludwika / Zenka</li>
+<li>Lidia / Lidka</li>
+<li>Honorata / Honoratka</li>
+<li>Elzbieta / Zunia</li>
 MALE PSEUDONYMS 1
-1. Grom
-2. Ren
-3. Dzik
-4. Rost
-5. Ben
-6. Mustang
-7. Bialy
-8. Orakn
-9. Amor
-10. Chromby
-11. Pila
-12. Artur
-13. Slaz
-14. Plug
-15. Leon
-16. Cezar
-17. Kujawiak
-18. Zbik
-19. Dab
-20. Gigant
+<li>Grom</li>
+<li>Ren</li>
+<li>Dzik</li>
+<li>Rost</li>
+<li>Ben</li>
+<li>Mustang</li>
+<li>Bialy</li>
+<li>Orakn</li>
+<li>Amor</li>
+<li>Chromby</li>
+<li>Pila</li>
+<li>Artur</li>
+<li>Slaz</li>
+<li>Plug</li>
+<li>Leon</li>
+<li>Cezar</li>
+<li>Kujawiak</li>
+<li>Zbik</li>
+<li>Dab</li>
+<li>Gigant</li>
 FEMALE PSEUDONYMS
-1. Tosia
-2. Diana
-3. Kozak
-4. Lucja
-5. Zeta
-6. Bronka
-7. Diana
-8. Mala
-9. Danka
-10. Poznanska
-11. Guta
-12. Jola
-13. Nina
-14. Jenny
-15. Jaga
-16. Losiw
-17. Roma
-18. Rafal
-19. Magda
-20. Ola
+<li>Tosia</li>
+<li>Diana</li>
+<li>Kozak</li>
+<li>Lucja</li>
+<li>Zeta</li>
+<li>Bronka</li>
+<li>Diana</li>
+<li>Mala</li>
+<li>Danka</li>
+<li>Poznanska</li>
+<li>Guta</li>
+<li>Jola</li>
+<li>Nina</li>
+<li>Jenny</li>
+<li>Jaga</li>
+<li>Losiw</li>
+<li>Roma</li>
+<li>Rafal</li>
+<li>Magda</li>
+<li>Ola</li>
 MALE PSEUDONYMS 2
-1. Gurt
-2. Hardy
-3. Jagiello
-4. Jedrus
-5. Kmicic
-6. Sosna
-7. Kruk
-8. Lot
-9. Sep
-10. Hrabia
-11. Skiba
-12. Boruta
-13. Tatar
-14. Wicher
-15. Wit
-16. Zeus
-17. Szelag
-18. Ryba
-19. Piechocinski
-20. Konrad
+<li>Gurt</li>
+<li>Hardy</li>
+<li>Jagiello</li>
+<li>Jedrus</li>
+<li>Kmicic</li>
+<li>Sosna</li>
+<li>Kruk</li>
+<li>Lot</li>
+<li>Sep</li>
+<li>Hrabia</li>
+<li>Skiba</li>
+<li>Boruta</li>
+<li>Tatar</li>
+<li>Wicher</li>
+<li>Wit</li>
+<li>Zeus</li>
+<li>Szelag</li>
+<li>Ryba</li>
+<li>Piechocinski</li>
+<li>Konrad</li>
 UNUSUAL PSEUDONYMS
-1. Elf
-2. Baca
-3. Bamba
-4. Hulajnoga
-5. Kajetan
-6. Teka
-7. Zodiak
-8. Drab
-9. Ring
-10. Skaut
-11. Mucha
-12. Granat
-13. Lada
-14. Maly
-15. Jodla
-16. Olcha
-17. Pelikan
-18. Elektryk
-19. Tyka
-20. Mar
+<li>Elf</li>
+<li>Baca</li>
+<li>Bamba</li>
+<li>Hulajnoga</li>
+<li>Kajetan</li>
+<li>Teka</li>
+<li>Zodiak</li>
+<li>Drab</li>
+<li>Ring</li>
+<li>Skaut</li>
+<li>Mucha</li>
+<li>Granat</li>
+<li>Lada</li>
+<li>Maly</li>
+<li>Jodla</li>
+<li>Olcha</li>
+<li>Pelikan</li>
+<li>Elektryk</li>
+<li>Tyka</li>
+<li>Mar</li>
 SURNAMES 1
-1. Augustynska
-2. Zielewicz
-3. Bartnik
-4. Darda
-5. Czerwinska
-6. Prochaska
-7. Urbanowicz
-8. Falewicz
-9. Grudzinska
-10. Marynowska
-11. Leska
-12. Chmurzanka
-13. Swiderska
-14. Zmyslowska
-15. Wysocka
-16. Pastuszko
-17. Stefanowska
-18. Kasperska
-19. Nauman
-20. Wiekowska
+<li>Augustynska</li>
+<li>Zielewicz</li>
+<li>Bartnik</li>
+<li>Darda</li>
+<li>Czerwinska</li>
+<li>Prochaska</li>
+<li>Urbanowicz</li>
+<li>Falewicz</li>
+<li>Grudzinska</li>
+<li>Marynowska</li>
+<li>Leska</li>
+<li>Chmurzanka</li>
+<li>Swiderska</li>
+<li>Zmyslowska</li>
+<li>Wysocka</li>
+<li>Pastuszko</li>
+<li>Stefanowska</li>
+<li>Kasperska</li>
+<li>Nauman</li>
+<li>Wiekowska</li>
 SURNAMES 2
-1. Sikorska
-2. Jarkowska
-3. Herman
-4. Vorbrodt
-5. Kieffer
-6. Sidorowicz
-7. Dudek
-8. Kordulski
-9. Hlasko
-10. Golebiowska
-11. Korzeniowska
-12. Strachalska
-13. Pietrasiewicz
-14. Lempicka
-15. Podkomorski
-16. Karwicka
-17. Grzeszczak
-18. Slubicki
-19. Wiwatowski
-20. Sawicka
+<li>Sikorska</li>
+<li>Jarkowska</li>
+<li>Herman</li>
+<li>Vorbrodt</li>
+<li>Kieffer</li>
+<li>Sidorowicz</li>
+<li>Dudek</li>
+<li>Kordulski</li>
+<li>Hlasko</li>
+<li>Golebiowska</li>
+<li>Korzeniowska</li>
+<li>Strachalska</li>
+<li>Pietrasiewicz</li>
+<li>Lempicka</li>
+<li>Podkomorski</li>
+<li>Karwicka</li>
+<li>Grzeszczak</li>
+<li>Slubicki</li>
+<li>Wiwatowski</li>
+<li>Sawicka</li>
 SURNAMES 3
-1. Hoffman
-2. Kacprzak
-3. Borowicz
-4. Czarnecka
-5. Wojnarowska
-6. Zakrzewska
-7. Ptaszynski
-8. Raciborski
-9. Krauze
-10. Skiba
-11. Kowalski
-12. Pietrzyk
-13. Samosarski
-14. Lewinska
-15. Malento
-16. Kozicki
-17. Dunin
-18. Edelman
-19. Huskowski
-20. Jastrzebska
+<li>Hoffman</li>
+<li>Kacprzak</li>
+<li>Borowicz</li>
+<li>Czarnecka</li>
+<li>Wojnarowska</li>
+<li>Zakrzewska</li>
+<li>Ptaszynski</li>
+<li>Raciborski</li>
+<li>Krauze</li>
+<li>Skiba</li>
+<li>Kowalski</li>
+<li>Pietrzyk</li>
+<li>Samosarski</li>
+<li>Lewinska</li>
+<li>Malento</li>
+<li>Kozicki</li>
+<li>Dunin</li>
+<li>Edelman</li>
+<li>Huskowski</li>
+<li>Jastrzebska</li>
 SURNAMES 4
-1. Butkiewicz
-2. Ceglowska
-3. Jaszczuk
-4. Kabanski
-5. Gerbert
-6. Krassowska
-7. Meyer
-8. Michalowska
-9. Olszewska
-10. Saski
-11. Zapadko
-12. Czechwicz
-13. Zborowski
-14. Dabrowska
-15. Kalinowska
-16. Pindelska
-17. Gral
-18. Grabowska
-19. Kapusta
-20. Zwolinski
+<li>Butkiewicz</li>
+<li>Ceglowska</li>
+<li>Jaszczuk</li>
+<li>Kabanski</li>
+<li>Gerbert</li>
+<li>Krassowska</li>
+<li>Meyer</li>
+<li>Michalowska</li>
+<li>Olszewska</li>
+<li>Saski</li>
+<li>Zapadko</li>
+<li>Czechwicz</li>
+<li>Zborowski</li>
+<li>Dabrowska</li>
+<li>Kalinowska</li>
+<li>Pindelska</li>
+<li>Gral</li>
+<li>Grabowska</li>
+<li>Kapusta</li>
+<li>Zwolinski</li>

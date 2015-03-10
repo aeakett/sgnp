@@ -3,107 +3,107 @@ Compiled by Jason Morningstar
 NOTES
 Created using Lexgen, http://tmt.sourceforge.net/lexgen/, using Hawaiian phonemes as a base and adding some Nahuatl love for weirdness.
 MALE 1
-1. Maho
-2. Pimu'no'mo
-3. Mo'we'wilo
-4. Ke'tlo
-5. Miko
-6. Nuho
-7. Ki'punokawo
-8. Wepohu'ko
-9. Napokiho
-10. Nanahatlu
-11. Piku'pe
-12. Hu'u
-13. Hanehoha
-14. Lowukapi
-15. Nunihu'he
-16. Kapu
-17. Hohalekuwe
-18. Laluli'ke
-19. Pini'hukuhe
-20. Muha'lewe
+<li>Maho</li>
+<li>Pimu'no'mo</li>
+<li>Mo'we'wilo</li>
+<li>Ke'tlo</li>
+<li>Miko</li>
+<li>Nuho</li>
+<li>Ki'punokawo</li>
+<li>Wepohu'ko</li>
+<li>Napokiho</li>
+<li>Nanahatlu</li>
+<li>Piku'pe</li>
+<li>Hu'u</li>
+<li>Hanehoha</li>
+<li>Lowukapi</li>
+<li>Nunihu'he</li>
+<li>Kapu</li>
+<li>Hohalekuwe</li>
+<li>Laluli'ke</li>
+<li>Pini'hukuhe</li>
+<li>Muha'lewe</li>
 FEMALE 1
-1. Huka
-2. Ni'huka
-3. Ha'limuhuwapa
-4. Ku'ma
-5. Mi'hihona
-6. La'a
-7. Wehilaleka
-8. Pewalihuka
-9. Tlewatlepa
-10. Kopa'pamo'hoka
-11. Hekehehowa
-12. Hapi'ke'ma
-13. Nakemi
-14. Mi'ki
-15. Mokawuwo'wi
-16. Pipapuhi
-17. Milumumetli
-18. Luli
-19. Petlonelulotli
-20. Himuhi
+<li>Huka</li>
+<li>Ni'huka</li>
+<li>Ha'limuhuwapa</li>
+<li>Ku'ma</li>
+<li>Mi'hihona</li>
+<li>La'a</li>
+<li>Wehilaleka</li>
+<li>Pewalihuka</li>
+<li>Tlewatlepa</li>
+<li>Kopa'pamo'hoka</li>
+<li>Hekehehowa</li>
+<li>Hapi'ke'ma</li>
+<li>Nakemi</li>
+<li>Mi'ki</li>
+<li>Mokawuwo'wi</li>
+<li>Pipapuhi</li>
+<li>Milumumetli</li>
+<li>Luli</li>
+<li>Petlonelulotli</li>
+<li>Himuhi</li>
 MALE 2
-1. Lako'ne
-2. Hehomu
-3. Pu'mopuli
-4. Menepihe
-5. Noneheku
-6. Kitlehenake
-7. Kopokotle
-8. Nime
-9. Ku'u
-10. Naniwomemolu
-11. Kani'hunu
-12. Punokiwu'nu
-13. Nume
-14. Kakuhe
-15. Lamupimilowe
-16. Makopemu
-17. Nenehohawe
-18. Nelemamu
-19. Nukupenu
-20. Pu'u
+<li>Lako'ne</li>
+<li>Hehomu</li>
+<li>Pu'mopuli</li>
+<li>Menepihe</li>
+<li>Noneheku</li>
+<li>Kitlehenake</li>
+<li>Kopokotle</li>
+<li>Nime</li>
+<li>Ku'u</li>
+<li>Naniwomemolu</li>
+<li>Kani'hunu</li>
+<li>Punokiwu'nu</li>
+<li>Nume</li>
+<li>Kakuhe</li>
+<li>Lamupimilowe</li>
+<li>Makopemu</li>
+<li>Nenehohawe</li>
+<li>Nelemamu</li>
+<li>Nukupenu</li>
+<li>Pu'u</li>
 FEMALE 2
-1. Tlotli
-2. Wuhohimi
-3. Ka'tlemi
-4. Ne'ma'li
-5. Tlo'mane'ha
-6. Ho'pone'hi
-7. Hi'mi'ka
-8. Lo'namana
-9. Mupiwe'pi
-10. Tli'nakina
-11. Palu'hi
-12. Ke'lohatla
-13. Pumiheweki
-14. Piha'hu'ki
-15. Ni'puna
-16. Tla'po'nipa
-17. Ma'kukepi
-18. Napilo'humuma
-19. Nimopa
-20. Kunohila
+<li>Tlotli</li>
+<li>Wuhohimi</li>
+<li>Ka'tlemi</li>
+<li>Ne'ma'li</li>
+<li>Tlo'mane'ha</li>
+<li>Ho'pone'hi</li>
+<li>Hi'mi'ka</li>
+<li>Lo'namana</li>
+<li>Mupiwe'pi</li>
+<li>Tli'nakina</li>
+<li>Palu'hi</li>
+<li>Ke'lohatla</li>
+<li>Pumiheweki</li>
+<li>Piha'hu'ki</li>
+<li>Ni'puna</li>
+<li>Tla'po'nipa</li>
+<li>Ma'kukepi</li>
+<li>Napilo'humuma</li>
+<li>Nimopa</li>
+<li>Kunohila</li>
 GOD PLACES
-1. Tlolutli'kohuhu'ko
-2. Wanekamukinu
-3. Kumawiluwelo
-4. Kepikalewe'wule
-5. Tlukuke'niwa'
-6. Mewu'pa'nuki
-7. Mahowutlotlo
-8. Lowololihuhopa
-9. Nolapemupohena
-10. Pamimolupape
-11. Pepowahapihuki
-12. Hopu'nopilapope
-13. Mepemeni'powu
-14. Mele'holekemu
-15. Mipuwanumo'
-16. Tlewenupemotlo
-17. Lupinenepoku
-18. Hatlonuhapotleni
-19. Welunepolokiha
-20. Kukawowuhukepu
+<li>Tlolutli'kohuhu'ko</li>
+<li>Wanekamukinu</li>
+<li>Kumawiluwelo</li>
+<li>Kepikalewe'wule</li>
+<li>Tlukuke'niwa'</li>
+<li>Mewu'pa'nuki</li>
+<li>Mahowutlotlo</li>
+<li>Lowololihuhopa</li>
+<li>Nolapemupohena</li>
+<li>Pamimolupape</li>
+<li>Pepowahapihuki</li>
+<li>Hopu'nopilapope</li>
+<li>Mepemeni'powu</li>
+<li>Mele'holekemu</li>
+<li>Mipuwanumo'</li>
+<li>Tlewenupemotlo</li>
+<li>Lupinenepoku</li>
+<li>Hatlonuhapotleni</li>
+<li>Welunepolokiha</li>
+<li>Kukawowuhukepu</li>
