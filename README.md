@@ -1,1 +1,1 @@
-# sgnp
+This is a collection of the original contributions to the Story Games Names Project circa 2006/2006. This material is licensed under CC-BY-NC-SA. See LICENSE for more details.
