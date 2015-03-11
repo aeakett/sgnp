@@ -1,7 +1,7 @@
 ﻿<h1>CHICKASAW</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-NOTES
-These names are taken from the 1818 Chickasaw nation census.  They might be useful for any group of partially-assimilated Native Americans, or maybe isolated space colonists or something.  
+<h2>NOTES</h2>
+<p>These names are taken from the 1818 Chickasaw nation census.  They might be useful for any group of partially-assimilated Native Americans, or maybe isolated space colonists or something.  </p>
 SURNAMES 1
 <ol><li>Allen</li>
 <li>Gilchrist</li>

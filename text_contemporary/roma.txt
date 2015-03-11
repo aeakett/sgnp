@@ -1,10 +1,13 @@
 ﻿<h1>ROMA</h1>
 <p class="contributor">Compiled by Olle Jonsson (ollejonsson@gmailcom) and Joshua BishopRoby</p>
-NOTES
-Some of this was cribbed from:  
-http://www.20000-names.com/
-http://www.2arnes.si/~eusmith/Romany/ 
-http://www.en.wikipedia.org/wiki/Roma_(people) 
+<h2>NOTES</h2>
+<p>Some of this was cribbed from:
+<ul>
+<li>http://www.20000-names.com/</li>
+<li>http://www.2arnes.si/~eusmith/Romany/</li>
+<li>http://www.en.wikipedia.org/wiki/Roma_(people)</li>
+</ul>
+</p>
 MALE 1 
 <ol><li>Boldo / wise man</li>
 <li>Djordji / farmer </li>

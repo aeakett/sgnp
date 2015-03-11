@@ -1,7 +1,7 @@
 ﻿<h1>QUNA</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-NOTES
-These are wonderfully evocative common terms in Quechua.  You could easily use them for South American natives or an invented culture.  
+<h2>NOTES</h2>
+<p>These are wonderfully evocative common terms in Quechua.  You could easily use them for South American natives or an invented culture.  </p>
 MALE 1
 <ol><li>Ñuqa</li>
 <li>Qam</li>

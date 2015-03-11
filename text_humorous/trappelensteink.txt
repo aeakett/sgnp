@@ -1,7 +1,7 @@
 ﻿<h1>THE NOBLE AND WORTHY VON TRAPPLENSTEINK CLAN</h1>
 <p class="contributor">Compiled by Meguey Baker, Mischa Krilov, Vincent Baker, and Emily Care Boss</p>
-NOTES
-As with all great names, the Von Trapplensteinks pass the family name along the male line, so those who marry in have their own maiden names, also included on this list. It ought to be easy for anyone to see the fine family tree represented here.
+<h2>NOTES</h2>
+<p>As with all great names, the Von Trapplensteinks pass the family name along the male line, so those who marry in have their own maiden names, also included on this list. It ought to be easy for anyone to see the fine family tree represented here.</p>
 <h3>MALE VON TRAPPLENSTEINKS</h3>
 <ol><li>Baxter Poindexter Erasmus (the current heir)</li>
 <li>Grosskurth Archibald (uncle of Baxter P.E.)</li>

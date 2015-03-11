@@ -1,7 +1,7 @@
 ﻿<h1>NHIRRPI</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-NOTES
-Nhirrpi is a language once spoken in the Stony Country of the northeastern corner of south Australia.
+<h2>NOTES</h2>
+<p>Nhirrpi is a language once spoken in the Stony Country of the northeastern corner of south Australia.</p>
 MALE 1
 <ol><li>Darrapanthila	</li>
 <li>Kirriyari</li>

@@ -1,14 +1,14 @@
 ﻿<h1>FILIPINO </h1>
 <p class="contributor">Compiled by Selene Tan </p>
-NOTES 
-Included here are silly or unusual Filipino male, female, and neutral first names, as well as Filipino surnames of Spanish, indigenous, and Chinese origin. "Normal" Filipino first names look pretty normal; you can probably pick up a US or Spanish or whatever list of first names, and they'll come out right. A lot of Filipino women have names starting with "Maria", which are frequently shortened. (e.g. "Maria Theresa" becomes "Maritess".) 
-Make your own silly Filipino names: (usually only one technique is used at a time):
-Make a pun, because puns are awesome 
-Combine words or names to make new ones (e.g. Vanessa + Dolphy = Vandolph, He and Her son = Heherson) 
-Add an extra "h" (e.g. "Ben" becomes "Bhen") 
-Use one syllable and repeat it 
-Start from a desired nickname and pick a real name to go with it 
-Finally, as a bonus, I've included some Filipino meals and snack or party foods. 
+<h2>NOTES </h2>
+<p>Included here are silly or unusual Filipino male, female, and neutral first names, as well as Filipino surnames of Spanish, indigenous, and Chinese origin. "Normal" Filipino first names look pretty normal; you can probably pick up a US or Spanish or whatever list of first names, and they'll come out right. A lot of Filipino women have names starting with "Maria", which are frequently shortened. (e.g. "Maria Theresa" becomes "Maritess".) </p>
+<p>Make your own silly Filipino names: (usually only one technique is used at a time):</p>
+<p>Make a pun, because puns are awesome </p>
+<p>Combine words or names to make new ones (e.g. Vanessa + Dolphy = Vandolph, He and Her son = Heherson) </p>
+<p>Add an extra "h" (e.g. "Ben" becomes "Bhen") </p>
+<p>Use one syllable and repeat it </p>
+<p>Start from a desired nickname and pick a real name to go with it </p>
+<p>Finally, as a bonus, I've included some Filipino meals and snack or party foods. </p>
 MALE 1
 <ol><li>Boboy </li>
 <li>Aprodicio </li>

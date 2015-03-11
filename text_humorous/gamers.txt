@@ -1,7 +1,7 @@
 ﻿<h1>GAMERS</h1>
 <p class="contributor">Compiled by Dave Younce</p>
-NOTES
-In case you need some random gamers sitting around a table playing a game within your game.  The games we're playing were pulled from http://slithytoves.sytes.net/~dave/rpggen/.  You can also roll to see who the gamers are who the gamers in your game are playing if you want.  
+<h2>NOTES</h2>
+<p>In case you need some random gamers sitting around a table playing a game within your game.  The games we're playing were pulled from http://slithytoves.sytes.net/~dave/rpggen/.  You can also roll to see who the gamers are who the gamers in your game are playing if you want.  </p>
 <h3>MALE 1</h3>
 <ol><li>Ron</li>
 <li>Joshua</li>

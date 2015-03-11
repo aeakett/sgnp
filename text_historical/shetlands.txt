@@ -1,7 +1,7 @@
 ﻿<h1>SHETLAND ISLANDS, 1600</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-NOTES
-These are interesting because they are from a transitional time, so many names have a familiar sound to them but are not entirely modern.  Some of the surnames are not surnames at all; if you don't like "of Udsta", just make Udsta the surname.  Source: Donaldson, Gordon, ed. The Court Book of Shetland 1602-1604.  Edinburgh: J. Skinner & Co. Ltd., 1954.
+<h2>NOTES</h2>
+<p>These are interesting because they are from a transitional time, so many names have a familiar sound to them but are not entirely modern.  Some of the surnames are not surnames at all; if you don't like "of Udsta", just make Udsta the surname.  Source: Donaldson, Gordon, ed. The Court Book of Shetland 1602-1604.  Edinburgh: J. Skinner & Co. Ltd., 1954.</p>
 MALE 1
 <ol><li>Magnús</li>
 <li>Androw</li>

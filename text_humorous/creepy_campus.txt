@@ -1,7 +1,7 @@
 ﻿<h1>CREEPY ACADEMIA</h1>
 <p class="contributor">Compiled by Brand Robins, Mischa D. Krilov and Jason Morningstar</p>
-NOTES
-Call it 1925, somewhere in New England.  Somewhere unwholesome... The ancient and dead languages are perfect for your Curious Volumes of Forbidden Lore.
+<h2>NOTES</h2>
+<p>Call it 1925, somewhere in New England.  Somewhere unwholesome... The ancient and dead languages are perfect for your Curious Volumes of Forbidden Lore.</p>
 <h3>MALE PROFESSORS</h3>
 <ol><li>Underwood Mayfield-Carter</li>
 <li>Juan Santiago Ramos-Torres</li>

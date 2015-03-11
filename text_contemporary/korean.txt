@@ -1,10 +1,10 @@
 ﻿<h1>KOREAN</h1>
 <p class="contributor">Compiled by Clinton R. Nixon</p>
-NOTES
-Korean names are constructed as family name then given name. Family names are passed down through a male lineage, but women do not change their names when married, except outside of Korea.
-45% of all South Koreans have the family name of Kim, Park, or Lee. The distribution of names is not nearly as heterogeneous as in many other cultures. In fact, there are only about 250 family names total. Because of this distribution, the above chart is made so that one could easily roll 4d6-4 on the common family name chart to get a name, with Kim being the most common result. (Rolling a zero would send you to the rare family names chart.)
-Romanization of Korean names is not standardized in any way. The names above are more or less phonetically correct, but common romanizations are put beside the names where appropriate, such as "Lee" for "Yi," which is actually pronounced in Korean as "E." North Koreans tend to use a "r" sound for "n" or "l," which provides "Rhee," "Ryu," and "Roh" above.
-Each family name is composed of three to six clans, with each clan being a historical topographical origin of that name. Up until recently, it was illegal to marry someone of your same clan. This is still discouraged by traditionalists, as all clan members share a slight blood tie. Incest is one of the most heinous and unthinkable of all crimes in Korean culture.
+<h2>NOTES</h2>
+<p>Korean names are constructed as family name then given name. Family names are passed down through a male lineage, but women do not change their names when married, except outside of Korea.</p>
+<p>45% of all South Koreans have the family name of Kim, Park, or Lee. The distribution of names is not nearly as heterogeneous as in many other cultures. In fact, there are only about 250 family names total. Because of this distribution, the above chart is made so that one could easily roll 4d6-4 on the common family name chart to get a name, with Kim being the most common result. (Rolling a zero would send you to the rare family names chart.)</p>
+<p>Romanization of Korean names is not standardized in any way. The names above are more or less phonetically correct, but common romanizations are put beside the names where appropriate, such as "Lee" for "Yi," which is actually pronounced in Korean as "E." North Koreans tend to use a "r" sound for "n" or "l," which provides "Rhee," "Ryu," and "Roh" above.</p>
+<p>Each family name is composed of three to six clans, with each clan being a historical topographical origin of that name. Up until recently, it was illegal to marry someone of your same clan. This is still discouraged by traditionalists, as all clan members share a slight blood tie. Incest is one of the most heinous and unthinkable of all crimes in Korean culture.</p>
 COMMON SURNAMES
 <ol><li>Lim</li>
 <li>Moon</li>

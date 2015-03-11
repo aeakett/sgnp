@@ -1,7 +1,7 @@
 ﻿<h1>CHEYENNE</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-NOTES
-These come from 19th century tribal rolls.  They were compiled by Indian agents and are of dubious linguistic fidelity.  You could use any of these names as a place name by adding "mesa", "creek", "ridge", etc. to the end of it.
+<h2>NOTES</h2>
+<p>These come from 19th century tribal rolls.  They were compiled by Indian agents and are of dubious linguistic fidelity.  You could use any of these names as a place name by adding "mesa", "creek", "ridge", etc. to the end of it.</p>
 MALE NAMES ONE
 <ol><li>Bare Bow / NAW-AH-A-MA       </li>
 <li>Left Hand Bull / AH-HO-A-MOW  </li>

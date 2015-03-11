@@ -1,8 +1,7 @@
 ﻿<h1>VIETNAMESE</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-
-NOTES
-Vietnamese names are ordered surname – middle name – given name. You refer to somebody by their honorific and given name – so Đặng Công Bao would be Mr. Bao, not Mr. Đặng.
+<h2.NOTES</h2>
+<p>Vietnamese names are ordered surname – middle name – given name. You refer to somebody by their honorific and given name – so Đặng Công Bao would be Mr. Bao, not Mr. Đặng.</p>
 
 SURNAMES
 Common names, in descending order of popularity (Nguyễn accounts for 38.4%)

@@ -1,7 +1,7 @@
 ﻿<h1>ASSYRIAN</h1>
 <p class="contributor">Compiled by D. Vincent Baker</p>
-NOTES
-Compiled from the Assyrian Names Project, http://www.nineveh.com/Assyrian%20Names%20Project.html
+<h2>NOTES</h2>
+<p>Compiled from the Assyrian Names Project, http://www.nineveh.com/Assyrian%20Names%20Project.html</p>
 FEMALE NAMES 1
 <ol><li>Aurhai</li>
 <li>Awita</li>

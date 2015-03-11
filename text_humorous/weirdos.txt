@@ -1,7 +1,7 @@
 ﻿<h1>WEIRD CHARACTERS</h1>
 <p class="contributor">Compiled by Meguey Baker</p>
-NOTES
-Town busy-bodies, weirdos, hillbillies, and self-important characters. Add a middle initial for extra oddness.
+<h2>NOTES</h2>
+<p>Town busy-bodies, weirdos, hillbillies, and self-important characters. Add a middle initial for extra oddness.</p>
 <h3>MALE NAMES</h3>
 <ol><li>Neville</li>
 <li>Elmer</li>

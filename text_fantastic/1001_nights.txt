@@ -1,7 +1,7 @@
 ﻿<h1>1001 NIGHTS - FANTASY ARABIC</h1>
 <p class="contributor">Compiled by Meguey Baker</p>
-NOTES
-These names are taken from the 1001 Nights collected by Andrew Lang, with a few additions. If you feel the need for a character with a full name, an easy way is to choose 'Name ibn Father's Name' for a male and 'Name bint Father's Name' for a female. Being known only as 'Ibn Father's Name' would be common and fine. 'Name al-Adjective' (as 'the Lionhearted', the Bald' etc.) is very common for men, far less so for women. Adding 'Baba' before a name is a handy familiar honorific, as 'Uncle' would be. Women are often honored as 'Umm (mother of) Child's Name, Name'. For nobility, Amir and Amira for Prince and Princess is easy.
+<h2>NOTES</h2>
+<p>These names are taken from the 1001 Nights collected by Andrew Lang, with a few additions. If you feel the need for a character with a full name, an easy way is to choose 'Name ibn Father's Name' for a male and 'Name bint Father's Name' for a female. Being known only as 'Ibn Father's Name' would be common and fine. 'Name al-Adjective' (as 'the Lionhearted', the Bald' etc.) is very common for men, far less so for women. Adding 'Baba' before a name is a handy familiar honorific, as 'Uncle' would be. Women are often honored as 'Umm (mother of) Child's Name, Name'. For nobility, Amir and Amira for Prince and Princess is easy.</p>
 MALE 
 <ol><li>Ahmed</li>
 <li>Hasad</li>

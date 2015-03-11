@@ -1,7 +1,7 @@
 ﻿<h1>MEDIEVAL FRENCH</h1>
 <p class="contributor">Compiled by Shreyas Sampat</p>
-NOTES
-These are Norman and Occitan French names. When the Normans invaded Britain they brought their language with them, so this could also be suitable for a game set there; use French names for the gentry and Germanic names for the common people.
+<h2>NOTES</h2>
+<p>These are Norman and Occitan French names. When the Normans invaded Britain they brought their language with them, so this could also be suitable for a game set there; use French names for the gentry and Germanic names for the common people.</p>
 MALE NAMES 1
 <ol><li>Theobald</li>
 <li>Lijart</li>

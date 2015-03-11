@@ -1,7 +1,7 @@
 ﻿<h1>PERSIAN</h1>
 <p class="contributor">Compiled by D. Vincent Baker</p>
-NOTES
-From http://en.wikipedia.org/wiki/List_of_Persian_given_names
+<h2>NOTES</h2>
+<p>From http://en.wikipedia.org/wiki/List_of_Persian_given_names</p>
 FEMALE 1
 <ol><li>Zari </li>
 <li>Darya </li>

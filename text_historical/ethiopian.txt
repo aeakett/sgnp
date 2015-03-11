@@ -1,7 +1,7 @@
 ﻿<h1>ETHIOPIAN</h1>
 <p class="contributor">Compiled by Moyra Turkington</p>
-NOTES
-Names are comprised of a personal name followed by the personal name of the person's father or grandfather. A child's surname is the personal name of the father rather than an inherited surname (e.g. Lebne Azmera, son of Azmera Kifle). Women do not necessarily change their name on marriage, but when they do they take the surname used by their husband.  In dining, dishes are shared: "those who eat from the same plate will not betray each other". They are served on and eaten with injera, a flatbread made of the grain teff. When one diner wishes to honor another, they arrange a morsel of food and hand feed it into the mouth of the recipient; this practice is called a Gursha. The traditional alcoholic beverage is a honey wine called Tej.
+<h2>NOTES</h2>
+<p>Names are comprised of a personal name followed by the personal name of the person's father or grandfather. A child's surname is the personal name of the father rather than an inherited surname (e.g. Lebne Azmera, son of Azmera Kifle). Women do not necessarily change their name on marriage, but when they do they take the surname used by their husband.  In dining, dishes are shared: "those who eat from the same plate will not betray each other". They are served on and eaten with injera, a flatbread made of the grain teff. When one diner wishes to honor another, they arrange a morsel of food and hand feed it into the mouth of the recipient; this practice is called a Gursha. The traditional alcoholic beverage is a honey wine called Tej.</p>
 MALE NAMES
 <ol><li>Abebe</li>
 <li>Afework</li>

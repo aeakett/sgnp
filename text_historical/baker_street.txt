@@ -1,7 +1,7 @@
 ﻿<h1>221B BAKER STREET</h1>
 <p class="contributor">Compiled by Graham Walmsley</p>
-NOTES
-Florid, literary late Victorian/Edwardian England, clue-hunting or otherwise.  
+<h2>NOTES</h2>
+<p>Florid, literary late Victorian/Edwardian England, clue-hunting or otherwise.  </p>
 MALE
 <ol><li>George</li>
 <li>James</li>

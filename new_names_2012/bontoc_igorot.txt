@@ -1,12 +1,11 @@
 ﻿<h1>BONTOC IGOROT</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
+<h2>NOTES</h2>
+<p>From The Bontoc Igorot, Albert Ernest Jenks, 1905</p>
 
-NOTES
-From The Bontoc Igorot, Albert Ernest Jenks, 1905
+<p>In several languages of northern Luzon the word “Ĭg-o-rot′” means “mountain people.” Dr. Pardo de Tavera says the word “Igorrote” is composed of the root word “golot,” meaning, in Tagalog, “mountain chain,” and the prefix “i,” meaning “dweller in” or “people of.”</p>
 
-In several languages of northern Luzon the word “Ĭg-o-rot′” means “mountain people.” Dr. Pardo de Tavera says the word “Igorrote” is composed of the root word “golot,” meaning, in Tagalog, “mountain chain,” and the prefix “i,” meaning “dweller in” or “people of.”
-
-The people are generally reticent about telling their names; and when they do tell, the name given is usually the one borne in childhood; an old man will generally answer “am-a′-ma,” meaning simply “old man.” 
+<p>The people are generally reticent about telling their names; and when they do tell, the name given is usually the one borne in childhood; an old man will generally answer “am-a′-ma,” meaning simply “old man.” </p>
 
 MALE FORMAL
 <ol><li>Som-kad’</li>

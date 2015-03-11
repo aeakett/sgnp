@@ -1,7 +1,7 @@
 ﻿<h1>GNOLL</h1>
 <p class="contributor">Compiled by Brendan Adkins</p>
-NOTES
-Since Gnollish society is matriarchal, female names are given a -sh suffix to indicate deference.  (Or something.)
+<h2>NOTES</h2>
+<p>Since Gnollish society is matriarchal, female names are given a -sh suffix to indicate deference.  (Or something.)</p>
 <h3>MALE</h3>
 <ol><li>Grangir</li>
 <li>Heenen</li>

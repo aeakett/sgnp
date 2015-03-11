@@ -1,8 +1,7 @@
 ﻿<h1>TAKAAN-ŠELU</h1>
 <p class="contributor">By Jason Morningstar</p>
-
-NOTES
-These names are an unholy mashup of Lithuanian, Slovenian and Azeri.
+<h2>NOTES</h2>
+<p>These names are an unholy mashup of Lithuanian, Slovenian and Azeri.</p>
 
 PLACE NAMES
 <ol><li>Kaus</li>

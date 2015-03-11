@@ -1,7 +1,7 @@
 ﻿<h1>ELVISH</h1>
 <p class="contributor">Compiled by Joshua BishopRoby</p>
-NOTES
-Sindarin names from: Noel, Ruth S. and Tolkien, J.R.R., Languages of Tolkien's Middle Earth.  Houghton-Mifflin, Boston, Massachusetts. 1980.  
+<h2>NOTES</h2>
+<p>Sindarin names from: Noel, Ruth S. and Tolkien, J.R.R., Languages of Tolkien's Middle Earth.  Houghton-Mifflin, Boston, Massachusetts. 1980.  </p>
 MALE
 <ol><li>Ehtyarion / Spear Carrier</li>
 <li>Mithrennon / Grey</li>

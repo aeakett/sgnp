@@ -1,7 +1,7 @@
 ﻿<h1>PSEUDO ENGLISH</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-NOTES
-These names all have a vaguely English feel to them, but they are not quite right - perfect for the nobility of a distant star empire, or an alternate history, or whatever.  
+<h2>NOTES</h2>
+<p>These names all have a vaguely English feel to them, but they are not quite right - perfect for the nobility of a distant star empire, or an alternate history, or whatever.  </p>
 MALE NAMES ONE 
 <ol><li>Caul       </li>
 <li>Aleand   </li>

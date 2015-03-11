@@ -1,7 +1,7 @@
 ﻿<h1>MAGICIANS, WIZARDS, AND WORKERS OF MAGIC</h1>
 <p class="contributor">Compiled by Meguey Baker</p>
-NOTES
-These are all taken from the 6 year long Ars Magica home-brew game I played with Emily Care Boss and Vincent Baker. Enjoy.
+<h2>NOTES</h2>
+<p>These are all taken from the 6 year long Ars Magica home-brew game I played with Emily Care Boss and Vincent Baker. Enjoy.</p>
 MALE 
 <ol><li>Apis Malefica</li>
 <li>Labecula</li>

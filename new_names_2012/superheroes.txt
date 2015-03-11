@@ -1,7 +1,7 @@
 ﻿<h1>Public Domain Superheroes</h1>
 <p class="contributor">Compiled by Nick Wedig</p>
-
-(taken from http://pdsh.wikia.com/wiki/)
+<h2>NOTES</h2>
+<p>(taken from http://pdsh.wikia.com/wiki/)</p>
 
 MALE
 <ol><li>Mr. Magic</li>

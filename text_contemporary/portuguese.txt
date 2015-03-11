@@ -1,8 +1,8 @@
 ﻿<h1>PORTUGUESE NAMES</h1>
 <p class="contributor">Compiled by João Mendes and Ana Carrilho</p>
-NOTES
-The male and female names and surnames are both common and culturally significant in modern day Lisbon, Portugal, and are probably representative of the rest of the country as well. By the same token, virtually all of them were in use during the maritime expansion era (15th-17th centuries), which will probably be more significant.
-Additionally, we've included a short list of male and female names that were way more common back then than they are now.
+<h2>NOTES</h2>
+<p>The male and female names and surnames are both common and culturally significant in modern day Lisbon, Portugal, and are probably representative of the rest of the country as well. By the same token, virtually all of them were in use during the maritime expansion era (15th-17th centuries), which will probably be more significant.</p>
+<p>Additionally, we've included a short list of male and female names that were way more common back then than they are now.</p>
 MALE 1
 <ol><li>Alberto </li>
 <li>José </li>

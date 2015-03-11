@@ -1,7 +1,7 @@
 ﻿<h1>PRIVATEERS</h1>
 <p class="contributor">Compiled by D. Vincent Baker</p>
-NOTES
-Canadian Privateers during the American Revolution - men and ships.  Compiled from http://www.chebucto.ns.ca/~jacktar/privateering.html
+<h2>NOTES</h2>
+<p>Canadian Privateers during the American Revolution - men and ships.  Compiled from http://www.chebucto.ns.ca/~jacktar/privateering.html</p>
 MALE 1
 <ol><li>Perkins, Zebulon</li>
 <li>Kitchen, Henry</li>

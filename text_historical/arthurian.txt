@@ -1,7 +1,7 @@
 ﻿<h1>ARTHURIAN</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-NOTE
-The names are all taken from middle Welsh.  Ap- is the prefix used to denote son of, as in Baden ap Wynn
+<h2>NOTE</h2>
+<p>The names are all taken from middle Welsh.  Ap- is the prefix used to denote son of, as in Baden ap Wynn</p>
 MALE 1                                                        
 <ol><li>Bradwr / traitor</li>
 <li>Collen / hazel tree</li>

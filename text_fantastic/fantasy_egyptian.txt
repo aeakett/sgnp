@@ -1,8 +1,7 @@
 <h1>EGYPTIAN</h1>
 <p class="contributor">Compiled by Andy Kitkowski and Moyra Turkington</p>
-
-NOTES
-These are for mostly for fantasy use, as they're pulled indiscriminately from just about every dynasty over 3000+ years, including a ancient names and a few modernish names).  Thanks to  Walter Moore's Ancient Egypt - Classical African Civilization (http://www.geocities.com/wally_mo/), babynamebox.com, and Wikipedia.
+<h2>NOTES</h2>
+<p>These are for mostly for fantasy use, as they're pulled indiscriminately from just about every dynasty over 3000+ years, including a ancient names and a few modernish names).  Thanks to  Walter Moore's Ancient Egypt - Classical African Civilization (http://www.geocities.com/wally_mo/), babynamebox.com, and Wikipedia.</p>
 
 
 MALE 1

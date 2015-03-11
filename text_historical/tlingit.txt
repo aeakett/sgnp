@@ -1,7 +1,7 @@
 ﻿<h1>TLINGIT</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-NOTES
-Tlingit society is divided into two moeities - Raven and Eagle/Wolf - with complex kinship rules.  Within each moiety are clans to which individuals are attached in family houses.  My apologies to any Tlingit who might be reading this - I've made a hash of your fascinating culture.  
+<h2>NOTES</h2>
+<p>Tlingit society is divided into two moeities - Raven and Eagle/Wolf - with complex kinship rules.  Within each moiety are clans to which individuals are attached in family houses.  My apologies to any Tlingit who might be reading this - I've made a hash of your fascinating culture.  </p>
 MALE 1
 <li>Naawushkeitl</li>
 <li>Jánwu /  mountain sheep  </li>

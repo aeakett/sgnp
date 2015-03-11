@@ -1,7 +1,7 @@
 ﻿<h1>PRIMITIVE NAMES</h1>
 <p class="contributor">Compiled by Joshua BishopRoby</p>
-NOTES
-This is a set of two lists that are meant to go together.  Pick an element from the first list and one from the second list and mash 'em together.  If you get excited, use more than one from a list.  This particular set works for primitive cultures close to the natural world.  
+<h2>NOTES</h2>
+<p>This is a set of two lists that are meant to go together.  Pick an element from the first list and one from the second list and mash 'em together.  If you get excited, use more than one from a list.  This particular set works for primitive cultures close to the natural world.  </p>
 FIRST LIST
 <ol><li>Green</li>
 <li>Red</li>

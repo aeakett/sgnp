@@ -1,7 +1,7 @@
 ﻿<h1>HOBO NAMES</h1>
 <p class="contributor">Compiled by Moyra Turkington</p>
-NOTES:
-All credit goes to John Hodgman's musical reading of 700 hobo names from Hobo Matters in "The Areas of My Expertise" (http://www.areasofmyexpertise.com/hoboes.html) which inspired the 700 Hobos Project (http://www.e-hobo.com/).
+<h2>NOTES:</h2>
+<p>All credit goes to John Hodgman's musical reading of 700 hobo names from Hobo Matters in "The Areas of My Expertise" (http://www.areasofmyexpertise.com/hoboes.html) which inspired the 700 Hobos Project (http://www.e-hobo.com/).</p>
 <h3>MALE 1</h3>
 <ol><li>Ironbelly Norton</li>
 <li>Timely Clayton, Human Writstwatch</li>

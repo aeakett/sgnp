@@ -1,7 +1,7 @@
 ﻿<h1>PSEUDO-POLYNESIAN</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-NOTES
-Created using Lexgen, http://tmt.sourceforge.net/lexgen/, using Hawaiian phonemes as a base and adding some Nahuatl love for weirdness.
+<h2>NOTES</h2>
+<p>Created using Lexgen, http://tmt.sourceforge.net/lexgen/, using Hawaiian phonemes as a base and adding some Nahuatl love for weirdness.</p>
 MALE 1
 <ol><li>Maho</li>
 <li>Pimu'no'mo</li>

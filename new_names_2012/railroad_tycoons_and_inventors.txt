@@ -1,7 +1,7 @@
 ﻿<h1>HISTORICAL RAILROAD TYCOONS & INVENTORS</h1>
 <p class="contributor">Complied by Rachel E.S. Walton</p>
-GENERAL NOTES
-These are some of inventors, innovators, (often ethically questionable) businesspeople, and wives behind the birth and expansion of the railroad. There are a handful of exceptions, but most of the names are from 19th century U.S. and Europe (England, especially). While the generously mustachioed men receive the lion’s share of fame, some of the women were also inventors or major philanthropists in their own right.
+<h2>GENERAL NOTES</h2>
+<p>These are some of inventors, innovators, (often ethically questionable) businesspeople, and wives behind the birth and expansion of the railroad. There are a handful of exceptions, but most of the names are from 19th century U.S. and Europe (England, especially). While the generously mustachioed men receive the lion’s share of fame, some of the women were also inventors or major philanthropists in their own right.</p>
 MALE NAMES 1
 <ol><li>Oaks Ames</li>
 <li>Christopher Blackett</li>

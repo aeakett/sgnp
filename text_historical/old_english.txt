@@ -1,7 +1,7 @@
 ﻿<h1>OLD ENGLISH NAMES</h1>
 <p class="contributor">Compiled by James Holloway</p>
-NOTES
-These high-status Old English names come from late Saxon wills and other legal documents. To create more, simply mix and match. Anglo-Saxon families occasionally gave all their children similar names; the sons of Eadmund might be Eadwulf and Eadric, for instance, and a daughter might be Eadgifu. 
+<h2>NOTES</h2>
+<p>These high-status Old English names come from late Saxon wills and other legal documents. To create more, simply mix and match. Anglo-Saxon families occasionally gave all their children similar names; the sons of Eadmund might be Eadwulf and Eadric, for instance, and a daughter might be Eadgifu. </p>
 MALE
 <ol><li>Ælfred</li>
 <li>Ecghelm</li>

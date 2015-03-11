@@ -1,8 +1,7 @@
 ﻿<h1>IMPERIAL TRANS-ANTARCTIC EXPEDITION DOGS</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-
-NOTES
-From Ernest Shackleton's disastrous attempt to cross Antarctica, 1914-1917. 8 additional dogs had no name.
+<h2>NOTES</h2>
+<p>From Ernest Shackleton's disastrous attempt to cross Antarctica, 1914-1917. 8 additional dogs had no name.</p>
 
 SLEDGE DOGS 1
 <ol><li>Rugby</li>

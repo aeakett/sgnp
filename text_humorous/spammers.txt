@@ -1,7 +1,7 @@
 ﻿<h1>SPAMMERS</h1>
 <p class="contributor">Compiled by Mischa D. Krilov</p>
-NOTES
-These are names culled from actual spam. Good for alien cultures that don't understand humans, artifical intelligences in a cyberpunk setting, bad pseudonyms for obvious clues in a detective story, false passports, or even as sales and marketing,
+<h2>NOTES</h2>
+<p>These are names culled from actual spam. Good for alien cultures that don't understand humans, artifical intelligences in a cyberpunk setting, bad pseudonyms for obvious clues in a detective story, false passports, or even as sales and marketing,</p>
 <h3>MALE 1</h3>
 <ol><li>Harold Aragon</li>
 <li>Woods Bank</li>

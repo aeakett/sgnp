@@ -1,7 +1,7 @@
 ﻿<h1>NEW YORK, 1909 </h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-NOTES
-Only seven of these people are not real.
+<h2>NOTES</h2>
+<p>Only seven of these people are not real.</p>
 FAMOUS PEOPLE YOU MIGHT BUMP INTO AT DELMONICO'S
 <ol><li>William Howard Taft, President of the United States </li>
 <li>Ulrich Von Brockdorff-Rantzau, diplomat </li>

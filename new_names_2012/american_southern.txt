@@ -1,8 +1,7 @@
 ﻿<h1>AMERICAN SOUTHERN</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-
-NOTES
-The male and female names here are increasingly uncommon. The further back in time you go the more common they will be, but you’re always safe using traditional American names like James, George, John, Ruth, Anne and Elizabeth. Many of the male names listed here are also good surnames, and these seem equally well suited for Anglo- and African-American folks.
+<h2>NOTES</h2>
+<p>The male and female names here are increasingly uncommon. The further back in time you go the more common they will be, but you’re always safe using traditional American names like James, George, John, Ruth, Anne and Elizabeth. Many of the male names listed here are also good surnames, and these seem equally well suited for Anglo- and African-American folks.</p>
 
 SURNAMES 1
 <ol><li>Call</li>

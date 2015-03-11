@@ -1,7 +1,7 @@
 ﻿<h1>APIJAN</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
-NOTES
-Loosely based on the Chukotko-Kamchatkan language of Koryak.
+<h2>NOTES</h2>
+<p>Loosely based on the Chukotko-Kamchatkan language of Koryak.</p>
 MALE 1
 <ol><li>Erukwyn</li>
 <li>Gaegatapijan</li>

@@ -1,7 +1,7 @@
 ﻿<h1>HEAVEN AND HELL</h1>
 <p class="contributor">Compiled by Shreyas Sampat</p>
-NOTES
-These are names intended for less-prominent agents of the two sides; they're all taken from various lore. Most of these are appropriate for an angel of any gender, but I've divided them into a masculine and feminine list based on my intuitions about English names.
+<h2>NOTES</h2>
+<p>These are names intended for less-prominent agents of the two sides; they're all taken from various lore. Most of these are appropriate for an angel of any gender, but I've divided them into a masculine and feminine list based on my intuitions about English names.</p>
 MASCULINE NAMES 
 <ol><li>Yurkemo</li>
 <li>Metatron</li>
