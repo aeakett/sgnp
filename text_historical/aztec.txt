@@ -1,5 +1,5 @@
-﻿AZTEC/NAHUATL
-Compiled by Jason Morningstar
+﻿<h1>AZTEC/NAHUATL</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOBLE, PRIEST AND JAGUAR KNIGHT
 <ol><li>Cuetzpalli / lizard</li>
 <li>Cipactli / crocodile</li>

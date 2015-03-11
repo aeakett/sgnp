@@ -1,5 +1,5 @@
-﻿NEW YORK, 1909 
-Compiled by Jason Morningstar
+﻿<h1>NEW YORK, 1909 </h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOTES
 Only seven of these people are not real.
 FAMOUS PEOPLE YOU MIGHT BUMP INTO AT DELMONICO'S

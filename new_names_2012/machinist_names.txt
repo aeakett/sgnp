@@ -1,6 +1,5 @@
-﻿
-MACHINIST NAMES
-Complied by Rachel E.S.Walton
+﻿<h1>MACHINIST NAMES</h1>
+<p class="contributor">Complied by Rachel E.S.Walton</p>
 COLD AND GREASY
 <ol><li>Axle</li>
 <li>Beamer</li>

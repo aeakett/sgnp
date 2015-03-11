@@ -1,5 +1,5 @@
-﻿TRICKSTERS
-Compiled by Moyra Turkington
+﻿<h1>TRICKSTERS</h1>
+<p class="contributor">Compiled by Moyra Turkington</p>
 <ol><li>Anansi, Ashanti mythology</li>
 <li>Exu, Yoruban mythology</li>
 <li>Loki, Norse mythology</li>

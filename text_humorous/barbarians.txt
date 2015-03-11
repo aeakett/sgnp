@@ -1,6 +1,6 @@
-﻿BARBARIANS AND ENCHANTRESSES
-Compiled by Jason Morningstar
-BARBARIAN GIVEN NAMES
+﻿<h1>BARBARIANS AND ENCHANTRESSES</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
+<h3>BARBARIAN GIVEN NAMES</h3>
 <ol><li>Grimdar </li>
 <li>Fertag </li>
 <li>Thingfar </li>
@@ -21,7 +21,7 @@ BARBARIAN GIVEN NAMES
 <li>Northstarr </li>
 <li>Darkthag </li>
 <li>Korgoth</li></ol>
-ENCHANTRESS GIVEN NAMES
+<h3>ENCHANTRESS GIVEN NAMES</h3>
 <ol><li>Talltree </li>
 <li>Shortblade </li>
 <li>Spiritsinger </li>
@@ -42,7 +42,7 @@ ENCHANTRESS GIVEN NAMES
 <li>Magykka</li>
 <li>Rainshadow </li>
 <li>Ravenwillow </li></ol>
-BARBARIAN SURNAMES
+<h3>BARBARIAN SURNAMES</h3>
 <ol><li>Wolfskin</li>
 <li>Fireblaster </li>
 <li>Warslayer </li>
@@ -63,7 +63,7 @@ BARBARIAN SURNAMES
 <li>Peaceleaf </li>
 <li>Darkhelm </li>
 <li>Threndarsson</li></ol>
-ENCHANTRESS SURNAMES
+<h3>ENCHANTRESS SURNAMES</h3>
 <ol><li>Lightsong </li>
 <li>Spell-sparrow</li>
 <li>Copernicus</li>

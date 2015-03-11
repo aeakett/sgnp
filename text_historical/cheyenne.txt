@@ -1,5 +1,5 @@
-﻿CHEYENNE
-Compiled by Jason Morningstar
+﻿<h1>CHEYENNE</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOTES
 These come from 19th century tribal rolls.  They were compiled by Indian agents and are of dubious linguistic fidelity.  You could use any of these names as a place name by adding "mesa", "creek", "ridge", etc. to the end of it.
 MALE NAMES ONE

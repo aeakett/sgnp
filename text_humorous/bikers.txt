@@ -1,6 +1,6 @@
-﻿BIKERS
-Compiled by Graham Walmsley
-MALE
+﻿<h1>BIKERS</h1>
+<p class="contributor">Compiled by Graham Walmsley</p>
+<h3>MALE</h3>
 <ol><li>Mad Dog</li>
 <li>Goose</li>
 <li>Red Tex</li>
@@ -21,7 +21,7 @@ MALE
 <li>Chip</li>
 <li>Bear</li>
 <li>Ratty</li></ol>
-FEMALE
+<h3>FEMALE</h3>
 <ol><li>Dirty Jen</li>
 <li>Mama</li>
 <li>Cosmo</li>

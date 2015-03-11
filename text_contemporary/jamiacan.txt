@@ -1,5 +1,5 @@
-﻿JAMAICAN
-Compiled by David Younce
+﻿<h1>JAMAICAN</h1>
+<p class="contributor">Compiled by David Younce</p>
 MALE 
 <ol><li>Marcus</li>
 <li>Desmond</li>

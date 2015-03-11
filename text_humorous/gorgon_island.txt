@@ -1,8 +1,8 @@
-﻿GORGON HUNTERS OF GORGON ISLAND
-Compiled by Team Story-Games 
+﻿<h1>GORGON HUNTERS OF GORGON ISLAND</h1>
+<p class="contributor">Compiled by Team Story-Games</p>
 NOTES
 These names were the result of an informal contest to name the iconic characters appearing with the warrior woman Fyren Cloudfloater in the Drowning and Falling Role-playing Game.  The winners were Gwarl Ovensinger (Dwarfling), Mabel Firewind (Wizard), Silverblade Spellweaver (Elf), and, of course, Jaesyn the Mørnyngstär (Cleric).
-MALE NAMES 
+<h3>MALE NAMES </h3>
 <ol><li>Galbraith Godhands</li>
 <li>Achilles Questar</li>
 <li>Ratic'ss The wary</li>
@@ -23,7 +23,7 @@ MALE NAMES
 <li>Bangledancer-Who-Descends</li>
 <li>Gwarl Ovensinger</li>
 <li>Nevryn</li></ol>
-FEMALE NAMES 
+<h3>FEMALE NAMES </h3>
 <ol><li>Zwell Neumoonsdattir</li>
 <li>Mathilda Sturmbottom</li>
 <li>Moonbeam Skylight</li>

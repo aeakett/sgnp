@@ -1,5 +1,5 @@
-﻿QUNA
-Compiled by Jason Morningstar
+﻿<h1>QUNA</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOTES
 These are wonderfully evocative common terms in Quechua.  You could easily use them for South American natives or an invented culture.  
 MALE 1

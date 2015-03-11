@@ -1,5 +1,5 @@
-﻿VIETNAMESE
-Compiled by Jason Morningstar
+﻿<h1>VIETNAMESE</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 
 NOTES
 Vietnamese names are ordered surname – middle name – given name. You refer to somebody by their honorific and given name – so Đặng Công Bao would be Mr. Bao, not Mr. Đặng.

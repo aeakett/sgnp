@@ -1,5 +1,5 @@
-﻿ENGLISH-Y SURNAMES AND PLACE-NAMES
-Compiled by Joshua BishopRoby
+﻿<h1>ENGLISH-Y SURNAMES AND PLACE-NAMES</h1>
+<p class="contributor">Compiled by Joshua BishopRoby</p>
 NOTES
 The eight lists following the given names are intended to be used together.  The lists contain common parts of names used in England for place names, surnames, noble domains, and occasionally first names.  Names are created by taking two or three (or sometimes four) parts and putting them together.  The name-parts are labeled with hyphens at their ends if they usually begin names, at their beginnings if they usually end names, and at their beginnings and ends if they can be used for either or used in the middle of a name.  When creating a name, you can add an 's' or 'in' between any of your selected parts.  The meaning of each name-part is listed in parentheses.
 MALE NAMES

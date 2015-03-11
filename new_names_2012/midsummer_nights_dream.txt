@@ -1,5 +1,5 @@
-﻿A MIDSUMMER NIGHT'S DREAM
-Compiled by Nick Wedig
+﻿<h1>A MIDSUMMER NIGHT'S DREAM</h1>
+<p class="contributor">Compiled by Nick Wedig</p>
 
 MALE ATHENIANS
 <ol><li>Autolycus</li>

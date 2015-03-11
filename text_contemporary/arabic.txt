@@ -1,5 +1,5 @@
-﻿ARABIC NAMES
-Compiled by Eric J. Boyd
+﻿<h1>ARABIC NAMES</h1>
+<p class="contributor">Compiled by Eric J. Boyd</p>
 NOTES
 Arabic names are composed of several parts:
 (1) The ism - A personal proper name given shortly after birth. The male and female names listed below can all serve as isms. Adults are seldom referred to by these names, and it is an insult to refer to your elders by their ism.

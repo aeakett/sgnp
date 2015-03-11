@@ -1,5 +1,5 @@
-﻿KOREAN
-Compiled by Clinton R. Nixon
+﻿<h1>KOREAN</h1>
+<p class="contributor">Compiled by Clinton R. Nixon</p>
 NOTES
 Korean names are constructed as family name then given name. Family names are passed down through a male lineage, but women do not change their names when married, except outside of Korea.
 45% of all South Koreans have the family name of Kim, Park, or Lee. The distribution of names is not nearly as heterogeneous as in many other cultures. In fact, there are only about 250 family names total. Because of this distribution, the above chart is made so that one could easily roll 4d6-4 on the common family name chart to get a name, with Kim being the most common result. (Rolling a zero would send you to the rare family names chart.)

@@ -1,5 +1,5 @@
-﻿Public Domain Superheroes
-Compiled by Nick Wedig
+﻿<h1>Public Domain Superheroes</h1>
+<p class="contributor">Compiled by Nick Wedig</p>
 
 (taken from http://pdsh.wikia.com/wiki/)
 

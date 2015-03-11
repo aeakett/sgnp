@@ -1,5 +1,5 @@
-﻿HORSES
-Compiled by Rachel E.S. Walton
+﻿<h1>HORSES</h1>
+<p class="contributor">Compiled by Rachel E.S. Walton</p>
 
 RACE HORSE COLTS & STALLIONS
 <ol><li>Assault</li>

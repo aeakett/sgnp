@@ -1,5 +1,5 @@
-﻿OLD HUNGARY
-Compiled by Jason Morningstar
+﻿<h1>OLD HUNGARY</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOTES
 In Hungary, the surname is placed first.  A woman's formal name is constructed from her husband's name by adding a suffix (-ne) to his given name.  So Mr. Molnár Jakab's wife would be Molnár Jakabne in polite company, but perhaps Anna at home.  These lists are from around 1500.  
 MALE

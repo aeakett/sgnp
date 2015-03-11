@@ -1,5 +1,5 @@
-﻿COWBOYS 
-Compiled by Marc Majcher 
+﻿<h1>COWBOYS</h1>
+<p class="contributor">Compiled by Marc Majcher</p>
 MALE
 <ol><li>Al </li>
 <li>Abe </li>

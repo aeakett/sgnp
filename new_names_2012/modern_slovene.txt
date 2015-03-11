@@ -1,5 +1,5 @@
-﻿SLOVENE CONTEMPORARY NAMES
-Compiled by Gregor Vuga
+﻿<h1>SLOVENE CONTEMPORARY NAMES</h1>
+<p class="contributor">Compiled by Gregor Vuga</p>
 
 MALE NAMES I
 <ol><li>Janez</li>

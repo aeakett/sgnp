@@ -1,5 +1,5 @@
-﻿NOIR
-Compiled by Moyra Turkington, Matt Strickling, and Brendan Adkins
+﻿<h1>NOIR</h1>
+<p class="contributor">Compiled by Moyra Turkington, Matt Strickling, and Brendan Adkins</p>
 FEMME FATALE FIRST NAMES
 <ol><li>Alouette</li>
 <li>Amaya</li>

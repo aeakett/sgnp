@@ -1,5 +1,5 @@
-﻿NHIRRPI
-Compiled by Jason Morningstar
+﻿<h1>NHIRRPI</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOTES
 Nhirrpi is a language once spoken in the Stony Country of the northeastern corner of south Australia.
 MALE 1

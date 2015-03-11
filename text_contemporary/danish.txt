@@ -1,5 +1,5 @@
-﻿DANISH
-Compiled by Jason Morningstar
+﻿<h1>DANISH</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 MALE NAMES 1
 <ol><li>Magnus</li>
 <li>Oliver</li>

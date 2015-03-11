@@ -1,5 +1,5 @@
-﻿POLISH
-Compiled by Radek Drozdalski
+﻿<h1>POLISH</h1>
+<p class="contributor">Compiled by Radek Drozdalski</p>
 MALE NAMES 1
 <ol><li>Adam (Adas)</li>
 <li>Stefan</li>

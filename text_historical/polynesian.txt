@@ -1,5 +1,5 @@
-﻿PSEUDO-POLYNESIAN
-Compiled by Jason Morningstar
+﻿<h1>PSEUDO-POLYNESIAN</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOTES
 Created using Lexgen, http://tmt.sourceforge.net/lexgen/, using Hawaiian phonemes as a base and adding some Nahuatl love for weirdness.
 MALE 1

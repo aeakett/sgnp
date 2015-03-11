@@ -1,5 +1,5 @@
-﻿ELIZABETHAN ENGLAND
-Compiled by Graham Walmsley
+﻿<h1>ELIZABETHAN ENGLAND</h1>
+<p class="contributor">Compiled by Graham Walmsley</p>
 MALE
 <ol><li>Peter</li>
 <li>John</li>

@@ -1,5 +1,5 @@
-﻿JAPANESE NAMES
-Compiled by Andy Kitkowski
+﻿<h1>JAPANESE NAMES</h1>
+<p class="contributor">Compiled by Andy Kitkowski</p>
 GENERAL NOTES
 This should be enough names to last you a lifetime of Cyberpunk or Historical/Fantasy gaming.  Be aware that in most cases of the hiragana letter "su" where the "u" would be silent, the "u" has been omitted for ease of pronunciation (Traditional Hepburn style "Yuusuke" = "Yuske")
 SURNAMES

@@ -1,6 +1,6 @@
-﻿AMAZONS
-Compiled by Moyra Turkington
-FEMALE 
+﻿<h1>AMAZONS</h1>
+<p class="contributor">Compiled by Moyra Turkington</p>
+FEMALE
 <ol>Mitylene / hornless moon
 Lysuppe / she who lets loose the horses
 Andromache / man fighter

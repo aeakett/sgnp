@@ -1,5 +1,5 @@
-﻿SPACE COWBOYS
-Compiled by Jason Morningstar
+﻿<h1>SPACE COWBOYS</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOTES
 Tell 'em I 'aint comin' back...
 MALE NAMES 1 

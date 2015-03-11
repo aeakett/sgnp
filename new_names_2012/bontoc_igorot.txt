@@ -1,5 +1,5 @@
-﻿BONTOC IGOROT
-Compiled by Jason Morningstar
+﻿<h1>BONTOC IGOROT</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 
 NOTES
 From The Bontoc Igorot, Albert Ernest Jenks, 1905

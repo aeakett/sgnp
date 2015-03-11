@@ -1,5 +1,5 @@
-﻿FILIPINO 
-Compiled by Selene Tan 
+﻿<h1>FILIPINO </h1>
+<p class="contributor">Compiled by Selene Tan </p>
 NOTES 
 Included here are silly or unusual Filipino male, female, and neutral first names, as well as Filipino surnames of Spanish, indigenous, and Chinese origin. "Normal" Filipino first names look pretty normal; you can probably pick up a US or Spanish or whatever list of first names, and they'll come out right. A lot of Filipino women have names starting with "Maria", which are frequently shortened. (e.g. "Maria Theresa" becomes "Maritess".) 
 Make your own silly Filipino names: (usually only one technique is used at a time):

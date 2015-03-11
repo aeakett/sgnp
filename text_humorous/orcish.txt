@@ -1,6 +1,6 @@
-﻿ORCISH
-Compiled by Brendan Adkins
-MALE
+﻿<h1>ORCISH</h1>
+<p class="contributor">Compiled by Brendan Adkins</p>
+<h3>MALE</h3>
 <ol><li>Azbag</li>
 <li>Bogbar</li>
 <li>Golagash</li>
@@ -21,7 +21,7 @@ MALE
 <li>Roshanakh</li>
 <li>Sharbukh</li>
 <li>Mozbag</li></ol>
-FEMALE
+<h3>FEMALE</h3>
 <ol><li>Gabza</li>
 <li>Rabgob</li>
 <li>Shagalo</li>
@@ -42,7 +42,7 @@ FEMALE
 <li>Granasho</li>
 <li>Khubrash</li>
 <li>Gabzom</li></ol>
-20 LEGENDARY ORC WEAPONS
+<h3>20 LEGENDARY ORC WEAPONS</h3>
 <ol><li>@&%#!</li>
 <li>Bag Of Infinite Rocks</li>
 <li>Demihumansbane</li>

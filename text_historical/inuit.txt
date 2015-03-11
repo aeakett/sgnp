@@ -1,5 +1,5 @@
-﻿INUIT
-Compiled by Jason Morningstar
+﻿<h1>INUIT</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOTES
 These personal names were randomly generated from Inuit-esque phonemes.
 MALE NAMES 

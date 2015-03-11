@@ -1,5 +1,5 @@
-﻿FINNISH
-Compiled by Ian Burton-Oakes
+﻿<h1>FINNISH</h1>
+<p class="contributor">Compiled by Ian Burton-Oakes</p>
 MALE NAMES 
 <ol><li>Aarre </li>
 <li>Aatos</li>

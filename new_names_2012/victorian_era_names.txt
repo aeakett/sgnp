@@ -1,5 +1,5 @@
-﻿VICTORIAN ERA NAMES (1840’s-1890’s)
-Compiled by Rachel E.S. Walton
+﻿<h1>VICTORIAN ERA NAMES (1840’s-1890’s)</h1>
+<p class="contributor">Compiled by Rachel E.S. Walton</p>
 
 FEMALE NAMES 1
 <ol><li>Abigail (Abby)</li>

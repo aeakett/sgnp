@@ -1,5 +1,5 @@
-﻿CRIME & PUNISHMENT
-Compiled by Moyra Turkington
+﻿<h1>CRIME & PUNISHMENT</h1>
+<p class="contributor">Compiled by Moyra Turkington</p>
 NOTES
 The following are lists of serial killers, titles of law enforcement authorities, crime scene locations, murder weapons, poisons, prisons and forensic techniques. The titles may be combined with any country's modern lists (E.g. Modern American or Psuedo-English) to generate police names, FBI Agents, Mounties or Bobbies - whatever is required.
 SERIAL KILLERS

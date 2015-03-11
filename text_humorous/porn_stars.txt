@@ -1,6 +1,6 @@
-﻿PORN STARS
-Compiled by Team Story-Games
-MALE 1 
+﻿<h1>PORN STARS</h1>
+<p class="contributor">Compiled by Team Story-Games</p>
+<h3>MALE 1 </h3>
 <ol><li>Edmonton Masasoit</li>
 <li>Ezekiel Dakin</li>
 <li>Charcoal Guilford</li>
@@ -21,7 +21,7 @@ MALE 1
 <li>Duke Brower </li>
 <li>Elvis Emerald </li>
 <li>Buddy Forge</li></ol>
-FEMALE 1
+<h3>FEMALE 1</h3>
 <ol><li>Britty Winchester</li>
 <li>Muffin, Heidi, Big Kitty and Little Kitty Sunrise</li>
 <li>Taffy White </li>
@@ -42,7 +42,7 @@ FEMALE 1
 <li>Coco Blueball</li>
 <li>Duchess Drake</li>
 <li>Dorian Sylvanwood</li></ol>
-MALE 2
+<h3>MALE 2</h3>
 <ol><li>Midnight J</li>
 <li>Bucky Oneida</li>
 <li>Anubis Broadway</li>
@@ -63,7 +63,7 @@ MALE 2
 <li>Moby Ravenscroft</li>
 <li>Drake Duchess</li>
 <li>Oliver Bodemann</li></ol>
-FEMALE 2
+<h3>FEMALE 2</h3>
 <ol><li>Megan Honeywell</li>
 <li>Kitty Oneida</li>
 <li>Hobeaux Fourteener</li>
@@ -84,7 +84,7 @@ FEMALE 2
 <li>Sasha Sugar</li>
 <li>Heddy Good</li>
 <li>Lorraine Murrayhill</li></ol>
-SHOOTING LOCATIONS
+<h3>SHOOTING LOCATIONS</h3>
 <ol><li>A tiger cage mock-up at SERE school at Camp Mackall.</li>
 <li>The Unit Two reactor at the Dukovany power station, Czech Republic</li>
 <li>A cell in an abbey. The church bells are ringing.</li>

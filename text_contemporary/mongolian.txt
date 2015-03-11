@@ -1,5 +1,5 @@
-﻿MONGOLIAN
-Compiled by Jason Morningstar
+﻿<h1>MONGOLIAN</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOTES
 Information on Mongolian is a little thin.  Surnames are a modern conceit, so don't use them if you're in the sixteenth century or something.  These names seem exotic enough to represent a weird future culture, too.  
 MALE NAMES 

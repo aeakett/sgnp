@@ -1,5 +1,5 @@
-﻿HUNGARIAN
-Compiled by Adam Kleizer 
+﻿<h1>HUNGARIAN</h1>
+<p class="contributor">Compiled by Adam Kleizer </p>
 
 NOTES
 In Hungary, the surname is placed first. In foreign context, Hungarians mostly use the Western name order to avoid confusion.

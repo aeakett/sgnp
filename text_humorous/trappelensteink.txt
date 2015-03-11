@@ -1,8 +1,8 @@
-﻿THE NOBLE AND WORTHY VON TRAPPLENSTEINK CLAN
-Compiled by Meguey Baker, Mischa Krilov, Vincent Baker, and Emily Care Boss
+﻿<h1>THE NOBLE AND WORTHY VON TRAPPLENSTEINK CLAN</h1>
+<p class="contributor">Compiled by Meguey Baker, Mischa Krilov, Vincent Baker, and Emily Care Boss</p>
 NOTES
 As with all great names, the Von Trapplensteinks pass the family name along the male line, so those who marry in have their own maiden names, also included on this list. It ought to be easy for anyone to see the fine family tree represented here.
-MALE VON TRAPPLENSTEINKS
+<h3>MALE VON TRAPPLENSTEINKS</h3>
 <ol><li>Baxter Poindexter Erasmus (the current heir)</li>
 <li>Grosskurth Archibald (uncle of Baxter P.E.)</li>
 <li>Elocutious Q. Sinister McBaerrenpfeffer (the black sheep maternal uncle)</li>
@@ -23,7 +23,7 @@ MALE VON TRAPPLENSTEINKS
 <li>Cornelius Leopold Penker (nephew of B.P.E.)</li>
 <li>Spencer Thibault Slevin (son of Victor T.)</li>
 <li>Galbraith Liberto (son of Victor T.)</li></ol>
-FEMALE VON TRAPPLENSTEINKS
+<h3>FEMALE VON TRAPPLENSTEINKS</h3>
 <ol><li>Sobriquet Millicent, nee Humphendorfer (wife of B.P.E.)</li>
 <li>Merrybelle Gladys Olivia (the young daughter of B.P.E.)</li>
 <li>Eurastia Stern (sister of B.P.E.)</li>

@@ -1,5 +1,5 @@
-﻿MODERN GREEK
-Compiled by Jessica Hammer
+﻿<h1>MODERN GREEK</h1>
+<p class="contributor">Compiled by Jessica Hammer</p>
 MALE 
 <ol><li>Iosif</li>
 <li>Vasilis</li>

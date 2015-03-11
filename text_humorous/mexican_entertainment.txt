@@ -1,8 +1,8 @@
-﻿MEXICAN CINEMA
-Compiled by Jason Morningstar
+﻿<h1>MEXICAN CINEMA</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOTES
 Actually Mexican wrestling-horror-science fiction movies.  All the personal names refer to real people, and yes, Boris Karloff did appear in La Muerta Viviente!
-MOVIE TITLES
+<h3>MOVIE TITLES</h3>
 <ol><li>Hercules versus Nostradamus, genie of darkness!</li>
 <li>Neutron and the curse of the crying woman!</li>
 <li>Inspector Marconi and the 100 cries of terror!</li>
@@ -23,7 +23,7 @@ MOVIE TITLES
 <li>The Blue Mummy and the return of the 100 cries of terror!</li>
 <li>Lord Werewolf and the coffin machine!</li>
 <li>Cortez versus Brainiac!</li></ol>
-ACTORS
+<h3>ACTORS</h3>
 <ol><li>Ignacio Lopez Tarso</li>
 <li>Abel Salazar</li>
 <li>German Robles</li>
@@ -44,7 +44,7 @@ ACTORS
 <li>Joaquin Vargas</li>
 <li>Raul Meraz</li>
 <li>Jose Jiminez</li></ol>
-ACTRESSES
+<h3>ACTRESSES</h3>
 <ol><li>Rosita Arenas</li>
 <li>Ana Luisa Peluffo</li>
 <li>Gina Romand</li>
@@ -65,7 +65,7 @@ ACTRESSES
 <li>Dolores Camarillo</li>
 <li>Isabel Sarli</li>
 <li>Eliza Kashi</li></ol>
-LUCHADORES
+<h3>LUCHADORES</h3>
 <ol><li>El Santo</li>
 <li>The Black Shadow</li>
 <li>Dorrell, the Zombie Wrestler</li>
@@ -86,7 +86,7 @@ LUCHADORES
 <li>Tarzan Lopez</li>
 <li>Robo Negro</li>
 <li>Jack O'Brien</li></ol>
-BIT PARTS
+<h3>BIT PARTS</h3>
 <ol><li>The Kid</li>
 <li>El Barracho</li>
 <li>Old Gordo</li>
@@ -107,7 +107,7 @@ BIT PARTS
 <li>Inspector Carlos</li>
 <li>Dancer</li>
 <li>Freddy</li></ol>
-WRITERS AND DIRECTORS
+<h3>WRITERS AND DIRECTORS</h3>
 <ol><li>Federico Curiel</li>
 <li>Jerry Warren</li>
 <li>Rafael Portillo</li>

@@ -1,6 +1,6 @@
-﻿PSEUDO-AMERICAN
-Compiled by Graham Walmsley
-MALE
+﻿<h1>PSEUDO-AMERICAN</h1>
+<p class="contributor">Compiled by Graham Walmsley</p>
+<h3>MALE</h3>
 <ol><li>Yo</li>
 <li>The Rock</li>
 <li>Whoah</li>
@@ -21,7 +21,7 @@ MALE
 <li>Randy</li>
 <li>Will</li>
 <li>Jamie</li></ol>
-FEMALE
+<h3>FEMALE</h3>
 <ol><li>Jenny</li>
 <li>Randy</li>
 <li>Unique</li>
@@ -42,7 +42,7 @@ FEMALE
 <li>Martha</li>
 <li>Shelley</li>
 <li>Jamie</li></ol>
-SURNAMES
+<h3>SURNAMES</h3>
 <ol><li>McDonald</li>
 <li>Greenspan</li>
 <li>Gingrich</li>
@@ -63,7 +63,7 @@ SURNAMES
 <li>Macy</li>
 <li>Gecko</li>
 <li>Reagan</li></ol>
-GENERATOR
+<h3>GENERATOR</h3>
 For an authentic-sounding American name, just combine three or four of these parts.
 <ol><li>john-</li>
 <li>-stein</li>

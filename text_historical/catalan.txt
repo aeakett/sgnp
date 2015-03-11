@@ -1,5 +1,5 @@
-﻿MEDIEVAL CATALAN 
-Compiled by Alex Fradera
+﻿<h1>MEDIEVAL CATALAN </h1>
+<p class="contributor">Compiled by Alex Fradera</p>
 NOTES
 Catalonia, a territory of Spain falling between Valencia to the South, Aragon to the West, France to the North and the Mediterranean to the East,  developed as a culture during the rule of the Counts of Barcelona in the 9th Century, and leaving the French kingdom in the 13th. It was a thriving area of the Mediterranean with its own distinctive flavour.
 Catalan is a language with much common to both French and Spanish, and sounds a little like a less lyrical Italian. Like French, J and G are both soft, and C can be also; however, the words do not end silently and the emphasis / pacing of the words is similar to Spanish.

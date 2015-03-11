@@ -1,5 +1,5 @@
-﻿CODE NAMES
-Compiled by Jason Morningstar
+﻿<h1>CODE NAMES</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 
 DEPARTMENT OF DEFENSE 1
 

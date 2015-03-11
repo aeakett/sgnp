@@ -1,5 +1,5 @@
-﻿YOU MEET IN A TAVERN...
-Compiled by Brendan Adkins and Meguey Baker
+﻿<h1>YOU MEET IN A TAVERN&hellip;</h1>
+<p class="contributor">Compiled by Brendan Adkins and Meguey Baker</p>
 NOTES
 Combine Regulars and Surnames lists, or chain Epithet + Wench + Surname.  Add a brawl and some shady information about the Dangerous Place Just Outside of Town and viola!  Instant adventure.  
 TAVERN REGULARS

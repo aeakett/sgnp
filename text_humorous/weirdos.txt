@@ -1,8 +1,8 @@
-﻿WEIRD CHARACTERS
-Compiled by Meguey Baker
+﻿<h1>WEIRD CHARACTERS</h1>
+<p class="contributor">Compiled by Meguey Baker</p>
 NOTES
 Town busy-bodies, weirdos, hillbillies, and self-important characters. Add a middle initial for extra oddness.
-MALE NAMES 
+<h3>MALE NAMES</h3>
 <ol><li>Neville</li>
 <li>Elmer</li>
 <li>Floyd</li>
@@ -23,7 +23,7 @@ MALE NAMES
 <li>Harvey</li>
 <li>Walter</li>
 <li>Davis</li></ol>
-FEMALE NAMES 
+<h3>FEMALE NAMES </h3>
 <ol><li>Ermintrude</li>
 <li>Hepsibah</li>
 <li>Mildred</li>
@@ -44,7 +44,7 @@ FEMALE NAMES
 <li>Begood</li>
 <li>Speary</li>
 <li>Lestene</li></ol>
-LAST NAMES
+<h3>LAST NAMES</h3>
 <ol><li>Holder</li>
 <li>Hopkins</li>
 <li>Lepter</li>

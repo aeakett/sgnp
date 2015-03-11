@@ -1,5 +1,5 @@
-﻿TAKAAN-ŠELU
-By Jason Morningstar
+﻿<h1>TAKAAN-ŠELU</h1>
+<p class="contributor">By Jason Morningstar</p>
 
 NOTES
 These names are an unholy mashup of Lithuanian, Slovenian and Azeri.

@@ -1,5 +1,5 @@
-﻿CZECH
-Compiled by Jason Morningstar
+﻿<h1>CZECH</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 MALE NAMES
 <ol><li>Jan </li>
 <li>Jakub </li>

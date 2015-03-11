@@ -1,5 +1,5 @@
-﻿PETS
-Compiled by Rachel E.S. Walton
+﻿<h1>PETS</h1>
+<p class="contributor">Compiled by Rachel E.S. Walton</p>
 
 DOGS
 <ol><li>Batu</li>

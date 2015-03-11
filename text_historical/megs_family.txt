@@ -1,5 +1,5 @@
-﻿MY FAMILY NAMES
-Compiled by Meguey Baker
+﻿<h1>MY FAMILY NAMES</h1>
+<p class="contributor">Compiled by Meguey Baker</p>
 NOTES
 Yes, sadly, this is inspired by the von Trapplensteink list. It's names from my family, covering a few generations and including people who married in. On reflection, I realized that my family could be the base for a whole cast of characters that I could play very believably as NPCs. Hey, play what you know, right? I encourage you to do the same sort of lists for your family. And please don't publish stuff with the more unusual names from this list - I mean, picking up someone's game and reading about the exploits of Albert Meisterkneckt would just be weird.
 MALE NAMES 

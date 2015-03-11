@@ -1,5 +1,5 @@
-﻿SENEGALESE
-Compiled by Moyra Turkington
+﻿<h1>SENEGALESE</h1>
+<p class="contributor">Compiled by Moyra Turkington</p>
 MALE
 <ol><li>Thiemo</li>
 <li>Djubril</li>

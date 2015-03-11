@@ -1,5 +1,5 @@
-﻿STEAMPUNK
-Compiled by Rachel E.S. Walton
+﻿<h1>STEAMPUNK</h1>
+<p class="contributor">Compiled by Rachel E.S. Walton</p>
 
 MALE NAMES 1
 <ol><li>Alexsandar</li>

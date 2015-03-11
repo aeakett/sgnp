@@ -1,5 +1,5 @@
-﻿BIBLICAL
-Compiled by Meguey Baker
+﻿<h1>BIBLICAL</h1>
+<p class="contributor">Compiled by Meguey Baker</p>
 NOTES
 Apparently, there are 188 named women in the Christian Bible, and 1,181 men. Go figure. This site has them all: http://www.christiananswers.net/dictionary/women.html
 COMMON MALE 

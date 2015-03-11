@@ -1,5 +1,5 @@
-﻿HUNGARY
-Compiled by Adam Kleizer and Jason Morningstar
+﻿<h1>HUNGARY</h1>
+<p class="contributor">Compiled by Adam Kleizer and Jason Morningstar</p>
 NOTES
 In Hungary, the surname is placed first.  A woman's formal name is constructed from her husband's name by adding a suffix (-né) to his given name.  So Mr. Molnár Jakab's wife would be Molnár Jakabné in polite company, but perhaps Anna at home.  Hungarian aristocrats' names during the Austro-Hungarian imperial period contained a German given name, 'von' and the family name. Example: Johann von Báthory. Of course unofficially they used the Hungarian form of their names. (Báthory János in our example.)
 MALE

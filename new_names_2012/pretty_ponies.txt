@@ -1,5 +1,5 @@
-﻿PRETTY PONIES
-Complied by Rachel E.S. Walton
+﻿<h1>PRETTY PONIES</h1>
+<p class="contributor">Complied by Rachel E.S. Walton</p>
 
 COLTS
 <ol><li>4-Speed</li>

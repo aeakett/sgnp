@@ -1,5 +1,5 @@
-﻿PRIVATEERS
-Compiled by D. Vincent Baker
+﻿<h1>PRIVATEERS</h1>
+<p class="contributor">Compiled by D. Vincent Baker</p>
 NOTES
 Canadian Privateers during the American Revolution - men and ships.  Compiled from http://www.chebucto.ns.ca/~jacktar/privateering.html
 MALE 1

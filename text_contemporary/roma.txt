@@ -1,5 +1,5 @@
-﻿ROMA
-Compiled by Olle Jonsson (ollejonsson@gmailcom) and Joshua BishopRoby
+﻿<h1>ROMA</h1>
+<p class="contributor">Compiled by Olle Jonsson (ollejonsson@gmailcom) and Joshua BishopRoby</p>
 NOTES
 Some of this was cribbed from:  
 http://www.20000-names.com/

@@ -1,4 +1,5 @@
-﻿GERMAN Compiled by Harald Wagener and Moyra Turkington
+﻿<h1>GERMAN</h1>
+<p class="contributor">Compiled by Harald Wagener and Moyra Turkington</p>
 REALISTIC MALE
 <ol><li>Jürgen</li>
 <li>Ingo</li>

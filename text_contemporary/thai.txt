@@ -1,5 +1,5 @@
-﻿THAI 
-Compiled by Mischa D. Krilov
+﻿<h1>THAI </h1>
+<p class="contributor">Compiled by Mischa D. Krilov</p>
 MALE 
 <ol><li>Anand</li>
 <li>Sunyarik</li>

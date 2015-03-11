@@ -1,5 +1,5 @@
-﻿BERBER/AMAZIGH NAMES 
-Compiled by Jessica Hammer
+﻿<h1>BERBER/AMAZIGH NAMES </h1>
+<p class="contributor">Compiled by Jessica Hammer</p>
 NOTES
 If using these names in a medieval setting, the appropriate form for a last name is an Arab-style patronymic.  Men have names like Iken ibn Tariq, and women names like Geduda bint Amina.  Names of the form al- are also perfectly reasonable.  The greatest heroine of the Berber people, for example, is Dihya al-Kahina.  In a more modern setting, last names are appropriate.  
 FEMALE NAMES 1

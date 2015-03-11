@@ -1,5 +1,5 @@
-﻿SWEDEN
-Compiled by Olle Jonsson and Jason Morningstar
+﻿<h1>SWEDEN</h1>
+<p class="contributor">Compiled by Olle Jonsson and Jason Morningstar</p>
 MALE
 <ol><li>Oscar </li>
 <li>William </li>

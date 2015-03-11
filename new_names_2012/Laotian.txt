@@ -1,5 +1,5 @@
-﻿LAOTIAN
-Compiled by Jason Morningstar
+﻿<h1>LAOTIAN</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 
 SURNAME
 <ol><li>Khamsaly</li>

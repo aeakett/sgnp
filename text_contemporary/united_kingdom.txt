@@ -1,5 +1,5 @@
-﻿UNITED KINGDOM
-Compiled by Mischa D. Krilov and Jason Morningstar
+﻿<h1>UNITED KINGDOM</h1>
+<p class="contributor">Compiled by Mischa D. Krilov and Jason Morningstar</p>
 SCOTTISH MALE
 <ol><li>John</li>
 <li>James</li>

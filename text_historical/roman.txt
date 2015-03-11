@@ -1,5 +1,5 @@
-﻿ROMAN
-Compiled by Jessica Hammer
+﻿<h1>ROMAN</h1>
+<p class="contributor">Compiled by Jessica Hammer</p>
 NOTES
 The praenomen is a name which distinguishes you from other members of your family.  Only men have praenomens, and they are rarely actually used except within the family.  The praenomina listed are the ONLY common praenomina within Rome.
 The nomen is a family name, which indicates which 'gens' (collection of families) you belong to.  People with the same nomen are either directly related to each other, or closely politically affiliated.  The names listed here are a representative sampling, but do comprise a large proportion of the existing names; new citizens would take the name of an existing gens instead of inventing new ones.

@@ -1,5 +1,5 @@
-﻿TWO-FISTED SPACE OPERA
-Compiled by Joshua BishopRoby
+﻿<h1>TWO-FISTED SPACE OPERA</h1>
+<p class="contributor">Compiled by Joshua BishopRoby</p>
 MALE
 <ol><li>Jim</li>
 <li>John</li>

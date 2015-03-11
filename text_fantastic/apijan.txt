@@ -1,5 +1,5 @@
-﻿APIJAN
-Compiled by Jason Morningstar
+﻿<h1>APIJAN</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOTES
 Loosely based on the Chukotko-Kamchatkan language of Koryak.
 MALE 1

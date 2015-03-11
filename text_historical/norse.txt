@@ -1,5 +1,5 @@
-﻿NORSE
-Compiled by Jason Morningstar
+﻿<h1>NORSE</h1>
+<p class="contributor">Compiled by Jason Morningstar</p>
 NOTE
 Eth and thorn characters (ð, Ð, þ, Þ) are common in Anglo-Saxon, old Scandinavian, and modern Icelandic and Faroese.  They look really exotic and cool.  Pronounce them like "th" and don't worry about it.  
 MALE NAMES ONE

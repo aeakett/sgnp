@@ -1,5 +1,5 @@
-﻿1960'S AMERICA
-Compiled by Nathan Paoletta and Jason Morningstar
+﻿<h1>1960'S AMERICA</h1>
+<p class="contributor">Compiled by Nathan Paoletta and Jason Morningstar</p>
 MALE
 <ol><li>James   </li>
 <li>William   </li>

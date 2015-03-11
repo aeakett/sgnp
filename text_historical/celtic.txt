@@ -1,5 +1,5 @@
-﻿CELTIC
-Compiled by Mischa D. Krilov
+﻿<h1>CELTIC</h1>
+<p class="contributor">Compiled by Mischa D. Krilov</p>
 NOTES
 These are cool names drawn from various Celtic peoples of the U.K., such as Scotland, Wales, and Ireland. Historically accurate Celtic surname pose a problem, since as a preliterate culture, they didn't take helpful censuses. If you need a surname, simply pull a geographically appropriate one form elsewhere in this book.
 MALE

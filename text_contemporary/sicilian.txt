@@ -1,5 +1,5 @@
-﻿SICILIAN
-Compiled by Tom Zito
+﻿<h1>SICILIAN</h1>
+<p class="contributor">Compiled by Tom Zito</p>
 NOTES
 Add "Maria" to anyone's name - male or female - for a middle name.  Maria is a very common baptismal name in Sicily.
 MALE 1

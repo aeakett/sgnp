@@ -1,5 +1,5 @@
-﻿PRISON NICKNAMES
-Compiled by Meguey Baker
+﻿<h1>PRISON NICKNAMES</h1>
+<p class="contributor">Compiled by Meguey Baker</p>
 NOTES
 Some of these are actual nicknames of current inmates, some are what I remember from television, some are made-up. Most of the time, prisoners just wind up being known by their last name. 
 MALE NAMES 

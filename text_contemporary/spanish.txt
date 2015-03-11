@@ -1,5 +1,5 @@
-﻿SPANISH
-Compiled by Arturo González-Escribano, with thanks to Moyra Turkington
+﻿<h1>SPANISH</h1>
+<p class="contributor">Compiled by Arturo González-Escribano, with thanks to Moyra Turkington</p>
 NOTE ONE: SPANISH NAMES STRUCTURE
 The following guidelines about Spanish names construction does not try to be absolutely complete or precise. There are always exceptions and particular uses. However, they will help you to quickly recognize and construct consistent names of almost any common type.
 1) General Spanish-names structure
