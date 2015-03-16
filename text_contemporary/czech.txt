@@ -1,15 +1,15 @@
 ﻿<h1>CZECH</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
 MALE NAMES
-<ol><li>Jan </li>
-<li>Jakub </li>
-<li>Tomáš </li>
-<li>Adam </li>
-<li>Ondrej </li>
-<li>Martin </li>
-<li>Filip </li>
-<li>Lukáš </li>
-<li>Vojtech </li>
+<ol><li>Jan</li>
+<li>Jakub</li>
+<li>Tomáš</li>
+<li>Adam</li>
+<li>Ondrej</li>
+<li>Martin</li>
+<li>Filip</li>
+<li>Lukáš</li>
+<li>Vojtech</li>
 <li>Matej</li>
 <li>Petr</li>
 <li>Pavel</li>
@@ -22,15 +22,15 @@ MALE NAMES
 <li>Patrik</li>
 <li>Dominik</li></ol>
 FEMALE NAMES
-<ol><li>Tereza </li>
-<li>Eliška </li>
-<li>Adéla </li>
-<li>Natálie </li>
-<li>Anna </li>
-<li>Karolína </li>
-<li>Kristýna </li>
-<li>Aneta </li>
-<li>Nikola </li>
+<ol><li>Tereza</li>
+<li>Eliška</li>
+<li>Adéla</li>
+<li>Natálie</li>
+<li>Anna</li>
+<li>Karolína</li>
+<li>Kristýna</li>
+<li>Aneta</li>
+<li>Nikola</li>
 <li>Katerina</li>
 <li>Pavla</li>
 <li>Jana</li>
@@ -59,9 +59,9 @@ SURNAMES
 <li>Jelínek</li>
 <li>Král</li>
 <li>Ružicka</li>
-<li>Beneš </li>
-<li>Fiala </li>
-<li>Sedlácek </li>
+<li>Beneš</li>
+<li>Fiala</li>
+<li>Sedlácek</li>
 <li>Novák</li></ol>
 COOL PLACES IN THE CZECH REPUBLIC
 <ol><li>The beautiful old center of Kutná Hora</li>
@@ -78,7 +78,7 @@ COOL PLACES IN THE CZECH REPUBLIC
 <li>Beneath "the foot of the horse" in Václavské námestí, Wenceslas Square, in Prague</li>
 <li>The vineyard in Gröbovka Park, in Prague.</li>
 <li>Unit Two of the The Dukovany Nuclear Power Station, in Dukovany.</li>
-<li>Krkonoše National Park, in the Krkonoše Mountains. </li>
+<li>Krkonoše National Park, in the Krkonoše Mountains.</li>
 <li>The Sedlec Ossuary beneath the Cemetery Church of All Saints in Sedlec</li>
 <li>Hrazany, a 280-person village in southern Bohemia</li>
 <li>The Charles bridge, spanning the Vltava in Prague</li>

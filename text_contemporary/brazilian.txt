@@ -47,7 +47,7 @@ FEMALE
 SURNAMES 1
 <ol><li>da Costa</li>
 <li>Álvares</li>
-<li>Moraes </li>
+<li>Moraes</li>
 <li>Andrade</li>
 <li>Sá</li>
 <li>Pires</li>
@@ -69,7 +69,7 @@ SURNAMES 2
 <ol><li>de Jesus</li>
 <li>Muniz</li>
 <li>Antunes</li>
-<li>Sousa </li>
+<li>Sousa</li>
 <li>Couto</li>
 <li>Cruz</li>
 <li>Tavares</li>

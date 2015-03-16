@@ -9,7 +9,7 @@ MALE
 <li>Fairdale</li>
 <li>Hilton</li>
 <li>Ralph</li>
-<li>Hall </li>
+<li>Hall</li>
 <li>Jimmy</li>
 <li>Jasper</li>
 <li>Penrose</li>
@@ -19,7 +19,7 @@ MALE
 <li>Leon</li>
 <li>Percy</li>
 <li>William</li>
-<li>Grimesby </li>
+<li>Grimesby</li>
 <li>Robert</li>
 <li>Harry</li>
 <li>Aloysius</li></ol>

@@ -50,7 +50,7 @@ SURNAMES
 <li>Ngom</li>
 <li>Mboup</li>
 <li>Mbaye</li>
-<li>Diouf     </li>
+<li>Diouf</li>
 <li>Ndar</li>
 <li>Dakono</li>
 <li>Amu</li>

@@ -1,23 +1,25 @@
 ﻿<h1>AMAZONS</h1>
 <p class="contributor">Compiled by Moyra Turkington</p>
 FEMALE
-<ol>Mitylene / hornless moon
-Lysuppe / she who lets loose the horses
-Andromache / man fighter
-Aello / whirlwind
-Orithia / woman raging in the mountains
-Melanippe / black horse
-Autochthw / created by oneself
-Eumache / good fighter
-Areto / unspeakable
-Thraso / confidence
-Barkida / grievous in wrath
-Aganippe / mare who kills mercifully
-Kleodaeis / famous warrior 
-Antiope / confronting moon
-Deinomache / terrible warrior
-Penthesilea / compelling men to mourn
-Molpadia / death song
-Charope / brilliant confrontation
-Cyrene / sovereign mistress of the bridle
-Synope / moon face</ol>
+<ol>
+<li>Mitylene / hornless moon</li>
+<li>Lysuppe / she who lets loose the horses</li>
+<li>Andromache / man fighter</li>
+<li>Aello / whirlwind</li>
+<li>Orithia / woman raging in the mountains</li>
+<li>Melanippe / black horse</li>
+<li>Autochthw / created by oneself</li>
+<li>Eumache / good fighter</li>
+<li>Areto / unspeakable</li>
+<li>Thraso / confidence</li>
+<li>Barkida / grievous in wrath</li>
+<li>Aganippe / mare who kills mercifully</li>
+<li>Kleodaeis / famous warrior</li>
+<li>Antiope / confronting moon</li>
+<li>Deinomache / terrible warrior</li>
+<li>Penthesilea / compelling men to mourn</li>
+<li>Molpadia / death song</li>
+<li>Charope / brilliant confrontation</li>
+<li>Cyrene / sovereign mistress of the bridle</li>
+<li>Synope / moon face</li>
+</ol>

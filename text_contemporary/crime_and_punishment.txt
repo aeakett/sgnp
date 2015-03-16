@@ -52,7 +52,7 @@ CRIME SCENE LOCATIONS
 <li>Church Confessional</li>
 <li>High School Boiler Room</li>
 <li>Storage Locker</li>
-<li>Bathhouse </li>
+<li>Bathhouse</li>
 <li>Swimming Pool</li>
 <li>Construction Site</li>
 <li>Barn Loft</li>

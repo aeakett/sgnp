@@ -1,193 +1,193 @@
 ﻿<h1>PSEUDO ENGLISH</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
 <h2>NOTES</h2>
-<p>These names all have a vaguely English feel to them, but they are not quite right - perfect for the nobility of a distant star empire, or an alternate history, or whatever.  </p>
-MALE NAMES ONE 
-<ol><li>Caul       </li>
-<li>Aleand   </li>
-<li>Ratclip                                                                              </li>
-<li>Stand                       </li>
-<li>Thomer                         </li>
-<li>Vaude     </li>
-<li>Andrel  </li>
-<li>Poley                   </li>
-<li>Blance </li>
-<li>Glauglas                  </li>
+<p>These names all have a vaguely English feel to them, but they are not quite right - perfect for the nobility of a distant star empire, or an alternate history, or whatever.</p>
+MALE NAMES ONE
+<ol><li>Caul</li>
+<li>Aleand</li>
+<li>Ratclip</li>
+<li>Stand</li>
+<li>Thomer</li>
+<li>Vaude</li>
+<li>Andrel</li>
+<li>Poley</li>
+<li>Blance</li>
+<li>Glauglas</li>
 <li>Tert</li>
-<li>Laudius      </li>
-<li>Menry        </li>
-<li>Phin     </li>
-<li>Wester                  </li>
-<li>Bragon </li>
-<li>Vine                         </li>
-<li>Wardius                </li>
-<li>Brance     </li>
-<li>Brutlas </li></ol>
+<li>Laudius</li>
+<li>Menry</li>
+<li>Phin</li>
+<li>Wester</li>
+<li>Bragon</li>
+<li>Vine</li>
+<li>Wardius</li>
+<li>Brance</li>
+<li>Brutlas</li></ol>
 MALE NAMES TWO
-<ol><li>Canter   </li>
-<li>Vaunt                                                   </li>
-<li>Card                            </li>
-<li>Clance      </li>
-<li>Dortio </li>
-<li>Arcus  </li>
-<li>Pridus              </li>
-<li>Arras                                              </li>
-<li>Baston   </li>
-<li>Clard       </li>
-<li>Dount               </li>
-<li>Edwall             </li>
-<li>Falius   </li>
+<ol><li>Canter</li>
+<li>Vaunt</li>
+<li>Card</li>
+<li>Clance</li>
+<li>Dortio</li>
+<li>Arcus</li>
+<li>Pridus</li>
+<li>Arras</li>
+<li>Baston</li>
+<li>Clard</li>
+<li>Dount</li>
+<li>Edwall</li>
+<li>Falius</li>
 <li>Colius</li>
-<li>Mortio   </li>
-<li>Couglas                           </li>
-<li>Daunt                  </li>
-<li>Nord               </li>
-<li>Octague  </li>
-<li>Wortio </li></ol>
+<li>Mortio</li>
+<li>Couglas</li>
+<li>Daunt</li>
+<li>Nord</li>
+<li>Octague</li>
+<li>Wortio</li></ol>
 MALE NAMES THREE
-<ol><li>Orlence                                   </li>
-<li>Petemith       </li>
-<li>Fastio  </li>
-<li>Bount </li>
-<li>Morgard           </li>
-<li>Boury   </li>
-<li>Gurge                                 </li>
+<ol><li>Orlence</li>
+<li>Petemith</li>
+<li>Fastio</li>
+<li>Bount</li>
+<li>Morgard</li>
+<li>Boury</li>
+<li>Gurge</li>
 <li>Hence</li>
 <li>Cathan</li>
-<li>Micham </li>
-<li>Henius </li>
-<li>Kale              </li>
-<li>Lancell </li>
-<li>Geortino        </li>
-<li>Lard           </li>
-<li>Forge      </li>
-<li>Franter                                                  </li>
-<li>Gard      </li>
-<li>Lazardus  </li>
-<li>Mardius   </li></ol>
+<li>Micham</li>
+<li>Henius</li>
+<li>Kale</li>
+<li>Lancell</li>
+<li>Geortino</li>
+<li>Lard</li>
+<li>Forge</li>
+<li>Franter</li>
+<li>Gard</li>
+<li>Lazardus</li>
+<li>Mardius</li></ol>
 FEMALE NAMES ONE
-<ol><li>Line               </li>
-<li>Montess  </li>
-<li>Verbela            </li>
-<li>Peth                       </li>
-<li>Solk               </li>
-<li>Vercy       </li>
-<li>Arras   </li>
-<li>Polony                           </li>
-<li>Boury  </li>
-<li>Ardent                          </li>
-<li>Cater  </li>
-<li>Pria                  </li>
-<li>Catlip           </li>
-<li>Bray                          </li>
-<li>Cambel             </li>
-<li>Canter </li>
-<li>Somer                       </li>
-<li>Vauphria    </li>
-<li>Orset            </li>
+<ol><li>Line</li>
+<li>Montess</li>
+<li>Verbela</li>
+<li>Peth</li>
+<li>Solk</li>
+<li>Vercy</li>
+<li>Arras</li>
+<li>Polony</li>
+<li>Boury</li>
+<li>Ardent</li>
+<li>Cater</li>
+<li>Pria</li>
+<li>Catlip</li>
+<li>Bray</li>
+<li>Cambel</li>
+<li>Canter</li>
+<li>Somer</li>
+<li>Vauphria</li>
+<li>Orset</li>
 <li>Ducell</li></ol>
 FEMALE NAMES TWO
-<ol><li>Arcy  </li>
-<li>Quess              </li>
+<ol><li>Arcy</li>
+<li>Quess</li>
 <li>Robeth</li>
-<li>Brus   </li>
-<li>Kathegras             </li>
-<li>Lauphria  </li>
-<li>Mowbria </li>
-<li>Octave             </li>
-<li>Corner   </li>
+<li>Brus</li>
+<li>Kathegras</li>
+<li>Lauphria</li>
+<li>Mowbria</li>
+<li>Octave</li>
+<li>Corner</li>
 <li>Pemith</li>
-<li>Dauphria           </li>
-<li>Counch </li>
-<li>Burrew                      </li>
-<li>Caess       </li>
-<li>Counter                    </li>
-<li>Daunt          </li>
-<li>Counds            </li>
-<li>Dorsal              </li>
-<li>Dount              </li>
+<li>Dauphria</li>
+<li>Counch</li>
+<li>Burrew</li>
+<li>Caess</li>
+<li>Counter</li>
+<li>Daunt</li>
+<li>Counds</li>
+<li>Dorsal</li>
+<li>Dount</li>
 <li>Carda</li></ol>
 FEMALE NAMES THREE
-<ol><li>Hencess       </li>
-<li>Dulse      </li>
-<li>Fria                                   </li>
-<li>Guile   </li>
-<li>Aufidine                    </li>
-<li>Blance        </li>
-<li>Guilip               </li>
-<li>Hence           </li>
-<li>Humphria   </li>
-<li>Arrelas  </li>
-<li>Cine     </li>
-<li>Exeth              </li>
+<ol><li>Hencess</li>
+<li>Dulse</li>
+<li>Fria</li>
+<li>Guile</li>
+<li>Aufidine</li>
+<li>Blance</li>
+<li>Guilip</li>
+<li>Hence</li>
+<li>Humphria</li>
+<li>Arrelas</li>
+<li>Cine</li>
+<li>Exeth</li>
 <li>Falip</li>
-<li>Colizabel               </li>
-<li>Bolle                 </li>
-<li>Hymerset           </li>
-<li>Isabert   </li>
-<li>Perleand                                          </li>
+<li>Colizabel</li>
+<li>Bolle</li>
+<li>Hymerset</li>
+<li>Isabert</li>
+<li>Perleand</li>
 <li>Lepinna</li>
-<li>Regess  </li></ol>
+<li>Regess</li></ol>
 SURNAMES ONE			
-<ol><li>Anterset   </li>
-<li>Sufidius           </li>
-<li>Talifford     </li>
-<li>Antgone   </li>
-<li>Counds             </li>
-<li>Counter            </li>
-<li>Ducell               </li>
-<li>Archam  </li>
-<li>Thop                                          </li>
-<li>Verley                                                                  </li>
-<li>Word       </li>
-<li>Arcpenny  </li>
-<li>Hymerset                    </li>
-<li>Lepince  </li>
-<li>Hentert            </li>
-<li>Artester     </li>
-<li>Aufford                     </li>
-<li>Bastaff  </li>
-<li>Gurner                         </li>
+<ol><li>Anterset</li>
+<li>Sufidius</li>
+<li>Talifford</li>
+<li>Antgone</li>
+<li>Counds</li>
+<li>Counter</li>
+<li>Ducell</li>
+<li>Archam</li>
+<li>Thop</li>
+<li>Verley</li>
+<li>Word</li>
+<li>Arcpenny</li>
+<li>Hymerset</li>
+<li>Lepince</li>
+<li>Hentert</li>
+<li>Artester</li>
+<li>Aufford</li>
+<li>Bastaff</li>
+<li>Gurner</li>
 <li>Henbury</li></ol>
 SURNAMES TWO
-<ol><li>Coucham  </li>
-<li>Brackenberry           </li>
-<li>Bount                          </li>
-<li>Colk                      </li>
-<li>Corner  </li>
-<li>Fringham      </li>
-<li>Gurbot                  </li>
-<li>Hert   </li>
-<li>Pert           </li>
-<li>Robel              </li>
-<li>Salip             </li>
-<li>Hollas  </li>
-<li>Cornward  </li>
-<li>Smidius  </li>
-<li>Buchmond             </li>
-<li>Caesbury                         </li>
-<li>Solk                </li>
-<li>Franter   </li>
-<li>Pernenbury          </li>
-<li>Sand   </li></ol>
+<ol><li>Coucham</li>
+<li>Brackenberry</li>
+<li>Bount</li>
+<li>Colk</li>
+<li>Corner</li>
+<li>Fringham</li>
+<li>Gurbot</li>
+<li>Hert</li>
+<li>Pert</li>
+<li>Robel</li>
+<li>Salip</li>
+<li>Hollas</li>
+<li>Cornward</li>
+<li>Smidius</li>
+<li>Buchmond</li>
+<li>Caesbury</li>
+<li>Solk</li>
+<li>Franter</li>
+<li>Pernenbury</li>
+<li>Sand</li></ol>
 INTERESTING PLACES
-<ol><li>Duchmond Town           </li>
-<li>Erpidge Meadows            </li>
-<li>Faster Downs                            </li>
-<li>Bishomer's Folly </li>
-<li>Humphin Priory               </li>
-<li>Lepinna's Wood                      </li>
-<li>Mowbrey's Gate   </li>
-<li>Sicham Baths </li>
-<li>The Princon Marches        </li>
-<li>Richamford            </li>
-<li>Orlevis Close                                   </li>
-<li>Perleand Manor   </li>
-<li>Lake Blancall  </li>
-<li>St. Frishop's                      </li>
-<li>Glonton Market  </li>
-<li>Priarbridge   </li>
-<li>Bragonville          </li>
-<li>Stalton-Dacks                  </li>
-<li>Gobertham                                      </li>
+<ol><li>Duchmond Town</li>
+<li>Erpidge Meadows</li>
+<li>Faster Downs</li>
+<li>Bishomer's Folly</li>
+<li>Humphin Priory</li>
+<li>Lepinna's Wood</li>
+<li>Mowbrey's Gate</li>
+<li>Sicham Baths</li>
+<li>The Princon Marches</li>
+<li>Richamford</li>
+<li>Orlevis Close</li>
+<li>Perleand Manor</li>
+<li>Lake Blancall</li>
+<li>St. Frishop's</li>
+<li>Glonton Market</li>
+<li>Priarbridge</li>
+<li>Bragonville</li>
+<li>Stalton-Dacks</li>
+<li>Gobertham</li>
 <li>Colk Corner</li></ol>

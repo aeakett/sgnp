@@ -4,131 +4,131 @@
 <p>The male and female names and surnames are both common and culturally significant in modern day Lisbon, Portugal, and are probably representative of the rest of the country as well. By the same token, virtually all of them were in use during the maritime expansion era (15th-17th centuries), which will probably be more significant.</p>
 <p>Additionally, we've included a short list of male and female names that were way more common back then than they are now.</p>
 MALE 1
-<ol><li>Alberto </li>
-<li>José </li>
-<li>Mário </li>
-<li>Miguel </li>
-<li>Raul </li>
-<li>Rui </li>
-<li>Sebastião </li>
-<li>Júlio </li>
+<ol><li>Alberto</li>
+<li>José</li>
+<li>Mário</li>
+<li>Miguel</li>
+<li>Raul</li>
+<li>Rui</li>
+<li>Sebastião</li>
+<li>Júlio</li>
 <li>Luís</li>
 <li>Manuel</li>
-<li>Horácio </li>
-<li>Artur </li>
-<li>Bernardo </li>
-<li>Abel </li>
-<li>Hugo </li>
-<li>Ivo </li>
-<li>Frederico </li>
-<li>Gabriel </li>
-<li>César </li>
-<li>Daniel </li></ol>
+<li>Horácio</li>
+<li>Artur</li>
+<li>Bernardo</li>
+<li>Abel</li>
+<li>Hugo</li>
+<li>Ivo</li>
+<li>Frederico</li>
+<li>Gabriel</li>
+<li>César</li>
+<li>Daniel</li></ol>
 FEMALE 1 
-<ol><li>Amélia </li>
-<li>Cristina </li>
-<li>Diana </li>
-<li>Fernanda </li>
-<li>Filipa </li>
-<li>Mafalda </li>
-<li>Inês </li>
-<li>Irene </li>
+<ol><li>Amélia</li>
+<li>Cristina</li>
+<li>Diana</li>
+<li>Fernanda</li>
+<li>Filipa</li>
+<li>Mafalda</li>
+<li>Inês</li>
+<li>Irene</li>
 <li>Andreia</li>
-<li>Bárbara </li>
-<li>Isabel </li>
-<li>Joana </li>
-<li>Júlia </li>
-<li>Laura </li>
-<li>Cláudia </li>
-<li>Paula </li>
-<li>Raquel </li>
-<li>Vera </li>
-<li>Mariana </li>
-<li>Lúcia </li></ol>
+<li>Bárbara</li>
+<li>Isabel</li>
+<li>Joana</li>
+<li>Júlia</li>
+<li>Laura</li>
+<li>Cláudia</li>
+<li>Paula</li>
+<li>Raquel</li>
+<li>Vera</li>
+<li>Mariana</li>
+<li>Lúcia</li></ol>
 MALE 2
-<ol><li>Simão </li>
-<li>Nuno </li>
+<ol><li>Simão</li>
+<li>Nuno</li>
 <li>Óscar</li>
-<li>Paulo </li>
-<li>Victor </li>
-<li>Xavier </li>
-<li>Pedro </li>
-<li>Rafael </li>
+<li>Paulo</li>
+<li>Victor</li>
+<li>Xavier</li>
+<li>Pedro</li>
+<li>Rafael</li>
 <li>Tiago</li>
 <li>David</li>
-<li>Gaspar </li>
-<li>Jaime </li>
-<li>Afonso </li>
-<li>Gonçalo </li>
-<li>André </li>
-<li>Eduardo </li>
-<li>Fernando </li>
-<li>Rodrigo </li>
+<li>Gaspar</li>
+<li>Jaime</li>
+<li>Afonso</li>
+<li>Gonçalo</li>
+<li>André</li>
+<li>Eduardo</li>
+<li>Fernando</li>
+<li>Rodrigo</li>
 <li>Alexandre</li>
 <li>António</li></ol>
 FEMALE 2
-<ol><li>Matilde </li>
-<li>Rita </li>
-<li>Rosa </li>
-<li>Marta </li>
-<li>Francisca </li>
-<li>Gabriela </li>
+<ol><li>Matilde</li>
+<li>Rita</li>
+<li>Rosa</li>
+<li>Marta</li>
+<li>Francisca</li>
+<li>Gabriela</li>
 <li>Alexandra</li>
 <li>Manuela</li>
-<li>Ana </li>
-<li>Catarina </li>
-<li>Dora </li>
+<li>Ana</li>
+<li>Catarina</li>
+<li>Dora</li>
 <li>Luísa</li>
 <li>Lurdes</li>
-<li>Madalena </li>
-<li>Elsa </li>
-<li>Fátima </li>
-<li>Célia </li>
-<li>Conceição </li>
-<li>Beatriz </li>
-<li>Carla </li></ol>
+<li>Madalena</li>
+<li>Elsa</li>
+<li>Fátima</li>
+<li>Célia</li>
+<li>Conceição</li>
+<li>Beatriz</li>
+<li>Carla</li></ol>
 MALE 3
-<ol><li>Duarte </li>
-<li>Alfredo </li>
+<ol><li>Duarte</li>
+<li>Alfredo</li>
 <li>Filipe</li>
-<li>Bruno </li>
-<li>Carlos </li>
+<li>Bruno</li>
+<li>Carlos</li>
 <li>Diogo</li>
-<li>João </li>
-<li>Marcelo </li>
-<li>Sérgio </li>
+<li>João</li>
+<li>Marcelo</li>
+<li>Sérgio</li>
 <li>Tomás</li>
-<li>Vasco </li>
-<li>Ricardo </li>
-<li>Gustavo </li>
-<li>Henrique </li>
-<li>Joaquim </li>
-<li>Álvaro </li>
-<li>Francisco </li>
-<li>Guilherme </li>
-<li>Jorge </li>
-<li>Rogério </li></ol>
+<li>Vasco</li>
+<li>Ricardo</li>
+<li>Gustavo</li>
+<li>Henrique</li>
+<li>Joaquim</li>
+<li>Álvaro</li>
+<li>Francisco</li>
+<li>Guilherme</li>
+<li>Jorge</li>
+<li>Rogério</li></ol>
 FEMALE 3
-<ol><li>Carolina </li>
-<li>Margarida </li>
-<li>Graça </li>
-<li>Helena </li>
-<li>Alice </li>
-<li>Leonor </li>
-<li>Maria </li>
+<ol><li>Carolina</li>
+<li>Margarida</li>
+<li>Graça</li>
+<li>Helena</li>
+<li>Alice</li>
+<li>Leonor</li>
+<li>Maria</li>
 <li>Sónia</li>
 <li>Susana</li>
 <li>Teresa</li>
-<li>Mercedes </li>
-<li>Natália </li>
-<li>Patrícia </li>
-<li>Clara </li>
-<li>Glória </li>
-<li>Rute </li>
-<li>Sandra </li>
-<li>Sara </li>
-<li>Sofia </li>
-<li>Violeta </li></ol>
+<li>Mercedes</li>
+<li>Natália</li>
+<li>Patrícia</li>
+<li>Clara</li>
+<li>Glória</li>
+<li>Rute</li>
+<li>Sandra</li>
+<li>Sara</li>
+<li>Sofia</li>
+<li>Violeta</li></ol>
 OLD MALE 
 <ol><li>Teodoro</li>
 <li>Ubaldo</li>

@@ -38,7 +38,7 @@ FEMALE NAMES
 <li>Rastislava</li>
 <li>Snežna</li>
 <li>Svetlana</li>
-<li>Temna </li>
+<li>Temna</li>
 <li>Tihomira</li>
 <li>Vesna</li>
 <li>Volkonja</li>
@@ -61,7 +61,7 @@ GODS, SPIRITS and BEASTS
 <li>vila (a fairy)</li>
 <li>bes (an evil spirit)</li>
 <li>vedomec (wise man, wizard)</li>
-<li>vešča (wise woman, witch) </li>
+<li>vešča (wise woman, witch)</li>
 <li>hostnik (forest man, shapeshifter)</li>
 <li>torklja (female spirit that kills women that won't stop spinning wool after hours)</li>
 <li>ajd (giant or troll)</li>

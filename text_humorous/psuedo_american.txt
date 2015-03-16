@@ -68,8 +68,8 @@ For an authentic-sounding American name, just combine three or four of these par
 <ol><li>john-</li>
 <li>-stein</li>
 <li>elli-</li>
-<li> - the third </li>
-<li>-ski </li>
+<li> - the third</li>
+<li>-ski</li>
 <li>o'-</li>
 <li>mac-</li>
 <li>- oni -</li>
@@ -78,10 +78,10 @@ For an authentic-sounding American name, just combine three or four of these par
 <li>-bart</li>
 <li>-bush-</li>
 <li>rab-</li>
-<li>-field </li>
-<li>-feld </li>
+<li>-field</li>
+<li>-feld</li>
 <li>-ton-</li>
 <li>-son-</li>
 <li>-sin-</li>
-<li>- junior </li>
+<li>- junior</li>
 <li>-let-</li></ol>

@@ -5,8 +5,8 @@
 
 
 MALE 1
-<ol><li>Chafulumisa </li>
-<li>Lateef </li>
+<ol><li>Chafulumisa</li>
+<li>Lateef</li>
 <li>Donkor</li>
 <li>Chigaru</li>
 <li>Jumoke</li>
@@ -14,82 +14,82 @@ MALE 1
 <li>Baniti</li>
 <li>Fenuku</li>
 <li>Kalfani</li>
-<li>Maskini </li>
-<li>Ngozi </li>
-<li>Quasshie </li>
-<li>Sadiki </li>
-<li>Tsekani </li>
-<li>Azibo </li>
-<li>Gyasi </li>
-<li>Hakizimana </li>
-<li>Kamuzu </li>
-<li>Khnemu </li>
-<li>Lisimba </li></ol>
+<li>Maskini</li>
+<li>Ngozi</li>
+<li>Quasshie</li>
+<li>Sadiki</li>
+<li>Tsekani</li>
+<li>Azibo</li>
+<li>Gyasi</li>
+<li>Hakizimana</li>
+<li>Kamuzu</li>
+<li>Khnemu</li>
+<li>Lisimba</li></ol>
 
 FEMALE 1
-<ol><li>Bennu </li>
-<li>Fukayna </li>
-<li>Habibah </li>
-<li>Theoris </li>
-<li>Umayma </li>
+<ol><li>Bennu</li>
+<li>Fukayna</li>
+<li>Habibah</li>
+<li>Theoris</li>
+<li>Umayma</li>
 <li>Walidah</li>
-<li>Acenath </li>
-<li>Jamila </li>
-<li>Mert </li>
-<li>Panya </li>
-<li>Sagira </li>
-<li>Masika </li>
-<li>Rehema </li>
+<li>Acenath</li>
+<li>Jamila</li>
+<li>Mert</li>
+<li>Panya</li>
+<li>Sagira</li>
+<li>Masika</li>
+<li>Rehema</li>
 <li>Nabirye</li>
-<li>Oseye </li>
+<li>Oseye</li>
 <li>Meht-urt</li>
-<li>Kakra </li>
-<li>Lapis </li>
-<li>Maibe </li>
-<li>Zaliki </li></ol>
+<li>Kakra</li>
+<li>Lapis</li>
+<li>Maibe</li>
+<li>Zaliki</li></ol>
 
 MALE 2
 <ol><li>Nourbese</li>
-<li>Hanif </li>
+<li>Hanif</li>
 <li>Agymah</li>
 <li>Sefu</li>
-<li>Mbizi </li>
-<li>Ubaid </li>
-<li>Wamukota  </li>
-<li>Zuberi </li>
-<li>Mudads </li>
+<li>Mbizi</li>
+<li>Ubaid</li>
+<li>Wamukota</li>
+<li>Zuberi</li>
+<li>Mudads</li>
 <li>Yahya</li>
-<li>Darwishi </li>
-<li>Ishaq </li>
+<li>Darwishi</li>
+<li>Ishaq</li>
 <li>Osaze</li>
-<li>Nkosi </li>
+<li>Nkosi</li>
 <li>Najja</li>
 <li>Abubakar</li>
 <li>Jibade</li>
 <li>Akhenaten</li>
-<li>Idogbe </li>
-<li>Onuris </li></ol>
+<li>Idogbe</li>
+<li>Onuris</li></ol>
 
 FEMALE 2
-<ol><li>Muminah </li>
-<li>Sharifa </li>
+<ol><li>Muminah</li>
+<li>Sharifa</li>
 <li>Olabisi</li>
-<li>Nathifa </li>
-<li>Nile </li>
-<li>Urbi </li>
+<li>Nathifa</li>
+<li>Nile</li>
+<li>Urbi</li>
 <li>Anippe</li>
-<li>Ode </li>
-<li>Mukantagara </li>
-<li>Omorose </li>
-<li>Rabiah </li>
-<li>Siti </li>
-<li>Subira </li>
+<li>Ode</li>
+<li>Mukantagara</li>
+<li>Omorose</li>
+<li>Rabiah</li>
+<li>Siti</li>
+<li>Subira</li>
 <li>Talibah</li>
-<li>Femi </li>
-<li>Ife </li>
+<li>Femi</li>
+<li>Ife</li>
 <li>Chione</li>
-<li>Mafuane </li>
-<li>Pili </li>
+<li>Mafuane</li>
+<li>Pili</li>
 <li>Salihah</li></ol>
 
   
@@ -117,7 +117,7 @@ ANCIENT MALE 1
 <li>Alu</li>
 <li>Itaf</li>?</ol>
 ANCIENT FEMALE 1
-<ol><li>DjaDja </li>
+<ol><li>DjaDja</li>
 <li>Betuk</li>?
 <li>Afrikaisi</li>
 <li>Djabenusiri</li>
@@ -280,46 +280,46 @@ ANCIENT FEMALE 4
 
 
 PHAROAHS 1
-<ol><li>Hor-Aha </li>
-<li>Merneith </li>
-<li>Djet </li>
-<li>Anedjib </li>
-<li>Semerkhet </li>
+<ol><li>Hor-Aha</li>
+<li>Merneith</li>
+<li>Djet</li>
+<li>Anedjib</li>
+<li>Semerkhet</li>
 <li>Qa'a</li>
 <li>Hotepsekhemwy</li>
 <li>Raneb</li>
 <li>Nynetjer</li>
 <li>Senedj</li>
-<li>Seth-Peribsen </li>
-<li>Khasekhemwy </li>
-<li>Sanakhte </li>
-<li>Djoser </li>
-<li>Sekhemkhet </li>
+<li>Seth-Peribsen</li>
+<li>Khasekhemwy</li>
+<li>Sanakhte</li>
+<li>Djoser</li>
+<li>Sekhemkhet</li>
 <li>Khaba</li>
 <li>Huni</li>
-<li>Sneferu </li>
-<li>Khufu </li>
+<li>Sneferu</li>
+<li>Khufu</li>
 <li>Djedefra</li></ol>
  
 PHAROAHS 2
 <ol><li>Khafra</li>
-<li>Sobeknefru (Queen) </li>
+<li>Sobeknefru (Queen)</li>
 <li>Shepseskaf</li>
-<li>Neferkara Khendu	</li>
-<li>Qakare Ibi 	</li>
+<li>Neferkara Khendu</li>
+<li>Qakare Ibi</li>
 <li>Ahmose</li>
 <li>Amenhotep</li>
-<li>Hatshepsut (Queen) </li>
+<li>Hatshepsut (Queen)</li>
 <li>Thutmose</li>
 <li>Tutankhamun</li>
 <li>Akhenaten</li>
-<li>Kheperkheprure Ai </li>
+<li>Kheperkheprure Ai</li>
 <li>Horemheb</li>
 <li>Ramesses</li>
 <li>Merneptah</li>
 <li>Amenemses</li>
 <li>Merneptah Siptah</li>
-<li>Twosret (Queen) </li>
+<li>Twosret (Queen)</li>
 <li>Sobekhotep</li>
 <li>Imyremeshaw</li></ol>
 

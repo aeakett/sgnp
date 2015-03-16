@@ -55,7 +55,7 @@ DISHES
 <li>Gomen - collard green cooked to perfection with spices</li>
 <li>Inguday Tibs - mushroom sautéed with onions</li>
 <li>Kinche - crushed wheat salad</li>
-<li>Kitfo - (a dessert) steak tartar in butter sauce, served raw </li>
+<li>Kitfo - (a dessert) steak tartar in butter sauce, served raw</li>
 <li>Lega Yebeg Tibs - cubes of seasoned lamb stir-fried with onions, rosemary and garlic</li>
 <li>Misir Alitcha - pureed split red lentil simmered in mild sauce</li>
 <li>Misir Wat - pureed split red lentil stew in hot berbere sauce</li>

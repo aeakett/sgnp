@@ -296,7 +296,7 @@ The following are buildings you might find in a Roman town.  All buildings are l
 <li>Aqueducts (channels to bring water into the city)</li>
 <li>Basilica/Basilica (public meeting hall and law court)</li>
 <li>Curia/Curiae (senate house)</li>
-<li>Temples (places of worship) </li>
+<li>Temples (places of worship)</li>
 <li>Macellus/Macella (market halls, full of shops of many different types)</li>
 <li>Horreus/Horrea (warehouses and granaries)</li>
 <li>Public baths (public bathhouses which could also include swimming pools or gymnasiums)</li>
@@ -348,7 +348,7 @@ Combine any of these titles with a number from I to XXX to get an authentic-soun
 <li>Flavia Felix</li>
 <li>Scythica</li>
 <li>Aludae</li>
-<li>Ferrata </li>
+<li>Ferrata</li>
 <li>Victrix</li>
 <li>Gemina</li>
 <li>Hispana</li>

@@ -3,35 +3,35 @@
 <h2>NOTES</h2>
 <p>These lists include all the unusual names suggested in Dogs in the Vineyard; most include the general meaning of the name in case you are into allegory.  The surname lists are common mid-nineteenth-century surnames with some specific ones culled from a single county in Utah.  Meg put together the personalized town stuff.</p>
 MALE NAMES 1 
-<ol><li>Boaz 'swift' </li>
-<li>Cain 'craftsman' </li>
+<ol><li>Boaz 'swift'</li>
+<li>Cain 'craftsman'</li>
 <li>August</li>
-<li>Cleophus </li>
-<li>Abel 'son' </li>
+<li>Cleophus</li>
+<li>Abel 'son'</li>
 <li>Cyrus</li>
-<li>Daniel 'God is my judge' </li>
-<li>David 'beloved' </li>
+<li>Daniel 'God is my judge'</li>
+<li>David 'beloved'</li>
 <li>Edwin</li>
-<li>Samuel 'God has listened' </li>
-<li>Zedekiah 'justice of God' </li>
+<li>Samuel 'God has listened'</li>
+<li>Zedekiah 'justice of God'</li>
 <li>Thaddeus 'heart'</li>
 <li>Cornelius</li>
-<li>Eleazar 'God has helped' </li>
+<li>Eleazar 'God has helped'</li>
 <li>Theophilus</li>
 <li>Cuthbert</li>
-<li>Zephaniah 'hidden by God' </li>
-<li>Eli 'high' </li>
+<li>Zephaniah 'hidden by God'</li>
+<li>Eli 'high'</li>
 <li>Solomon 'peaceful'</li>
-<li>Josiah 'God heals' </li></ol>
+<li>Josiah 'God heals'</li></ol>
 FEMALE NAMES 1
 <ol><li>Prudence</li>
 <li>Rachel 'ewe'</li>
 <li>Delilah 'delicate'</li>
 <li>Mehetabel</li>
 <li>Mindwell</li>
-<li>Susanna 'lily' </li>
-<li>Talitha 'dew' </li>
-<li>Peninnah 'ruby' </li>
+<li>Susanna 'lily'</li>
+<li>Talitha 'dew'</li>
+<li>Peninnah 'ruby'</li>
 <li>Electa</li>
 <li>Fidelia</li>
 <li>Greta</li>
@@ -40,76 +40,76 @@ FEMALE NAMES 1
 <li>Emeline</li>
 <li>Adelia</li>
 <li>Elizabeth  'God is my oath'</li>
-<li>Jemima 'dove' </li>
-<li>Leah 'gazelle' </li>
+<li>Jemima 'dove'</li>
+<li>Leah 'gazelle'</li>
 <li>Jezebel 'wicked'</li>
-<li>Ruth 'companion' </li></ol>
+<li>Ruth 'companion'</li></ol>
 MALE NAMES 2
-<ol><li>Stephen 'crown'  </li>
-<li>Tabor 'misfortune' </li>
+<ol><li>Stephen 'crown'</li>
+<li>Tabor 'misfortune'</li>
 <li>Simeon 'obedient'</li>
-<li>Elias 'God is mighty </li>
+<li>Elias 'God is mighty</li>
 <li>Abiah 'God is my father'</li>
-<li>Barnabas 'son of exhortation' </li>
-<li>Bartholomew 'son of Talmai' </li>
-<li>Jonathan 'God has given' </li>
+<li>Barnabas 'son of exhortation'</li>
+<li>Bartholomew 'son of Talmai'</li>
+<li>Jonathan 'God has given'</li>
 <li>Seth 'appointed'</li>
-<li>Joseph 'God shall add' </li>
-<li>Elijah 'Jehovah is God' </li>
-<li>Emmanuel 'God is with us' </li>
+<li>Joseph 'God shall add'</li>
+<li>Elijah 'Jehovah is God'</li>
+<li>Emmanuel 'God is with us'</li>
 <li>Artemis 'butcher'</li>
 <li>Wiley</li>
 <li>Aaron 'exalted one'</li>
-<li>Uziel 'strength of God' </li>
+<li>Uziel 'strength of God'</li>
 <li>Virgil</li>
 <li>Zachary 'God remembers'</li>
-<li>Enoch 'dedicated' </li>
+<li>Enoch 'dedicated'</li>
 <li>Abijah</li></ol>
 FEMALE NAMES 2
 <ol><li>Abigail 'father is rejoicing'</li>
 <li>Samantha 'listener'</li>
 <li>Abiah 'God is my father'</li>
-<li>Kezia 'cassia tree' </li>
+<li>Kezia 'cassia tree'</li>
 <li>Lavina</li>
-<li>Elisheva 'God is my satisfaction' </li>
+<li>Elisheva 'God is my satisfaction'</li>
 <li>Livinia</li>
-<li>Judith 'he will be praised' </li>
+<li>Judith 'he will be praised'</li>
 <li>Kesiah</li>
 <li>Submit</li>
 <li>Content</li>
-<li>Deborah 'a bee' </li>
+<li>Deborah 'a bee'</li>
 <li>Maria 'beloved'</li>
 <li>Asenath</li>
 <li>Augusta</li>
 <li>Bedelia</li>
-<li>Tamara 'date palm' </li>
+<li>Tamara 'date palm'</li>
 <li>Mahalia 'marrow'</li>
 <li>Hope</li>
-<li>Jael 'mountain goat' </li></ol>
+<li>Jael 'mountain goat'</li></ol>
 MALE NAMES 3
-<ol><li>Ephraim 'very fruitful' </li>
-<li>Abraham 'father of many' </li>
+<ol><li>Ephraim 'very fruitful'</li>
+<li>Abraham 'father of many'</li>
 <li>Benjamin 'son of the south'</li>
-<li>Asher 'blessed' </li>
+<li>Asher 'blessed'</li>
 <li>Ebenezer 'stone of help</li>
-<li>Gershom 'bell' </li>
+<li>Gershom 'bell'</li>
 <li>Hamilton</li>
-<li>Jaspar 'treasure-master' </li>
+<li>Jaspar 'treasure-master'</li>
 <li>Jedidiah 'beloved of God'</li>
-<li>Hanan 'grace' </li>
+<li>Hanan 'grace'</li>
 <li>Hezekiah</li>
-<li>Hiram 'exalted brother' </li>
-<li>Ezri Habakkuk 'embrace' </li>
-<li>Gabriel 'God is my strength' </li>
-<li>Ishmael 'God hears' </li>
+<li>Hiram 'exalted brother'</li>
+<li>Ezri Habakkuk 'embrace'</li>
+<li>Gabriel 'God is my strength'</li>
+<li>Ishmael 'God hears'</li>
 <li>Derrick</li>
 <li>Newton</li>
 <li>Zebedee 'God has bestowed'</li>
-<li>Job 'afflicted' </li>
-<li>Joel 'Jehovah is God' </li></ol>
+<li>Job 'afflicted'</li>
+<li>Joel 'Jehovah is God'</li></ol>
 FEMALE NAMES 3
 <ol><li>Louvina</li>
-<li>Madeleine 'of Magdala' </li>
+<li>Madeleine 'of Magdala'</li>
 <li>Esther 'star'</li>
 <li>Tryphosia</li>
 <li>Dee 'black/dark'</li>
@@ -118,85 +118,85 @@ FEMALE NAMES 3
 <li>Marah 'bitter'</li>
 <li>Waitstill</li>
 <li>Zillah 'shade'</li>
-<li>Eve 'life' </li>
+<li>Eve 'life'</li>
 <li>Faith</li>
 <li>Bethia</li>
 <li>Mary 'longed-for child'</li>
-<li>Susan 'lily' </li>
-<li>Tamar 'date palm' </li>
+<li>Susan 'lily'</li>
+<li>Tamar 'date palm'</li>
 <li>Permelia</li>
 <li>Azubah</li>
 <li>Hester</li>
 <li>Honora</li></ol>
 MALE NAMES 4
 <ol><li>Zechariah 'remembrance of God'</li>
-<li>Nicodemus 'victory people' </li>
-<li>Noah 'long-lived' </li>
-<li>Obadiah 'servant of God' </li>
-<li>Paul 'small' </li>
-<li>Ezekiel 'God strengthens' </li>
-<li>Ezra 'help' </li>
-<li>Philip 'lover of horses' </li>
-<li>Reuben 'renewer' </li>
-<li>Hosea 'salvation' </li>
-<li>Isaac 'he will laugh' </li>
+<li>Nicodemus 'victory people'</li>
+<li>Noah 'long-lived'</li>
+<li>Obadiah 'servant of God'</li>
+<li>Paul 'small'</li>
+<li>Ezekiel 'God strengthens'</li>
+<li>Ezra 'help'</li>
+<li>Philip 'lover of horses'</li>
+<li>Reuben 'renewer'</li>
+<li>Hosea 'salvation'</li>
+<li>Isaac 'he will laugh'</li>
 <li>James 'supplanted'</li>
-<li>Isaiah 'God is salvation' </li>
+<li>Isaiah 'God is salvation'</li>
 <li>Jeremiah 'God will uplift'</li>
-<li>Jethro 'excellence' </li>
-<li>Israel 'may God prevail' </li>
-<li>Jabez 'born in pain'  </li>
+<li>Jethro 'excellence'</li>
+<li>Israel 'may God prevail'</li>
+<li>Jabez 'born in pain'</li>
 <li>Jacob 'seizing by the heel'</li>
-<li>Jonah 'dove' </li>
-<li>Jairus 'God enlightens' </li></ol>
+<li>Jonah 'dove'</li>
+<li>Jairus 'God enlightens'</li></ol>
 FEMALE NAMES 4
-<ol><li>Bathsheba 'an oath' </li>
+<ol><li>Bathsheba 'an oath'</li>
 <li>Candace 'white'</li>
 <li>Dinah 'judged'</li>
 <li>Edwina</li>
 <li>Sybrina</li>
-<li>Tabitha 'doe' </li>
+<li>Tabitha 'doe'</li>
 <li>Cornelia</li>
 <li>Daris</li>
 <li>Althea</li>
 <li>Charity</li>
 <li>Marilla</li>
 <li>Philomena</li>
-<li>Sarah 'princess' </li>
-<li>Martha 'lady' </li>
+<li>Sarah 'princess'</li>
+<li>Martha 'lady'</li>
 <li>Phielia</li>
 <li>Seraphina 'seraphim'</li>
 <li>Clementine</li>
-<li>Anne 'favored' </li>
-<li>Adah 'adornment' </li>
-<li>Tirzah 'acceptance' </li></ol>
+<li>Anne 'favored'</li>
+<li>Adah 'adornment'</li>
+<li>Tirzah 'acceptance'</li></ol>
 MALE NAMES 5
-<ol><li>Adam 'red earth' </li>
+<ol><li>Adam 'red earth'</li>
 <li>Jackson</li>
-<li>Luke 'light' </li>
-<li>Malachi 'my messenger' </li>
+<li>Luke 'light'</li>
+<li>Malachi 'my messenger'</li>
 <li>Amos 'to carry'</li>
-<li>Jamin 'favored' </li>
-<li>Elisha 'God is salvation' </li>
-<li>Caleb 'dog'  </li>
-<li>Carmine 'vineyard' </li>
-<li>Elkanah 'God created' </li>
+<li>Jamin 'favored'</li>
+<li>Elisha 'God is salvation'</li>
+<li>Caleb 'dog'</li>
+<li>Carmine 'vineyard'</li>
+<li>Elkanah 'God created'</li>
 <li>Jeduthan</li>
-<li>Andrew 'manly' </li>
+<li>Andrew 'manly'</li>
 <li>Archibald</li>
-<li>Joachim 'God will establish' </li>
-<li>Judah 'God leads' </li>
+<li>Joachim 'God will establish'</li>
+<li>Judah 'God leads'</li>
 <li>Azariah</li>
-<li>John 'God is gracious' </li>
-<li>Balthazar 'Baal protect the king' </li>
-<li>Timothy 'honored by God' </li>
-<li>Tobias 'God is good' </li></ol>
+<li>John 'God is gracious'</li>
+<li>Balthazar 'Baal protect the king'</li>
+<li>Timothy 'honored by God'</li>
+<li>Tobias 'God is good'</li></ol>
 FEMALE NAMES 5
 <ol><li>Miriam 'beloved'</li>
-<li>Naomi 'my joy/delight' </li>
+<li>Naomi 'my joy/delight'</li>
 <li>Obedience</li>
 <li>Alice</li>
-<li>Rebecca 'snare' </li>
+<li>Rebecca 'snare'</li>
 <li>Relief</li>
 <li>Adeliza</li>
 <li>Patience</li>
@@ -204,56 +204,56 @@ FEMALE NAMES 5
 <li>Almena</li>
 <li>Carmen 'song'</li>
 <li>Aphra 'fawn'</li>
-<li>Bethany 'house of figs' </li>
+<li>Bethany 'house of figs'</li>
 <li>Theodosia</li>
-<li>Carmel 'vineyard'  </li>
+<li>Carmel 'vineyard'</li>
 <li>Tryphena</li>
 <li>Marianne 'rejoice'</li>
 <li>Temperance</li>
-<li>Sharon 'a plain' </li>
+<li>Sharon 'a plain'</li>
 <li>Constance</li></ol>
 MORE MALE NAMES 1
-<ol><li>Uriah 'God is light' </li>
-<li>Jude 'praised' </li>
+<ol><li>Uriah 'God is light'</li>
+<li>Jude 'praised'</li>
 <li>Lazarus 'God is my helper'</li>
-<li>Levi 'joined/pledged' </li>
-<li>Napthali 'wrestling' </li>
-<li>Manassah 'he who causes to forget' </li>
+<li>Levi 'joined/pledged'</li>
+<li>Napthali 'wrestling'</li>
+<li>Manassah 'he who causes to forget'</li>
 <li>Marcus 'mars'</li>
-<li>Zebulon 'exaltation' </li>
-<li>Nathan 'gift' </li>
+<li>Zebulon 'exaltation'</li>
+<li>Nathan 'gift'</li>
 <li>Mark 'mars'</li>
-<li>Esau 'blind' </li>
+<li>Esau 'blind'</li>
 <li>Ethan 'strength'</li>
 <li>Zadok 'righteous'</li>
 <li>Melchior 'king of light'</li>
-<li>Micah 'who is like God' </li>
-<li>Japheth 'abundance' </li>
+<li>Micah 'who is like God'</li>
+<li>Japheth 'abundance'</li>
 <li>Matthew 'gift of God'</li>
-<li>Jesse 'gift' </li>
+<li>Jesse 'gift'</li>
 <li>Matthias 'gift of God'</li>
-<li>Zebediah 'God has bestowed' </li></ol>
+<li>Zebediah 'God has bestowed'</li></ol>
 MORE MALE NAMES 2
-<ol><li>Thomas 'twin' </li>
-<li>Jared 'descendant' </li>
+<ol><li>Thomas 'twin'</li>
+<li>Jared 'descendant'</li>
 <li>Mitchell 'Godly'</li>
 <li>Moses 'drawn out of the water'</li>
-<li>Nahum 'comforter' </li>
+<li>Nahum 'comforter'</li>
 <li>Micajah</li>
-<li>Nathaniel 'gift of God' </li>
+<li>Nathaniel 'gift of God'</li>
 <li>Jeremy 'God has uplifted'</li>
-<li>Peter 'rock' </li>
-<li>Nehemiah 'consolation of the Lord' </li>
+<li>Peter 'rock'</li>
+<li>Nehemiah 'consolation of the Lord'</li>
 <li>Samson 'child of Shamash'</li>
-<li>Shadrach 'godlike' </li>
+<li>Shadrach 'godlike'</li>
 <li>Abram 'father is exalted'</li>
-<li>Phineas 'snake's mouth' </li>
+<li>Phineas 'snake's mouth'</li>
 <li>Pleasant</li>
 <li>Raphael 'God has healed'</li>
-<li>Absalom 'father of peace' </li>
-<li>Silas 'asked for' </li>
-<li>Joshua 'God is salvation' </li>
-<li>Simon 'obedient' </li></ol>
+<li>Absalom 'father of peace'</li>
+<li>Silas 'asked for'</li>
+<li>Joshua 'God is salvation'</li>
+<li>Simon 'obedient'</li></ol>
 MALE OUTSIDERS AND CONVERTS
 <ol><li>John</li>
 <li>William</li>
@@ -274,7 +274,7 @@ MALE OUTSIDERS AND CONVERTS
 <li>Paul</li>
 <li>Clarence</li>
 <li>Fred</li>
-<li>Carl </li></ol>
+<li>Carl</li></ol>
 FEMALE OUTSIDERS AND CONVERTS
 <ol><li>Mary</li>
 <li>Helen</li>
@@ -295,133 +295,133 @@ FEMALE OUTSIDERS AND CONVERTS
 <li>Edna</li>
 <li>Grace</li>
 <li>Catherine</li>
-<li>Hazel </li></ol>
+<li>Hazel</li></ol>
 SURNAMES 1
-<ol><li>Winthrop              </li>
-<li>Turner </li>
-<li>White             </li>
-<li>Howard </li>
-<li>Johnson       </li>
-<li>Hall </li>
-<li>Law           </li>
-<li>Lutz    </li>
-<li>Cox </li>
-<li>Wise          </li>
-<li>Wolfe </li>
-<li>Croswell      </li>
-<li>Harwood       </li>
-<li>Crozier       </li>
-<li>Culver        </li>
-<li>Green </li>
-<li>Griffiths </li>
-<li>Bennett </li>
+<ol><li>Winthrop</li>
+<li>Turner</li>
+<li>White</li>
+<li>Howard</li>
+<li>Johnson</li>
 <li>Hall</li>
-<li>Hodgkiss     </li></ol>
+<li>Law</li>
+<li>Lutz</li>
+<li>Cox</li>
+<li>Wise</li>
+<li>Wolfe</li>
+<li>Croswell</li>
+<li>Harwood</li>
+<li>Crozier</li>
+<li>Culver</li>
+<li>Green</li>
+<li>Griffiths</li>
+<li>Bennett</li>
+<li>Hall</li>
+<li>Hodgkiss</li></ol>
 SURNAMES 2
-<ol><li>Blake         </li>
-<li>Holmes        </li>
+<ol><li>Blake</li>
+<li>Holmes</li>
 <li>Cook</li>
-<li>McFarland     </li>
-<li>Boswell       </li>
-<li>Woodley       </li>
-<li>McKissick     </li>
-<li>Bradshaw      </li>
-<li>McMullan      </li>
-<li>Bowery        </li>
-<li>McPherson     </li>
-<li>Crosby        </li>
-<li>Brackett      </li>
-<li>Boyce      </li>
-<li>Williams </li>
-<li>Burns         </li>
+<li>McFarland</li>
+<li>Boswell</li>
+<li>Woodley</li>
+<li>McKissick</li>
+<li>Bradshaw</li>
+<li>McMullan</li>
+<li>Bowery</li>
+<li>McPherson</li>
+<li>Crosby</li>
+<li>Brackett</li>
+<li>Boyce</li>
+<li>Williams</li>
+<li>Burns</li>
 <li>Combs</li>
 <li>Peterson</li>
-<li>Bagley        </li>
-<li>Cooper </li></ol>
+<li>Bagley</li>
+<li>Cooper</li></ol>
 SURNAMES 3
-<ol><li>Bell       </li>
+<ol><li>Bell</li>
 <li>Miller</li>
-<li>Brown         </li>
-<li>Milton        </li>
-<li>Brownfield    </li>
-<li>Morgan </li>
-<li>Smalley       </li>
-<li>Morrell       </li>
-<li>Perry         </li>
+<li>Brown</li>
+<li>Milton</li>
+<li>Brownfield</li>
+<li>Morgan</li>
+<li>Smalley</li>
+<li>Morrell</li>
+<li>Perry</li>
 <li>Thompson</li>
-<li>Phillips </li>
-<li>Stanchfield   </li>
-<li>Price </li>
-<li>Richardson </li>
-<li>Sisson        </li>
-<li>Smith </li>
-<li>Sprague       </li>
-<li>Burkey        </li>
-<li>Stephens   </li>
-<li>Martin </li></ol>
+<li>Phillips</li>
+<li>Stanchfield</li>
+<li>Price</li>
+<li>Richardson</li>
+<li>Sisson</li>
+<li>Smith</li>
+<li>Sprague</li>
+<li>Burkey</li>
+<li>Stephens</li>
+<li>Martin</li></ol>
 SURNAMES 4
-<ol><li>McAlmond      </li>
-<li>Lawrence      </li>
-<li>Howell        </li>
-<li>Hughes </li>
-<li>James </li>
-<li>Hamilton </li>
-<li>Colby         </li>
-<li>Atkinson      </li>
-<li>Collins </li>
-<li>Davies </li>
-<li>Burster       </li>
+<ol><li>McAlmond</li>
+<li>Lawrence</li>
+<li>Howell</li>
+<li>Hughes</li>
+<li>James</li>
+<li>Hamilton</li>
+<li>Colby</li>
+<li>Atkinson</li>
+<li>Collins</li>
+<li>Davies</li>
+<li>Burster</li>
 <li>Adams</li>
-<li>Campbell </li>
-<li>Allen </li>
+<li>Campbell</li>
+<li>Allen</li>
 <li>Baker</li>
-<li>Cape </li>
-<li>Barry </li>
-<li>Chambers      </li>
-<li>Cobley      </li>
-<li>Doughty  </li></ol>
+<li>Cape</li>
+<li>Barry</li>
+<li>Chambers</li>
+<li>Cobley</li>
+<li>Doughty</li></ol>
 SURNAMES 5   
-<ol><li>Ryder         </li>
-<li>Sampson       </li>
-<li>Tucker       </li>
-<li>Windsor     </li>
-<li>Van Valzak    </li>
-<li>Walker </li>
-<li>Wallace       </li>
-<li>Sweeney       </li>
+<ol><li>Ryder</li>
+<li>Sampson</li>
+<li>Tucker</li>
+<li>Windsor</li>
+<li>Van Valzak</li>
+<li>Walker</li>
+<li>Wallace</li>
+<li>Sweeney</li>
 <li>Taylor</li>
 <li>Sands</li>
-<li>Carter   </li>
-<li>Riley         </li>
-<li>Roberts </li>
-<li>Morris </li>
-<li>Mason         </li>
-<li>Huntoon       </li>
-<li>Hilderband    </li>
-<li>Frazier       </li>
-<li>Garnett       </li>
-<li>Dunn    </li></ol>
+<li>Carter</li>
+<li>Riley</li>
+<li>Roberts</li>
+<li>Morris</li>
+<li>Mason</li>
+<li>Huntoon</li>
+<li>Hilderband</li>
+<li>Frazier</li>
+<li>Garnett</li>
+<li>Dunn</li></ol>
 SURNAMES 6    
-<ol><li>Clark </li>
-<li>Bailey </li>
-<li>Clifford      </li>
-<li>Anderson </li>
-<li>Davidson      </li>
+<ol><li>Clark</li>
+<li>Bailey</li>
+<li>Clifford</li>
+<li>Anderson</li>
+<li>Davidson</li>
 <li>Evans</li>
-<li>Fisher        </li>
-<li>Gibson        </li>
+<li>Fisher</li>
+<li>Gibson</li>
 <li>Hill</li>
 <li>Jackson</li>
-<li>King          </li>
-<li>Lane          </li>
-<li>O'brien        </li>
-<li>Offitt        </li>
+<li>King</li>
+<li>Lane</li>
+<li>O'brien</li>
+<li>Offitt</li>
 <li>Parker</li>
-<li>Robinson </li>
-<li>Scott </li>
-<li>Thomas </li>
-<li>Ward </li>
-<li>Young </li></ol>
+<li>Robinson</li>
+<li>Scott</li>
+<li>Thomas</li>
+<li>Ward</li>
+<li>Young</li></ol>
 TOWN NAME BITS:  BIBLICAL
 <ol><li>Enoch</li>
 <li>Ephraim</li>
@@ -581,7 +581,7 @@ Mid-to-low tech cities and towns. This list would work for a Dogs in the Vineyar
 <li>Inkleman's Clocks, Watches, and Fine Jewelry - gold bought and sold</li>
 <li>Knabler's Chemist and Drug</li>
 <li>Miss Larkin's Sundry Shop</li>
-<li>Quality Shoes </li>
+<li>Quality Shoes</li>
 <li>Jonas' Bookshop</li>
 <li>Schoenhaur and Co. Printers</li>
 <li>Wilson's Gunsmithing</li>
@@ -590,7 +590,7 @@ Mid-to-low tech cities and towns. This list would work for a Dogs in the Vineyar
 <li>Gambini's Butchery - Fresh cuts and farm visits</li>
 <li>Mattley's Mill and Bakery</li>
 <li>Oscar's Pottery</li>
-<li>Lashway Lumber </li></ol>
+<li>Lashway Lumber</li></ol>
 PLACES AROUND TOWN
 Not a shop, tavern, or personal home, but still important parts of town.
 <ol><li>Schoolyard - trees, some big stones, maybe a few tree-swings</li>
@@ -612,4 +612,4 @@ Not a shop, tavern, or personal home, but still important parts of town.
 <li>Stagger's Mine - abandoned for years</li>
 <li>The room over the millinery shop - smoking and gambling for men</li>
 <li>Hermit's lean-to - three-sided cabin used by hunters etc., left provisioned for whoever comes next</li>
-<li>Saunder's rock quarry </li></ol>
+<li>Saunder's rock quarry</li></ol>

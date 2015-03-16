@@ -3,59 +3,59 @@
 <h2>NOTES</h2>
 <p>These personal names were randomly generated from Inuit-esque phonemes.</p>
 MALE NAMES 
-<ol><li>Pukivik </li>
-<li>Noagunegak </li>
+<ol><li>Pukivik</li>
+<li>Noagunegak</li>
 <li>Tooaarvik</li>
 <li>Teqkuagguk</li>
 <li>Toosivu</li>
 <li>Tankuageak</li>
-<li>Autiaq </li>
-<li>Aupalusuq </li>
+<li>Autiaq</li>
+<li>Aupalusuq</li>
 <li>Avinaaq</li>
 <li>Kuviguk</li>
 <li>Tornviyok</li>
-<li>Aitelik </li>
+<li>Aitelik</li>
 <li>Tsetevu</li>
 <li>Aknikok</li>
 <li>Sausulik</li>
 <li>Norluteak</li>
 <li>Tulutvu</li>
-<li>Atuqulk </li>
+<li>Atuqulk</li>
 <li>Aukuagcheeak</li>
-<li>Toomingchuk </li></ol>
+<li>Toomingchuk</li></ol>
 FEMALE NAMES
 <ol><li>Alutta</li>
 <li>Aklavu</li>
-<li>Kupalunek </li>
-<li>Sausuak </li>
+<li>Kupalunek</li>
+<li>Sausuak</li>
 <li>Uluglulik</li>
 <li>Nuqmavik</li>
 <li>Piaarguk</li>
-<li>Paalavik </li>
-<li>Puknabuk </li>
+<li>Paalavik</li>
+<li>Puknabuk</li>
 <li>Aiqatchuk</li>
 <li>Ulunatoq</li>
-<li>Nuvivik </li>
+<li>Nuvivik</li>
 <li>Qaatuqtok</li>
 <li>Teqgluyuk</li>
 <li>Ullorhorulk</li>
 <li>Noauchtok</li>
-<li>Aludvik </li>
+<li>Aludvik</li>
 <li>Millutkap</li>
 <li>Kituqanak</li>
 <li>Noasaqanak</li></ol>
 SORCERERS, SPIRITS, AND OUTSIDERS
-<ol><li>Alaraq </li>
+<ol><li>Alaraq</li>
 <li>Akalaaq</li>
 <li>Aukuagmaq</li>
 <li>Aqigaq</li>
-<li>Noasagaq </li>
+<li>Noasagaq</li>
 <li>Tookuagaq</li>
-<li>Nuqpaluaq </li>
+<li>Nuqpaluaq</li>
 <li>Kiqiaq</li>
 <li>Ailuqsaq</li>
 <li>Noruaqsaq</li>
-<li>Qaaqatchaq </li>
+<li>Qaaqatchaq</li>
 <li>Nutarnegaq</li>
 <li>Saulaqaaq</li>
 <li>Aklajaq</li>

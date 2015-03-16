@@ -136,7 +136,7 @@ INTERESTING PLACES ONE
 <li>Tonnhofn:  Tooth harbor</li>
 <li>Valrskagi:  The "Field of Corpses" peninsula</li>
 <li>Rakurstaða:  Damp place</li>
-<li>Álar-Endirfoss:  Pommel-strap falls  </li>
+<li>Álar-Endirfoss:  Pommel-strap falls</li>
 <li>Beinahusið holur: Charnel house hollow</li>
 <li>Stórsvan:  The stone swan, a landmark</li>
 <li>Smárstraumr umfirð:  Neap-tide passage</li>
@@ -149,7 +149,7 @@ INTERESTING PLACES ONE
 <li>Garðrloft:  "The Sky-wall"</li>
 <li>Sleða-bakki:  "Sledge" ford</li>
 <li>Geirnefurskagi:  Gar-fish peninsula</li>
-<li>Skogurhörmulegur:  Dismal forest  </li>
+<li>Skogurhörmulegur:  Dismal forest</li>
 <li>Eplivatn:  Apple lake</li></ol>
 INTERESTING PLACES TWO
 <ol><li>Rauðrfold:  Red valley</li>
@@ -169,11 +169,11 @@ INTERESTING PLACES TWO
 <li>Knuivigi:  "The Knuckle", a fortress</li>
 <li>Mjolkvatn:  Milkwater, a lake</li>
 <li>Svarturvigi:  The black fortress</li>
-<li>Tonnbrekka:  Tooth hill </li>
+<li>Tonnbrekka:  Tooth hill</li>
 <li>Veiðimaðrfingur:  Huntsman's finger, a landmark</li>
 <li>Arfloi: Oar bay</li></ol>
 DISTRICTS AND CLAN TERRITORIES
-<ol><li>Barnasveit:  Rookery island district </li>
+<ol><li>Barnasveit:  Rookery island district</li>
 <li>Rauðrfoldisveit:  Red valley district</li>
 <li>Beinahusið:  Charnel House Valley</li>
 <li>Ætlanviksveit:  Conception inlet district</li>
@@ -184,12 +184,12 @@ DISTRICTS AND CLAN TERRITORIES
 <li>Sporjárnhússveit:  Chisel house district</li>
 <li>Heyhliðsveit:  Hay gate district</li>
 <li>Gjóllsveit:  Resounder river district</li>
-<li>Jökullskeggisveit:  Glacier island district </li>
+<li>Jökullskeggisveit:  Glacier island district</li>
 <li>Ófrjórsundsveit:  Barren sound district</li>
 <li>Slétta-straþaksveit:  The thatch plain district</li>
 <li>Hrafnstraumursveit:  Raven river district</li>
 <li>Ulfhúsið:  Wolf house district</li>
-<li>Austurskorðasveit:  Eastern shore district </li>
+<li>Austurskorðasveit:  Eastern shore district</li>
 <li>Mjolkvatnsveit:  Milkwater lake district</li>
 <li>Grarjarpursveit:  Grey bay district</li>
 <li>Hvalurviksveit:  Whale cove district</li></ol>

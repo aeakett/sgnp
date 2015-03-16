@@ -3,107 +3,107 @@
 <h2>NOTES</h2>
 <p>These come from 19th century tribal rolls.  They were compiled by Indian agents and are of dubious linguistic fidelity.  You could use any of these names as a place name by adding "mesa", "creek", "ridge", etc. to the end of it.</p>
 MALE NAMES ONE
-<ol><li>Bare Bow / NAW-AH-A-MA       </li>
-<li>Left Hand Bull / AH-HO-A-MOW  </li>
-<li>Man Heart / MI-NO-ONI-A             </li>
-<li>Little Bear / NAW-QUIS      	</li>
-<li>Bear Raising / NUC-QUA-IS-SU </li>
-<li>Man Standing / AH-TAH-NU-ISH           </li>
-<li>Night Killer / TAHE-VE-NAH-EH-NA                                       </li>
-<li>One-Eyed Bull / TO-MA-CHA-MA                                                                                            </li>
-<li>Porcupine Bull / ES-CO-TE-SA-IT </li>
-<li>Little Coyote / O-KO-MISH    </li>
-<li>Pretty Man / HIN-KEE-TINA                                                       </li>
-<li>Racer / KA-AH-YAT </li>
-<li>Black Cloud / MUC-A-TA-WUC     </li>
-<li>Wolf-In-The-Middle / HO-SO-SIT </li>
-<li>Yellow Hawk / E-O-YE-YAU   	     </li>
-<li>Black Eagle / NIT-NU-TAH-WA-IST    </li>
-<li>Thief  / NO-MOTS-SI-U             	</li>
-<li>White Man / VE-HUE </li>
-<li>Black Wolf / MO-TOW-NA-MA    </li>
+<ol><li>Bare Bow / NAW-AH-A-MA</li>
+<li>Left Hand Bull / AH-HO-A-MOW</li>
+<li>Man Heart / MI-NO-ONI-A</li>
+<li>Little Bear / NAW-QUIS</li>
+<li>Bear Raising / NUC-QUA-IS-SU</li>
+<li>Man Standing / AH-TAH-NU-ISH</li>
+<li>Night Killer / TAHE-VE-NAH-EH-NA</li>
+<li>One-Eyed Bull / TO-MA-CHA-MA</li>
+<li>Porcupine Bull / ES-CO-TE-SA-IT</li>
+<li>Little Coyote / O-KO-MISH</li>
+<li>Pretty Man / HIN-KEE-TINA</li>
+<li>Racer / KA-AH-YAT</li>
+<li>Black Cloud / MUC-A-TA-WUC</li>
+<li>Wolf-In-The-Middle / HO-SO-SIT</li>
+<li>Yellow Hawk / E-O-YE-YAU</li>
+<li>Black Eagle / NIT-NU-TAH-WA-IST</li>
+<li>Thief  / NO-MOTS-SI-U</li>
+<li>White Man / VE-HUE</li>
+<li>Black Wolf / MO-TOW-NA-MA</li>
 <li>Bob-Tail Wolf / HO-NI-WA-HAS</li></ol>
 MALE NAMES TWO
-<ol><li>Bull-Looking-Around / HO-TO-WA      </li>
-<li>Catching-In-Battle / WAH-AT-TUF            </li>
-<li>Dog Man / WAH-TAM-A-KET          </li>
-<li>Eating Bull / LA-CUM-AN             </li>
-<li>Fast Wolf / OT-NE-U-QUI-E-QUISH    </li>
+<ol><li>Bull-Looking-Around / HO-TO-WA</li>
+<li>Catching-In-Battle / WAH-AT-TUF</li>
+<li>Dog Man / WAH-TAM-A-KET</li>
+<li>Eating Bull / LA-CUM-AN</li>
+<li>Fast Wolf / OT-NE-U-QUI-E-QUISH</li>
 <li>High-Back Wolf / HAW-KO-NE-USE</li>
-<li>Red Hawk / IN-NAH             	</li>
-<li>Prairie Chief / TOW-LO-A-VA </li>
-<li>Little Man / MI-HI-AT            </li>
-<li>Red Leggins / O-MON-IK-TO         </li>
-<li>Roman Nose / AH-A-HIS       	</li>
-<li>Liver Eater / O-AH-A-TUM                                             </li>
-<li>Mad Wolf / HA-KA-NI         </li>
-<li>Standing Lightning / HO-ITS-E-YOU        </li>
-<li>Crooked Back / WO-CHE-PAH    </li>
-<li>Southerner / HAW-NA-TON      	</li>
-<li>White Buffalo / WAH-IS-TAH           </li>
-<li>Dirty Nose / HIS-SI-E-WA-SA	     </li>
-<li>Elk Standing / MO-NISH                  </li>
-<li>Good Walker / HA-UM-TO-MUS </li></ol>
+<li>Red Hawk / IN-NAH</li>
+<li>Prairie Chief / TOW-LO-A-VA</li>
+<li>Little Man / MI-HI-AT</li>
+<li>Red Leggins / O-MON-IK-TO</li>
+<li>Roman Nose / AH-A-HIS</li>
+<li>Liver Eater / O-AH-A-TUM</li>
+<li>Mad Wolf / HA-KA-NI</li>
+<li>Standing Lightning / HO-ITS-E-YOU</li>
+<li>Crooked Back / WO-CHE-PAH</li>
+<li>Southerner / HAW-NA-TON</li>
+<li>White Buffalo / WAH-IS-TAH</li>
+<li>Dirty Nose / HIS-SI-E-WA-SA</li>
+<li>Elk Standing / MO-NISH</li>
+<li>Good Walker / HA-UM-TO-MUS</li></ol>
 FEMALE NAMES ONE 
-<ol><li>Crooked Woman / WAH-KE-HI                </li>
-<li>Dove / MIS-SO-IH        </li>
-<li>Standing Woman / LA-CAT-ME-AH                          </li>
-<li>Talking Woman / AH-MA-HI          </li>
+<ol><li>Crooked Woman / WAH-KE-HI</li>
+<li>Dove / MIS-SO-IH</li>
+<li>Standing Woman / LA-CAT-ME-AH</li>
+<li>Talking Woman / AH-MA-HI</li>
 <li>Woman-On-The-Hill / MAH-A-YAW</li>
-<li>Turtle / MA-IN-NO    </li>
-<li>Soaring Woman / MOTS-SE-A  </li>
+<li>Turtle / MA-IN-NO</li>
+<li>Soaring Woman / MOTS-SE-A</li>
 <li>Weed Woman / NE-E-NOW-E-SAH</li>
-<li>Squirrel Woman / HO-MA-ERA    </li>
+<li>Squirrel Woman / HO-MA-ERA</li>
 <li>White-Buffalo-Woman / 	WO-IS-TAH</li>
-<li>Virgin Woman / HE-ZOOA-KI-SA                                         </li>
-<li>Walking Woman / UM-MA-HA       </li>
-<li>Gray-Headed / WAPINTA-TAN-WIC     </li>
-<li>Lead Woman / HO-HI-E   </li>
-<li>Antelope Woman / SUE-I-HE-WUC         </li>
-<li>Bear Woman / NAK-KUH                  </li>
-<li>Down Woman / TA-NO-SU                 </li>
-<li>Elk Woman / MO-A-HA-AH                                      </li>
-<li>Feather Woman / WAH-TAH-NA  </li>
-<li>Sand Girl / NAH-BA-IS-SA   </li></ol>
+<li>Virgin Woman / HE-ZOOA-KI-SA</li>
+<li>Walking Woman / UM-MA-HA</li>
+<li>Gray-Headed / WAPINTA-TAN-WIC</li>
+<li>Lead Woman / HO-HI-E</li>
+<li>Antelope Woman / SUE-I-HE-WUC</li>
+<li>Bear Woman / NAK-KUH</li>
+<li>Down Woman / TA-NO-SU</li>
+<li>Elk Woman / MO-A-HA-AH</li>
+<li>Feather Woman / WAH-TAH-NA</li>
+<li>Sand Girl / NAH-BA-IS-SA</li></ol>
 FEMALE NAMES TWO  
-<ol><li>Wild-Cat-Woman / MUS-KO-VA                </li>
-<li>Woman Standing / AH-CHIS-TAH       </li>
-<li>Shave-Head / AH-NOSTS-SE-E    </li>
-<li>Foreign Woman	 / O-NE-HATCH </li>
-<li>Good Woman / WA-SHA               </li>
-<li>Black Woman / MO-HE-ETS-IM    </li>
-<li>Owl Woman / MIS-TO-UN-STA </li>
-<li>Shell Woman / AH-KA-WAH-NA  </li>
-<li>Pipe Woman / NO-I                     </li>
-<li>Red-Belly Woman / MA-A-CIH 	                          </li>
-<li>Black-Foot / STEW-IS-TAN-NA      </li>
-<li>China Woman / MA-NI-AH           </li>
-<li>Mouse Road / OH-CHA-IN                                                                                  </li>
-<li>Old Woman / KAH-IS                           </li>
-<li>Cougar Woman / NA-KU	                            </li>
-<li>Little Woman / MO-CHA-A               </li>
-<li>Medicine Woman / O-WE-HI 	</li>
-<li>Red-Painting / MI-TO-MO-NI            </li>
-<li>Sage Woman / ONE-HI-YOU </li>
-<li>Woman Afraid / DA-KA-MA-EE   </li></ol>
+<ol><li>Wild-Cat-Woman / MUS-KO-VA</li>
+<li>Woman Standing / AH-CHIS-TAH</li>
+<li>Shave-Head / AH-NOSTS-SE-E</li>
+<li>Foreign Woman	 / O-NE-HATCH</li>
+<li>Good Woman / WA-SHA</li>
+<li>Black Woman / MO-HE-ETS-IM</li>
+<li>Owl Woman / MIS-TO-UN-STA</li>
+<li>Shell Woman / AH-KA-WAH-NA</li>
+<li>Pipe Woman / NO-I</li>
+<li>Red-Belly Woman / MA-A-CIH</li>
+<li>Black-Foot / STEW-IS-TAN-NA</li>
+<li>China Woman / MA-NI-AH</li>
+<li>Mouse Road / OH-CHA-IN</li>
+<li>Old Woman / KAH-IS</li>
+<li>Cougar Woman / NA-KU</li>
+<li>Little Woman / MO-CHA-A</li>
+<li>Medicine Woman / O-WE-HI</li>
+<li>Red-Painting / MI-TO-MO-NI</li>
+<li>Sage Woman / ONE-HI-YOU</li>
+<li>Woman Afraid / DA-KA-MA-EE</li></ol>
 EITHER GENDER 
-<ol><li>Bad Teeth / O-CON-NE-NIC                                                                                </li>
-<li>Spotted Bird / VA-GIS-A-WAH-US          	</li>
-<li>Squint Eye  / NO-WA-HY   </li>
-<li>Howling Water / PA-WA-NIS-TA           		            		                           </li>
-<li>Big Owl / MIS-TI-MI-AH     </li>
-<li>Howling In Cloud / WAH-AH-NIS-TO          	             	          </li>
-<li>Black Hair / MO-KI-TO-SE-A                                                         </li>
-<li>Little Traveler / HO-O-MO-SE              	</li>
-<li>Low Standing / WHA-HA-NISH              	</li>
-<li>Make-Out-A-Road / HO-AS-TO-NA  </li>
-<li>Ptarmigan / HA-AS-TUM                	                                                                               </li>
-<li>Red Claws / MOW-MIP-PA             	                          </li>
-<li>Red Plume / MU-CHA-NA             	</li>
-<li>Mourning Howler / MU-IN-MIS-TA   </li>
-<li>Outsider / O-HO-MA                  	                	</li>
-<li>Cut Arm / A-NA-HI-WA              	       	                             </li>
-<li>Red Leaf / MI-VA-PA-TAP </li>
-<li>Walking Behind / TACK-SA               	                          	                </li>
-<li>High-Beak Bird / NO-KE-HE-USE       	</li>
-<li>Stone Road / HE-HO-NI-MAH              	              	           	</li></ol>
+<ol><li>Bad Teeth / O-CON-NE-NIC</li>
+<li>Spotted Bird / VA-GIS-A-WAH-US</li>
+<li>Squint Eye  / NO-WA-HY</li>
+<li>Howling Water / PA-WA-NIS-TA</li>
+<li>Big Owl / MIS-TI-MI-AH</li>
+<li>Howling In Cloud / WAH-AH-NIS-TO</li>
+<li>Black Hair / MO-KI-TO-SE-A</li>
+<li>Little Traveler / HO-O-MO-SE</li>
+<li>Low Standing / WHA-HA-NISH</li>
+<li>Make-Out-A-Road / HO-AS-TO-NA</li>
+<li>Ptarmigan / HA-AS-TUM</li>
+<li>Red Claws / MOW-MIP-PA</li>
+<li>Red Plume / MU-CHA-NA</li>
+<li>Mourning Howler / MU-IN-MIS-TA</li>
+<li>Outsider / O-HO-MA</li>
+<li>Cut Arm / A-NA-HI-WA</li>
+<li>Red Leaf / MI-VA-PA-TAP</li>
+<li>Walking Behind / TACK-SA</li>
+<li>High-Beak Bird / NO-KE-HE-USE</li>
+<li>Stone Road / HE-HO-NI-MAH</li></ol>

@@ -17,15 +17,15 @@
 <li>Erkenfried Moeller-Heilemann</li>
 <li>Everett Charles Blackburn</li>
 <li>William Asher Church</li>
-<li>Urban Blazej Kusnierewicz </li>
-<li>Percival Dorsett-McNelly </li>
+<li>Urban Blazej Kusnierewicz</li>
+<li>Percival Dorsett-McNelly</li>
 <li>Franklin Oglethorpe-Waite</li>
 <li>Maynard Creasy III</li>
 <li>Benedict Willard-Makepeace</li>
 <li>Manchester Clematis-Frost</li></ol>
 <h3>FEMALE PROFESSORS</h3>
 <ol><li>Augusta Monck</li>
-<li>Gertje Hoogduytscher </li>
+<li>Gertje Hoogduytscher</li>
 <li>Dorothy Thorton Shaw</li>
 <li>Marie Venable</li>
 <li>Fidelia Harwood</li>
@@ -38,17 +38,17 @@
 <li>Ekaterina Hlutev</li>
 <li>Sarah Stevenson</li>
 <li>Tabitha Rockworth Butterfield</li>
-<li>Marie-Zéphyrine La Pérouse </li>
+<li>Marie-Zéphyrine La Pérouse</li>
 <li>Alba Chaplin-Davis-Dow</li>
 <li>Edith Fogg</li>
-<li>Eudora Bryngel </li>
+<li>Eudora Bryngel</li>
 <li>Zlatka Moulton-Gardner</li>
 <li>Bernadette Eulalia Peterson</li></ol>
 <h3>MALE STUDENTS </h3>
 <ol><li>Winthrop "Winnie" Chaplin-Brown</li>
 <li>King "King" Burkey</li>
 <li>Courtney "Butterball" Craybeck</li>
-<li>Phillip "Poncey" Burns, Jr.  </li>
+<li>Phillip "Poncey" Burns, Jr.</li>
 <li>James "Stumpy" Frazier</li>
 <li>Patrick Henry "Cookie" Stevens</li>
 <li>Gerald "Goat" Tucker</li>
@@ -88,7 +88,7 @@
 <li>Delia Wannamaker Levy</li></ol>
 <h3>CAMPUS LOCATIONS </h3>
 <ol><li>The ruins of the Old Rectory</li>
-<li>Scadwell auditorium </li>
+<li>Scadwell auditorium</li>
 <li>Watkin-Tench conservatory of music</li>
 <li>Manders library and annex</li>
 <li>Drummond laboratory</li>
@@ -105,50 +105,50 @@
 <li>Rowing club shed on Sexton lake</li>
 <li>"The green acre" quadrangle</li>
 <li>The Old Oak</li>
-<li>The statue of "Old Incorrigible" </li>
+<li>The statue of "Old Incorrigible"</li>
 <li>Passion Point above Sexton lake</li></ol>
 <h3>ANCIENT AND DEAD LANGUAGES 1</h3>
-<ol><li>Latin (Rome, Latin alphabet) </li>
-<li>Mycenaean  (Ancient Greece, Linear B) </li>
-<li>Eteocretan (Ancient Minoan Crete, Linear A, non translated) </li>
-<li>Classical and Hellenistic Greece (Classical Greece, Hellenistic Greece, Greek alphabet) </li>
-<li>Paninian Sanskrit (Classical India, Devanagari script, Gupta script, Sharada script, etc.) </li>
-<li>Vedic Saskrit (Ancient India, Brahmi script, Devanagari script) </li>
-<li>Pahlavi (Middle Persian,  Pahlavi script and sometimes Manichean script) </li>
-<li>Avestan (Ancient Persian religious language, Den Dabireh script added late in history) </li>
+<ol><li>Latin (Rome, Latin alphabet)</li>
+<li>Mycenaean  (Ancient Greece, Linear B)</li>
+<li>Eteocretan (Ancient Minoan Crete, Linear A, non translated)</li>
+<li>Classical and Hellenistic Greece (Classical Greece, Hellenistic Greece, Greek alphabet)</li>
+<li>Paninian Sanskrit (Classical India, Devanagari script, Gupta script, Sharada script, etc.)</li>
+<li>Vedic Saskrit (Ancient India, Brahmi script, Devanagari script)</li>
+<li>Pahlavi (Middle Persian,  Pahlavi script and sometimes Manichean script)</li>
+<li>Avestan (Ancient Persian religious language, Den Dabireh script added late in history)</li>
 <li>Old Persian (Ancient Persia, cuneiform script)</li>
 <li>Akkadian (Assyria and Babylon, cuneiform script)</li>
-<li>Sumerian (Mesopotamia, cuneiform script) </li>
-<li>Aramaic (Ancient and Biblical Middle East, Phoenician script, then Syriac alphabet) </li>
+<li>Sumerian (Mesopotamia, cuneiform script)</li>
+<li>Aramaic (Ancient and Biblical Middle East, Phoenician script, then Syriac alphabet)</li>
 <li>Classical Hebrew (Ancient Israel, Hebrew alphabet)</li>
-<li>Elamite (Linear Elamite, cuniform Elamite script, non-translated proto-Elamite script) </li>
-<li>Harappan (Harappa - very ancient India, Indus Script, non translated) </li>
-<li>Classical Nahuatl (Aztec, pictographic) </li>
+<li>Elamite (Linear Elamite, cuniform Elamite script, non-translated proto-Elamite script)</li>
+<li>Harappan (Harappa - very ancient India, Indus Script, non translated)</li>
+<li>Classical Nahuatl (Aztec, pictographic)</li>
 <li>Classic Maya (Mayans, Maya hieroglyphics)</li>
 <li>Phoenician (Phoenicians, Phoenician alphabet)</li>
 <li>Ancient Egyptian (Ancient Egypt, Egyptian hieroglyphic)</li>
 <li>Demotic Egyptian (Classical Egypt, Demotic script)</li></ol>
 <h3>ANCIENT AND DEAD LANGUAGES 2</h3>
-<ol><li>Coptic (Medieval Egypt, Coptic alphabet) </li>
-<li>Ge'ez (Classical Ethiopia, Ge'ez abugida script) </li>
+<ol><li>Coptic (Medieval Egypt, Coptic alphabet)</li>
+<li>Ge'ez (Classical Ethiopia, Ge'ez abugida script)</li>
 <li>Ammonite (Ancient Jordan, Canaanite alphabet)</li>
 <li>Edomite (Ancient Jordan, Canaanite alphabet)</li>
 <li>Nesite (Hittites, Akkadian cuneiform)</li>
-<li>Lydian (Ancient Turkey, related to Nesite, Lydian alphabet) </li>
+<li>Lydian (Ancient Turkey, related to Nesite, Lydian alphabet)</li>
 <li>Khitan ("small script" derived from Han characters, "large script" derived from Uighur)</li>
-<li>Tocharian (Ancient China/Central Asia, slanting Brahmi script) </li>
-<li>Kuchean (Ancient China/Central Asia, slanting Brahmi script) </li>
+<li>Tocharian (Ancient China/Central Asia, slanting Brahmi script)</li>
+<li>Kuchean (Ancient China/Central Asia, slanting Brahmi script)</li>
 <li>Gudian Hànyu - Classical Chinese (Ancient China Zhou to Han period, Hàn characters)</li>
-<li>Classical Arabic (Language of the Qur'an, Arabic alphabet) </li>
+<li>Classical Arabic (Language of the Qur'an, Arabic alphabet)</li>
 <li>Khazarian (Khazars, Medieval Kazakhstan, Turkic runiform script and Hebrew alphabet)</li>
 <li>Nabataean (Classical Arabia, Syriac alphabet)</li>
 <li>Sabaean (Classical Yemen, South Arabian alphabet)</li>
 <li>Hurrian (Northern Mesopotamia, Akkadian cuneiform script)</li>
 <li>Chagatai (Central Asia, Arabic alphabet)</li>
-<li>Etruscan (Pre-Roman Italy, Etruscan alphabet, dubious translation only) </li>
+<li>Etruscan (Pre-Roman Italy, Etruscan alphabet, dubious translation only)</li>
 <li>Lusitanian (Ancient Portugal, Latin alphabet)</li>
-<li>Scythian (Ancient Central Asia and Near East, very dubious, Hieroglyphic Hittite) </li>
-<li>Jurchen (Ancient China/Manchuria/Central Asia, Jurchen script) </li></ol>
+<li>Scythian (Ancient Central Asia and Near East, very dubious, Hieroglyphic Hittite)</li>
+<li>Jurchen (Ancient China/Manchuria/Central Asia, Jurchen script)</li></ol>
 <h3>REAL MAGICAL TEXTS 1</h3>
 <ol><li>Sworn Book of Honorius</li>
 <li>Mishkat al-anwar</li>
@@ -177,7 +177,7 @@
 <li>Bodhicaryvatra</li>
 <li>Greater Key of Solomon</li>
 <li>Hatha Yoga Pradipika</li>
-<li>Lemegeton Clavicula Salomonis </li>
+<li>Lemegeton Clavicula Salomonis</li>
 <li>Le Grand Grimoire</li>
 <li>Mahvairocanbhisambodhi Tantra</li>
 <li>Voynich manuscript</li>
@@ -186,32 +186,32 @@
 <li>The Mystery of the Cathedrals</li>
 <li>De Mysteriis Aegyptiorum</li>
 <li>Hayagrava</li>
-<li>The Scrolls of Mahendrath </li>
+<li>The Scrolls of Mahendrath</li>
 <li>Markandeya Purana</li>
 <li>Secrets of the Jade Chamber</li>
 <li>Shivastotravali</li>
 <li>Orus Apollo</li></ol>
 <h3>IMAGINARY MAGICAL TEXTS</h3>
-<ol><li>Dazhdbog's Garden </li>
-<li>Scrolls of Skelos </li>
+<ol><li>Dazhdbog's Garden</li>
+<li>Scrolls of Skelos</li>
 <li>The Necronomicon</li>
 <li>Black Tome of Alsophocus</li>
 <li>Seven Cryptical Books of Hsan</li>
 <li>Cthaat Aquadingen</li>
 <li>Sevil-el-Mafouh Whash</li>
-<li>Les Fleurs du Mal </li>
+<li>Les Fleurs du Mal</li>
 <li>Testament of Carnamagos</li>
-<li>Zaywar andar'a'Baagh </li>
+<li>Zaywar andar'a'Baagh</li>
 <li>Red Book of Yarrow</li>
 <li>White Book of Cavalonia</li>
-<li>Acta Sanctorum </li>
+<li>Acta Sanctorum</li>
 <li>Liber Ivonis</li>
 <li>Unaussprechlichen Kulten</li>
 <li>The Blasphemies of King Yama</li>
-<li>Prassidia Finium </li>
+<li>Prassidia Finium</li>
 <li>Faded Librum of His Hunters</li>
 <li>Catechism of the Wild Swan</li>
-<li>De Senectutae </li></ol>
+<li>De Senectutae</li></ol>
 <h3>WEIRD BOOK MATERIALS</h3>
 This is an adaptation/homage of Garry Stahl's Generating Books article from Roleplaying Tips Weekly #314. See the full article here: http://www.roleplayingtips.com/readissue.php?number=314
 <h3>PAGES</h3>

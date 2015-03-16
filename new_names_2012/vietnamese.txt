@@ -6,21 +6,21 @@
 SURNAMES
 Common names, in descending order of popularity (Nguyễn accounts for 38.4%)
 
-<ol><li>Nguyễn 阮 </li>
+<ol><li>Nguyễn 阮</li>
 <li>Trần 陳</li>
 <li>Lê 黎</li>
 <li>Phạm 范</li>
 <li>Huỳnh黃</li>
 <li>Hoàng黃</li>
-<li>Phan 潘 </li>
+<li>Phan 潘</li>
 <li>Vũ武</li>
 <li>Võ 武</li>
 <li>Đặng 鄧</li>
-<li>Bùi 裴 </li>
+<li>Bùi 裴</li>
 <li>Đỗ 杜</li>
-<li>Hồ 胡 </li>
+<li>Hồ 胡</li>
 <li>Ngô 吳</li>
-<li>Dương 楊 </li>
+<li>Dương 楊</li>
 <li>Lý 李</li>
 <li>Lâm 林</li>
 <li>Đinh: 丁</li>
@@ -29,7 +29,7 @@ Common names, in descending order of popularity (Nguyễn accounts for 38.4%)
 
 UNCOMMON SURNAMES
 <ol><li>Vương: 王</li>
-<li>Trịnh: 鄭 </li>
+<li>Trịnh: 鄭</li>
 <li>Phùng: 馮</li>
 <li>Chung: 鍾</li>
 <li>Triệu: 趙</li>
@@ -72,7 +72,7 @@ Female
 
 MALE NAMES
 
-<ol><li>Anh </li>
+<ol><li>Anh</li>
 <li>Dung</li>
 <li>Bao (protection)</li>
 <li>Cânh (nature)</li>

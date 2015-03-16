@@ -26,26 +26,26 @@ MALE FORENAMES (15th Century)
 <li>Nicolau</li>
 <li>Celdoni</li></ol>
 MALE FORENAMES (12th Century)
-<ol><li>Alfons </li>
-<li>Arnau </li>
-<li>Berenguer </li>
-<li>Bertran </li>
-<li>Bonadona </li>
-<li>Calvet </li>
-<li>Dalmu </li>
-<li>Dolcet </li>
-<li>Ferrer </li>
-<li>Gilabert </li>
+<ol><li>Alfons</li>
+<li>Arnau</li>
+<li>Berenguer</li>
+<li>Bertran</li>
+<li>Bonadona</li>
+<li>Calvet</li>
+<li>Dalmu</li>
+<li>Dolcet</li>
+<li>Ferrer</li>
+<li>Gilabert</li>
 <li>Guillem</li>
-<li>Hug </li>
-<li>Miró </li>
-<li>Olivar </li>
-<li>Pere </li>
-<li>Perpinyà </li>
-<li>Ponç </li>
-<li>Ricart </li>
-<li>Seguinus </li>
-<li>Vidal </li></ol>
+<li>Hug</li>
+<li>Miró</li>
+<li>Olivar</li>
+<li>Pere</li>
+<li>Perpinyà</li>
+<li>Ponç</li>
+<li>Ricart</li>
+<li>Seguinus</li>
+<li>Vidal</li></ol>
 FEMALE FORENAMES 
 <ol><li>Tecla</li>
 <li>Beatriu*</li>
@@ -78,7 +78,7 @@ SURNAMES (12th Century)
 <li>Coqui</li>
 <li>de Giró</li>
 <li>de la Sclusa</li>
-<li>Amat </li>
+<li>Amat</li>
 <li>Baró</li>
 <li>de Muntanyola</li>
 <li>Salamó</li>
@@ -87,7 +87,7 @@ SURNAMES (12th Century)
 <li>Ermengol</li>
 <li>Foget</li>
 <li>de Montrodon</li>
-<li>Guifre </li>
+<li>Guifre</li>
 <li>Sumar</li></ol>
 SURNAMES (15th Century) 1
 <ol><li>Fisnerola</li>
@@ -151,7 +151,7 @@ SURNAMES (15th Century) 2
 <li>Sala Cugulada</li>
 <li>Serra</li>
 <li>Tarragona</li>
-<li>Valle	</li></ol>
+<li>Valle</li></ol>
 COUNTS OF BARCELONA
 <ol><li>Berà (801-820)</li>
 <li>Rampó (820-826)</li>

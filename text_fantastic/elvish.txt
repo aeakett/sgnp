@@ -1,11 +1,11 @@
 ﻿<h1>ELVISH</h1>
 <p class="contributor">Compiled by Joshua BishopRoby</p>
 <h2>NOTES</h2>
-<p>Sindarin names from: Noel, Ruth S. and Tolkien, J.R.R., Languages of Tolkien's Middle Earth.  Houghton-Mifflin, Boston, Massachusetts. 1980.  </p>
+<p>Sindarin names from: Noel, Ruth S. and Tolkien, J.R.R., Languages of Tolkien's Middle Earth. Houghton-Mifflin, Boston, Massachusetts. 1980.</p>
 MALE
 <ol><li>Ehtyarion / Spear Carrier</li>
 <li>Mithrennon / Grey</li>
-<li>Barathion  / Eager</li>
+<li>Barathion / Eager</li>
 <li>Rilien / Brilliant</li>
 <li>Veryangóle / Bold Counsel</li>
 <li>Saeldur / Wise</li>
@@ -27,20 +27,20 @@ FEMALE
 <ol><li>Silivrenniel / White</li>
 <li>Bellethiel / Strong</li>
 <li>Gwilwilethel / Butterfly</li>
-<li>Tirananniel  / Far-Seeing</li>
+<li>Tirananniel / Far-Seeing</li>
 <li>Cirelondiel / Port</li>
 <li>Eleniel / Star</li>
 <li>Meldiriel / Friend</li>
 <li>Lostariel / Flowers</li>
 <li>Indilwen / Lily</li>
 <li>Rhavaniel / Wild One</li>
-<li>Teithagliriel  / Poet</li>
-<li>Bainwen  / Fair</li>
+<li>Teithagliriel / Poet</li>
+<li>Bainwen / Fair</li>
 <li>Naerwen / Sad One</li>
 <li>Lairelithoniel / Ash Tree Meadow</li>
 <li>Falathiel / Huntress</li>
 <li>Vendethiel / Maiden</li>
 <li>Alassiel / Joyful</li>
 <li>Valadhiel / Angelic</li>
-<li>Vanlanthiriel  / beautiful waterfall</li>
+<li>Vanlanthiriel / beautiful waterfall</li>
 <li>Faelwen / Justice</li></ol>

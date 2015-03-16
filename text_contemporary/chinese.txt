@@ -27,7 +27,7 @@
 <p>Chinese people in other parts of the world (the diaspora) are not especially consistent.  Look up a bunch of Chinese names in the area you want your character to be from and punctuate your name accordingly.</p>
 COMMON SURNAMES 1 
 (Pinyin / Wade-Giles / HK/Cantonese)
-<ol><li>Li / Li / Lee		</li>
+<ol><li>Li / Li / Lee</li>
 <li>Wang / Wang / Wong</li>
 <li>Zhang / Chang / Cheung</li>
 <li>Liu / Liu / Lau</li>
@@ -72,24 +72,24 @@ COMMON SURNAMES 2
 COMPOUND SURNAMES 
 (Pinyin and HK/Cantonese)
 <ol><li>Baili / Pak Lee</li>
-<li>Dongfang / Tung Fong				</li>
-<li>Duanmu / Tuen Muk			</li>
-<li>Gongsun / Kung Suen	</li>
-<li>Guliang / Kuk Leung				</li>
-<li>Helian / Hak Lin										</li>
-<li>Huyan / Fu Yin			</li>
-<li>Linghu / Ling Wu	</li>
-<li>Murong / Mo Yung	</li>
-<li>Nangong / Nam Kung				</li>
-<li>Ouyang / Au Yeung				</li>
-<li>Shangguan / Sheung Kwun	</li>
-<li>Sima / Sze Ma	</li>
-<li>Situ / Sze To		</li>
-<li>Taishi / Tai Shi	</li>
-<li>Ximen / Sai Mun		</li>
-<li>Zhangsun / Cheung Suen					</li>
-<li>Zhuge / Chu Kok	</li>
-<li>Zhurong / Chok Yung 		</li>
+<li>Dongfang / Tung Fong</li>
+<li>Duanmu / Tuen Muk</li>
+<li>Gongsun / Kung Suen</li>
+<li>Guliang / Kuk Leung</li>
+<li>Helian / Hak Lin</li>
+<li>Huyan / Fu Yin</li>
+<li>Linghu / Ling Wu</li>
+<li>Murong / Mo Yung</li>
+<li>Nangong / Nam Kung</li>
+<li>Ouyang / Au Yeung</li>
+<li>Shangguan / Sheung Kwun</li>
+<li>Sima / Sze Ma</li>
+<li>Situ / Sze To</li>
+<li>Taishi / Tai Shi</li>
+<li>Ximen / Sai Mun</li>
+<li>Zhangsun / Cheung Suen</li>
+<li>Zhuge / Chu Kok</li>
+<li>Zhurong / Chok Yung</li>
 <li>Zuoren / Tso Yan</li></ol>
 FEMALE MANDARIN GIVEN NAMES 1
 <ol><li>Yandong</li>

@@ -117,7 +117,7 @@
 <li>Booker Numbers</li>
 <li>Izdihar Bousquet</li>
 <li>Beasley Beam</li>
-<li>Delayed </li>
+<li>Delayed</li>
 <li>German Davidson</li>
 <li>Bridges Shoemaker</li>
 <li>Tourism Verum</li>

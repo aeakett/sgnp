@@ -24,7 +24,7 @@ MALE
 <li>Péter</li>
 <li>Tamás</li></ol>
 FEMALE
-<ol><li>Adél </li>
+<ol><li>Adél</li>
 <li>Krisztina</li>
 <li>Magdolna</li>
 <li>Agáta</li>
@@ -47,7 +47,7 @@ FEMALE
 SURNAMES
 <ol><li>Nagy / tall</li>
 <li>Kovács / smith</li>
-<li>Tóth </li>
+<li>Tóth</li>
 <li>Szabó / tailor</li>
 <li>Horváth /Croatian</li>
 <li>Kiss / small</li>
@@ -62,9 +62,9 @@ SURNAMES
 <li>Mészáros / butcher</li>
 <li>Lakatos / locksmith</li>
 <li>Fekete / black</li>
-<li>Szilágyi </li>
+<li>Szilágyi</li>
 <li>Fehér / white</li>
-<li>Balázs </li></ol>
+<li>Balázs</li></ol>
 ARISTOCRATIC SURNAMES
 <ol><li>Esterházy</li>
 <li>Festetics</li>

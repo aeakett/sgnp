@@ -339,7 +339,7 @@ STRANGE SURNAMES 2
 <li>Hilsgen</li>
 <li>Lahne</li></ol>
 MODERN JOBS 1
-<ol><li>Message Board Administrator </li>
+<ol><li>Message Board Administrator</li>
 <li>Product Manager</li>
 <li>Clinical Applications Trainer</li>
 <li>Grinder</li>
@@ -358,28 +358,28 @@ MODERN JOBS 1
 <li>Assembly Line Worker</li>
 <li>Mortgage Loan Processor</li>
 <li>Bilingual Customer Service Agent</li>
-<li>Air Traffic Controller </li></ol>
+<li>Air Traffic Controller</li></ol>
 MODERN JOBS 2
 <ol><li>Lab Tech</li>
 <li>Checker / Teller</li>
 <li>Collections and/or Credit Analyst</li>
 <li>Display Marketing Representative</li>
 <li>Payroll Coordinator</li>
-<li>Aerospace Supply Chain Specialist  </li>
+<li>Aerospace Supply Chain Specialist</li>
 <li>Demolitions Crew</li>
 <li>Loss Prevention Specialist</li>
 <li>Visual Coordinator</li>
 <li>Pharmaceutical Representative</li>
-<li>Tool and Dye Operator </li>
+<li>Tool and Dye Operator</li>
 <li>Tour Guide</li>
-<li>Legal File Clerk </li>
+<li>Legal File Clerk</li>
 <li>Receptionist</li>
 <li>Nuclear P3 Planner</li>
 <li>Tax CPA</li>
 <li>Assistant Internet Researcher</li>
 <li>Federal X-Ray Inspector</li>
 <li>Border Patrol Agent</li>
-<li>Upholstery Repair Supervisor </li></ol>
+<li>Upholstery Repair Supervisor</li></ol>
 MODERN JOBS 3
 <ol><li>Pallet Jack Mechanic</li>
 <li>Commercial Estimator</li>
@@ -390,12 +390,12 @@ MODERN JOBS 3
 <li>Aid to Autistic Adult</li>
 <li>Specimen Processing Supervisor</li>
 <li>Physical Therapist</li>
-<li>Telemarketer </li>
+<li>Telemarketer</li>
 <li>Chef</li>
 <li>Temp</li>
 <li>Senior Buyer</li>
-<li>Martial Arts Instructor </li>
-<li>Driver (Bus, Taxi, Armored Car) </li>
+<li>Martial Arts Instructor</li>
+<li>Driver (Bus, Taxi, Armored Car)</li>
 <li>Staff Subcontracts Manager</li>
 <li>Auditor</li>
 <li>Editor</li>

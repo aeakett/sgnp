@@ -3,129 +3,129 @@
 <h2>NOTES</h2>
 <p>If using these names in a medieval setting, the appropriate form for a last name is an Arab-style patronymic.  Men have names like Iken ibn Tariq, and women names like Geduda bint Amina.  Names of the form al- are also perfectly reasonable.  The greatest heroine of the Berber people, for example, is Dihya al-Kahina.  In a more modern setting, last names are appropriate.  </p>
 FEMALE NAMES 1
-<ol><li>Amina </li>
-<li>Bakka </li>
-<li>Dihya </li>
-<li>Silya </li>
-<li>Fariza </li>
-<li>Ghida </li>
-<li>Jedira </li>
-<li>Kella </li>
-<li>Tafrara </li>
-<li>Lalla </li>
-<li>Laysa </li>
-<li>Tasa </li>
-<li>Melila </li>
-<li>Tigmi </li>
-<li>Myassa </li>
-<li>Talalit </li>
-<li>Riuza </li>
-<li>Tamilla </li>
-<li>Mernissa </li>
-<li>Tannina </li></ol>
+<ol><li>Amina</li>
+<li>Bakka</li>
+<li>Dihya</li>
+<li>Silya</li>
+<li>Fariza</li>
+<li>Ghida</li>
+<li>Jedira</li>
+<li>Kella</li>
+<li>Tafrara</li>
+<li>Lalla</li>
+<li>Laysa</li>
+<li>Tasa</li>
+<li>Melila</li>
+<li>Tigmi</li>
+<li>Myassa</li>
+<li>Talalit</li>
+<li>Riuza</li>
+<li>Tamilla</li>
+<li>Mernissa</li>
+<li>Tannina</li></ol>
 MALE NAMES 1
-<ol><li>Abayghur </li>
-<li>Alwas </li>
-<li>Mennac </li>
-<li>Atissi </li>
-<li>Berkan </li>
-<li>Seghada </li>
-<li>Firmus </li>
-<li>Ghanim </li>
-<li>Gildun </li>
-<li>Tiljad </li>
-<li>Gulussan </li>
-<li>Hotha </li>
-<li>Idir </li>
-<li>Meddur </li>
-<li>Kadidu </li>
-<li>Taqfarinas </li>
-<li>Madidu </li>
-<li>Yaghmurasen </li>
-<li>Masmud </li>
-<li>Zerwal </li></ol>
+<ol><li>Abayghur</li>
+<li>Alwas</li>
+<li>Mennac</li>
+<li>Atissi</li>
+<li>Berkan</li>
+<li>Seghada</li>
+<li>Firmus</li>
+<li>Ghanim</li>
+<li>Gildun</li>
+<li>Tiljad</li>
+<li>Gulussan</li>
+<li>Hotha</li>
+<li>Idir</li>
+<li>Meddur</li>
+<li>Kadidu</li>
+<li>Taqfarinas</li>
+<li>Madidu</li>
+<li>Yaghmurasen</li>
+<li>Masmud</li>
+<li>Zerwal</li></ol>
 FEMALE NAMES 2
-<ol><li>Sekura </li>
-<li>Rula </li>
-<li>Darifa </li>
-<li>Susa </li>
-<li>Tadla </li>
-<li>Tafat </li>
-<li>Geduda </li>
-<li>Kisa </li>
-<li>Taklit </li>
-<li>Randja </li>
-<li>Temzi </li>
-<li>Tawnat </li>
-<li>Tayri </li>
-<li>Ghnima </li>
-<li>Tella </li>
-<li>Megduda </li>
-<li>Tisent </li>
-<li>Wrina </li>
-<li>Zamra </li>
-<li>Zunagha </li></ol>
+<ol><li>Sekura</li>
+<li>Rula</li>
+<li>Darifa</li>
+<li>Susa</li>
+<li>Tadla</li>
+<li>Tafat</li>
+<li>Geduda</li>
+<li>Kisa</li>
+<li>Taklit</li>
+<li>Randja</li>
+<li>Temzi</li>
+<li>Tawnat</li>
+<li>Tayri</li>
+<li>Ghnima</li>
+<li>Tella</li>
+<li>Megduda</li>
+<li>Tisent</li>
+<li>Wrina</li>
+<li>Zamra</li>
+<li>Zunagha</li></ol>
 MALE NAMES 2
-<ol><li>Mejdan </li>
-<li>Firhun </li>
-<li>Abazza </li>
-<li>Mezwar </li>
-<li>Mezian </li>
-<li>Oukesson </li>
-<li>Nguna </li>
-<li>Amastan </li>
-<li>Sekla </li>
-<li>Sifal </li>
-<li>Tabat </li>
-<li>Iken </li>
-<li>Tariq </li>
-<li>Mastenissa </li>
-<li>Uksem </li>
-<li>Afalku </li>
-<li>Yeften </li>
-<li>Yunes </li>
+<ol><li>Mejdan</li>
+<li>Firhun</li>
+<li>Abazza</li>
+<li>Mezwar</li>
+<li>Mezian</li>
+<li>Oukesson</li>
+<li>Nguna</li>
+<li>Amastan</li>
+<li>Sekla</li>
+<li>Sifal</li>
+<li>Tabat</li>
+<li>Iken</li>
+<li>Tariq</li>
+<li>Mastenissa</li>
+<li>Uksem</li>
+<li>Afalku</li>
+<li>Yeften</li>
+<li>Yunes</li>
 <li>Zayar</li>
-<li>Kenan  </li></ol>
+<li>Kenan</li></ol>
 SURNAMES
-<ol><li>Aknin </li>
-<li>Hamuy </li>
-<li>Ohana </li>
-<li>Mammeri </li>
-<li>Ouaknin </li>
-<li>Tanzir </li>
-<li>Ouyahia </li>
-<li>Abrika </li>
-<li>Mehenni </li>
-<li>Othmani </li>
-<li>Menguellet </li>
-<li>Tabaamrant </li>
-<li>Demsiri </li>
-<li>Massi </li>
-<li>Guerouabi </li>
-<li>Assouline </li>
-<li>Feraoun </li>
-<li>Djaout </li>
-<li>Zidane </li>
-<li>Hasnaoui </li></ol>
+<ol><li>Aknin</li>
+<li>Hamuy</li>
+<li>Ohana</li>
+<li>Mammeri</li>
+<li>Ouaknin</li>
+<li>Tanzir</li>
+<li>Ouyahia</li>
+<li>Abrika</li>
+<li>Mehenni</li>
+<li>Othmani</li>
+<li>Menguellet</li>
+<li>Tabaamrant</li>
+<li>Demsiri</li>
+<li>Massi</li>
+<li>Guerouabi</li>
+<li>Assouline</li>
+<li>Feraoun</li>
+<li>Djaout</li>
+<li>Zidane</li>
+<li>Hasnaoui</li></ol>
 SYMBOLS AND THEIR MEANINGS 
 Amazigh culture (the Berber word for the Berber - it means "the people") is based on a strongly nomadic, shamanistic ancestry.  For that reason, their arts are mostly the portable and useful kind, such as weaving rugs and baskets.  However, the symbology put into their works has mystical significance within the culture.  The meaning of a work is equally as important as its skill.  The following are twenty common symbols found in Berber culture, along with their meanings. 
-<ol><li>Lion's Paw (protection through strength) </li>
-<li>Barley (fertility) </li>
-<li>Partridge Eyes (beauty and femininity) </li>
-<li>Chessboard (religious trance) </li>
-<li>Frog (fertility and magical power, male) </li>
-<li>Spider (fertility and magical power, female) </li>
-<li>Eye (protection against the evil eye) </li>
-<li>Scissors (anti-magic; symbol of metalworkers; metal is inimical to all Berber magic) </li>
-<li>Snake (holy person) </li>
-<li>Snake Skeleton (healing) </li>
-<li>Eagle (power) </li>
-<li>Lizard (human aspiration) </li>
-<li>Turtle (protection) </li>
-<li>Bird (destiny) </li>
-<li>Fish (prosperity) </li>
-<li>Crow's Beak (protection for children) </li>
-<li>Gold (evil) </li>
-<li>Hen (a good wife) </li>
-<li>Seeds (hope for children) </li>
+<ol><li>Lion's Paw (protection through strength)</li>
+<li>Barley (fertility)</li>
+<li>Partridge Eyes (beauty and femininity)</li>
+<li>Chessboard (religious trance)</li>
+<li>Frog (fertility and magical power, male)</li>
+<li>Spider (fertility and magical power, female)</li>
+<li>Eye (protection against the evil eye)</li>
+<li>Scissors (anti-magic; symbol of metalworkers; metal is inimical to all Berber magic)</li>
+<li>Snake (holy person)</li>
+<li>Snake Skeleton (healing)</li>
+<li>Eagle (power)</li>
+<li>Lizard (human aspiration)</li>
+<li>Turtle (protection)</li>
+<li>Bird (destiny)</li>
+<li>Fish (prosperity)</li>
+<li>Crow's Beak (protection for children)</li>
+<li>Gold (evil)</li>
+<li>Hen (a good wife)</li>
+<li>Seeds (hope for children)</li>
 <li>Saw (active defense against evil spirits)</li></ol>

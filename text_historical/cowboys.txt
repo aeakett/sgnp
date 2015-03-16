@@ -1,107 +1,107 @@
 ﻿<h1>COWBOYS</h1>
 <p class="contributor">Compiled by Marc Majcher</p>
 MALE
-<ol><li>Al </li>
-<li>Abe </li>
-<li>Bill </li>
-<li>Bob </li>
-<li>Buck </li>
-<li>Dan </li>
-<li>Doug </li>
-<li>Frank </li>
-<li>Gene </li>
-<li>Gus </li>
-<li>Hank </li>
-<li>Jake </li>
-<li>Jim </li>
-<li>Mike </li>
-<li>Ross </li>
-<li>Roy </li>
-<li>Sam </li>
-<li>Tom </li>
-<li>Travis </li>
-<li>Zeke </li></ol>
+<ol><li>Al</li>
+<li>Abe</li>
+<li>Bill</li>
+<li>Bob</li>
+<li>Buck</li>
+<li>Dan</li>
+<li>Doug</li>
+<li>Frank</li>
+<li>Gene</li>
+<li>Gus</li>
+<li>Hank</li>
+<li>Jake</li>
+<li>Jim</li>
+<li>Mike</li>
+<li>Ross</li>
+<li>Roy</li>
+<li>Sam</li>
+<li>Tom</li>
+<li>Travis</li>
+<li>Zeke</li></ol>
 FEMALE
-<ol><li>Allison </li>
-<li>Constance </li>
-<li>Dorothy </li>
-<li>Ellen </li>
-<li>Elsie </li>
-<li>Jamie </li>
-<li>Janice </li>
-<li>Jean </li>
-<li>Jenny </li>
-<li>Jill </li>
-<li>Kelly </li>
-<li>Laura </li>
-<li>Lulu </li>
-<li>Margaret </li>
-<li>Mary </li>
-<li>Maureen </li>
-<li>Rose </li>
-<li>Sally </li>
-<li>Shelley </li>
-<li>Sue </li></ol>
+<ol><li>Allison</li>
+<li>Constance</li>
+<li>Dorothy</li>
+<li>Ellen</li>
+<li>Elsie</li>
+<li>Jamie</li>
+<li>Janice</li>
+<li>Jean</li>
+<li>Jenny</li>
+<li>Jill</li>
+<li>Kelly</li>
+<li>Laura</li>
+<li>Lulu</li>
+<li>Margaret</li>
+<li>Mary</li>
+<li>Maureen</li>
+<li>Rose</li>
+<li>Sally</li>
+<li>Shelley</li>
+<li>Sue</li></ol>
 SURNAMES 
-<ol><li>Anderson </li>
-<li>Austin </li>
-<li>Baker </li>
-<li>Banton </li>
-<li>Barlow </li>
-<li>Carson </li>
-<li>Ferguson </li>
-<li>Fletcher </li>
-<li>Hill </li>
-<li>Lane </li>
-<li>Larabee </li>
-<li>McBain </li>
-<li>Nelson </li>
-<li>Perkins </li>
-<li>Pickett </li>
-<li>Porter </li>
-<li>Slade </li>
-<li>Stevens </li>
-<li>Thomson </li>
-<li>Wilson </li></ol>
+<ol><li>Anderson</li>
+<li>Austin</li>
+<li>Baker</li>
+<li>Banton</li>
+<li>Barlow</li>
+<li>Carson</li>
+<li>Ferguson</li>
+<li>Fletcher</li>
+<li>Hill</li>
+<li>Lane</li>
+<li>Larabee</li>
+<li>McBain</li>
+<li>Nelson</li>
+<li>Perkins</li>
+<li>Pickett</li>
+<li>Porter</li>
+<li>Slade</li>
+<li>Stevens</li>
+<li>Thomson</li>
+<li>Wilson</li></ol>
 PREFIXES/NICKNAMES 
-<ol><li>Big </li>
-<li>Bloody </li>
-<li>Bud </li>
-<li>Casino </li>
-<li>Crazy </li>
-<li>Deadeye </li>
-<li>Doc </li>
-<li>Dusty </li>
-<li>Little </li>
-<li>Lone </li>
-<li>Reno </li>
-<li>Shorty </li>
-<li>Six-Gun </li>
-<li>Slim </li>
-<li>Smoke </li>
-<li>Ten-Spot </li>
-<li>Tex </li>
-<li>Tuscon </li>
-<li>Whiskey </li>
-<li>Wild </li></ol>
+<ol><li>Big</li>
+<li>Bloody</li>
+<li>Bud</li>
+<li>Casino</li>
+<li>Crazy</li>
+<li>Deadeye</li>
+<li>Doc</li>
+<li>Dusty</li>
+<li>Little</li>
+<li>Lone</li>
+<li>Reno</li>
+<li>Shorty</li>
+<li>Six-Gun</li>
+<li>Slim</li>
+<li>Smoke</li>
+<li>Ten-Spot</li>
+<li>Tex</li>
+<li>Tuscon</li>
+<li>Whiskey</li>
+<li>Wild</li></ol>
 HORSE NAMES 
-<ol><li>Ace </li>
-<li>Apache </li>
-<li>Buttermilk </li>
-<li>Blackjack </li>
-<li>Brownie </li>
-<li>Champ </li>
-<li>Cyclone </li>
-<li>Feather </li>
-<li>Gambler </li>
-<li>Lucky </li>
-<li>Mesquite </li>
-<li>Midnight </li>
-<li>Patch </li>
-<li>Raider </li>
-<li>Raven </li>
-<li>Rebel </li>
-<li>Rusty </li>
-<li>Scout </li>
-<li>Smoky </li>
-<li>Thunder </li></ol>
+<ol><li>Ace</li>
+<li>Apache</li>
+<li>Buttermilk</li>
+<li>Blackjack</li>
+<li>Brownie</li>
+<li>Champ</li>
+<li>Cyclone</li>
+<li>Feather</li>
+<li>Gambler</li>
+<li>Lucky</li>
+<li>Mesquite</li>
+<li>Midnight</li>
+<li>Patch</li>
+<li>Raider</li>
+<li>Raven</li>
+<li>Rebel</li>
+<li>Rusty</li>
+<li>Scout</li>
+<li>Smoky</li>
+<li>Thunder</li></ol>

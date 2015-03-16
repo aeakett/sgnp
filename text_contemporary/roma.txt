@@ -10,43 +10,43 @@
 </p>
 MALE 1 
 <ol><li>Boldo / wise man</li>
-<li>Djordji / farmer </li>
-<li>Gudada / supreme </li>
+<li>Djordji / farmer</li>
+<li>Gudada / supreme</li>
 <li>Simionce / hearkening</li>
 <li>György / farmer</li>
-<li>Emilian / rival </li>
-<li>Boiko / fearful or battle </li>
-<li>Pali / small </li>
-<li>Andrzej / manly </li>
-<li>Besnik / faithful </li>
+<li>Emilian / rival</li>
+<li>Boiko / fearful or battle</li>
+<li>Pali / small</li>
+<li>Andrzej / manly</li>
+<li>Besnik / faithful</li>
 <li>Petsha / Frenchman</li>
-<li>Ferka / Frenchman </li>
+<li>Ferka / Frenchman</li>
 <li>Yanoro / january</li>
-<li>Gunari / warrior </li>
-<li>Mircea / peace </li>
-<li>Nicu / victory of the people </li>
-<li>Hanzi / the lord is gracious </li>
+<li>Gunari / warrior</li>
+<li>Mircea / peace</li>
+<li>Nicu / victory of the people</li>
+<li>Hanzi / the lord is gracious</li>
 <li>Fonso / noble</li>
 <li>Guaril / victor</li>
-<li>Harman / soldier </li></ol>
+<li>Harman / soldier</li></ol>
 MALE 2
 <ol><li>Ion / john</li>
-<li>Yoska / god increases </li>
-<li>loiza / renowned warrior </li>
-<li>Luca / light </li>
-<li>Marko / warlike </li>
-<li>Milosh / messenger </li>
+<li>Yoska / god increases</li>
+<li>loiza / renowned warrior</li>
+<li>Luca / light</li>
+<li>Marko / warlike</li>
+<li>Milosh / messenger</li>
 <li>Walther / power</li>
-<li>Yanko / the lord is gracious </li>
-<li>Pitti / rock </li>
+<li>Yanko / the lord is gracious</li>
+<li>Pitti / rock</li>
 <li>Tobar / sacred place</li>
-<li>Merikano / warlike </li>
+<li>Merikano / warlike</li>
 <li>Plamen / flame</li>
-<li>Stevo / crowned </li>
+<li>Stevo / crowned</li>
 <li>Tamás / twin</li>
-<li>Zindelo / man's defender </li>
+<li>Zindelo / man's defender</li>
 <li>Mihai / like the lord</li>
-<li>Tshilaba / seeker of knowledge </li>
+<li>Tshilaba / seeker of knowledge</li>
 <li>Pulika / little</li>
 <li>Punka / rock</li>
 <li>Shandor / proud</li></ol>
@@ -72,25 +72,25 @@ MORE MALE
 <li>Dederich</li>
 <li>Chik</li></ol>
 FEMALE
-<ol><li>Aishe / woman </li>
-<li>Donka / beyond price </li>
+<ol><li>Aishe / woman</li>
+<li>Donka / beyond price</li>
 <li>Drina / "from Hadria"</li>
 <li>Esmeralda / emerald</li>
-<li>Fifika / god increases </li>
-<li>Florica / floarea, a flower name </li>
-<li>Jaelle / jehovah is god </li>
-<li>Jofranka / Frenchwoman </li>
-<li>Kizzy / cassia, the daughter of job </li>
-<li>Lala / tulip </li>
+<li>Fifika / god increases</li>
+<li>Florica / floarea, a flower name</li>
+<li>Jaelle / jehovah is god</li>
+<li>Jofranka / Frenchwoman</li>
+<li>Kizzy / cassia, the daughter of job</li>
+<li>Lala / tulip</li>
 <li>Lyuba / love</li>
-<li>Mala / necklace </li>
-<li>Mirela / admirable </li>
+<li>Mala / necklace</li>
+<li>Mirela / admirable</li>
 <li>Nadja / hope</li>
 <li>Pesha / small</li>
 <li>Simza / joy</li>
-<li>Talaitha / young girl </li>
+<li>Talaitha / young girl</li>
 <li>Tsuritsa / dawn</li>
-<li>Vadoma / rule with peace </li>
+<li>Vadoma / rule with peace</li>
 <li>Violca / violet</li></ol>
 MORE FEMALE
 <ol><li>Chaili</li>

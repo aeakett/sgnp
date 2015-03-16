@@ -46,169 +46,169 @@ SURNAMES 2
 <li>Fraser</li></ol>
 MALE 1
 <ol><li>Adam</li>
-<li>Ishtonnarhay </li>
+<li>Ishtonnarhay</li>
 <li>Jack</li>
 <li>Winchester</li>
-<li>Yocarhontubby </li>
-<li>Braman 	</li>
-<li>Carloshottahay 	</li>
-<li>Alexander			</li>
-<li>Billy 		</li>
-<li>Carnocktubby 			</li>
-<li>Chaffer 				</li>
-<li>Gilbert 	 		 	</li>
-<li>Hawkins 	</li>
-<li>Ishtemmarharlechar 		</li>
-<li>Jefferson </li>
-<li>Henry 		</li>
-<li>Immarhollochetubby </li>
-<li>Chappaychar 			</li>
-<li>Ishtemartley </li>
-<li>Eensharkay 	</li></ol>
+<li>Yocarhontubby</li>
+<li>Braman</li>
+<li>Carloshottahay</li>
+<li>Alexander</li>
+<li>Billy</li>
+<li>Carnocktubby</li>
+<li>Chaffer</li>
+<li>Gilbert</li>
+<li>Hawkins</li>
+<li>Ishtemmarharlechar</li>
+<li>Jefferson</li>
+<li>Henry</li>
+<li>Immarhollochetubby</li>
+<li>Chappaychar</li>
+<li>Ishtemartley</li>
+<li>Eensharkay</li></ol>
 FEMALE 1
-<ol><li>Amanda 	</li>
+<ol><li>Amanda</li>
 <li>Sussy</li>
-<li>Tonarhay 			</li>
-<li>Vina 			</li>
-<li>Sylphe </li>
+<li>Tonarhay</li>
+<li>Vina</li>
+<li>Sylphe</li>
 <li>Tennessee</li>
-<li>Shakkatchayo 		</li>
-<li>Nisay </li>
+<li>Shakkatchayo</li>
+<li>Nisay</li>
 <li>Pallas</li>
-<li>Molly </li>
+<li>Molly</li>
 <li>Nancy</li>
 <li>Louisiana</li>
 <li>Jensey</li>
-<li>Kasy 	</li>
+<li>Kasy</li>
 <li>Sukey</li>
 <li>Sarah</li>
-<li>Polly 	</li>
+<li>Polly</li>
 <li>Missy</li>
-<li>Neely 	</li>
-<li>Liley 	</li></ol>
+<li>Neely</li>
+<li>Liley</li></ol>
 MALE 2	
 <ol><li>George</li>
 <li>Josiah</li>
-<li>Nacknitubby </li>
+<li>Nacknitubby</li>
 <li>Samuel</li>
-<li>Schtimmarhoye </li>
-<li>Davis </li>
-<li>Slone 				</li>
-<li>Shehomarlaychar </li>
-<li>Talhiharhar </li>
-<li>Washington 	</li>
-<li>Shemarhoyeachar </li>
-<li>Rhode 	</li>
+<li>Schtimmarhoye</li>
+<li>Davis</li>
+<li>Slone</li>
+<li>Shehomarlaychar</li>
+<li>Talhiharhar</li>
+<li>Washington</li>
+<li>Shemarhoyeachar</li>
+<li>Rhode</li>
 <li>Riley</li>
 <li>Weston</li>
-<li>Silas 			</li>
-<li>Simon </li>
-<li>Jamison </li>
+<li>Silas</li>
+<li>Simon</li>
+<li>Jamison</li>
 <li>Warsh</li>
 <li>John</li>
-<li>Maitubby 	</li></ol>
+<li>Maitubby</li></ol>
 FEMALE 2
 <ol><li>Dolly</li>
 <li>Anna</li>
-<li>Becca 				</li>
-<li>Catharine </li>
-<li>Elsey 		</li>
-<li>Katy 	</li>
-<li>Lissey 			</li>
+<li>Becca</li>
+<li>Catharine</li>
+<li>Elsey</li>
+<li>Katy</li>
+<li>Lissey</li>
 <li>Phyllis</li>
-<li>Poniachar 		</li>
-<li>Rachel 	</li>
-<li>Sarkeetan 		</li>
+<li>Poniachar</li>
+<li>Rachel</li>
+<li>Sarkeetan</li>
 <li>Susannah</li>
-<li>Visey 		</li>
+<li>Visey</li>
 <li>Daisy</li>
-<li>Betsy </li>
-<li>Caroline </li>
-<li>Silay 	</li>
-<li>Hetty </li>
-<li>Jennett 	</li>
-<li>Chomocktay </li></ol>
+<li>Betsy</li>
+<li>Caroline</li>
+<li>Silay</li>
+<li>Hetty</li>
+<li>Jennett</li>
+<li>Chomocktay</li></ol>
 MALE 3
-<ol><li>Benjamin  		</li>
-<li>James 			</li>
-<li>Wilson 		</li>
-<li>Temullaiekay 		</li>
-<li>Schtimmarshashoctay </li>
+<ol><li>Benjamin</li>
+<li>James</li>
+<li>Wilson</li>
+<li>Temullaiekay</li>
+<li>Schtimmarshashoctay</li>
 <li>Logan</li>
-<li>Munro 			</li>
-<li>Joseph 			</li>
-<li>Edmund 	</li>
-<li>Isaac 	</li>
+<li>Munro</li>
+<li>Joseph</li>
+<li>Edmund</li>
+<li>Isaac</li>
 <li>Commodore</li>
-<li>Tooklaishtubby </li>
-<li>Jude 		</li>
+<li>Tooklaishtubby</li>
+<li>Jude</li>
 <li>Lemuel</li>
 <li>Malcolm</li>
 <li>Levi</li>
-<li>Onnarhoketay 		</li>
-<li>Marshemay 			</li>
-<li>Rueben 		</li>
+<li>Onnarhoketay</li>
+<li>Marshemay</li>
+<li>Rueben</li>
 <li>Martin</li></ol>
 FEMALE 3
-<ol><li>Arnohoye 		</li>
-<li>Asa 	</li>
-<li>Barney </li>
-<li>Carsey 	</li>
+<ol><li>Arnohoye</li>
+<li>Asa</li>
+<li>Barney</li>
+<li>Carsey</li>
 <li>Dorothy</li>
-<li>Eliza 	 	</li>
+<li>Eliza</li>
 <li>Katonar</li>
-<li>Lucy 		</li>
-<li>Nanny 	</li>
+<li>Lucy</li>
+<li>Nanny</li>
 <li>Pauline</li>
-<li>Shemartay 	</li>
-<li>Sissy		</li>
-<li>Charlotte 	</li>
-<li>Lydia </li>
-<li>Piky 	</li>
+<li>Shemartay</li>
+<li>Sissy</li>
+<li>Charlotte</li>
+<li>Lydia</li>
+<li>Piky</li>
 <li>Rebecca</li>
-<li>Chinnumbee </li>
+<li>Chinnumbee</li>
 <li>Kersey</li>
-<li>Sibbee 	</li>
+<li>Sibbee</li>
 <li>Lotty</li></ol>
 MALE 4
-<ol><li>Meharchubby </li>
+<ol><li>Meharchubby</li>
 <li>Molsey</li>
-<li>Nossaecachubby </li>
-<li>Ooklarcochubby 		</li>
+<li>Nossaecachubby</li>
+<li>Ooklarcochubby</li>
 <li>Pitman</li>
-<li>Robinson 		</li>
+<li>Robinson</li>
 <li>Wileky</li>
 <li>Dase</li>
-<li>Shelaecher 	</li>
-<li>Dickson 	</li>
-<li>Immulthoye 			</li>
-<li>Chainsharhoctay 		</li>
-<li>Dobbin 				</li>
-<li>Jerry 				</li>
-<li>William 	</li>
-<li>Shatlarkay </li>
-<li>Thomas 			</li>
+<li>Shelaecher</li>
+<li>Dickson</li>
+<li>Immulthoye</li>
+<li>Chainsharhoctay</li>
+<li>Dobbin</li>
+<li>Jerry</li>
+<li>William</li>
+<li>Shatlarkay</li>
+<li>Thomas</li>
 <li>Jacky</li>
-<li>Apalartubby </li>
+<li>Apalartubby</li>
 <li>Stephen</li></ol>
 FEMALE 4
-<ol><li>Sinia </li>
-<li>Meely 			</li>
+<ol><li>Sinia</li>
+<li>Meely</li>
 <li>Mintahoyo</li>
 <li>Kinnay</li>
 <li>Lesila</li>
-<li>Elsvia 	</li>
-<li>Amy </li>
+<li>Elsvia</li>
+<li>Amy</li>
 <li>Charity</li>
 <li>Eveline</li>
-<li>Ginsay </li>
-<li>Harriet </li>
+<li>Ginsay</li>
+<li>Harriet</li>
 <li>Kathy</li>
-<li>Lorhoyo 	</li>
+<li>Lorhoyo</li>
 <li>Mississippi</li>
-<li>Sally 	</li>
-<li>Chikkalohe 		</li>
-<li>Sinai </li>
-<li>Tina 		</li>
+<li>Sally</li>
+<li>Chikkalohe</li>
+<li>Sinai</li>
+<li>Tina</li>
 <li>Visa</li>
-<li>Amelia </li></ol>
+<li>Amelia</li></ol>

@@ -4,172 +4,172 @@
 <p>Tlingit society is divided into two moeities - Raven and Eagle/Wolf - with complex kinship rules.  Within each moiety are clans to which individuals are attached in family houses.  My apologies to any Tlingit who might be reading this - I've made a hash of your fascinating culture.  </p>
 MALE 1
 <li>Naawushkeitl</li>
-<li>Jánwu /  mountain sheep  </li>
-<li>Nóoskw /  wolverine  </li>
-<li>Kusaxa Kwáan / cannibal  </li>
-<li>Dáa /  weasel  </li>
-<li>Dáanaa S'aatí / rich man  </li>
-<li>Shak'únts' /  deer sprouting horns  </li>
-<li>Kuts'een /  rat  </li>
-<li>X'eis'awáa /  ptarmigan </li>
-<li>Aankáawu / rich man  </li>
-<li>Kuwakaan /  deer  </li>
-<li>Xalak'ách' /  porcupine  </li>
-<li>Xéex /  owl </li>
-<li>Xaldleit /  white fox  </li>
-<li>Ch'ak'yéis' /  young eagle </li>
+<li>Jánwu /  mountain sheep</li>
+<li>Nóoskw /  wolverine</li>
+<li>Kusaxa Kwáan / cannibal</li>
+<li>Dáa /  weasel</li>
+<li>Dáanaa S'aatí / rich man</li>
+<li>Shak'únts' /  deer sprouting horns</li>
+<li>Kuts'een /  rat</li>
+<li>X'eis'awáa /  ptarmigan</li>
+<li>Aankáawu / rich man</li>
+<li>Kuwakaan /  deer</li>
+<li>Xalak'ách' /  porcupine</li>
+<li>Xéex /  owl</li>
+<li>Xaldleit /  white fox</li>
+<li>Ch'ak'yéis' /  young eagle</li>
 <li>Ch'eet /  murrelet</li>
-<li>Kookénaa / messenger  </li>
+<li>Kookénaa / messenger</li>
 <li>Dagitgiyáa / hummingbird</li>
-<li>Xalt'ooch' /  black fox  </li>
-<li>Wanatóox / ant  </li>
+<li>Xalt'ooch' /  black fox</li>
+<li>Wanatóox / ant</li>
 FEMALE 1
-<li>Kaa toowú lat'aa / comfort </li>
-<li>Gandaas'aají / bee  </li>
-<li>Gagaan / sun </li>
-<li>Kutaan / summer </li>
-<li>Chéx'i / shade </li>
-<li>Shaatk' / virgin fiancé  </li>
-<li>Kaxéel' / trouble </li>
-<li>Shí / song  </li>
+<li>Kaa toowú lat'aa / comfort</li>
+<li>Gandaas'aají / bee</li>
+<li>Gagaan / sun</li>
+<li>Kutaan / summer</li>
+<li>Chéx'i / shade</li>
+<li>Shaatk' / virgin fiancé</li>
+<li>Kaxéel' / trouble</li>
+<li>Shí / song</li>
 <li>Tá / sleep</li>
 <li>Kukadlénxaa át / temptation</li>
-<li>Tután / hope  </li>
-<li>Yaxté / little dipper </li>
-<li>Tínx / bearberry </li>
-<li>X'aséikw / life, breath </li>
-<li>Kaa toowú lat'aa / comfort </li>
-<li>Lk'ayáak'w x'us.eetí / milky way </li>
-<li>Séew / rain </li>
-<li>Taakw eetí / spring </li>
-<li>Xúkjaa / steam off the water </li>
+<li>Tután / hope</li>
+<li>Yaxté / little dipper</li>
+<li>Tínx / bearberry</li>
+<li>X'aséikw / life, breath</li>
+<li>Kaa toowú lat'aa / comfort</li>
+<li>Lk'ayáak'w x'us.eetí / milky way</li>
+<li>Séew / rain</li>
+<li>Taakw eetí / spring</li>
+<li>Xúkjaa / steam off the water</li>
 <li>Tléikw yádi / raspberry</li>
 MALE 2
-<li>Táax'aa / mosquito  </li>
+<li>Táax'aa / mosquito</li>
 <li>Kooshtéeni / blind man</li>
-<li>X'igaa Káa / he fights </li>
-<li>K'ul'kaskéxkw / beetle  </li>
-<li>At danáayi / drunkard  </li>
+<li>X'igaa Káa / he fights</li>
+<li>K'ul'kaskéxkw / beetle</li>
+<li>At danáayi / drunkard</li>
 <li>Shyáa.awudanéiyi / he is respected</li>
 <li>Xáaw / driftwood</li>
-<li>Xóots /  brown bear, grizzly bear  </li>
-<li>Ayaheeyáa /  curlew </li>
-<li>Ch'áak' /  bald-headed eagle </li>
-<li>Gáx /  rabbit  </li>
-<li>Gooch /  wolf  </li>
+<li>Xóots /  brown bear, grizzly bear</li>
+<li>Ayaheeyáa /  curlew</li>
+<li>Ch'áak' /  bald-headed eagle</li>
+<li>Gáx /  rabbit</li>
+<li>Gooch /  wolf</li>
 <li>Weiha</li>
-<li>K'anashgidéi káa / poor man  </li>
-<li>Koowajagi Aa / murderer  </li>
-<li>K'idaaká Aa / neighbor  </li>
-<li>Shaa yadaa: face of a mountain </li>
-<li>Toowú kalagé / pride  </li>
+<li>K'anashgidéi káa / poor man</li>
+<li>Koowajagi Aa / murderer</li>
+<li>K'idaaká Aa / neighbor</li>
+<li>Shaa yadaa: face of a mountain</li>
+<li>Toowú kalagé / pride</li>
 <li>Tíxwjaa / stamps his feet</li>
-<li>Kóoshdaa /  land otter  </li>
+<li>Kóoshdaa /  land otter</li>
 FEMALE 2
-<li>Guwakaan yádi /  fawn  </li>
-<li>Kugóos' / cloud </li>
-<li>Kaashaashxáaw / dragonfly  </li>
-<li>Goox / slave  </li>
-<li>Kusaxán / love </li>
-<li>K'óox dísi / venus </li>
+<li>Guwakaan yádi /  fawn</li>
+<li>Kugóos' / cloud</li>
+<li>Kaashaashxáaw / dragonfly</li>
+<li>Goox / slave</li>
+<li>Kusaxán / love</li>
+<li>K'óox dísi / venus</li>
 <li>A yayík / the sound of animals</li>
-<li>Tula.aan / kindness  </li>
+<li>Tula.aan / kindness</li>
 <li>Kutx ayanahá / star</li>
-<li>Tanóox' / turtle  </li>
+<li>Tanóox' / turtle</li>
 <li>Tayashagoo / red sea anemone</li>
-<li>Atxa át / moth  </li>
-<li>Gis'óok / northern lights </li>
+<li>Atxa át / moth</li>
+<li>Gis'óok / northern lights</li>
 <li>Shannák'w / a little old</li>
-<li>T'ukanéiyi / baby  </li>
-<li>Kichx anagaat / rainbow </li>
+<li>T'ukanéiyi / baby</li>
+<li>Kichx anagaat / rainbow</li>
 <li>L'agakáx / west wind</li>
 <li>Ánk'w / cries easily</li>
-<li>Nukshiyáan /  mink  </li>
+<li>Nukshiyáan /  mink</li>
 <li>Yées ku.oo / young woman</li>
 MALE 3
 <li>Geetwein</li>
-<li>Watsíx /  caribou  </li>
-<li>Át Kukawu.Aagú / war leader  </li>
-<li>Kanóox' / turtle  </li>
-<li>Yadák'w / young man  </li>
-<li>Yadak'watsk'u / boy  </li>
-<li>S'eek: black bear </li>
-<li>Shaa seiyí: shadow mountain </li>
-<li>L'ut'tláak / snake  </li>
-<li>Goox / slave  </li>
-<li>Táaw S'aatí / thief  </li>
+<li>Watsíx /  caribou</li>
+<li>Át Kukawu.Aagú / war leader</li>
+<li>Kanóox' / turtle</li>
+<li>Yadák'w / young man</li>
+<li>Yadak'watsk'u / boy</li>
+<li>S'eek: black bear</li>
+<li>Shaa seiyí: shadow mountain</li>
+<li>L'ut'tláak / snake</li>
+<li>Goox / slave</li>
+<li>Táaw S'aatí / thief</li>
 <li>Kaa Sháade Háni / merchant leader</li>
-<li>Aanyádi / aristocrat  </li>
+<li>Aanyádi / aristocrat</li>
 <li>Yaakw Yasatáni / boat captain</li>
-<li>Hít s'aatí / master of houses  </li>
-<li>Kaa S'aatí / master  </li>
+<li>Hít s'aatí / master of houses</li>
+<li>Kaa S'aatí / master</li>
 <li>Íxt' / shaman</li>
-<li>Kín /  brant (small goose) </li>
-<li>K'atxáan / coward  </li>
+<li>Kín /  brant (small goose)</li>
+<li>K'atxáan / coward</li>
 <li>Tlaganís / sapling</li>
 FEMALE 3
 <li>L Kooláxji / deaf  woman</li>
-<li>S'a ati shaawát / widow  </li>
-<li>Kagáak /  mouse  </li>
-<li>Was'x'aan tléigu / salmonberry </li>
+<li>S'a ati shaawát / widow</li>
+<li>Kagáak /  mouse</li>
+<li>Was'x'aan tléigu / salmonberry</li>
 <li>Kinle</li>
-<li>Shaatk'átsk'u / girl  </li>
+<li>Shaatk'átsk'u / girl</li>
 <li>Ookaataalaxaach</li>
 <li>Usnea / spruce hair</li>
 <li>Ootska'a / lazy woman</li>
-<li>At k'átsk'u/ child </li>
-<li>Neek shatl'ékx'u / gossip  </li>
+<li>At k'átsk'u/ child</li>
+<li>Neek shatl'ékx'u / gossip</li>
 <li>Shaan / old lady</li>
 <li>At wuskóowu / witness</li>
-<li>Kadéix' / shame </li>
-<li>Xáats' / distant blue sky </li>
+<li>Kadéix' / shame</li>
+<li>Xáats' / distant blue sky</li>
 <li>Shaa at shí / she is singing</li>
-<li>Kayéil' / peace, calm </li>
-<li>Latseen / power, strength  </li>
-<li>Sagú / joy  </li>
+<li>Kayéil' / peace, calm</li>
+<li>Latseen / power, strength</li>
+<li>Sagú / joy</li>
 <li>Wanadóo yádi /  lamb</li>
 WAR, MAGIC, AND TERROR 1
-<li>Dleit káa: white man  </li>
-<li>Gunakadeit: sea monster  </li>
+<li>Dleit káa: white man</li>
+<li>Gunakadeit: sea monster</li>
 <li>S'áxt': devil's club (plant)</li>
-<li>Jinaháa / bad luck, unknown future  </li>
-<li>L'axkeit / mask </li>
+<li>Jinaháa / bad luck, unknown future</li>
+<li>L'axkeit / mask</li>
 <li>Yéik / healer's spirit</li>
 <li>Lookanáa / secret society</li>
-<li>Nakws'aatí / witch  </li>
-<li>S'igeekáawu / ghost  </li>
-<li>Xéen / bluebottle fly  </li>
-<li>Xeitl táax'ayi / horsefly  </li>
-<li>Lushk'é / sin, evil  </li>
-<li>Shadaa / helmet  </li>
-<li>Shak'áts' / double-ended dagger  </li>
+<li>Nakws'aatí / witch</li>
+<li>S'igeekáawu / ghost</li>
+<li>Xéen / bluebottle fly</li>
+<li>Xeitl táax'ayi / horsefly</li>
+<li>Lushk'é / sin, evil</li>
+<li>Shadaa / helmet</li>
+<li>Shak'áts' / double-ended dagger</li>
 <li>X'áan yinaa.át / moose-hide armor</li>
-<li>Yinaaháat / breastplate  </li>
-<li>Laaxw / famine  </li>
-<li>Naná / death  </li>
-<li>Kaa daakeidí / casket, coffin grave  </li>
+<li>Yinaaháat / breastplate</li>
+<li>Laaxw / famine</li>
+<li>Naná / death</li>
+<li>Kaa daakeidí / casket, coffin grave</li>
 <li>Dagankú / the spirit world</li>
 WAR, MAGIC, AND TERROR 2
-<li>Héixwaa / magic  </li>
-<li>Yíxch' / frog  </li>
+<li>Héixwaa / magic</li>
+<li>Yíxch' / frog</li>
 <li>At s'aan.axw dzáas: spear</li>
-<li>Léix'w / face paint, red  </li>
-<li>Lékwaa / spirit (fighting spirit)  </li>
-<li>Galsháatadi / captive  </li>
-<li>Yéesh / bloodsucker  </li>
-<li>Wéis' / louse  </li>
-<li>Niyaháat / breastplate  </li>
-<li>Noow / fort  </li>
-<li>Woon / maggot  </li>
-<li>Tl'úk'x / worm  </li>
-<li>Tíx / bedbug  </li>
-<li>At kanas.aadí / crawling things </li>
-<li>Ts'ankwaat / spider  </li>
-<li>Xáa / attacking force  </li>
-<li>Xát'aa / whip  </li>
+<li>Léix'w / face paint, red</li>
+<li>Lékwaa / spirit (fighting spirit)</li>
+<li>Galsháatadi / captive</li>
+<li>Yéesh / bloodsucker</li>
+<li>Wéis' / louse</li>
+<li>Niyaháat / breastplate</li>
+<li>Noow / fort</li>
+<li>Woon / maggot</li>
+<li>Tl'úk'x / worm</li>
+<li>Tíx / bedbug</li>
+<li>At kanas.aadí / crawling things</li>
+<li>Ts'ankwaat / spider</li>
+<li>Xáa / attacking force</li>
+<li>Xát'aa / whip</li>
 <li>Adawóotl / war</li>
-<li>At lóox'aa / bad trouble  </li>
-<li>Dletgéedi / snowstorm </li>
+<li>At lóox'aa / bad trouble</li>
+<li>Dletgéedi / snowstorm</li>
 KEEX' KWÁAN, The Dawn People (a small village)
 RAVEN MOIETY
 Kaac.Houseádi Clan

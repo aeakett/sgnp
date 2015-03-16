@@ -1,209 +1,209 @@
 ﻿<h1>SPACE COWBOYS</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
 <h2>NOTES</h2>
-<p>Tell 'em I 'aint comin' back...</p>
-MALE NAMES 1 
+<p>Tell 'em I 'aint comin' back&hellip;</p>
+MALE NAMES 1
 <ol><li>Chung-Oh</li>
 <li>Cornelius</li>
-<li>Dash </li>
-<li>Eli </li>
-<li>Asher </li>
+<li>Dash</li>
+<li>Eli</li>
+<li>Asher</li>
 <li>Bang-ching</li>
-<li>Uziel </li>
+<li>Uziel</li>
 <li>Theophilus</li>
-<li>Thomas </li>
-<li>Samuel </li>
+<li>Thomas</li>
+<li>Samuel</li>
 <li>Pleasant</li>
 <li>Qian-hai</li>
-<li>Israel </li>
-<li>Jabez </li>
+<li>Israel</li>
+<li>Jabez</li>
 <li>Kyu-Myon</li>
-<li>Luke </li>
-<li>Malachi </li>
-<li>Moses </li>
-<li>Nahum </li>
-<li>Napthali </li></ol>
+<li>Luke</li>
+<li>Malachi</li>
+<li>Moses</li>
+<li>Nahum</li>
+<li>Napthali</li></ol>
 MALE NAMES 2
 <ol><li>Paul</li>
-<li>Peter </li>
-<li>Qian-ying </li>
-<li>Raphael </li>
-<li>Seth </li>
+<li>Peter</li>
+<li>Qian-ying</li>
+<li>Raphael</li>
+<li>Seth</li>
 <li>Seung-Hua</li>
 <li>Thomas</li>
 <li>Thushpa</li>
 <li>Virgil</li>
 <li>Walter</li>
 <li>Wan-Ying</li>
-<li>Emmanuel </li>
+<li>Emmanuel</li>
 <li>Aaron</li>
-<li>Abel  </li>
-<li>Jude </li>
-<li>Kyu-Sang </li>
-<li>Levi </li>
+<li>Abel</li>
+<li>Jude</li>
+<li>Kyu-Sang</li>
+<li>Levi</li>
 <li>Lian-hsi</li>
-<li>Manassah </li>
-<li>Marcus </li></ol>
+<li>Manassah</li>
+<li>Marcus</li></ol>
 MALE NAMES 3
-<ol><li>Jared </li>
+<ol><li>Jared</li>
 <li>Ghazan</li>
 <li>Chua-guo</li>
 <li>Boots</li>
 <li>Arthur</li>
-<li>Bayan </li>
-<li>Abram </li>
-<li>Chagan </li>
-<li>Chamuka </li>
-<li>Ephraim </li>
+<li>Bayan</li>
+<li>Abram</li>
+<li>Chagan</li>
+<li>Chamuka</li>
+<li>Ephraim</li>
 <li>Gorgas</li>
 <li>Hamilton</li>
 <li>Jeremiah</li>
-<li>Mark </li>
-<li>Matthew </li>
-<li>Absalom </li>
-<li>Nehemiah </li>
+<li>Mark</li>
+<li>Matthew</li>
+<li>Absalom</li>
+<li>Nehemiah</li>
 <li>Newton</li>
-<li>Noah </li>
-<li>Obadiah  </li></ol>
+<li>Noah</li>
+<li>Obadiah</li></ol>
 MALE NAMES 4
-<ol><li>Paul </li>
-<li>Mitchell </li>
+<ol><li>Paul</li>
+<li>Mitchell</li>
 <li>Lian-xiang</li>
 <li>Jung-Bok</li>
-<li>Khao-wei </li>
+<li>Khao-wei</li>
 <li>Hyun-Soo</li>
-<li>Isaac  </li>
-<li>Ezra </li>
+<li>Isaac</li>
+<li>Ezra</li>
 <li>Fred</li>
-<li>Gabriel </li>
+<li>Gabriel</li>
 <li>Jefferson</li>
 <li>Feng-hai</li>
-<li>David </li>
+<li>David</li>
 <li>Edward</li>
 <li>Cyrus</li>
 <li>Byung-Ying</li>
-<li>Caleb </li>
-<li>Carl </li>
+<li>Caleb</li>
+<li>Carl</li>
 <li>Shin-Ying</li>
 <li>Silas</li></ol>
 MALE NAMES 5
-<ol><li>Thaddeus </li>
+<ol><li>Thaddeus</li>
 <li>Thushyarsha</li>
-<li>Timothy </li>
-<li>Shan-zu </li>
+<li>Timothy</li>
+<li>Shan-zu</li>
 <li>Joseph</li>
 <li>Wing-gui</li>
-<li>Simeon </li>
-<li>Tabor </li>
-<li>Shadrach </li>
+<li>Simeon</li>
+<li>Tabor</li>
+<li>Shadrach</li>
 <li>Shan-guo</li>
 <li>Tenagon</li>
 <li>Xiao-ching</li>
-<li>Wing </li>
+<li>Wing</li>
 <li>August</li>
 <li>Balthaza</li>
-<li>Daniel </li>
+<li>Daniel</li>
 <li>Edwin</li>
 <li>Feng-zu</li>
 <li>Frank</li>
 <li>George</li></ol>
 MALE NAMES 6
-<ol><li>Philip </li>
-<li>Phineas </li>
-<li>Reuben </li>
-<li>Simon </li>
-<li>Solomon </li>
-<li>Tobias </li>
+<ol><li>Philip</li>
+<li>Phineas</li>
+<li>Reuben</li>
+<li>Simon</li>
+<li>Solomon</li>
+<li>Tobias</li>
 <li>Yong-Soo</li>
-<li>Zedekiah </li>
-<li>Uriah </li>
+<li>Zedekiah</li>
+<li>Uriah</li>
 <li>William</li>
-<li>Stephen </li>
-<li>Suhe </li>
-<li>Taban </li>
+<li>Stephen</li>
+<li>Suhe</li>
+<li>Taban</li>
 <li>Robert</li>
-<li>Jonathan </li>
-<li>Samson </li>
+<li>Jonathan</li>
+<li>Samson</li>
 <li>Seun-Kong</li>
-<li>Albert </li>
+<li>Albert</li>
 <li>Artemis</li>
-<li>Chang-Sang </li></ol>
+<li>Chang-Sang</li></ol>
 MALE NAMES 7
-<ol><li>Gershom </li>
-<li>Hanan </li>
-<li>Adam </li>
+<ol><li>Gershom</li>
+<li>Hanan</li>
+<li>Adam</li>
 <li>Benjamin</li>
 <li>Charles</li>
 <li>Chishpish</li>
-<li>Esau </li>
-<li>Ezekiel </li>
-<li>Boaz </li>
+<li>Esau</li>
+<li>Ezekiel</li>
+<li>Boaz</li>
 <li>Chang-Kon</li>
-<li>Ethan </li>
-<li>James </li>
-<li>Jeremy  </li>
+<li>Ethan</li>
+<li>James</li>
+<li>Jeremy</li>
 <li>Hueng-Bok</li>
 <li>Jackson</li>
-<li>Jesse </li>
-<li>Chinua </li>
+<li>Jesse</li>
+<li>Chinua</li>
 <li>Jim</li>
-<li>Jing-lin </li>
-<li>Joachim </li></ol>
+<li>Jing-lin</li>
+<li>Joachim</li></ol>
 MALE NAMES 8
 <ol><li>Xiao</li>
 <li>Henry</li>
 <li>Joong-Huan</li>
-<li>Hosea </li>
-<li>Joshua </li>
-<li>Job </li>
-<li>Joel </li>
-<li>Andrew </li>
-<li>Hiram </li>
-<li>John </li>
+<li>Hosea</li>
+<li>Joshua</li>
+<li>Job</li>
+<li>Joel</li>
+<li>Andrew</li>
+<li>Hiram</li>
+<li>John</li>
 <li>Nathaniel</li>
-<li>Joong-Jun </li>
+<li>Joong-Jun</li>
 <li>Jock</li>
 <li>Hezekiah</li>
-<li>Amos </li>
-<li>Jonah </li>
-<li>Nathan </li>
-<li>Shin-Jun  </li>
-<li>Joseph </li>
-<li>Micah </li></ol>
+<li>Amos</li>
+<li>Jonah</li>
+<li>Nathan</li>
+<li>Shin-Jun</li>
+<li>Joseph</li>
+<li>Micah</li></ol>
 FEMALE NAMES 1
 <ol><li>Rong-yan</li>
 <li>Margaret</li>
-<li>Kezia </li>
-<li>Jezebel </li>
+<li>Kezia</li>
+<li>Jezebel</li>
 <li>Jing-ha</li>
 <li>Fang-yi</li>
-<li>Beth  </li>
-<li>Dinah </li>
+<li>Beth</li>
+<li>Dinah</li>
 <li>Augusta</li>
 <li>Azubah</li>
-<li>Bathsheba </li>
+<li>Bathsheba</li>
 <li>Prudence</li>
 <li>Permelia</li>
-<li>Naomi  </li>
+<li>Naomi</li>
 <li>Obedience</li>
-<li>Anabelle  </li>
+<li>Anabelle</li>
 <li>Marie</li>
 <li>Yong-Mi</li>
-<li>Rosabel </li>
-<li>Adah </li></ol>
+<li>Rosabel</li>
+<li>Adah</li></ol>
 FEMALE NAMES 2
 <ol><li>Tsao-yi</li>
 <li>Lady</li>
-<li>Abigail </li>
+<li>Abigail</li>
 <li>Xiao-chen</li>
 <li>Yong-Shin</li>
 <li>Zhen-ha</li>
 <li>Adelaide</li>
 <li>Marilla</li>
 <li>Olive</li>
-<li>Phan-li </li>
-<li>Rachel  </li>
-<li>Rebecca  </li>
+<li>Phan-li</li>
+<li>Rachel</li>
+<li>Rebecca</li>
 <li>Anna</li>
 <li>Bedelia</li>
 <li>Dorothy</li>
@@ -211,81 +211,81 @@ FEMALE NAMES 2
 <li>Fidelia</li>
 <li>Florence</li>
 <li>Jing-lin</li>
-<li>Soo-Jung  </li></ol>
+<li>Soo-Jung</li></ol>
 FEMALE NAMES 3
 <ol><li>Khaidu</li>
-<li>Maria </li>
+<li>Maria</li>
 <li>Sally</li>
-<li>Bitsy </li>
-<li>Carmen </li>
+<li>Bitsy</li>
+<li>Carmen</li>
 <li>Choon-Sun</li>
 <li>Daisy</li>
-<li>Deborah </li>
-<li>Susan </li>
+<li>Deborah</li>
+<li>Susan</li>
 <li>Tryphena</li>
 <li>Zhen-lan</li>
-<li>Sybil </li>
-<li>Dee </li>
+<li>Sybil</li>
+<li>Dee</li>
 <li>Clementine</li>
 <li>Bok-Li</li>
 <li>Catherine</li>
 <li>Bridey</li>
-<li>Candace </li>
-<li>Samantha </li>
+<li>Candace</li>
+<li>Samantha</li>
 <li>Rose</li></ol>
 FEMALE NAMES 4
 <ol><li>Ruth</li>
 <li>Sapor</li>
-<li>Sarah  </li>
-<li>Abiah </li>
+<li>Sarah</li>
+<li>Abiah</li>
 <li>Xiao-li</li>
 <li>Adelia</li>
-<li>Mary </li>
+<li>Mary</li>
 <li>Electa</li>
 <li>Mindwell</li>
-<li>Mirabel  </li>
+<li>Mirabel</li>
 <li>Philomena</li>
-<li>Anne </li>
+<li>Anne</li>
 <li>Asenath</li>
-<li>Belinda  </li>
+<li>Belinda</li>
 <li>Emeline</li>
-<li>Esther </li>
-<li>Hannah </li>
+<li>Esther</li>
+<li>Hannah</li>
 <li>Helen</li>
 <li>Hwa-Sook</li>
-<li>Betsy </li></ol>
+<li>Betsy</li></ol>
 FEMALE NAMES 5
 <ol><li>Chiu</li>
-<li>Isabella  </li>
-<li>Jaran </li>
-<li>Belle </li>
-<li>Jemima </li>
+<li>Isabella</li>
+<li>Jaran</li>
+<li>Belle</li>
+<li>Jemima</li>
 <li>Elizabeth</li>
 <li>Ae-Hwa</li>
-<li>Martha </li>
+<li>Martha</li>
 <li>Naiman</li>
 <li>Mehetabel</li>
 <li>Hazel</li>
 <li>Millie</li>
-<li>Peninnah </li>
+<li>Peninnah</li>
 <li>Otaspish</li>
 <li>Patience</li>
-<li>Arabelle  </li>
-<li>Bessie  </li>
+<li>Arabelle</li>
+<li>Bessie</li>
 <li>Edwina</li>
 <li>Juchi</li>
 <li>Hester</li></ol>
 FEMALE NAMES 6
 <ol><li>Muhuli</li>
-<li>Hong </li>
+<li>Hong</li>
 <li>Ethel</li>
 <li>Phielia</li>
-<li>Eve </li>
+<li>Eve</li>
 <li>Fang-chen</li>
-<li>Bess  </li>
-<li>Aphra </li>
+<li>Bess</li>
+<li>Aphra</li>
 <li>Grace</li>
-<li>Miriam </li>
+<li>Miriam</li>
 <li>Mary</li>
 <li>Alice</li>
 <li>Frances</li>
@@ -294,14 +294,14 @@ FEMALE NAMES 6
 <li>Hong-yan</li>
 <li>Kassar</li>
 <li>Hwa-Jung</li>
-<li>Sung-Oh  </li>
+<li>Sung-Oh</li>
 <li>Sybrina</li></ol>
 FEMALE NAMES 7
-<ol><li>Judith </li>
+<ol><li>Judith</li>
 <li>Jung-Sook</li>
 <li>Temperance</li>
 <li>Kashtaritu</li>
-<li>Leah  </li>
+<li>Leah</li>
 <li>Kesiah</li>
 <li>Kipchak</li>
 <li>Kitty</li>
@@ -310,199 +310,199 @@ FEMALE NAMES 7
 <li>Bethia</li>
 <li>Jung-Ja</li>
 <li>Lillian</li>
-<li>Mabel   </li>
-<li>Tabitha  </li>
-<li>Magdalene </li>
-<li>Carmel </li>
+<li>Mabel</li>
+<li>Tabitha</li>
+<li>Magdalene</li>
+<li>Carmel</li>
 <li>Chan-Min</li>
-<li>Marah </li>
-<li>Marianne </li></ol>
+<li>Marah</li>
+<li>Marianne</li></ol>
 FEMALE NAMES 8
 <ol><li>Relief</li>
 <li>Daris</li>
 <li>Rong-kui</li>
 <li>Content</li>
 <li>Cornelia</li>
-<li>Delilah </li>
+<li>Delilah</li>
 <li>Suki</li>
 <li>Sung-Hwa</li>
-<li>Talitha  </li>
-<li>Tamara </li>
-<li>Tirzah  </li>
-<li>Zillah </li>
-<li>Seraphina </li>
-<li>Sharon </li>
+<li>Talitha</li>
+<li>Tamara</li>
+<li>Tirzah</li>
+<li>Zillah</li>
+<li>Seraphina</li>
+<li>Sharon</li>
 <li>Khashtasp</li>
 <li>Theodosia</li>
 <li>Song-hua</li>
-<li>Bethany </li>
+<li>Bethany</li>
 <li>Chiu-hua</li>
-<li>Constance      </li></ol>
+<li>Constance</li></ol>
 SURNAMES 1  
 <ol><li>Ang</li>
-<li>Washington  </li>
-<li>Tenagon     </li>
-<li>Faison              </li>
+<li>Washington</li>
+<li>Tenagon</li>
+<li>Faison</li>
 <li>Otaspish</li>
-<li>Perkins        </li>
-<li>Nunez          </li>
-<li>Atkinson      </li>
+<li>Perkins</li>
+<li>Nunez</li>
+<li>Atkinson</li>
 <li>Bang</li>
-<li>Funke       </li>
-<li>Armstrong      </li>
-<li>Chinua </li>
-<li>Bao       </li>
-<li>Beale          </li>
-<li>Thushpa        </li>
-<li>Beaudoin       </li>
-<li>Meekmok    </li>
-<li>Bell                         </li>
-<li>Niu </li>
-<li>Spencer      </li></ol>
+<li>Funke</li>
+<li>Armstrong</li>
+<li>Chinua</li>
+<li>Bao</li>
+<li>Beale</li>
+<li>Thushpa</li>
+<li>Beaudoin</li>
+<li>Meekmok</li>
+<li>Bell</li>
+<li>Niu</li>
+<li>Spencer</li></ol>
 SURNAMES 2
-<ol><li>Gordon         </li>
+<ol><li>Gordon</li>
 <li>Torkelson</li>
-<li>Rodgers       </li>
-<li>Roe           </li>
-<li>Soares         </li>
-<li>Ramirez        </li>
-<li>Bennett </li>
-<li>Berry          </li>
+<li>Rodgers</li>
+<li>Roe</li>
+<li>Soares</li>
+<li>Ramirez</li>
+<li>Bennett</li>
+<li>Berry</li>
 <li>Chung</li>
-<li>Bertrand       </li>
-<li>Rayburn         </li>
-<li>Bishop         </li>
-<li>Black          </li>
-<li>Milton        </li>
-<li>Blake         </li>
-<li>Ledoux         </li>
-<li>Bogan          </li>
-<li>Boswell       </li>
-<li>Wilson        </li>
-<li>Campbell </li></ol>
+<li>Bertrand</li>
+<li>Rayburn</li>
+<li>Bishop</li>
+<li>Black</li>
+<li>Milton</li>
+<li>Blake</li>
+<li>Ledoux</li>
+<li>Bogan</li>
+<li>Boswell</li>
+<li>Wilson</li>
+<li>Campbell</li></ol>
 SURNAMES  3
-<ol><li>Cape </li>
-<li>Wei </li>
-<li>Arban </li>
-<li>Carpenter      </li>
-<li>Ruby           </li>
-<li>Carr                 </li>
-<li>Sanders               </li>
-<li>Chapman        </li>
-<li>Chavez         </li>
+<ol><li>Cape</li>
+<li>Wei</li>
+<li>Arban</li>
+<li>Carpenter</li>
+<li>Ruby</li>
+<li>Carr</li>
+<li>Sanders</li>
+<li>Chapman</li>
+<li>Chavez</li>
 <li>Taylor</li>
-<li>Perez          </li>
+<li>Perez</li>
 <li>Gaumata</li>
 <li>Chishpish</li>
-<li>Davidson      </li>
-<li>Webb           </li>
+<li>Davidson</li>
+<li>Webb</li>
 <li>Chu</li>
-<li>Chun           </li>
-<li>Marshall              </li>
-<li>Church        </li>
-<li>Nichols      </li></ol>
+<li>Chun</li>
+<li>Marshall</li>
+<li>Church</li>
+<li>Nichols</li></ol>
 SURNAMES 4
-<ol><li>Clark                 </li>
-<li>Murphy                          </li>
-<li>Wheeler        </li>
-<li>Colby                 </li>
-<li>Oh         </li>
-<li>Perry                 </li>
-<li>Crozier       </li>
-<li>Cruz               </li>
-<li>Tan       </li>
-<li>Cunningham     </li>
-<li>Jordan         </li>
+<ol><li>Clark</li>
+<li>Murphy</li>
+<li>Wheeler</li>
+<li>Colby</li>
+<li>Oh</li>
+<li>Perry</li>
+<li>Crozier</li>
+<li>Cruz</li>
+<li>Tan</li>
+<li>Cunningham</li>
+<li>Jordan</li>
 <li>Dai</li>
-<li>Leahy          </li>
-<li>Daniels        </li>
-<li>Lopez          </li>
-<li>Kopp           </li>
-<li>Dash </li>
-<li>Davies       </li>
-<li>Lee            </li>
-<li>Martinez  </li></ol>
+<li>Leahy</li>
+<li>Daniels</li>
+<li>Lopez</li>
+<li>Kopp</li>
+<li>Dash</li>
+<li>Davies</li>
+<li>Lee</li>
+<li>Martinez</li></ol>
 SURNAMES 5  
-<ol><li>Fain           </li>
-<li>Fields         </li>
+<ol><li>Fain</li>
+<li>Fields</li>
 <li>Muhuli</li>
-<li>Fisher                  </li>
-<li>Flint         </li>
-<li>Ghazan     </li>
-<li>Meyer          </li>
-<li>Chamuka </li>
-<li>Walker               </li>
-<li>Gibson        </li>
-<li>Gonzalez             </li>
+<li>Fisher</li>
+<li>Flint</li>
+<li>Ghazan</li>
+<li>Meyer</li>
+<li>Chamuka</li>
+<li>Walker</li>
+<li>Gibson</li>
+<li>Gonzalez</li>
 <li>Sapor</li>
-<li>Arnold         </li>
-<li>Gore                </li>
-<li>Spooner        </li>
-<li>Guo  </li>
+<li>Arnold</li>
+<li>Gore</li>
+<li>Spooner</li>
+<li>Guo</li>
 <li>Gushtasp</li>
-<li>Ness           </li>
-<li>Gutierrez             </li>
-<li>Hodgkiss     </li></ol>
+<li>Ness</li>
+<li>Gutierrez</li>
+<li>Hodgkiss</li></ol>
 SURNAMES  6
-<ol><li>Howell                 </li>
-<li>Irvine         </li>
-<li>Isuke               </li>
-<li>Wells             </li>
-<li>Jones </li>
+<ol><li>Howell</li>
+<li>Irvine</li>
+<li>Isuke</li>
+<li>Wells</li>
+<li>Jones</li>
 <li>Chong</li>
-<li>Juchi    </li>
-<li>Kashtaritu               </li>
-<li>Kennedy        </li>
-<li>Khaidu      </li>
+<li>Juchi</li>
+<li>Kashtaritu</li>
+<li>Kennedy</li>
+<li>Khaidu</li>
 <li>Koo</li>
-<li>Kwan                  </li>
-<li>Luck        </li>
-<li>Lutz    </li>
-<li>Martin </li>
-<li>Rose           </li>
+<li>Kwan</li>
+<li>Luck</li>
+<li>Lutz</li>
+<li>Martin</li>
+<li>Rose</li>
 <li>Mei</li>
-<li>Miller                 </li>
+<li>Miller</li>
 <li>Sun</li>
 <li>Lorde</li></ol>
 SURNAMES  7
-<ol><li>Nelson         </li>
-<li>Trice          </li>
-<li>Obrien                </li>
-<li>Olson          </li>
-<li>Ortiz          </li>
-<li>Owens          </li>
-<li>Pak                  </li>
-<li>Davis </li>
-<li>Peters                 </li>
-<li>Pierce         </li>
-<li>Plunkett              </li>
-<li>Ramos          </li>
-<li>Zao </li>
-<li>Ray            </li>
-<li>Riley                 </li>
-<li>Hoy               </li>
-<li>Rivera               </li>
-<li>Croswell      </li>
-<li>Cooper              </li>
-<li>Rodriguez      </li></ol>
+<ol><li>Nelson</li>
+<li>Trice</li>
+<li>Obrien</li>
+<li>Olson</li>
+<li>Ortiz</li>
+<li>Owens</li>
+<li>Pak</li>
+<li>Davis</li>
+<li>Peters</li>
+<li>Pierce</li>
+<li>Plunkett</li>
+<li>Ramos</li>
+<li>Zao</li>
+<li>Ray</li>
+<li>Riley</li>
+<li>Hoy</li>
+<li>Rivera</li>
+<li>Croswell</li>
+<li>Cooper</li>
+<li>Rodriguez</li></ol>
 SURNAMES  8
-<ol><li>Rogers         </li>
-<li>Borchu </li>
+<ol><li>Rogers</li>
+<li>Borchu</li>
 <li>Anh</li>
-<li>Gomez          </li>
-<li>Ross           </li>
-<li>Ruiz               </li>
-<li>Sanchez        </li>
-<li>Suhe      </li>
-<li>Hudson                         </li>
+<li>Gomez</li>
+<li>Ross</li>
+<li>Ruiz</li>
+<li>Sanchez</li>
+<li>Suhe</li>
+<li>Hudson</li>
 <li>Sung</li>
-<li>Sweeney       </li>
+<li>Sweeney</li>
 <li>Gurban</li>
-<li>Torres                  </li>
-<li>True                       </li>
-<li>Vasquez        </li>
-<li>Wagner         </li>
-<li>West           </li>
-<li>Xue      </li>
-<li>Young </li>
+<li>Torres</li>
+<li>True</li>
+<li>Vasquez</li>
+<li>Wagner</li>
+<li>West</li>
+<li>Xue</li>
+<li>Young</li>
 <li>Sigurdsson</li></ol>

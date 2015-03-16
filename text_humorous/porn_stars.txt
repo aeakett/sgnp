@@ -5,28 +5,28 @@
 <li>Ezekiel Dakin</li>
 <li>Charcoal Guilford</li>
 <li>Aaron Divine</li>
-<li>Max Sugar </li>
+<li>Max Sugar</li>
 <li>Thunderbolt Thayer</li>
 <li>Burton Ruffner</li>
 <li>Hephaestus Flomar</li>
 <li>Jake Vayland</li>
 <li>Karl Hungus</li>
 <li>Dizzy Danforth</li>
-<li>Agamemnon Colonial </li>
+<li>Agamemnon Colonial</li>
 <li>Mangus Coventry</li>
 <li>Pitch Christian</li>
 <li>Blackie Thoreau</li>
 <li>Puddy Adams</li>
 <li>Flash Frazier</li>
-<li>Duke Brower </li>
-<li>Elvis Emerald </li>
+<li>Duke Brower</li>
+<li>Elvis Emerald</li>
 <li>Buddy Forge</li></ol>
 <h3>FEMALE 1</h3>
 <ol><li>Britty Winchester</li>
 <li>Muffin, Heidi, Big Kitty and Little Kitty Sunrise</li>
-<li>Taffy White </li>
-<li>Snowball Nashville </li>
-<li>Sable Delphines </li>
+<li>Taffy White</li>
+<li>Snowball Nashville</li>
+<li>Sable Delphines</li>
 <li>Maya Salem</li>
 <li>Boogie Tacoma</li>
 <li>Bimbam 3600</li>
@@ -37,7 +37,7 @@
 <li>Sly Daphne</li>
 <li>Trouble Breckenridge</li>
 <li>Harley Greenwood</li>
-<li>Peppermint Woodbine </li>
+<li>Peppermint Woodbine</li>
 <li>Candy Wood</li>
 <li>Coco Blueball</li>
 <li>Duchess Drake</li>
@@ -50,7 +50,7 @@
 <li>Bourbon Stoneman</li>
 <li>Odysseus Riker</li>
 <li>'Mr. T' Memphis</li>
-<li>Peanut </li>
+<li>Peanut</li>
 <li>Biko Thulstrup</li>
 <li>Joel Eastend</li>
 <li>Richard Bayline</li>
@@ -58,7 +58,7 @@
 <li>Omar Fauntleroy</li>
 <li>Shadow Beeches</li>
 <li>Hoku Lake</li>
-<li>'Tuxedo' Southview </li>
+<li>'Tuxedo' Southview</li>
 <li>'Curious' George Galloway</li>
 <li>Moby Ravenscroft</li>
 <li>Drake Duchess</li>

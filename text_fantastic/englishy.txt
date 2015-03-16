@@ -3,47 +3,47 @@
 <h2>NOTES</h2>
 <p>The eight lists following the given names are intended to be used together.  The lists contain common parts of names used in England for place names, surnames, noble domains, and occasionally first names.  Names are created by taking two or three (or sometimes four) parts and putting them together.  The name-parts are labeled with hyphens at their ends if they usually begin names, at their beginnings if they usually end names, and at their beginnings and ends if they can be used for either or used in the middle of a name.  When creating a name, you can add an 's' or 'in' between any of your selected parts.  The meaning of each name-part is listed in parentheses.</p>
 MALE NAMES
-<ol><li>John </li>
-<li>Thomas </li>
-<li>William </li>
-<li>Richard </li>
-<li>Robert </li>
-<li>Edward </li>
-<li>George </li>
-<li>Henry </li>
-<li>James </li>
-<li>Francis </li>
-<li>Nicholas </li>
-<li>Matthew </li>
-<li>Christopher </li>
-<li>Anthony </li>
-<li>Samuel </li>
-<li>Michael </li>
-<li>Edmund </li>
-<li>Ralph </li>
-<li>Peter </li>
-<li>Andrew </li></ol>
+<ol><li>John</li>
+<li>Thomas</li>
+<li>William</li>
+<li>Richard</li>
+<li>Robert</li>
+<li>Edward</li>
+<li>George</li>
+<li>Henry</li>
+<li>James</li>
+<li>Francis</li>
+<li>Nicholas</li>
+<li>Matthew</li>
+<li>Christopher</li>
+<li>Anthony</li>
+<li>Samuel</li>
+<li>Michael</li>
+<li>Edmund</li>
+<li>Ralph</li>
+<li>Peter</li>
+<li>Andrew</li></ol>
 FEMALE NAMES
-<ol><li>Elizabeth </li>
-<li>Mary </li>
-<li>Anne </li>
-<li>Margaret </li>
-<li>Alice </li>
-<li>Jane </li>
-<li>Joan </li>
-<li>Agnes </li>
-<li>Catherine </li>
-<li>Isabel </li>
-<li>Susanna </li>
-<li>Dorothy </li>
-<li>Elinor </li>
-<li>Ellen </li>
-<li>Sarah </li>
-<li>Frances </li>
-<li>Grace </li>
-<li>Bridget </li>
-<li>Margery </li>
-<li>Martha </li></ol>
+<ol><li>Elizabeth</li>
+<li>Mary</li>
+<li>Anne</li>
+<li>Margaret</li>
+<li>Alice</li>
+<li>Jane</li>
+<li>Joan</li>
+<li>Agnes</li>
+<li>Catherine</li>
+<li>Isabel</li>
+<li>Susanna</li>
+<li>Dorothy</li>
+<li>Elinor</li>
+<li>Ellen</li>
+<li>Sarah</li>
+<li>Frances</li>
+<li>Grace</li>
+<li>Bridget</li>
+<li>Margery</li>
+<li>Martha</li></ol>
 ADJECTIVE LIST
 <ol><li>sher-	(bright, clear)</li>
 <li>cald-	(cold)</li>

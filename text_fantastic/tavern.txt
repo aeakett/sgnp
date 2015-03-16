@@ -89,28 +89,28 @@ TAVERN WENCHES
 TAVERNS
 Any time, any place. Take one from column A and one from column B. Nearly all of these could have 'The' before them.
 COLUMN A
-<ol><li>Dancing </li>
+<ol><li>Dancing</li>
 <li>Harp and</li>
-<li>Vixen's </li>
+<li>Vixen's</li>
 <li>Odd</li>
-<li>Blue </li>
-<li>Three </li>
-<li>Oak and </li>
-<li>Grey </li>
-<li>Top o' the </li>
-<li>Maggie's </li>
+<li>Blue</li>
+<li>Three</li>
+<li>Oak and</li>
+<li>Grey</li>
+<li>Top o' the</li>
+<li>Maggie's</li>
 <li>Tatterly's</li>
-<li>Rod and </li>
-<li>Five </li>
-<li>Robin's </li>
-<li>Starlight </li>
-<li>Shay's </li>
-<li>King Phillip's </li>
-<li>Clover and </li>
-<li>Dusty </li>
-<li>Golden </li></ol>
+<li>Rod and</li>
+<li>Five</li>
+<li>Robin's</li>
+<li>Starlight</li>
+<li>Shay's</li>
+<li>King Phillip's</li>
+<li>Clover and</li>
+<li>Dusty</li>
+<li>Golden</li></ol>
 COLUMN B
-<ol><li>Dove </li>
+<ol><li>Dove</li>
 <li>Den</li>
 <li>Bucks</li>
 <li>Unicorn</li>

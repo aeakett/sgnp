@@ -18,7 +18,7 @@ IRISH MALE
 <li>Brennan</li>
 <li>Nolan</li>
 <li>Ross</li>
-<li>Rory </li>
+<li>Rory</li>
 <li>Kelly</li>
 <li>Declan</li></ol>
 IRISH FEMALE

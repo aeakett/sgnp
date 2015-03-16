@@ -43,25 +43,25 @@ SCOTTISH FEMALE
 <li>Lily</li>
 <li>Johanna</li></ol>
 SCOTTISH SURNAMES
-<ol><li>Smith </li>
-<li>Marshall </li>
-<li>Brown </li>
-<li>Stevenson </li>
-<li>Wilson </li>
-<li>Wood </li>
-<li>Thomson </li>
-<li>Sutherland </li>
-<li>Robertson </li>
-<li>Craig </li>
-<li>Campbell </li>
-<li>Wright </li>
-<li>Stewart </li>
-<li>Mckenzie </li>
-<li>Anderson </li>
-<li>Kennedy </li>
-<li>Macdonald </li>
-<li>Jones </li>
-<li>Scott </li>
+<ol><li>Smith</li>
+<li>Marshall</li>
+<li>Brown</li>
+<li>Stevenson</li>
+<li>Wilson</li>
+<li>Wood</li>
+<li>Thomson</li>
+<li>Sutherland</li>
+<li>Robertson</li>
+<li>Craig</li>
+<li>Campbell</li>
+<li>Wright</li>
+<li>Stewart</li>
+<li>Mckenzie</li>
+<li>Anderson</li>
+<li>Kennedy</li>
+<li>Macdonald</li>
+<li>Jones</li>
+<li>Scott</li>
 <li>Burns</li></ol>
 WELSH MALE
 <ol><li>Andrew</li>
@@ -106,47 +106,47 @@ WELSH FEMALE
 <li>Rebecca</li>
 <li>Susan</li></ol>
 WELSH SURNAME 1
-<ol><li>Jones                     </li>
-<li>Williams                     </li>
-<li>Davies                     </li>
-<li>Evans                     </li>
-<li>Thomas                     </li>
-<li>Roberts                     </li>
-<li>Hughes                     </li>
-<li>Lewis                     </li>
-<li>Morgan                     </li>
-<li>Griffiths  </li>
-<li>Richards                     </li>
-<li>Powell                     </li>
-<li>Parry                     </li>
-<li>John                     </li>
-<li>Watkins                     </li>
-<li>Howells                     </li>
-<li>Pritchard                     </li>
-<li>Rogers                     </li>
-<li>Matthews                     </li>
-<li>Rowlands  </li></ol>
+<ol><li>Jones</li>
+<li>Williams</li>
+<li>Davies</li>
+<li>Evans</li>
+<li>Thomas</li>
+<li>Roberts</li>
+<li>Hughes</li>
+<li>Lewis</li>
+<li>Morgan</li>
+<li>Griffiths</li>
+<li>Richards</li>
+<li>Powell</li>
+<li>Parry</li>
+<li>John</li>
+<li>Watkins</li>
+<li>Howells</li>
+<li>Pritchard</li>
+<li>Rogers</li>
+<li>Matthews</li>
+<li>Rowlands</li></ol>
 WELSH SURNAME 2       
-<ol><li>Edwards                     </li>
-<li>Owen                     </li>
-<li>James                     </li>
-<li>Morris                     </li>
-<li>Price                     </li>
-<li>Rees                     </li>
-<li>Phillips                     </li>
-<li>Jenkins                     </li>
-<li>Harris                     </li>
-<li>Lloyd        </li>
-<li>Humphries                     </li>
-<li>Pugh                     </li>
-<li>Ellis                     </li>
-<li>Bowen                     </li>
-<li>Hopkins                     </li>
-<li>Martin                     </li>
-<li>Bennett                     </li>
-<li>Bevan                     </li>
-<li>Pearse                     </li>
-<li>Adams                     </li></ol>
+<ol><li>Edwards</li>
+<li>Owen</li>
+<li>James</li>
+<li>Morris</li>
+<li>Price</li>
+<li>Rees</li>
+<li>Phillips</li>
+<li>Jenkins</li>
+<li>Harris</li>
+<li>Lloyd</li>
+<li>Humphries</li>
+<li>Pugh</li>
+<li>Ellis</li>
+<li>Bowen</li>
+<li>Hopkins</li>
+<li>Martin</li>
+<li>Bennett</li>
+<li>Bevan</li>
+<li>Pearse</li>
+<li>Adams</li></ol>
 BRITISH MALE
 <ol><li>Alexander</li>
 <li>Charles</li>
@@ -191,23 +191,23 @@ BRITISH FEMALE
 <li>Jane</li></ol>
 BRITISH SURNAMES
 <ol><li>Smith</li>
-<li>Jones </li>
+<li>Jones</li>
 <li>Williams</li>
-<li>Taylor </li>
+<li>Taylor</li>
 <li>Brown</li>
 <li>Davies</li>
 <li>Evans</li>
 <li>Wilson</li>
 <li>Thomas</li>
 <li>Johnson</li>
-<li>Roberts </li>
+<li>Roberts</li>
 <li>Robinson</li>
 <li>Thompson</li>
-<li>Wright </li>
+<li>Wright</li>
 <li>Walker</li>
-<li>White </li>
+<li>White</li>
 <li>Edwards</li>
-<li>Hughes </li>
+<li>Hughes</li>
 <li>Green</li>
 <li>Hall</li></ol>
 NICKNAMES

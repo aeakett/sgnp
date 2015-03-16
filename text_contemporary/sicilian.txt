@@ -7,21 +7,21 @@ MALE 1
 <li>Nuccio</li>
 <li>Carmelo</li>
 <li>Alessandro (Sandro)</li>
-<li>Filippo </li>
+<li>Filippo</li>
 <li>Mario</li>
-<li>Giovanni </li>
+<li>Giovanni</li>
 <li>Marcello</li>
 <li>Giuseppe (Pippo)</li>
-<li>Guido </li>
+<li>Guido</li>
 <li>Marco</li>
 <li>Pietro</li>
-<li>Andrea </li>
-<li>Antonio </li>
-<li>Calogero </li>
+<li>Andrea</li>
+<li>Antonio</li>
+<li>Calogero</li>
 <li>Carlo</li>
 <li>Giacomo</li>
-<li>Lorenzo (Enzo, Renzo)    </li>
-<li>Luca </li>
+<li>Lorenzo (Enzo, Renzo)</li>
+<li>Luca</li>
 <li>Nicola (Nicolino, Nico)</li></ol>
 FEMALE 1
 <ol><li>Liliana</li>
@@ -34,10 +34,10 @@ FEMALE 1
 <li>Adele</li>
 <li>Loridanna</li>
 <li>Anna</li>
-<li>Carmela  </li>
+<li>Carmela</li>
 <li>Lucia</li>
 <li>Martina</li>
-<li>Rosalia </li>
+<li>Rosalia</li>
 <li>Rosa (Rosetta, Rosella, Rosina)</li>
 <li>Stefania</li>
 <li>Elda</li>

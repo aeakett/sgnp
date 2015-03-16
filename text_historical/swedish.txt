@@ -1,64 +1,64 @@
 ﻿<h1>SWEDEN</h1>
 <p class="contributor">Compiled by Olle Jonsson and Jason Morningstar</p>
 MALE
-<ol><li>Oscar </li>
-<li>William </li>
-<li>Lucas </li>
-<li>Filip </li>
-<li>Isak </li>
-<li>Elias </li>
-<li>Alexander </li>
-<li>Emil </li>
-<li>Hugo </li>
-<li>Viktor </li>
-<li>Axel   </li>
-<li>Kristian </li>
-<li>Daniel     </li>
+<ol><li>Oscar</li>
+<li>William</li>
+<li>Lucas</li>
+<li>Filip</li>
+<li>Isak</li>
+<li>Elias</li>
+<li>Alexander</li>
+<li>Emil</li>
+<li>Hugo</li>
+<li>Viktor</li>
+<li>Axel</li>
+<li>Kristian</li>
+<li>Daniel</li>
 <li>Tobias</li>
-<li>Stefan </li>
+<li>Stefan</li>
 <li>Per</li>
-<li>Jonas   </li>
+<li>Jonas</li>
 <li>Jon</li>
-<li>Joseph </li>
-<li>Mattias   </li></ol>
+<li>Joseph</li>
+<li>Mattias</li></ol>
 FEMALE
 <ol><li>Ella</li>
-<li>Hanna </li>
-<li>Alva </li>
+<li>Hanna</li>
+<li>Alva</li>
 <li>Emma</li>
-<li>Elin </li>
-<li>Linnéa </li>
-<li>Ida </li>
-<li>Alice </li>
-<li>Julia </li>
-<li>Maja </li>
+<li>Elin</li>
+<li>Linnéa</li>
+<li>Ida</li>
+<li>Alice</li>
+<li>Julia</li>
+<li>Maja</li>
 <li>Johanna</li>
 <li>Susanna</li>
 <li>Anna</li>
 <li>Anja</li>
-<li>Ester   </li>
+<li>Ester</li>
 <li>Kristina</li>
-<li>Rebecca </li>
+<li>Rebecca</li>
 <li>Elisabeth</li>
 <li>Marianne</li>
-<li>Judith </li></ol>
+<li>Judith</li></ol>
 SURNAMES
 <ol><li>Johansson</li>
 <li>Andersson</li>
 <li>Karlsson</li>
-<li>Nilsson </li>
+<li>Nilsson</li>
 <li>Eriksson</li>
 <li>Larsson</li>
 <li>Olsson</li>
-<li>Persson </li>
+<li>Persson</li>
 <li>Svensson</li>
-<li>Gustafsson </li>
+<li>Gustafsson</li>
 <li>Pettersson</li>
-<li>Jonsson </li>
+<li>Jonsson</li>
 <li>Jansson</li>
 <li>Hansson</li>
 <li>Bengtsson</li>
-<li>Jönsson </li>
+<li>Jönsson</li>
 <li>Petersson</li>
 <li>Carlsson</li>
 <li>Gustavsson</li>
@@ -97,9 +97,9 @@ SMUGGLER LADIES
 <li>Alma</li>
 <li>Olivia</li>
 <li>Botilda</li>
-<li>Ida </li>
+<li>Ida</li>
 <li>Olivia</li>
-<li>Agnes </li>
+<li>Agnes</li>
 <li>Magdalena</li>
 <li>Kerstin</li>
 <li>Rut</li>

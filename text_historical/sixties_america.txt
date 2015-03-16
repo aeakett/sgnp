@@ -1,103 +1,103 @@
 ﻿<h1>1960'S AMERICA</h1>
 <p class="contributor">Compiled by Nathan Paoletta and Jason Morningstar</p>
 MALE
-<ol><li>James   </li>
-<li>William   </li>
-<li>Robert  </li>
-<li>John   </li>
-<li>Richard    </li>
-<li>David   </li>
-<li>Charles   </li>
-<li>Thomas   </li>
-<li>Michael   </li>
-<li>Ronald   </li>
-<li>Larry   </li>
-<li>Donald   </li>
-<li>Joseph   </li>
-<li>Gary   </li>
-<li>George   </li>
-<li>Kenneth   </li>
-<li>Paul   </li>
-<li>Edward   </li>
-<li>Jerry   </li>
-<li>Dennis   </li></ol>
+<ol><li>James</li>
+<li>William</li>
+<li>Robert</li>
+<li>John</li>
+<li>Richard</li>
+<li>David</li>
+<li>Charles</li>
+<li>Thomas</li>
+<li>Michael</li>
+<li>Ronald</li>
+<li>Larry</li>
+<li>Donald</li>
+<li>Joseph</li>
+<li>Gary</li>
+<li>George</li>
+<li>Kenneth</li>
+<li>Paul</li>
+<li>Edward</li>
+<li>Jerry</li>
+<li>Dennis</li></ol>
 FEMALE
-<ol><li>Mary    </li>
-<li>Linda    </li>
-<li>Barbara    </li>
-<li>Patricia    </li>
-<li>Carol    </li>
-<li>Sandra    </li>
-<li>Nancy    </li>
-<li>Sharon    </li>
-<li>Judith    </li>
-<li>Susan    </li>
-<li>Betty    </li>
-<li>Carolyn    </li>
-<li>Margaret    </li>
-<li>Shirley    </li>
-<li>Judy    </li>
-<li>Karen    </li>
-<li>Donna    </li>
-<li>Kathleen    </li>
-<li>Joyce    </li>
-<li>Dorothy  </li></ol>
+<ol><li>Mary</li>
+<li>Linda</li>
+<li>Barbara</li>
+<li>Patricia</li>
+<li>Carol</li>
+<li>Sandra</li>
+<li>Nancy</li>
+<li>Sharon</li>
+<li>Judith</li>
+<li>Susan</li>
+<li>Betty</li>
+<li>Carolyn</li>
+<li>Margaret</li>
+<li>Shirley</li>
+<li>Judy</li>
+<li>Karen</li>
+<li>Donna</li>
+<li>Kathleen</li>
+<li>Joyce</li>
+<li>Dorothy</li></ol>
 SURNAMES 1
-<ol><li>Smith  </li>
-<li>Anderson  </li>
-<li>Clark  </li>
-<li>Wright  </li>
+<ol><li>Smith</li>
+<li>Anderson</li>
+<li>Clark</li>
+<li>Wright</li>
 <li>Mitchell</li>
-<li>Johnson  </li>
-<li>Thomas  </li>
-<li>Rodriguez  </li>
-<li>Lopez  </li>
-<li>Perez  </li>
-<li>Williams  </li>
-<li>Jackson  </li>
-<li>Lewis  </li>
-<li>Hill  </li>
-<li>Roberts  </li>
-<li>Jones  </li>
-<li>White  </li>
-<li>Lee  </li>
-<li>Scott  </li>
-<li>Turner </li></ol>
+<li>Johnson</li>
+<li>Thomas</li>
+<li>Rodriguez</li>
+<li>Lopez</li>
+<li>Perez</li>
+<li>Williams</li>
+<li>Jackson</li>
+<li>Lewis</li>
+<li>Hill</li>
+<li>Roberts</li>
+<li>Jones</li>
+<li>White</li>
+<li>Lee</li>
+<li>Scott</li>
+<li>Turner</li></ol>
 SURNAMES 2
-<ol><li>Brown  </li>
-<li>Harris  </li>
-<li>Walker  </li>
-<li>Green  </li>
-<li>Phillips  </li>
-<li>Davis  </li>
-<li>Martin  </li>
-<li>Hall  </li>
-<li>Adams  </li>
-<li>Campbell </li>
-<li>Miller  </li>
-<li>Thompson  </li>
-<li>Allen  </li>
-<li>Baker  </li>
-<li>Parker  </li>
-<li>Wilson  </li>
-<li>Garcia  </li>
-<li>Young  </li>
-<li>Gonzalez  </li>
-<li>Evans </li></ol>
+<ol><li>Brown</li>
+<li>Harris</li>
+<li>Walker</li>
+<li>Green</li>
+<li>Phillips</li>
+<li>Davis</li>
+<li>Martin</li>
+<li>Hall</li>
+<li>Adams</li>
+<li>Campbell</li>
+<li>Miller</li>
+<li>Thompson</li>
+<li>Allen</li>
+<li>Baker</li>
+<li>Parker</li>
+<li>Wilson</li>
+<li>Garcia</li>
+<li>Young</li>
+<li>Gonzalez</li>
+<li>Evans</li></ol>
 SURF GUITAR BANDS
 <ol><li>The Fabulous Playboys</li>
 <li>P.J. & Artie</li>
 <li>The Challengers</li>
-<li>The Progressives </li>
+<li>The Progressives</li>
 <li>The Vibrants</li>
 <li>Thom Starr & The Galaxies</li>
 <li>The Surfriders</li>
-<li>The Gladiators </li>
+<li>The Gladiators</li>
 <li>The Travelers</li>
 <li>The Pyramids</li>
 <li>David Marks & The Marksmen</li>
 <li>The Original Surfaris</li>
-<li>The Trashmen </li>
+<li>The Trashmen</li>
 <li>The Tornadoes</li>
 <li>The Royal Coachmen</li>
 <li>Dave Myers and His Surftones</li>
@@ -109,7 +109,7 @@ U.S. ARMY UNITS FROM THE 4TH INFANTRY DIVISION IN THE VIETNAM WAR
 <ol><li>2nd Battalion 8th Infantry - Mechanized Panthers</li>
 <li>1st Battalion 8th Infantry "Bullets"</li>
 <li>4th Battalion 42nd Artillery (105mm) "Black Jacks"</li>
-<li>1st Battalion 22nd Infantry "Regulars" </li>
+<li>1st Battalion 22nd Infantry "Regulars"</li>
 <li>2nd Battalion 77th Artillery (105mm) "Blackhawks"</li>
 <li>3rd Battalion 8th Infantry "Dragoons"</li>
 <li>1st Battalion 12th Infantry "Red Warriors"</li>
@@ -123,7 +123,7 @@ U.S. ARMY UNITS FROM THE 4TH INFANTRY DIVISION IN THE VIETNAM WAR
 <li>2nd Battalion 22nd Infantry "Triple Deuces"</li>
 <li>6th Battalion 29th Artillery (105mm) "Can Do"</li>
 <li>3rd Battalion 22nd Infantry "Red Dragoons"</li>
-<li>2nd Battalion 35th Infantry "Cacti Blue" </li>
+<li>2nd Battalion 35th Infantry "Cacti Blue"</li>
 <li>5th Battalion 16th Artillery (155mm & 8-inch Self Propelled Howitzer)</li>
 <li>4th Military Intelligence Company, Motto: First to Know</li></ol>
 STEREOTYPICAL SOLDIER NICKNAMES
@@ -148,17 +148,17 @@ STEREOTYPICAL SOLDIER NICKNAMES
 <li>Cobra</li>
 <li>Geronimo</li></ol>
 100 GENERIC WAR SCENES. Roll once on each table.
-<ol><li>A civilian...							</li>
-<li>Your commanding officer...				</li>
-<li>Your best buddy...						 </li>
-<li>Your lover....									</li>
+<ol><li>A civilian...</li>
+<li>Your commanding officer...</li>
+<li>Your best buddy...</li>
+<li>Your lover....</li>
 <li>An enemy soldier...</li>
 <li>Your main rival...</li>
 <li>The squad medic...</li>
 <li>The new guy...</li>
 <li>The enemy soldier you just spared...</li>
 <li>The prisoner of war you are escorting...</li>
-<li>...has killed a child. </li>
+<li>...has killed a child.</li>
 <li>...has been hit by a boobytrap.</li>
 <li>...is running at you with a suicide charge strapped to him.</li>
 <li>...appears to be hiding something important.</li>

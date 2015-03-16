@@ -83,7 +83,7 @@ SECOND PART (MALE):
 <li>briht</li>
 <li>bert</li>
 <li>wine</li>
-<li>sige </li>
+<li>sige</li>
 <li>frid</li>
 <li>hard</li></ol>
 SECOND PART (FEMALE):

@@ -49,7 +49,7 @@ MALE NAMES 2
 <li>Anatol</li>
 <li>Bohdan</li>
 <li>Bronislaw (Bronek)</li>
-<li>Czeslaw (Czesiu) </li>
+<li>Czeslaw (Czesiu)</li>
 <li>David</li>
 <li>Eugeniusz (Gienek)</li>
 <li>Henryk (Henio)</li>

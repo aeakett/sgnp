@@ -19,7 +19,7 @@ FEMALE NAMES 1
 <li>Panna</li>
 <li>Rashomta</li>
 <li>Sawrina</li>
-<li>Sharokina </li>
+<li>Sharokina</li>
 <li>Shimta</li>
 <li>Simta</li>
 <li>Walita</li></ol>
@@ -70,7 +70,7 @@ MALE NAMES 2
 <li>Ashur Ram</li>
 <li>Awi Bail</li>
 <li>Awinam</li>
-<li>Awshalim </li>
+<li>Awshalim</li>
 <li>Bardeen</li>
 <li>Bardisan</li>
 <li>Baryamin</li>
@@ -112,7 +112,7 @@ MALE NAMES 3
 <li>Aram Seen</li>
 <li>Asor Khadon</li>
 <li>Awi Eil</li>
-<li>Awrahim </li>
+<li>Awrahim</li>
 <li>Baildan</li>
 <li>Bailshar</li>
 <li>Bareil</li>
@@ -125,6 +125,6 @@ MALE NAMES 3
 <li>Naram Seen</li>
 <li>Nirar</li>
 <li>Romrama</li>
-<li>Shmou Eil </li>
+<li>Shmou Eil</li>
 <li>Ward Seen</li>
 <li>Yomadan</li></ol>

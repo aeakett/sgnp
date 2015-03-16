@@ -24,7 +24,7 @@ MALE
 <li>Péter</li>
 <li>Tamás</li></ol>
 FEMALE
-<ol><li>Adel </li>
+<ol><li>Adel</li>
 <li>Krisztina</li>
 <li>Magdolna</li>
 <li>Agáta</li>
@@ -45,15 +45,15 @@ FEMALE
 <li>Sára</li>
 <li>Zsófia</li></ol>
 SURNAMES
-<ol><li>Nagy </li>
+<ol><li>Nagy</li>
 <li>Kovács / smith</li>
-<li>Tóth </li>
+<li>Tóth</li>
 <li>Szabó / tailor</li>
-<li>Horváth </li>
+<li>Horváth</li>
 <li>Kiss / small</li>
 <li>Varga / shoemaker</li>
 <li>Molnár / miller</li>
-<li>Németh </li>
+<li>Németh</li>
 <li>Farkas / wolf</li>
 <li>Balogh / unskillful</li>
 <li>Papp / priest</li>
@@ -62,6 +62,6 @@ SURNAMES
 <li>Mészáros / butcher</li>
 <li>Lakatos / locksmith</li>
 <li>Fekete / black</li>
-<li>Szilágyi </li>
+<li>Szilágyi</li>
 <li>Fehér / white</li>
-<li>Balázs </li></ol>
+<li>Balázs</li></ol>

@@ -4,12 +4,12 @@
 <p>Compiled from http://wwwchechnyafreeru/indexphp?lng=eng&section=clanguageeng&row=5</p>
 <p>"Name is the glory of the mighty but it can also be a disgrace and infamy of the weak"</p>
 MALE 1
-<ol><li>Sutarbi / greedy </li>
+<ol><li>Sutarbi / greedy</li>
 <li>Abdulrakhman / slave of the All-mighty</li>
-<li>Kurbika / proud </li>
+<li>Kurbika / proud</li>
 <li>Abbas  / sullen</li>
 <li>Dika / good</li>
-<li>Abdul-Khamid </li>
+<li>Abdul-Khamid</li>
 <li>Ali / elevated</li>
 <li>Akhmad / glorified</li>
 <li>Mukhammad / glorious</li>
@@ -20,20 +20,20 @@ MALE 1
 <li>Jamaldin / the beauty of faith</li>
 <li>Mansur / victorious</li>
 <li>Ayub / repentant</li>
-<li>Dzhalal </li>
-<li>Abu / father </li>
-<li>Magomet </li>
-<li>Said-Khasan </li></ol>
+<li>Dzhalal</li>
+<li>Abu / father</li>
+<li>Magomet</li>
+<li>Said-Khasan</li></ol>
 FEMALE
-<ol><li>Zulai </li>
+<ol><li>Zulai</li>
 <li>Yakha / live</li>
-<li>Zargan </li>
+<li>Zargan</li>
 <li>Malika / queen</li>
 <li>Yakhiyta / let her live</li>
 <li>Laila  / lily</li>
 <li>Zainab / buxom</li>
 <li>Aisha / alive</li>
-<li>Khaza / beautiful </li>
+<li>Khaza / beautiful</li>
 <li>Maira / courageous</li>
 <li>Fatima</li>
 <li>Yisa / stay</li>
@@ -46,107 +46,107 @@ FEMALE
 <li>Milana</li>
 <li>Dobryna</li></ol>
 MALE 2
-<ol><li>Abdul-Malik </li>
-<li>Osman </li>
-<li>Aslanbek </li>
-<li>Khadzhi </li>
+<ol><li>Abdul-Malik</li>
+<li>Osman</li>
+<li>Aslanbek</li>
+<li>Khadzhi</li>
 <li>Katy (yes, it is a guy's name)</li>
-<li>Movsur </li>
-<li>Akhmat 						</li>
+<li>Movsur</li>
+<li>Akhmat</li>
 <li>Abdullah  / slave of the Allah</li>
-<li>Aslambek </li>
-<li>Salambek </li>
+<li>Aslambek</li>
+<li>Salambek</li>
 <li>Ibrakhim /  father of all nations</li>
 <li>Malik / possessor</li>
-<li>Usman </li>
-<li>Inarkaev </li>
-<li>Ziya </li>
-<li>Nurdin </li>
-<li>Tashtemir </li>
-<li>Yunusov </li>
-<li>Adnan </li>
-<li>Yunus </li></ol>
+<li>Usman</li>
+<li>Inarkaev</li>
+<li>Ziya</li>
+<li>Nurdin</li>
+<li>Tashtemir</li>
+<li>Yunusov</li>
+<li>Adnan</li>
+<li>Yunus</li></ol>
 SURNAMES 1 
 <ol><li>Hamidov</li>
-<li>Umkhayev </li>
-<li>Kadyrov </li>
-<li>Aslakhanov </li>
-<li>Khadzhiev </li>
-<li>Bisliev </li>
-<li>Ibragimov </li>
-<li>Musliyevich </li>
+<li>Umkhayev</li>
+<li>Kadyrov</li>
+<li>Aslakhanov</li>
+<li>Khadzhiev</li>
+<li>Bisliev</li>
+<li>Ibragimov</li>
+<li>Musliyevich</li>
 <li>Rushisvili</li>
 <li>Shervashidze</li>
 <li>Vizirov</li>
 <li>Melikov</li>
-<li>Sultygov </li>
-<li>Inarkaevich </li>
-<li>Eldarkhanov </li>
-<li>Khadzhiyev </li>
-<li>Gairbekov </li>
-<li>Masaev </li>
-<li>Bazhaev </li>
-<li>Usamov  </li></ol>
+<li>Sultygov</li>
+<li>Inarkaevich</li>
+<li>Eldarkhanov</li>
+<li>Khadzhiyev</li>
+<li>Gairbekov</li>
+<li>Masaev</li>
+<li>Bazhaev</li>
+<li>Usamov</li></ol>
 SURNAMES 2
 <ol><li>Akhtakhanov</li>
-<li>Sheripov </li>
-<li>Kishiev </li>
-<li>Sultanovich  </li>
-<li>Desheriyev </li>
-<li>Arsanukayev </li>
-<li>Vedzizhev </li>
-<li>Kadiev </li>
-<li>Akhtakhanov </li>
-<li>Bataev </li>
+<li>Sheripov</li>
+<li>Kishiev</li>
+<li>Sultanovich</li>
+<li>Desheriyev</li>
+<li>Arsanukayev</li>
+<li>Vedzizhev</li>
+<li>Kadiev</li>
+<li>Akhtakhanov</li>
+<li>Bataev</li>
 <li>Chichigov</li>
 <li>Dratchev</li>
 <li>Godina</li>
 <li>Karataev</li>
-<li>Panova </li>
+<li>Panova</li>
 <li>Ryzaev</li>
 <li>Timayev</li>
-<li>Batukayev </li>
+<li>Batukayev</li>
 <li>Korgay</li>
 <li>Barsukov</li></ol>
 NICKNAMES 1
-<ol><li>Chiygyardig / a swallow </li>
-<li>Kuyara / a hawk </li>
-<li>Borz / a wolf </li>
-<li>Ovlur / a lamb of winter cattle </li>
-<li>Lom / a lion </li>
+<ol><li>Chiygyardig / a swallow</li>
+<li>Kuyara / a hawk</li>
+<li>Borz / a wolf</li>
+<li>Ovlur / a lamb of winter cattle</li>
+<li>Lom / a lion</li>
 <li>Bozh / a goat</li>
-<li>Markha / a cloud </li>
-<li>Seda / star </li>
-<li>Batta / lunar </li>
-<li>Mayalkh-ayazni / solar beauty </li>
-<li>Moma  / a partridge </li>
-<li>Selasat / oriole </li>
-<li>Chovka / a rook </li>
-<li>Durgali / a white-bellied martin </li>
-<li>Makkhal / a black kite </li>
-<li>Olkhazar / a bird </li>
-<li>Khyoza / a sparrow </li>
-<li>Lecha / a falcon </li>
+<li>Markha / a cloud</li>
+<li>Seda / star</li>
+<li>Batta / lunar</li>
+<li>Mayalkh-ayazni / solar beauty</li>
+<li>Moma  / a partridge</li>
+<li>Selasat / oriole</li>
+<li>Chovka / a rook</li>
+<li>Durgali / a white-bellied martin</li>
+<li>Makkhal / a black kite</li>
+<li>Olkhazar / a bird</li>
+<li>Khyoza / a sparrow</li>
+<li>Lecha / a falcon</li>
 <li>Ayrzu / an eagle</li>
-<li>Kotam / a hen </li></ol>
+<li>Kotam / a hen</li></ol>
 NICKNAMES 2
-<ol><li>Kameta / comet </li>
-<li>Cha / a bear </li>
-<li>Nal / a wild boar denoting power </li>
-<li>Zhyogal / a fox denoting servility </li>
-<li>Dakka / a mouse denoting sneakiness </li>
-<li>Zizig a cat </li>
-<li>Kyeza / a puppy </li>
+<ol><li>Kameta / comet</li>
+<li>Cha / a bear</li>
+<li>Nal / a wild boar denoting power</li>
+<li>Zhyogal / a fox denoting servility</li>
+<li>Dakka / a mouse denoting sneakiness</li>
+<li>Zizig a cat</li>
+<li>Kyeza / a puppy</li>
 <li>Lu / a roe-buck</li>
 <li>Sai is a deer denoting gracefulness</li>
-<li>Khokha / a dove </li>
-<li>Todakh / a piper </li>
-<li>Nyanya / a rooster </li>
-<li>LaykHya / a snake </li>
-<li>Moylkya / a lizard </li>
-<li>Pkhid / a frog </li>
-<li>Gezg / a spider </li>
-<li>Segal / a flea </li>
-<li>Zyubdar / a leech </li>
-<li>Deti / silver </li>
-<li>Polla / a butterfly </li></ol>
+<li>Khokha / a dove</li>
+<li>Todakh / a piper</li>
+<li>Nyanya / a rooster</li>
+<li>LaykHya / a snake</li>
+<li>Moylkya / a lizard</li>
+<li>Pkhid / a frog</li>
+<li>Gezg / a spider</li>
+<li>Segal / a flea</li>
+<li>Zyubdar / a leech</li>
+<li>Deti / silver</li>
+<li>Polla / a butterfly</li></ol>

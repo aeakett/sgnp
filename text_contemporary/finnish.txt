@@ -1,10 +1,10 @@
 ﻿<h1>FINNISH</h1>
 <p class="contributor">Compiled by Ian Burton-Oakes</p>
 MALE NAMES 
-<ol><li>Aarre </li>
+<ol><li>Aarre</li>
 <li>Aatos</li>
 <li>Armas</li>
-<li>Auvo </li>
+<li>Auvo</li>
 <li>Eero</li>
 <li>Eeemeli</li>
 <li>Henri</li>

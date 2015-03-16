@@ -15,7 +15,7 @@ MALE
 <li>Tadeusz / Tadzio</li>
 <li>Waclaw / Wacek</li>
 <li>Bronislaw / Bronek</li>
-<li>Czeslaw / Czesiu </li>
+<li>Czeslaw / Czesiu</li>
 <li>Roman</li>
 <li>Boguslaw / Bogus</li>
 <li>Jzef / J zek</li>
@@ -28,7 +28,7 @@ FEMALE
 <li>Maria / Maja</li>
 <li>Irena / Irka / Irenka</li>
 <li>Zofia / Zosia</li>
-<li>Halina / Hala </li>
+<li>Halina / Hala</li>
 <li>Krystyna / Krysia / Srysia</li>
 <li>Hanna / Hanka / Hania</li>
 <li>Alina / Antonia</li>

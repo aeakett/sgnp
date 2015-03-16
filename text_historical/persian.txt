@@ -3,128 +3,128 @@
 <h2>NOTES</h2>
 <p>From http://en.wikipedia.org/wiki/List_of_Persian_given_names</p>
 FEMALE 1
-<ol><li>Zari </li>
-<li>Darya </li>
-<li>Shadi </li>
-<li>Alaaleh </li>
-<li>Hediyeh </li>
-<li>Kiana </li>
-<li>Bita </li>
-<li>Zahra </li>
+<ol><li>Zari</li>
+<li>Darya</li>
+<li>Shadi</li>
+<li>Alaaleh</li>
+<li>Hediyeh</li>
+<li>Kiana</li>
+<li>Bita</li>
+<li>Zahra</li>
 <li>Donya</li>
-<li>Taraneh </li>
-<li>Pegah </li>
-<li>Samaneh </li>
-<li>Zhila </li>
-<li>Fariba </li>
-<li>Parya </li>
-<li>Azita </li>
-<li>Sahra </li>
-<li>Tahmineh </li>
-<li>Tajie </li>
-<li>Shahla </li></ol>
+<li>Taraneh</li>
+<li>Pegah</li>
+<li>Samaneh</li>
+<li>Zhila</li>
+<li>Fariba</li>
+<li>Parya</li>
+<li>Azita</li>
+<li>Sahra</li>
+<li>Tahmineh</li>
+<li>Tajie</li>
+<li>Shahla</li></ol>
 MALE 1
-<ol><li>Mirza </li>
-<li>Bahmanyar </li>
-<li>Farrokh </li>
-<li>Farnian </li>
-<li>Shahruz </li>
-<li>Jesper, Jasper </li>
-<li>Parviz </li>
-<li>Shahkam </li>
-<li>Pezhman </li>
-<li>Tahamtan </li>
-<li>Kurosh, Korosh </li>
-<li>Hamid </li>
-<li>Anoshiravan </li>
-<li>Hardar </li>
-<li>Pahlevan </li>
-<li>Esfandiyar </li>
-<li>Sahand </li>
-<li>Shaahin </li>
-<li>Kamraan </li>
-<li>Isatvastra </li></ol>
+<ol><li>Mirza</li>
+<li>Bahmanyar</li>
+<li>Farrokh</li>
+<li>Farnian</li>
+<li>Shahruz</li>
+<li>Jesper, Jasper</li>
+<li>Parviz</li>
+<li>Shahkam</li>
+<li>Pezhman</li>
+<li>Tahamtan</li>
+<li>Kurosh, Korosh</li>
+<li>Hamid</li>
+<li>Anoshiravan</li>
+<li>Hardar</li>
+<li>Pahlevan</li>
+<li>Esfandiyar</li>
+<li>Sahand</li>
+<li>Shaahin</li>
+<li>Kamraan</li>
+<li>Isatvastra</li></ol>
 FEMALE 2
-<ol><li>Daanaa </li>
-<li>Gulshan </li>
-<li>Jila </li>
-<li>Mehrzad </li>
-<li>Sharareh </li>
-<li>Viraf </li>
-<li>Anahita </li>
-<li>Negaar </li>
-<li>Saaghi </li>
-<li>Naghmeh </li>
-<li>Yaldaa </li>
-<li>Sima </li>
-<li>Kimya (Kimia, Kimiya) </li>
-<li>Parvaneh </li>
-<li>Sahar </li>
-<li>Melisa </li>
-<li>Atosa </li>
-<li>Erfanieh </li>
-<li>Nika </li>
-<li>Peyvand </li></ol>
+<ol><li>Daanaa</li>
+<li>Gulshan</li>
+<li>Jila</li>
+<li>Mehrzad</li>
+<li>Sharareh</li>
+<li>Viraf</li>
+<li>Anahita</li>
+<li>Negaar</li>
+<li>Saaghi</li>
+<li>Naghmeh</li>
+<li>Yaldaa</li>
+<li>Sima</li>
+<li>Kimya (Kimia, Kimiya)</li>
+<li>Parvaneh</li>
+<li>Sahar</li>
+<li>Melisa</li>
+<li>Atosa</li>
+<li>Erfanieh</li>
+<li>Nika</li>
+<li>Peyvand</li></ol>
 MALE 2
-<ol><li>Adar </li>
+<ol><li>Adar</li>
 <li>Saba</li>
-<li>Aram </li>
-<li>Dariush </li>
-<li>Zahir </li>
-<li>Behnan </li>
-<li>Khojasteh </li>
-<li>Omid </li>
-<li>Arsalan </li>
-<li>Damon </li>
-<li>Peyman </li>
-<li>Iraj </li>
-<li>Behnam </li>
+<li>Aram</li>
+<li>Dariush</li>
+<li>Zahir</li>
+<li>Behnan</li>
+<li>Khojasteh</li>
+<li>Omid</li>
+<li>Arsalan</li>
+<li>Damon</li>
+<li>Peyman</li>
+<li>Iraj</li>
+<li>Behnam</li>
 <li>Keiva</li>
-<li>Farzin </li>
+<li>Farzin</li>
 <li>Zain</li>
-<li>Ramak </li>
-<li>Hamun, Hamoon </li>
-<li>Arash </li>
-<li>Mehrshad </li></ol>
+<li>Ramak</li>
+<li>Hamun, Hamoon</li>
+<li>Arash</li>
+<li>Mehrshad</li></ol>
 FEMALE 3
-<ol><li>Jaleh </li>
-<li>Farideh </li>
-<li>Mozhgan </li>
-<li>Fereshteh </li>
-<li>Asha </li>
-<li>Ghazaaleh </li>
-<li>Suri </li>
-<li>Behnateh </li>
-<li>Gelareh </li>
-<li>Afsaneh </li>
-<li>Ghazal </li>
-<li>Soraya </li>
-<li>Bahareh </li>
-<li>Leili </li>
-<li>Delara </li>
-<li>Saqi </li>
-<li>Setareh </li>
-<li>Nava </li>
-<li>Azadeh </li>
-<li>Ramesh </li></ol>
+<ol><li>Jaleh</li>
+<li>Farideh</li>
+<li>Mozhgan</li>
+<li>Fereshteh</li>
+<li>Asha</li>
+<li>Ghazaaleh</li>
+<li>Suri</li>
+<li>Behnateh</li>
+<li>Gelareh</li>
+<li>Afsaneh</li>
+<li>Ghazal</li>
+<li>Soraya</li>
+<li>Bahareh</li>
+<li>Leili</li>
+<li>Delara</li>
+<li>Saqi</li>
+<li>Setareh</li>
+<li>Nava</li>
+<li>Azadeh</li>
+<li>Ramesh</li></ol>
 MALE 3
-<ol><li>Fardin </li>
-<li>Aryo </li>
-<li>Siavash </li>
+<ol><li>Fardin</li>
+<li>Aryo</li>
+<li>Siavash</li>
 <li>Suhail</li>
-<li>Kayhan </li>
+<li>Kayhan</li>
 <li>Ardeshir</li>
-<li>Javid </li>
-<li>Davoud </li>
-<li>Farshad </li>
-<li>Yaraan </li>
+<li>Javid</li>
+<li>Davoud</li>
+<li>Farshad</li>
+<li>Yaraan</li>
 <li>Nakisa</li>
-<li>Afshin </li>
-<li>Qobad </li>
-<li>Farid </li>
-<li>Ehsan </li>
-<li>Alborz </li>
-<li>Jahangir </li>
-<li>Babak </li>
-<li>Navid </li>
+<li>Afshin</li>
+<li>Qobad</li>
+<li>Farid</li>
+<li>Ehsan</li>
+<li>Alborz</li>
+<li>Jahangir</li>
+<li>Babak</li>
+<li>Navid</li>
 <li>Arion</li></ol>

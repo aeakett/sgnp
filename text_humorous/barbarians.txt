@@ -1,86 +1,86 @@
 ﻿<h1>BARBARIANS AND ENCHANTRESSES</h1>
 <p class="contributor">Compiled by Jason Morningstar</p>
 <h3>BARBARIAN GIVEN NAMES</h3>
-<ol><li>Grimdar </li>
-<li>Fertag </li>
-<li>Thingfar </li>
-<li>Lordwig </li>
-<li>Sagdar </li>
-<li>Ziglar </li>
-<li>Rigdek </li>
-<li>Krongak </li>
-<li>Norgek </li>
-<li>Fagtarr </li>
-<li>Gordar </li>
-<li>Nyragg </li>
-<li>Rogdek </li>
-<li>Stabdar </li>
-<li>Nurbdar </li>
-<li>Thygar </li>
-<li>Warmar </li>
-<li>Northstarr </li>
-<li>Darkthag </li>
+<ol><li>Grimdar</li>
+<li>Fertag</li>
+<li>Thingfar</li>
+<li>Lordwig</li>
+<li>Sagdar</li>
+<li>Ziglar</li>
+<li>Rigdek</li>
+<li>Krongak</li>
+<li>Norgek</li>
+<li>Fagtarr</li>
+<li>Gordar</li>
+<li>Nyragg</li>
+<li>Rogdek</li>
+<li>Stabdar</li>
+<li>Nurbdar</li>
+<li>Thygar</li>
+<li>Warmar</li>
+<li>Northstarr</li>
+<li>Darkthag</li>
 <li>Korgoth</li></ol>
 <h3>ENCHANTRESS GIVEN NAMES</h3>
-<ol><li>Talltree </li>
-<li>Shortblade </li>
-<li>Spiritsinger </li>
-<li>Proudcat </li>
-<li>Blackblade </li>
-<li>Jenna </li>
-<li>Greenleaf </li>
-<li>Blackthistle </li>
-<li>Shyla </li>
-<li>Proudtree </li>
-<li>Braveleg </li>
-<li>Brandy </li>
-<li>Silverarm </li>
-<li>Greenthistle </li>
-<li>Goldleaf </li>
-<li>Ghostfoot </li>
-<li>Redblade </li>
+<ol><li>Talltree</li>
+<li>Shortblade</li>
+<li>Spiritsinger</li>
+<li>Proudcat</li>
+<li>Blackblade</li>
+<li>Jenna</li>
+<li>Greenleaf</li>
+<li>Blackthistle</li>
+<li>Shyla</li>
+<li>Proudtree</li>
+<li>Braveleg</li>
+<li>Brandy</li>
+<li>Silverarm</li>
+<li>Greenthistle</li>
+<li>Goldleaf</li>
+<li>Ghostfoot</li>
+<li>Redblade</li>
 <li>Magykka</li>
-<li>Rainshadow </li>
-<li>Ravenwillow </li></ol>
+<li>Rainshadow</li>
+<li>Ravenwillow</li></ol>
 <h3>BARBARIAN SURNAMES</h3>
 <ol><li>Wolfskin</li>
-<li>Fireblaster </li>
-<li>Warslayer </li>
-<li>Spearfist </li>
-<li>Spellflayer </li>
-<li>Lightbane </li>
-<li>Gemflayer </li>
+<li>Fireblaster</li>
+<li>Warslayer</li>
+<li>Spearfist</li>
+<li>Spellflayer</li>
+<li>Lightbane</li>
+<li>Gemflayer</li>
 <li>Throatkiller</li>
-<li>Holypaw </li>
-<li>Godpanther </li>
-<li>Beastcrusher </li>
-<li>Serpentfeast </li>
-<li>Dwarf-reaper </li>
+<li>Holypaw</li>
+<li>Godpanther</li>
+<li>Beastcrusher</li>
+<li>Serpentfeast</li>
+<li>Dwarf-reaper</li>
 <li>Fearflinger</li>
-<li>Lionhawk </li>
-<li>Hateflayer </li>
-<li>Dragonfist </li>
-<li>Peaceleaf </li>
-<li>Darkhelm </li>
+<li>Lionhawk</li>
+<li>Hateflayer</li>
+<li>Dragonfist</li>
+<li>Peaceleaf</li>
+<li>Darkhelm</li>
 <li>Threndarsson</li></ol>
 <h3>ENCHANTRESS SURNAMES</h3>
-<ol><li>Lightsong </li>
+<ol><li>Lightsong</li>
 <li>Spell-sparrow</li>
 <li>Copernicus</li>
 <li>Beastmane</li>
-<li>Darkjammer </li>
-<li>Magewhistle </li>
-<li>Mousemother </li>
-<li>Bonefinger </li>
-<li>Ravensdottir </li>
-<li>Skullweaver </li>
-<li>Mountainsinger </li>
+<li>Darkjammer</li>
+<li>Magewhistle</li>
+<li>Mousemother</li>
+<li>Bonefinger</li>
+<li>Ravensdottir</li>
+<li>Skullweaver</li>
+<li>Mountainsinger</li>
 <li>Foepenny</li>
-<li>Midnight </li>
-<li>Stonejammer </li>
-<li>Fear-friend </li>
-<li>Magic-child </li>
-<li>Dawnchild </li>
-<li>Dragonwalker </li>
+<li>Midnight</li>
+<li>Stonejammer</li>
+<li>Fear-friend</li>
+<li>Magic-child</li>
+<li>Dawnchild</li>
+<li>Dragonwalker</li>
 <li>Elf-rider</li>
 <li> (Too badass for a surname)</li></ol>

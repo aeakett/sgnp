@@ -3,51 +3,51 @@
 <h2>NOTES</h2>
 <p>Only seven of these people are not real.</p>
 FAMOUS PEOPLE YOU MIGHT BUMP INTO AT DELMONICO'S
-<ol><li>William Howard Taft, President of the United States </li>
-<li>Ulrich Von Brockdorff-Rantzau, diplomat </li>
-<li>Franz Josef, Emperor of Austria, King of Hungary </li>
-<li>John Eyre Sloan, high society birdman </li>
-<li>William Ramsay, celebrated scientist </li>
+<ol><li>William Howard Taft, President of the United States</li>
+<li>Ulrich Von Brockdorff-Rantzau, diplomat</li>
+<li>Franz Josef, Emperor of Austria, King of Hungary</li>
+<li>John Eyre Sloan, high society birdman</li>
+<li>William Ramsay, celebrated scientist</li>
 <li>Major Smedley D. Butler, United States Marine Corps</li>
-<li>Patience Ramsey, dilettante and aviatrix </li>
+<li>Patience Ramsey, dilettante and aviatrix</li>
 <li>Madeleine Edison, headstrong damsel and daughter of the great inventor</li>
-<li>Thomas Alva Edison, inventor and entrepreneur </li>
-<li>Louis Bleriot, French aviator and engineer </li>
+<li>Thomas Alva Edison, inventor and entrepreneur</li>
+<li>Louis Bleriot, French aviator and engineer</li>
 <li>Lt. Chester William Nimitz, naval officer</li>
-<li>Erich 'Harry Houdini' Weiss, entertainer </li>
-<li>Theodore 'Teddy' Roosevelt, former President </li>
-<li>Wellington Koo, diplomat </li>
+<li>Erich 'Harry Houdini' Weiss, entertainer</li>
+<li>Theodore 'Teddy' Roosevelt, former President</li>
+<li>Wellington Koo, diplomat</li>
 <li>William J. Gaynor, Mayor of New York</li>
-<li>Cyrus Oppenheimer, business magnate </li>
+<li>Cyrus Oppenheimer, business magnate</li>
 <li>August Belmont, industrialist</li>
 <li>Lt George S. Patton, Jr., cavalry officer, United States Army</li>
-<li>Lincoln Beachey, Daredevil birdman </li>
-<li>Harriet Quimby, Fetching purple-jumpsuited aviatrix </li></ol>
+<li>Lincoln Beachey, Daredevil birdman</li>
+<li>Harriet Quimby, Fetching purple-jumpsuited aviatrix</li></ol>
 RANDOM INTERESTING PEOPLE YOU MIGHT MEET IN MADISON SQUARE GARDEN
-<ol><li>Dan Ling, Chinese laundryman </li>
-<li>Karl Von Brockdorff-Rantzau, scientist </li>
+<ol><li>Dan Ling, Chinese laundryman</li>
+<li>Karl Von Brockdorff-Rantzau, scientist</li>
 <li>Dragutan Dimitrijevic, Austro-Hungarian spy</li>
-<li>Charles Becker, NYPD Lieutenant </li>
-<li>Tatjana Subacic, mysterious beauty </li>
+<li>Charles Becker, NYPD Lieutenant</li>
+<li>Tatjana Subacic, mysterious beauty</li>
 <li>John Daughtry, Pinkerton agent</li>
-<li>Fritz Haber, dodgy Teutonic chemist </li>
-<li>Ching Ling-Foo, entertainer </li>
-<li>Kim Tau, apothecary assistant </li>
+<li>Fritz Haber, dodgy Teutonic chemist</li>
+<li>Ching Ling-Foo, entertainer</li>
+<li>Kim Tau, apothecary assistant</li>
 <li>Dennis Bell, laborer and Medal of Honor winner</li>
 <li>Jim Thorpe, athlete and Carleton College student</li>
-<li>Pete Hummel, NYPD beat cop </li>
-<li>Iva Miller, Carleton College co-ed </li>
-<li>Captain Hiram Jerome, officer, United States Marine Corps </li>
-<li>Countess Markievicz, militant Irish nationalist </li>
-<li>Claire O'Leary, homemaker </li>
-<li>Bill Pickett, champion bulldogger </li>
+<li>Pete Hummel, NYPD beat cop</li>
+<li>Iva Miller, Carleton College co-ed</li>
+<li>Captain Hiram Jerome, officer, United States Marine Corps</li>
+<li>Countess Markievicz, militant Irish nationalist</li>
+<li>Claire O'Leary, homemaker</li>
+<li>Bill Pickett, champion bulldogger</li>
 <li>John Phillip Holland, submarine builder</li>
 <li>Henry Kaslow Burden, M.D., physician</li>
 <li>Ota Benga, Pygmy</li></ol>
 FIVE POINTS YEGGS
-<ol><li>Leonard "Humpty" Jackson, hunchbacked crime lord </li>
+<ol><li>Leonard "Humpty" Jackson, hunchbacked crime lord</li>
 <li>Bradish Johnson II, crooked industrialist</li>
-<li>Harry K. Thaw, millionaire lunatic </li>
+<li>Harry K. Thaw, millionaire lunatic</li>
 <li>Banjo Pete, crazed hillbilly</li>
 <li>"Big Josh" Hines, dude</li>
 <li>Billy The Kid, Gas House gangster</li>
@@ -68,7 +68,7 @@ FIVE POINTS YEGGS
 BOWERY YEGGS
 <ol><li>Monk Eastman, king of crime</li>
 <li>Gyp The Blood, Eastman lieutenant</li>
-<li>Walford Bodie, Doctor and electrical charlatan </li>
+<li>Walford Bodie, Doctor and electrical charlatan</li>
 <li>Owney "the Killer" Madden</li>
 <li>"Red Rocks" Ferrell, former outlaw</li>
 <li>Whitey Lewis, wharf rat</li>

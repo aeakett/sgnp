@@ -37,7 +37,7 @@ FEMALE NAMES
 <li>Jebtsundamba</li>
 <li>Hulagu</li>
 <li>Juchi</li>
-<li>Khaidu </li>
+<li>Khaidu</li>
 <li>Batu</li>
 <li>Temur</li>
 <li>Tolui</li>

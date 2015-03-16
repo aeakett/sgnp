@@ -55,11 +55,11 @@ SURNAMES
 <li>Strelyaev</li>
 <li>Popov</li>
 <li>Semenov</li>
-<li>Anyutushkin </li>
+<li>Anyutushkin</li>
 <li>Bozhiy</li>
 <li>Markin</li>
 <li>Chernov</li>
-<li>Chuvil'deev </li>
+<li>Chuvil'deev</li>
 <li>Gorkov</li>
 <li>Kazakov</li>
 <li>Stuchnov</li>

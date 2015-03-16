@@ -5,14 +5,14 @@
 MALE 1
 <ol><li>Ñuqa</li>
 <li>Qam</li>
-<li>Kinkin </li>
+<li>Kinkin</li>
 <li>Ñuqanchik</li>
-<li>Ñuqayku </li>
+<li>Ñuqayku</li>
 <li>Qamkuna</li>
-<li>Kinkinkuna </li>
+<li>Kinkinkuna</li>
 <li>Paykuna</li>
 <li>Chaypi</li>
-<li>Maypi </li>
+<li>Maypi</li>
 <li>Ruqu</li>
 <li>Juq'u</li>
 <li>Chaki</li>
@@ -29,9 +29,9 @@ FEMALE 1
 <li>Wichuy</li>
 <li>Chanqay</li>
 <li>Watay</li>
-<li>Maykaq </li>
-<li>Imayna </li>
-<li>Ama </li>
+<li>Maykaq</li>
+<li>Imayna</li>
+<li>Ama</li>
 <li>Tukuy</li>
 <li>Ancha</li>
 <li>Wakinkuna</li>
@@ -133,7 +133,7 @@ MALE 4
 <li>Machu</li>
 <li>Tanta</li>
 <li>Kusa</li>
-<li>Sumaq </li>
+<li>Sumaq</li>
 <li>Ismusqa</li>
 <li>Qanra</li>
 <li>Chiqa</li>
@@ -143,7 +143,7 @@ MALE 4
 <li>Tuqay</li>
 <li>Aqtuy</li>
 <li>Pukuy</li>
-<li>Wayray </li>
+<li>Wayray</li>
 <li>Samay</li>
 <li>Asiy</li>
 <li>Rikuy</li>

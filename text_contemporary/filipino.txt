@@ -10,275 +10,275 @@
 <p>Start from a desired nickname and pick a real name to go with it </p>
 <p>Finally, as a bonus, I've included some Filipino meals and snack or party foods. </p>
 MALE 1
-<ol><li>Boboy </li>
-<li>Aprodicio </li>
-<li>Earvin </li>
-<li>Eadgee </li>
-<li>Mark Laser </li>
-<li>Juhn </li>
-<li>Yam </li>
-<li>Abdulaziz </li>
-<li>Peng </li>
-<li>Luis Buiton </li>
-<li>Bocoy </li>
-<li>Vandolph </li>
-<li>Hercules </li>
-<li>Bhoy </li>
-<li>Jayjay </li>
-<li>Totoy </li>
-<li>Acy </li>
-<li>Ahvic </li>
-<li>Dondon </li>
-<li>Eliutaro </li></ol>
+<ol><li>Boboy</li>
+<li>Aprodicio</li>
+<li>Earvin</li>
+<li>Eadgee</li>
+<li>Mark Laser</li>
+<li>Juhn</li>
+<li>Yam</li>
+<li>Abdulaziz</li>
+<li>Peng</li>
+<li>Luis Buiton</li>
+<li>Bocoy</li>
+<li>Vandolph</li>
+<li>Hercules</li>
+<li>Bhoy</li>
+<li>Jayjay</li>
+<li>Totoy</li>
+<li>Acy</li>
+<li>Ahvic</li>
+<li>Dondon</li>
+<li>Eliutaro</li></ol>
 FEMALE 1
-<ol><li>Cherry Pie </li>
-<li>Apples </li>
-<li>Diday </li>
-<li>Maritess </li>
-<li>Spice </li>
-<li>Mayouno </li>
-<li>Kampupot </li>
-<li>Chuchay </li>
-<li>Chingbee </li>
-<li>Mirinda </li>
-<li>Maan </li>
-<li>Sushi </li>
-<li>Babes </li>
-<li>Whisky </li>
-<li>Mai-Mai </li>
-<li>Apple Pie </li>
-<li>Ditsi </li>
-<li>Maricel </li>
-<li>KitKat </li>
-<li>Zsuzsanna </li></ol>
+<ol><li>Cherry Pie</li>
+<li>Apples</li>
+<li>Diday</li>
+<li>Maritess</li>
+<li>Spice</li>
+<li>Mayouno</li>
+<li>Kampupot</li>
+<li>Chuchay</li>
+<li>Chingbee</li>
+<li>Mirinda</li>
+<li>Maan</li>
+<li>Sushi</li>
+<li>Babes</li>
+<li>Whisky</li>
+<li>Mai-Mai</li>
+<li>Apple Pie</li>
+<li>Ditsi</li>
+<li>Maricel</li>
+<li>KitKat</li>
+<li>Zsuzsanna</li></ol>
 MALE 2
-<ol><li>Ronron </li>
-<li>Adonis </li>
-<li>Tootsie </li>
-<li>Rhob </li>
-<li>Boy Blue </li>
-<li>Bhen </li>
-<li>Dandan </li>
-<li>Wimpy </li>
-<li>Kerwin </li>
-<li>Gustave </li>
-<li>Gomburza </li>
-<li>Atom </li>
-<li>Frumen </li>
-<li>Adanjose </li>
-<li>Heherson </li>
-<li>Bongbong </li>
-<li>Baldo </li>
-<li>Titoy </li>
-<li>Gutsy </li>
-<li>Rommel </li></ol>
+<ol><li>Ronron</li>
+<li>Adonis</li>
+<li>Tootsie</li>
+<li>Rhob</li>
+<li>Boy Blue</li>
+<li>Bhen</li>
+<li>Dandan</li>
+<li>Wimpy</li>
+<li>Kerwin</li>
+<li>Gustave</li>
+<li>Gomburza</li>
+<li>Atom</li>
+<li>Frumen</li>
+<li>Adanjose</li>
+<li>Heherson</li>
+<li>Bongbong</li>
+<li>Baldo</li>
+<li>Titoy</li>
+<li>Gutsy</li>
+<li>Rommel</li></ol>
 FEMALE 2
-<ol><li>Nice </li>
-<li>Aphro(dite) </li>
-<li>Mhel </li>
-<li>Starlet </li>
-<li>Computerlyn </li>
-<li>Ai Ai </li>
-<li>Jingjing </li>
-<li>Thess </li>
-<li>Ehmie </li>
-<li>Girlie </li>
-<li>Kryle Queen </li>
-<li>Bamba </li>
-<li>Lady Urania </li>
-<li>Abril </li>
-<li>Luzviminda </li>
-<li>Chuchi </li>
-<li>Bingbing </li>
-<li>Melenaida </li>
-<li>Jomari </li>
-<li>Jejomar </li></ol>
+<ol><li>Nice</li>
+<li>Aphro(dite)</li>
+<li>Mhel</li>
+<li>Starlet</li>
+<li>Computerlyn</li>
+<li>Ai Ai</li>
+<li>Jingjing</li>
+<li>Thess</li>
+<li>Ehmie</li>
+<li>Girlie</li>
+<li>Kryle Queen</li>
+<li>Bamba</li>
+<li>Lady Urania</li>
+<li>Abril</li>
+<li>Luzviminda</li>
+<li>Chuchi</li>
+<li>Bingbing</li>
+<li>Melenaida</li>
+<li>Jomari</li>
+<li>Jejomar</li></ol>
 NEUTRAL/AMBIGUOUS 1
-<ol><li>Buhay </li>
-<li>Bekbek </li>
-<li>Suplay </li>
-<li>Sanorjo </li>
-<li>Pepper </li>
-<li>Jello </li>
-<li>Magdiwang </li>
-<li>Paraluman </li>
-<li>Liwayway </li>
-<li>Pechay </li>
-<li>Chabet </li>
-<li>TenTen </li>
-<li>Luningning </li>
-<li>Linbert </li>
-<li>Letlet </li>
-<li>Dalisay </li>
-<li>Orange </li>
-<li>Patat </li>
-<li>Coke </li>
-<li>Volks </li></ol>
+<ol><li>Buhay</li>
+<li>Bekbek</li>
+<li>Suplay</li>
+<li>Sanorjo</li>
+<li>Pepper</li>
+<li>Jello</li>
+<li>Magdiwang</li>
+<li>Paraluman</li>
+<li>Liwayway</li>
+<li>Pechay</li>
+<li>Chabet</li>
+<li>TenTen</li>
+<li>Luningning</li>
+<li>Linbert</li>
+<li>Letlet</li>
+<li>Dalisay</li>
+<li>Orange</li>
+<li>Patat</li>
+<li>Coke</li>
+<li>Volks</li></ol>
 NEUTRAL/AMBIGUOUS 2
-<ol><li>Frumen </li>
-<li>Bacon </li>
-<li>Merry Christmas </li>
-<li>Porsche </li>
-<li>Cheese </li>
-<li>Homobono </li>
-<li>Chevy </li>
-<li>Tuna </li>
-<li>Tagumpay </li>
-<li>Luwalhati </li>
-<li>Uod </li>
-<li>Binky </li>
-<li>Congee </li>
-<li>Adobo </li>
-<li>Lenlen </li>
-<li>Carrot </li>
-<li>Bonbon </li>
-<li>Ciriaca </li>
-<li>Chabeng </li>
-<li>Bathaluman </li></ol>
+<ol><li>Frumen</li>
+<li>Bacon</li>
+<li>Merry Christmas</li>
+<li>Porsche</li>
+<li>Cheese</li>
+<li>Homobono</li>
+<li>Chevy</li>
+<li>Tuna</li>
+<li>Tagumpay</li>
+<li>Luwalhati</li>
+<li>Uod</li>
+<li>Binky</li>
+<li>Congee</li>
+<li>Adobo</li>
+<li>Lenlen</li>
+<li>Carrot</li>
+<li>Bonbon</li>
+<li>Ciriaca</li>
+<li>Chabeng</li>
+<li>Bathaluman</li></ol>
 SPANISH SURNAMES 
-<ol><li>Arroyo </li>
-<li>Reyes </li>
-<li>Santiago </li>
-<li>Fernandez </li>
-<li>Gonzales </li>
-<li>Garcia </li>
-<li>Lopez </li>
-<li>Aquino </li>
-<li>Velasquez </li>
-<li>Vargas </li>
-<li>Guzman </li>
-<li>Ortega </li>
-<li>Mariano </li>
-<li>Montano </li>
-<li>Mendez </li>
-<li>Romero </li>
-<li>Cruz </li>
-<li>Dolorfino </li>
-<li>Bautista </li>
-<li>De Jesus </li></ol>
+<ol><li>Arroyo</li>
+<li>Reyes</li>
+<li>Santiago</li>
+<li>Fernandez</li>
+<li>Gonzales</li>
+<li>Garcia</li>
+<li>Lopez</li>
+<li>Aquino</li>
+<li>Velasquez</li>
+<li>Vargas</li>
+<li>Guzman</li>
+<li>Ortega</li>
+<li>Mariano</li>
+<li>Montano</li>
+<li>Mendez</li>
+<li>Romero</li>
+<li>Cruz</li>
+<li>Dolorfino</li>
+<li>Bautista</li>
+<li>De Jesus</li></ol>
 CHINESE-DESCENT SURNAMES 
-<ol><li>Yap </li>
-<li>Cojuangco </li>
-<li>Tan </li>
-<li>Songcuya </li>
-<li>Tintiangco </li>
-<li>Singson </li>
-<li>Ayson </li>
-<li>Lim </li>
-<li>Sy </li>
-<li>Locsin </li>
-<li>Yuyitung </li>
-<li>Tantoco </li>
-<li>Tampingco </li>
-<li>Tiaoqui </li>
-<li>Diyakson </li>
-<li>Samson </li>
-<li>Ongpin </li>
-<li>Mapua </li>
-<li>Benzon </li>
-<li>Quimpo </li></ol>
+<ol><li>Yap</li>
+<li>Cojuangco</li>
+<li>Tan</li>
+<li>Songcuya</li>
+<li>Tintiangco</li>
+<li>Singson</li>
+<li>Ayson</li>
+<li>Lim</li>
+<li>Sy</li>
+<li>Locsin</li>
+<li>Yuyitung</li>
+<li>Tantoco</li>
+<li>Tampingco</li>
+<li>Tiaoqui</li>
+<li>Diyakson</li>
+<li>Samson</li>
+<li>Ongpin</li>
+<li>Mapua</li>
+<li>Benzon</li>
+<li>Quimpo</li></ol>
 INDIGENOUS ORIGIN SURNAMES 
-<ol><li>Magsaysay </li>
-<li>Ongoy </li>
-<li>Inding </li>
-<li>Ysip </li>
-<li>Macapagal </li>
-<li>Tumibay </li>
-<li>Silang </li>
-<li>Pinpin </li>
-<li>Agbay </li>
-<li>Guani </li>
-<li>Lacbawan </li>
-<li>Dumlao </li>
-<li>Bulatao </li>
-<li>Puyat </li>
-<li>Caparas </li>
-<li>Salonga </li>
-<li>Manlangit </li>
-<li>Nakpil </li>
-<li>Katapang </li>
-<li>Carandang </li></ol>
+<ol><li>Magsaysay</li>
+<li>Ongoy</li>
+<li>Inding</li>
+<li>Ysip</li>
+<li>Macapagal</li>
+<li>Tumibay</li>
+<li>Silang</li>
+<li>Pinpin</li>
+<li>Agbay</li>
+<li>Guani</li>
+<li>Lacbawan</li>
+<li>Dumlao</li>
+<li>Bulatao</li>
+<li>Puyat</li>
+<li>Caparas</li>
+<li>Salonga</li>
+<li>Manlangit</li>
+<li>Nakpil</li>
+<li>Katapang</li>
+<li>Carandang</li></ol>
 MIXED SURNAMES 
-<ol><li>Anonuevo </li>
-<li>Portero </li>
-<li>Dagdag </li>
-<li>Suero </li>
-<li>Pagtakhan </li>
-<li>Mamaril </li>
-<li>Asis </li>
-<li>Hagibis </li>
-<li>Lakarin </li>
-<li>Bocaycay </li>
-<li>De Asis </li>
-<li>Jurado </li>
-<li>Mangubat </li>
-<li>Malihim </li>
-<li>Almundo </li>
-<li>Reyes </li>
-<li>Natividad </li>
-<li>Tampipi </li>
-<li>Fruto </li>
-<li>Ignacio </li></ol>
+<ol><li>Anonuevo</li>
+<li>Portero</li>
+<li>Dagdag</li>
+<li>Suero</li>
+<li>Pagtakhan</li>
+<li>Mamaril</li>
+<li>Asis</li>
+<li>Hagibis</li>
+<li>Lakarin</li>
+<li>Bocaycay</li>
+<li>De Asis</li>
+<li>Jurado</li>
+<li>Mangubat</li>
+<li>Malihim</li>
+<li>Almundo</li>
+<li>Reyes</li>
+<li>Natividad</li>
+<li>Tampipi</li>
+<li>Fruto</li>
+<li>Ignacio</li></ol>
 SILLY FULL NAMES 
-<ol><li>Mercedes Benzon </li>
-<li>Maki Comida </li>
-<li>Spice Arabia </li>
-<li>Volks Baagen </li>
-<li>Jonathon Livingstone Sy </li>
-<li>Buhay Poe </li>
-<li>Michael Jacks Ong </li>
-<li>George Washing Tan </li>
-<li>Apple Pie Poyatos </li>
-<li>May Araw </li>
-<li>Dingdong Pinto </li>
-<li>Gucci Kho </li>
-<li>Bhoy Bayani </li>
-<li>Bill Clint Ong </li>
-<li>Adonis de Dios </li>
-<li>Ginger Ti </li>
-<li>Rhaydz Ng Bayan </li>
-<li>Edgar Allan Pe </li>
-<li>Sushi Sy </li>
+<ol><li>Mercedes Benzon</li>
+<li>Maki Comida</li>
+<li>Spice Arabia</li>
+<li>Volks Baagen</li>
+<li>Jonathon Livingstone Sy</li>
+<li>Buhay Poe</li>
+<li>Michael Jacks Ong</li>
+<li>George Washing Tan</li>
+<li>Apple Pie Poyatos</li>
+<li>May Araw</li>
+<li>Dingdong Pinto</li>
+<li>Gucci Kho</li>
+<li>Bhoy Bayani</li>
+<li>Bill Clint Ong</li>
+<li>Adonis de Dios</li>
+<li>Ginger Ti</li>
+<li>Rhaydz Ng Bayan</li>
+<li>Edgar Allan Pe</li>
+<li>Sushi Sy</li>
 <li>Michael Jord Ang</li></ol>
 MEALS 
-<ol><li>Kalderetang Kambing - goat stew </li>
-<li>Bistek - beef stir-fried in soy sauce and lemon </li>
-<li>Lechon Kawali - roasted pig </li>
-<li>Inihaw ni Liempo - grilled pork belly </li>
-<li>Sinigang sa Miso - tamarind soup with bean curd </li>
-<li>Lechon Manok - roasted chicken </li>
-<li>Adobong Pusit - squid cooked in vinegar </li>
-<li>Crispy Pata - deep-fried pork knuckle </li>
-<li>Diniguan - blood stew accompanied by puto </li>
-<li>Sinigang na Baka - tamarind soup with beef </li>
-<li>Arroz a la Cubana - ground beef with tomatoes, peas, raisins served </li>
-<li>with fried egg over rice </li>
-<li>Chicken Barbeque - barbequed chicken in slightly sweet sauce </li>
-<li>Tinolang Manok - gingery chicken soup with green papaya </li>
-<li>Menudo - tomato pork stew </li>
-<li>Lechon Paksiw - roasted pig, stewed in tangy sauce </li>
-<li>Rellenong Bangus - stuffed smoked milkfish </li>
-<li>Adobong Manok - chicken cooked in vinegar </li>
-<li>Nilaga Baka - broth with beef and root vegetables </li>
-<li>(Sizzling) Sisig - fried pig ear </li></ol>
+<ol><li>Kalderetang Kambing - goat stew</li>
+<li>Bistek - beef stir-fried in soy sauce and lemon</li>
+<li>Lechon Kawali - roasted pig</li>
+<li>Inihaw ni Liempo - grilled pork belly</li>
+<li>Sinigang sa Miso - tamarind soup with bean curd</li>
+<li>Lechon Manok - roasted chicken</li>
+<li>Adobong Pusit - squid cooked in vinegar</li>
+<li>Crispy Pata - deep-fried pork knuckle</li>
+<li>Diniguan - blood stew accompanied by puto</li>
+<li>Sinigang na Baka - tamarind soup with beef</li>
+<li>Arroz a la Cubana - ground beef with tomatoes, peas, raisins served</li>
+<li>with fried egg over rice</li>
+<li>Chicken Barbeque - barbequed chicken in slightly sweet sauce</li>
+<li>Tinolang Manok - gingery chicken soup with green papaya</li>
+<li>Menudo - tomato pork stew</li>
+<li>Lechon Paksiw - roasted pig, stewed in tangy sauce</li>
+<li>Rellenong Bangus - stuffed smoked milkfish</li>
+<li>Adobong Manok - chicken cooked in vinegar</li>
+<li>Nilaga Baka - broth with beef and root vegetables</li>
+<li>(Sizzling) Sisig - fried pig ear</li></ol>
 SNACKS/PARTY FOODS 
-<ol><li>Halo-Halo - mixed sweet things over ice with milk </li>
-<li>Ginataa - coconut milk fruit soup </li>
+<ol><li>Halo-Halo - mixed sweet things over ice with milk</li>
+<li>Ginataa - coconut milk fruit soup</li>
 <li>Bibingka - rice cake with brown sugar, shredded coconut, cheese, or egg</li>
-<li>Champorado - chocolate rice porridge </li>
-<li>Lumpia Ubod - spring roll with hearts of palm </li>
-<li>Spaghetti - noodles with sweet tomato meat sauce and hot dogs </li>
-<li>Taho - molasses sauce with soft bean curd and tapioca </li>
-<li>Pancit Canton - glass noodles with mixed meat and vegetables in soy sauce </li>
-<li>Mais Con Hielo - sweet corn with milk and ice </li>
-<li>Pancit Palabok - noodles with pork and shrimp, with garlic and boiled eggs </li>
-<li>Cheese Lumpia - fried cheese in wonton wrappers </li>
-<li>Suman - steamed glutinous pressed rice </li>
-<li>Siopao - barbeque pork bun </li>
-<li>Ube - purple yam pudding </li>
-<li>Arroz Caldo - chicken rice porridge </li>
-<li>Polvoron - shortbread milk candy </li>
-<li>Matamis na Saging - chilled banana in syrup </li>
-<li>Puto - steamed rice cake </li>
-<li>Turon - fried banana in wonton wrapper </li>
+<li>Champorado - chocolate rice porridge</li>
+<li>Lumpia Ubod - spring roll with hearts of palm</li>
+<li>Spaghetti - noodles with sweet tomato meat sauce and hot dogs</li>
+<li>Taho - molasses sauce with soft bean curd and tapioca</li>
+<li>Pancit Canton - glass noodles with mixed meat and vegetables in soy sauce</li>
+<li>Mais Con Hielo - sweet corn with milk and ice</li>
+<li>Pancit Palabok - noodles with pork and shrimp, with garlic and boiled eggs</li>
+<li>Cheese Lumpia - fried cheese in wonton wrappers</li>
+<li>Suman - steamed glutinous pressed rice</li>
+<li>Siopao - barbeque pork bun</li>
+<li>Ube - purple yam pudding</li>
+<li>Arroz Caldo - chicken rice porridge</li>
+<li>Polvoron - shortbread milk candy</li>
+<li>Matamis na Saging - chilled banana in syrup</li>
+<li>Puto - steamed rice cake</li>
+<li>Turon - fried banana in wonton wrapper</li>
 <li> Some other form of pancit</li></ol>

@@ -86,23 +86,23 @@ FEMALE NAMES 2
 <li>Johanne</li>
 <li>Tille</li></ol>
 SURNAMES
-<ol><li>Jensen </li>
-<li>Nielsen </li>
-<li>Hansen </li>
-<li>Pedersen </li>
-<li>Andersen </li>
-<li>Christensen </li>
-<li>Larsen </li>
-<li>Sørensen </li>
-<li>Rasmussen </li>
-<li>Jørgensen </li>
-<li>Petersen </li>
-<li>Madsen </li>
-<li>Kristensen </li>
-<li>Olsen </li>
-<li>Thomsen </li>
+<ol><li>Jensen</li>
+<li>Nielsen</li>
+<li>Hansen</li>
+<li>Pedersen</li>
+<li>Andersen</li>
+<li>Christensen</li>
+<li>Larsen</li>
+<li>Sørensen</li>
+<li>Rasmussen</li>
+<li>Jørgensen</li>
+<li>Petersen</li>
+<li>Madsen</li>
+<li>Kristensen</li>
+<li>Olsen</li>
+<li>Thomsen</li>
 <li>Christiansen</li>
 <li>Poulsen</li>
-<li>Johansen </li>
-<li>Knudsen </li>
-<li>Mortensen </li></ol>
+<li>Johansen</li>
+<li>Knudsen</li>
+<li>Mortensen</li></ol>

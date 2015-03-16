@@ -31,7 +31,7 @@
 <li>Vulture</li>
 <li>Cakes</li>
 <li>Pigeon</li>
-<li>Jet </li>
+<li>Jet</li>
 <li>Pig</li>
 <li>Magpie</li>
 <li>Bitch</li>

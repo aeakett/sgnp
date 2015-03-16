@@ -5,7 +5,7 @@
 MALE 
 <ol><li>Apis Malefica</li>
 <li>Labecula</li>
-<li>Quintus </li>
+<li>Quintus</li>
 <li>Lachesis Mutus</li>
 <li>Acanthus</li>
 <li>Eki of Bjornaer</li>
@@ -13,7 +13,7 @@ MALE
 <li>Claris Sol</li>
 <li>Acerbus Anquero</li>
 <li>Lucere</li>
-<li>Puliarus </li>
+<li>Puliarus</li>
 <li>Andredeo</li>
 <li>Silenus Vox</li>
 <li>Declamare</li>
@@ -50,19 +50,19 @@ These are the tell-tale signs of a mage's magic, and will be involved somehow in
 <li>Sickening blue miasma</li>
 <li>Scent of honey</li>
 <li>Sound of crows calling</li>
-<li>Feathers </li>
-<li>Flowers </li>
+<li>Feathers</li>
+<li>Flowers</li>
 <li>Bleeding</li>
-<li>Bits of wood </li>
+<li>Bits of wood</li>
 <li>Throbbing headache</li>
 <li>Scent of sulfur</li>
-<li>Singing </li>
+<li>Singing</li>
 <li>Flash of light</li>
 <li>Smoke</li>
-<li>Ice </li>
-<li>Pain </li>
+<li>Ice</li>
+<li>Pain</li>
 <li>Small, temporary physical change</li>
-<li>A certain number </li>
+<li>A certain number</li>
 <li>Geometric patterns</li>
 <li>Glowing</li>
 <li>Sound of wind</li></ol>

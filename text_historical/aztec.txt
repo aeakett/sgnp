@@ -10,20 +10,20 @@ NOBLE, PRIEST AND JAGUAR KNIGHT
 <li>Acamapichtli / handful of reeds</li>
 <li>Itzcoatl / obsidian snake</li>
 <li>Chimalpopoca / smoking shield</li>
-<li>Nochehuatl / consistent </li>
+<li>Nochehuatl / consistent</li>
 <li>Coatl / snake</li>
 <li>Quauhtli / eagle</li>
 <li>Izel / unique</li>
 <li>Citlalmina / arrow stars; meteorites</li>
 <li>Xiuhcoatl / fire serpent</li>
-<li>Cipactli / alligator </li>
-<li>Itz / obsidian </li>
-<li>Miquiztli / death </li>
+<li>Cipactli / alligator</li>
+<li>Itz / obsidian</li>
+<li>Miquiztli / death</li>
 <li>Yayauhqui / black smoking mirror</li>
 <li>Xipil / noble of the fire</li></ol>
 LADY, PRIESTESS, AND SORCERESS
 <ol><li>Cihuaton / little woman</li>
-<li>Xochicotzin / little necklace </li>
+<li>Xochicotzin / little necklace</li>
 <li>Coaxoch / serpent flower</li>
 <li>Quetzalxochitl / precious flower</li>
 <li>Tlanextli / radiance and majesty</li>
@@ -34,12 +34,12 @@ LADY, PRIESTESS, AND SORCERESS
 <li>Yolihuani / source of life</li>
 <li>Yoloxochitl / flower of the heart</li>
 <li>Xiloxoch / calliandra flower</li>
-<li>Miyaoaxochitl / maize tassel </li>
+<li>Miyaoaxochitl / maize tassel</li>
 <li>Eloxochitl / magnolia</li>
 <li>Xochiquetzal / most beautiful flower</li>
 <li>Azcalxochitzin / ant flower</li>
-<li>Quiauhxochitl / rain flower </li>
-<li>Tziquetzalpoztectzin / broken plume </li>
+<li>Quiauhxochitl / rain flower</li>
+<li>Tziquetzalpoztectzin / broken plume</li>
 <li>Mizquixaual / mesquite face paint</li>
 <li>Citlalmina / female hero</li></ol>
 POCHTECA AND MACEHUALLI
@@ -54,15 +54,15 @@ POCHTECA AND MACEHUALLI
 <li>Necahual / survivor, left-behind</li>
 <li>Nezahual / hungry</li>
 <li>Tlazohtzin / one who is loved</li>
-<li>Ocelotl / ocelot </li>
-<li>Nochtli / prickly pear cactus </li>
-<li>Ozomatli / monkey </li>
-<li>Tecpatl / flint knife </li>
-<li>Tepetl / mountain </li>
-<li>Itzcuintli / dog </li>
-<li>Tlantli / teeth  </li>
+<li>Ocelotl / ocelot</li>
+<li>Nochtli / prickly pear cactus</li>
+<li>Ozomatli / monkey</li>
+<li>Tecpatl / flint knife</li>
+<li>Tepetl / mountain</li>
+<li>Itzcuintli / dog</li>
+<li>Tlantli / teeth</li>
 <li>Ixcatzin / like cotton</li>
-<li>Malinalli / grass </li></ol>
+<li>Malinalli / grass</li></ol>
 FEMALE COMMONER
 <ol><li>Teyacapan / first born</li>
 <li>Xoco / youngest sister</li>
@@ -70,10 +70,10 @@ FEMALE COMMONER
 <li>Teicuih / younger sister</li>
 <li>Cozamalotl / rainbow</li>
 <li>Tepin / little one</li>
-<li>Zeltzin / delicate </li>
+<li>Zeltzin / delicate</li>
 <li>Tlacotl / twig</li>
-<li>Mazatl / deer </li>
-<li>Acatl / reed </li>
+<li>Mazatl / deer</li>
+<li>Acatl / reed</li>
 <li>Coszcatl / jewel</li>
 <li>Xochitl / flower</li>
 <li>Chalchiuitl / emerald</li>
@@ -85,7 +85,7 @@ FEMALE COMMONER
 <li>Noxochicoztli / necklace of flowers</li>
 <li>Papan / flag</li></ol>
 GENERIC NAMES 1
-<ol><li>Achcauhtli / leader </li>
+<ol><li>Achcauhtli / leader</li>
 <li>Ahuiliztli / joy</li>
 <li>Cualli / good</li>
 <li>Etalpalli / wing</li>
@@ -108,7 +108,7 @@ GENERIC NAMES 1
 GENERIC NAMES 2
 <ol><li>Momoztli / altar</li>
 <li>Moyolehuani / enamored one</li>
-<li>Nahuatl / four waters  </li>
+<li>Nahuatl / four waters</li>
 <li>Nelli / truth</li>
 <li>Nochtli / prickly pear fruit</li>
 <li>Yolotli / heart</li>
@@ -116,7 +116,7 @@ GENERIC NAMES 2
 <li>Patli / medicine</li>
 <li>Tenoch / stone pillar</li>
 <li>Tlachinolli / fire</li>
-<li>Atl / water </li>
+<li>Atl / water</li>
 <li>Toltecatl / artist</li>
 <li>Xihuitl / comet</li>
 <li>Zolin / quail</li>
@@ -124,8 +124,8 @@ GENERIC NAMES 2
 <li>Centehua / only one</li>
 <li>Xiuhtonal / precious light</li>
 <li>Yoltzin / small heart</li>
-<li>Cozcaquauhtli / vulture </li>
-<li>Ehecatl / wind </li></ol>
+<li>Cozcaquauhtli / vulture</li>
+<li>Ehecatl / wind</li></ol>
 FOOD AND DRINK
 <ol><li>Bean and squash stew with chili and tomato</li>
 <li>Acocils, small and abundant shrimp of Lake Texcoco</li>

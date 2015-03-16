@@ -4,47 +4,47 @@
 <p>Hurricanes are named primarily to avoid confusion and aid tracking, a practice several hundred years old. The World Meteorological Organization, in 1979, established six yearly lists of names for Atlantic hurricanes, used in a rotation. This list only changes if a storm gains notoriety as particularly deadly or costly, to prevent the inappropriate use of a name in the future. Prior to 1978, hurricanes only had women's names.  These might be cool names for robots, programs, or servers, or maybe clueless aliens.  More information here:</p>
 <p>http://www.srh.noaa.gov/srh/jetstream/tropics/tc_names.htm</p>
 <h3>RETIRED MALE NAMES </h3>
-<ol><li>David </li>
-<li>Frederic </li>
+<ol><li>David</li>
+<li>Frederic</li>
 <li>Allen</li>
 <li>Gilbert</li>
 <li>Hugo</li>
 <li>Klaus</li>
-<li>Bob </li>
-<li>Andrew </li>
+<li>Bob</li>
+<li>Andrew</li>
 <li>Cesar</li>
 <li>Georges</li>
-<li>Mitch </li>
-<li>Floyd </li>
+<li>Mitch</li>
+<li>Floyd</li>
 <li>Lenny</li>
 <li>Keith</li>
 <li>Isidore</li>
 <li>Fabian</li>
-<li>Juan </li>
+<li>Juan</li>
 <li>Charley</li>
 <li>Ivan</li>
 <li>Dennis</li></ol>
 <h3>RETIRED FEMALE NAMES </h3>
-<ol><li>Carol </li>
-<li>Hazel </li>
+<ol><li>Carol</li>
+<li>Hazel</li>
 <li>Connie</li>
 <li>Diane</li>
-<li>Ione </li>
-<li>Janet </li>
+<li>Ione</li>
+<li>Janet</li>
 <li>Audrey</li>
-<li>Donna </li>
+<li>Donna</li>
 <li>Carla</li>
 <li>Hattie</li>
 <li>Flora</li>
 <li>Cleo</li>
 <li>Dora</li>
 <li>Hilda</li>
-<li>Betsy </li>
-<li>Inez </li>
+<li>Betsy</li>
+<li>Inez</li>
 <li>Beulah</li>
-<li>Edna </li>
-<li>Camille </li>
-<li>Celia </li></ol>
+<li>Edna</li>
+<li>Camille</li>
+<li>Celia</li></ol>
 TYPHOON NAMES
 These are named by various Pacific rim nations who each submit ten at a time, so they are incongruous and diverse and of both male and female gender with an Asian flair.  Good code names, perhaps?  
 <h3>TYPHOON 1</h3>
