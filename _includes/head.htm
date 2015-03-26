@@ -9,7 +9,7 @@
    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
    <link rel="canonical" href="{{ page.url | replace:'index.htm','' | prepend: site.baseurl | prepend: site.url }}">
   
-   <link rel="icon" href="{{ "/favicon.ico?1" | prepend: site.baseurl }}" type="image/x-icon">
+   <link rel="icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
    <!-- For non-Retina (@1× display) iPhone, iPod Touch, and Android 2.1+ devices: -->
    <link rel="apple-touch-icon-precomposed" href="{{ "/apple-touch-icon-precomposed.png" | prepend: site.baseurl }}"><!-- 57×57px -->
    <!-- For the iPad mini and the first- and second-generation iPad (@1× display) on iOS ≤ 6: -->
@@ -28,5 +28,10 @@
    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="{{ "/apple-touch-icon-180x180-precomposed.png" | prepend: site.baseurl }}">
    <!-- For Chrome for Android: -->
    <link rel="icon" sizes="192x192" href="{{ "/touch-icon-192x192.png" | prepend: site.baseurl }}">
+
+	<meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="http://eakett.ca/sgnp{{ page.url }}">
+	<meta property="og:image" content="http://eakett.ca/sgnp/touch-icon-192x192.png">
 
 </head>
