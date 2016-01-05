@@ -3,4 +3,5 @@ title: The Story Games Names Project
 baseurl: "/sgnp" # the subpath of your site, e.g. /blog/
 url: "http://eakett.ca" # the base hostname & protocol for your site
 destination: dist
-
+sass:
+    style: compressed
