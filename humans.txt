@@ -1,0 +1,8 @@
+/* Humans who did this */
+Jason Morningstar (who had the brilliant idea in the first place)
+DevP (who came along years later with additions)
+Andrew Eakett (who formatted it to put on the web)
+
+/* Technical Stuff */
+Jekyll
+Foundation 5
