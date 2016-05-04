@@ -5,3 +5,4 @@ url: "http://eakett.ca" # the base hostname & protocol for your site
 destination: dist
 sass:
     style: compressed
+exclude: [Gruntfile.js, README.md, node_modules, package.json]
